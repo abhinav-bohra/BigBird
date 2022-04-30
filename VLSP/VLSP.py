@@ -1,6 +1,9 @@
 """VLSP dataset."""
+import json
+import os
 
-import tensorflow_datasets as tfds
+import tensorflow as tf
+import tensorflow_datasets.public_api as tfds
 
 
 _DESCRIPTION = """
@@ -64,7 +67,7 @@ class Vlsp(tfds.core.GeneratorBasedBuilder):
   def _generate_examples(self):
     """Yields examples."""
     # TODO(VLSP): Yields (key, example) tuples from the dataset
-   with tf.io.gfile.GFile(path) as f:
+    with tf.io.gfile.GFile(path) as f:
       for line in f:
         # Possible keys are:
         # "article_id": str
