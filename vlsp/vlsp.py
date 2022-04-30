@@ -17,7 +17,6 @@ Scientific papers datasets contains two sets of long and structured documents.
 
 _DOCUMENT = "input"
 _SUMMARY = "output"
-article_count = 0
 
 class VlspConfig(tfds.core.BuilderConfig):
   """BuilderConfig for Scientific Papers."""
@@ -60,7 +59,6 @@ class Vlsp(tfds.core.GeneratorBasedBuilder):
         features=tfds.features.FeaturesDict({
             _DOCUMENT: tfds.features.Text(),
             _SUMMARY: tfds.features.Text(),
-            "meta_data": tfds.features.Text(),
         }),
         supervised_keys=(_DOCUMENT, _SUMMARY),
         homepage=None,
@@ -96,12 +94,12 @@ class Vlsp(tfds.core.GeneratorBasedBuilder):
     """Yields examples."""
     # TODO(vlsp): Yields (key, example) tuples from the dataset
     with tf.io.gfile.GFile(path) as f:
+      article_count = 0
       for line in f:
         # Possible keys are:
         # "article_id": str
         # "_DOCUMENT": list[str] article (list of paragraphs).
         # "_SUMMARY": list[str], abstract (list of paragraphs).
-        # "meta_data": list[str], list of section names.
         
         # In original paper, <S> and </S> are not used in vocab during training or during decoding.
         # https://github.com/armancohan/long-summarization/blob/master/data.py#L27
@@ -114,7 +112,6 @@ class Vlsp(tfds.core.GeneratorBasedBuilder):
         article_count = article_count + 1
         yield article_count, {
             _DOCUMENT: "\n".join(d[_DOCUMENT]),
-            _SUMMARY: summary,
-            "meta_data": "\n".join(d["meta_data"])
+            _SUMMARY: summary
         }
 
