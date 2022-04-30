@@ -49,6 +49,8 @@ class Vlsp(tfds.core.GeneratorBasedBuilder):
     # download and extract URLs
     # dl_paths = dl_manager.download_and_extract(_URLS)
     path = os.path.join("VLSP")
+    print(f"Path: {path}")
+    
     return [
         tfds.core.SplitGenerator(
             name=tfds.Split.TRAIN,
@@ -64,7 +66,7 @@ class Vlsp(tfds.core.GeneratorBasedBuilder):
         ),
     ]
 
-  def _generate_examples(self):
+  def _generate_examples(self, path=None):
     """Yields examples."""
     # TODO(VLSP): Yields (key, example) tuples from the dataset
     with tf.io.gfile.GFile(path) as f:
