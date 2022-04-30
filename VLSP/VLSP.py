@@ -18,8 +18,32 @@ Scientific papers datasets contains two sets of long and structured documents.
 _DOCUMENT = "input"
 _SUMMARY = "output"
 
+
+class VlspConfig(tfds.core.BuilderConfig):
+  """BuilderConfig for Scientific Papers."""
+
+  def __init__(self, *, filename=None, **kwargs):
+    """BuilderConfig for Wikihow.
+
+    Args:
+      filename: filename of different configs for the dataset.
+      **kwargs: keyword arguments forwarded to super.
+    """
+    # 1.1.0 remove sentence breaker <S> and </S> in summary.
+    super(VlspConfig, self).__init__(
+        version=tfds.core.Version("1.1.1"),
+        supported_versions=[tfds.core.Version("1.1.0")],
+        **kwargs)  # pytype: disable=wrong-arg-types  # gen-stub-imports
+    self.filename = filename
+
+
+
 class Vlsp(tfds.core.GeneratorBasedBuilder):
   """DatasetBuilder for VLSP dataset."""
+
+  BUILDER_CONFIGS = [
+      VlspConfig(name="vlsp", description="Scientific Papers.")
+  ]
 
   VERSION = tfds.core.Version('1.0.0')
   RELEASE_NOTES = {
@@ -28,7 +52,7 @@ class Vlsp(tfds.core.GeneratorBasedBuilder):
 
   def _info(self) -> tfds.core.DatasetInfo:
     """Returns the dataset metadata."""
-    # TODO(VLSP): Specifies the tfds.core.DatasetInfo object
+    
     return tfds.core.DatasetInfo(
         builder=self,
         description=_DESCRIPTION,
@@ -50,7 +74,7 @@ class Vlsp(tfds.core.GeneratorBasedBuilder):
     # dl_paths = dl_manager.download_and_extract(_URLS)
     path = os.path.join("VLSP")
     print(f"Path: {path}")
-    
+
     return [
         tfds.core.SplitGenerator(
             name=tfds.Split.TRAIN,
