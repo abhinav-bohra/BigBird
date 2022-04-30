@@ -11,7 +11,6 @@ Scientific papers datasets contains two sets of long and structured documents.
 
   - input: the body of the document, pagragraphs seperated by "/n".
   - output: the abstract of the document, pagragraphs seperated by "/n".
-  - meta_data: titles of sections, seperated by "/n".
 
 """
 
@@ -105,9 +104,7 @@ class Vlsp(tfds.core.GeneratorBasedBuilder):
         # https://github.com/armancohan/long-summarization/blob/master/data.py#L27
         
         d = json.loads(line)
-        print(d)
         summary = "\n".join(d[_SUMMARY])
-        print(summary)
         summary = summary.replace("<S>", "").replace("</S>", "")
         article_count = article_count + 1
         yield article_count, {
