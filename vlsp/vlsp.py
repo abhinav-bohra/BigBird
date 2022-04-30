@@ -17,7 +17,7 @@ Scientific papers datasets contains two sets of long and structured documents.
 
 _DOCUMENT = "input"
 _SUMMARY = "output"
-
+article_count = 0
 
 class VlspConfig(tfds.core.BuilderConfig):
   """BuilderConfig for Scientific Papers."""
@@ -107,10 +107,12 @@ class Vlsp(tfds.core.GeneratorBasedBuilder):
         # https://github.com/armancohan/long-summarization/blob/master/data.py#L27
         
         d = json.loads(line)
+        print(d)
         summary = "\n".join(d[_SUMMARY])
+        print(summary)
         summary = summary.replace("<S>", "").replace("</S>", "")
-
-        yield d["article_id"], {
+        article_count = article_count + 1
+        yield article_count, {
             _DOCUMENT: "\n".join(d[_DOCUMENT]),
             _SUMMARY: summary,
             "meta_data": "\n".join(d["meta_data"])
