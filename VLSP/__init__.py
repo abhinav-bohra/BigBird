@@ -1,3 +1,3 @@
 """VLSP dataset."""
 
-from .VLSP import Vlsp
+from .vlsp import vlsp
