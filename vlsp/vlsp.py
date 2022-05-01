@@ -76,15 +76,15 @@ class Vlsp(tfds.core.GeneratorBasedBuilder):
     return [
         tfds.core.SplitGenerator(
             name=tfds.Split.TRAIN,
-            gen_kwargs={"path": os.path.join(path, "train.json")},
+            gen_kwargs={"path": os.path.join("train.json")},
         ),
         tfds.core.SplitGenerator(
             name=tfds.Split.VALIDATION,
-            gen_kwargs={"path": os.path.join(path, "val.json")},
+            gen_kwargs={"path": os.path.join("val.json")},
         ),
         tfds.core.SplitGenerator(
             name=tfds.Split.TEST,
-            gen_kwargs={"path": os.path.join(path, "test.json")},
+            gen_kwargs={"path": os.path.join("test.json")},
         ),
     ]
 

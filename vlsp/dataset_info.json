@@ -1,0 +1,50 @@
+{
+  "configDescription": "Scientific Papers.",
+  "configName": "vlsp",
+  "description": "Scientific papers datasets contains two sets of long and structured documents.\n\n  - input: the body of the document, pagragraphs seperated by \"/n\".\n  - output: the abstract of the document, pagragraphs seperated by \"/n\".",
+  "fileFormat": "tfrecord",
+  "moduleName": "vlsp",
+  "name": "vlsp",
+  "releaseNotes": {
+    "1.0.0": "Initial release."
+  },
+  "splits": [
+    {
+      "filepathTemplate": "{DATASET}-{SPLIT}.{FILEFORMAT}-{SHARD_X_OF_Y}",
+      "name": "train",
+      "numBytes": "34315109",
+      "shardLengths": [
+        "80"
+      ]
+    },
+    {
+      "filepathTemplate": "{DATASET}-{SPLIT}.{FILEFORMAT}-{SHARD_X_OF_Y}",
+      "name": "validation",
+      "numBytes": "3900415",
+      "shardLengths": [
+        "10"
+      ]
+    },
+    {
+      "filepathTemplate": "{DATASET}-{SPLIT}.{FILEFORMAT}-{SHARD_X_OF_Y}",
+      "name": "test",
+      "numBytes": "5057074",
+      "shardLengths": [
+        "10"
+      ]
+    }
+  ],
+  "supervisedKeys": {
+    "tuple": {
+      "items": [
+        {
+          "featureKey": "input"
+        },
+        {
+          "featureKey": "output"
+        }
+      ]
+    }
+  },
+  "version": "1.1.1"
+}

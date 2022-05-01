@@ -180,7 +180,7 @@ def input_fn_builder(data_dir, vocab_model_file, max_encoder_length,
                     shuffle_files=is_training, as_supervised=True)
     else:
       input_files = tf.io.gfile.glob(
-          os.path.join(data_dir, "{}.txt".format(split)))
+          os.path.join(data_dir, "{}.tfrecord*".format(split)))
 
       print(f"input_files:{input_files}")
 
