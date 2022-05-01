@@ -51,14 +51,6 @@ Both "arxiv" and "pubmed" have two features:
 _DOCUMENT = "article"
 _SUMMARY = "abstract"
 
-_URLS = {
-    "arxiv":
-        "https://drive.google.com/uc?id=1b3rmCSIoh6VhD4HKWjI4HOW-cSwcwbeC&export=download",
-    "pubmed":
-        "https://drive.google.com/uc?id=1lvsqvsFi3W-pE1SqNZI0s8NR9rC1tsja&export=download",
-}
-
-
 class ScientificPapersConfig(tfds.core.BuilderConfig):
   """BuilderConfig for Scientific Papers."""
 
@@ -103,21 +95,20 @@ class ScientificPapers(tfds.core.GeneratorBasedBuilder):
 
   def _split_generators(self, dl_manager):
     """Returns SplitGenerators."""
-    dl_paths = dl_manager.download_and_extract(_URLS)
-    path = os.path.join(dl_paths[self.builder_config.name],
-                        self.builder_config.name + "-dataset")
+    # dl_paths = dl_manager.download_and_extract(_URLS)
+    # path = os.path.join(dl_paths[self.builder_config.name], self.builder_config.name + "-dataset")
     return [
         tfds.core.SplitGenerator(
             name=tfds.Split.TRAIN,
-            gen_kwargs={"path": os.path.join(path, "train.txt")},
+            gen_kwargs={"path": os.path.join("train.txt")},
         ),
         tfds.core.SplitGenerator(
             name=tfds.Split.VALIDATION,
-            gen_kwargs={"path": os.path.join(path, "val.txt")},
+            gen_kwargs={"path": os.path.join("val.txt")},
         ),
         tfds.core.SplitGenerator(
             name=tfds.Split.TEST,
-            gen_kwargs={"path": os.path.join(path, "test.txt")},
+            gen_kwargs={"path": os.path.join("test.txt")},
         ),
     ]
 
