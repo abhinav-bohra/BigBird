@@ -104,7 +104,7 @@ class ScientificPapers(tfds.core.GeneratorBasedBuilder):
         ),
         tfds.core.SplitGenerator(
             name=tfds.Split.VALIDATION,
-            gen_kwargs={"path": os.path.join("val.txt")},
+            gen_kwargs={"path": os.path.join("validation.txt")},
         ),
         tfds.core.SplitGenerator(
             name=tfds.Split.TEST,
