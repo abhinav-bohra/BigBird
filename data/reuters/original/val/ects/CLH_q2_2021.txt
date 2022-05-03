@@ -1,0 +1,209 @@
+Speaker :: Michael McDonald -- Senior Vice President, General Counsel
+
+
+Thank you, Christine, and good morning, everyone.
+With me on today's call are Chairman, President and Chief Executive Officer, Alan S. McKim; EVP and Chief Financial Officer, Mike Battles; and SVP of Investor Relations, Jim Buckley.
+Slides for today's call are posted on our website and we invite you to follow along.
+Matters we are discussing today that are not historical facts are considered forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+Participants are cautioned not to place undue reliance on these statements, which reflect management's opinions only as of today, August 4, 2021.
+
+Information on potential factors and risks that could affect our actual results of operations is included in our SEC filings.
+The company undertakes no obligation to revise or publicly release the results of any revision to the statements made in today's call other than through filings made concerning this reporting period.
+In addition, today's discussion will include references to non-GAAP measures.
+Clean Harbors believe that such information provides an additional measurement and consistent historical comparison of its performance.
+Reconciliations of non-GAAP measures to the most directly comparable GAAP measures are available in today's news release, on our website, and in the Appendix of today's presentation.
+
+And now, I'd like to turn the call over to our CEO, Alan McKim.
+Alan?
+
+
+
+
+
+Speaker :: Alan S. McKim -- Chairman, President and Chief Executive Officer
+
+
+Thanks, Michael.
+Thanks everyone for joining us.
+Lots of exciting information to share with you this morning.
+Starting with safety first, our safety results are behind plan as we continue to experience minor safety incidences around slips and trips and falls.
+We're certainly doubling down our efforts to meet our safety targets this year, including initiating several safety stand downs across our entire network.
+I am optimistic that we can reverse this trend.
+Turning to our outstanding Q2 performance on slide 3; this quarter was a good example of what we can deliver when all our core lines of business are on the upward trajectory, particularly our disposal network.
+
+In addition, the spread we manage in our rerefining business is widening due to the favorable market conditions.
+Because the quarter concluded with two terrific months, our results far exceeded the guidance we gave in early May.
+Environmental Services rebounded from the impacts of the Q1 deep freeze in the Gulf and we saw strong volumes in the quarter.
+Safety-Kleen Sustainability Solutions delivered far better than expected profitability due to multiple base oil pricing gains driven by supply conditions in the market and the overall management of our used motor oil to base oil spread.
+Adjusted EBITDA in Q2 was a record $187.8 million, up 36% from a year ago.
+
+Our margins increased 80 basis points to 20.3% reflecting the benefits of pricing initiatives and cost reduction efforts.
+Adjusted free cash flow was a strong at $114.6 million.
+Turning to our segments beginning with Environmental Services on slide 4, revenues grew 18% on growth in disposal volumes and strong industrial services activity.
+We benefited from a favorable comparison with Q2 of last year when the pandemic lockdowns impacted the overall economy.
+Industrial Services performed particularly well, posting revenue growth of more than 50% as a backlog of deferred maintenance projects began to come to market.
+Adjusted EBITDA in this segment was flat year-over-year due to the high level of government assistance and high margin COVID decontamination work in Q2 of last year.
+
+These factors were offset by higher revenue, cost savings and favorable mix.
+Government assistance programs totaled $4.4 million in the quarter, down from $19.7 million in Q2 a year ago.
+Incineration utilization was 87%, flat with the prior year, but up nicely from 80% in Q1, which was affected by weather-related shutdowns that disrupted six of our nine incinerators.
+Mix of waste, along with pricing initiatives pushed our average price up 5% from a year ago.
+We enter Q2 with deferred revenue at the highest level in our history and waste volumes in the quarter remained robust as we continue to recover from the unplanned Q1 shutdowns.
+
+Landfill volumes rose 13% in the quarter as we finally saw increased activity within our project pipeline.
+And we also benefited from a 10% jump in average pricing.
+COVID decon revenue in Q2 was $11 million, with most of that coming in the early -- in the quarter.
+That work has slowed to a trickle in recent weeks and we are currently assuming very little contribution in the back half of the year.
+Conversely, we are seeing a good lift in our base field services work.
+The pace of parts washer services continue to pick up as we hit 240,000 services for the first time since the pandemic began.
+Moving to slide 5, SKSS revenue more than doubled.
+
+This reflected much higher base oil and blended pricing as well as greater volumes than the year ago when we temporarily leased -- suspended some production at our rerefineries.
+On a sequential basis, SKSS revenue increased more than 30% from Q1, fueled by strong demand for our base oil.
+Adjusted EBITDA climbed by nearly $55 million year-over-year, while margin soared more than 31% -- to more than 31%, excuse me, reflecting the widening of our rerefining spread and a return to more normal production levels.
+SKSS margin also was driven higher by the productivity and cost initiatives that we implemented as part of our organizational changes over this past year.
+
+Waste oil collections continue to ramp up nicely during the quarter, coming in at 57 million gallons, compared with 43 million gallons a year ago, and 47 million gallons in Q1.
+Our percentages of blended products and direct volumes came in as expected and given the market environment, including the additive shortages we continue to prioritize opportunities to move our large volumes of base oil at least in the short term at higher than normal margins.
+While the outsized returns we saw from SKSS in Q2 are not an accurate barometer for how we expect this business to perform long term, the segment's first half performance this year further supports our decision to separate this business out from SK Environmental.
+
+That move enabled us to manage the spread much more tightly than we would have had it remained as part of the branch network.
+A stronger focus and a more active management in all aspects of our oil collection was precisely the rationale behind our decision.
+That goal dovetails perfectly with our pending Vertex acquisition.
+Vertex has been a strong outlet for third-party oil, particularly industrial oils, which can be used in the manufacture of IMO 2020 compliant marine diesel oil.
+Through its Louisiana plant, Vertex is an important supplier to the MDO market in the Gulf region.
+That broadens the scope of our business to include the generators of industrial fuels, tank bottoms and other waste oil fuels that meet the MDO requirements but don't necessarily fit well with our current base oil plants.
+
+The Vertex network will support our growth in our Field Services and our Industrial Services business in the years ahead.
+Turning to slide 6; in a separate release this morning, we announced the signing of a definitive agreement to acquire HydroChemPSC in an all-cash deal for $1.25 billion.
+We're excited about the prospects for our combined businesses and can -- confident that this transaction will build sustainable shareholder value.
+HPC is planning for $744 million of revenue this year and approximately $115 million of adjusted EBITDA.
+We believe that the operational productivity and sales synergies will be broad-based and achievable in this combination.
+
+As a result, we expect to achieve $40 million plus of synergies after our first full year of operating HPC, which would translate to a purchase multiple of about 8.1 times on a post-synergized basis.
+As you can see by the numbers on the slide, HPC brings a lot to Clean Harbors in terms of footprint, customer base, services, assets and importantly a talented team.
+In addition, HPC is the only provider of industrial cleaning and specialty services who maintains a dedicated manufacturing and technology center.
+It is a true competitive advantage as it gives HPC the ability to fabricate customized tools that handle complex and very unique applications.
+
+This technology will enable our combined company to improve safety and operate with less labor as we roll out these robotic and hands-free technologies to our customer base.
+Turning to slide 7, the reasons behind this transaction, which we expect to close later this year are many.
+HPC is a leader with terrific assets that will enhance our industrial service capability, particularly in the high-value areas of specialty work and facility services.
+The addition of its fleets and sites will give a size and scale in what remains a highly fragmented market.
+On the field services side, which accounts for about 15% of their total revenues, HPC brings a strong presence in utility vertical that will complement our nationwide field services organization.
+
+Another key reason we were attracted to HPC is their differentiated technology.
+When it comes to hands-free devices and increased automation, they're the leader in the industry.
+And part of our ESG efforts here at Clean Harbors has been around continuously improving safety for our people and the sites that we operate on.
+The acquisition of HPC is another important step in that effort.
+HPC's customer service approach, commitment, innovation and business philosophy mirror our same principles in many ways.
+That cultural fit is in part what makes us an exciting acquisition for us and why we're confident it will succeed.
+We know that we are acquiring a first-class organization led by a strong and experienced management team.
+
+In addition to the cost synergies and as a strategic buyer we see a lot of cross-selling opportunities with HPC's customer base, particularly through waste disposal and emergency response contracts.
+HPC does not operate any disposal plants and our network of landfills, industrial oil plants will enable HPC to offer more bundled services to its existing customers.
+We see a multitude of ways for this acquisition to generate both short and long-term shareholder value.
+We're excited to welcome the more than 5,000 members of the HPC team to the Clean Harbors family.
+Moving to slide 8, another important announcement we made today is that we're officially moving forward ahead with our plans to build a new 70,000 ton incinerator and Kimball, Nebraska.
+
+With an expected cost of about $180 million, this project will be the largest internal investment in our history.
+It is an investment we're excited to make and we intend to mimic the design that we used in our El Dorado site, which should also cut down on our construction timeline.
+We believe that we can permit, design and build this facility over four-year timeframe.
+And that we have the plant operationally by the end of 2024 and accepting waste in the first half of '25.
+Here on slide 9 on the upper left, you can see a nice aerial shot of the Kimball site today with the existing kiln.
+On the lower right photo you can see our engineering plan for where the new incinerator will sit.
+It will be integrated right into the heart of our existing facility to maximize our efficiencies in waste handling at the site.
+We have a strong relationship with the Kimball community given our 25-year plus ownership of our existing incinerator at that site.
+
+We're confident that the new jobs and increased business activity this plant will bring will benefit the region and the entire state.
+And having that additional capacity will enable us to provide greater environmental service capabilities to our customers, particularly in the Western U.S. We're confident that incineration demand driven by the ongoing U.S. chemical and manufacturing expansion, combined with the continuing closure of captive incinerators will enable all this additional capacity to be readily absorbed when the new kiln opens for business.
+
+Turning to slide 10, given our strong cash flow, cash balance and low leverage, we've been in an excellent position to execute our capital allocation strategy.
+We've continued to invest capital into the business including today's Kimball announcement.
+And on the acquisition front, we're excited about both HPC and Vertex.
+Going forward, we'll continue to look for similar opportunities, both internal and external that generate the best returns.
+With our leverage levels increasing following the close of the HPC transaction, we'll be more closely evaluating reducing our debt going forward.
+
+And we also intend to continue with share repurchases as we believe our stock represents a great value at its current levels.
+Given all we have had to cover today, let me just close by reiterating how excited we are here.
+Coming off a very strong Q2 we enter the second half of the year with considerable momentum across all of our key markets.
+The North American economy, particularly in the industrial space should support our continued growth.
+We're anxious to bring on board HPC and the Vertex assets.
+As Mike will cover, we're expecting a record-setting financial year for the company.
+
+So with that let me turn it over to Mike Battles.
+
+
+
+
+
+Speaker :: Michael L. Battles -- Executive Vice President and Chief Financial Officer
+
+
+Thank you, Alan and good morning everyone.
+Turning to our income statement on slide 12, we delivered exceptional results this quarter.
+Revenue increased 30% year-over-year on the strength of greater volumes, higher pricing, especially in base and blended products and a meaningful pickup in our Service businesses.
+Adjusted EBITDA grew an impressive 36% to $187.8 million.
+We recorded our 14th consecutive quarter of year-over-year margin improvement despite a very difficult comp a year ago.
+Our revenue mix, widened rerefining spread, SG&A cost reduction programs and $5.2 million in government assistance resulted in an 80 basis point improvement in EBITDA margin as we exceeded 20% for the quarter.
+
+If you back the government money out of both periods, our EBITDA margin improved from 16.2% a year ago to 19.7% this past quarter.
+SG&A costs increased by approximately $20 million year-over-year, reflecting the $216 million increase in revenues.
+On a percentage basis, we improved our SG&A by 120 basis points.
+For the full year, using the midpoint of our guidance range, we expect SG&A to be up in absolute dollars from the prior year and flat to slightly down on a percentage basis.
+Depreciation and amortization in Q2 declined slightly to $71.6 million, in line with our expectations.
+For 2021 we continue to anticipate depreciation and amortization in the range of $280 million to $290 million.
+Income from operations increased by 83% reflecting a high revenue growth coupled with prior year cost initiatives.
+
+Turning to slide 13, our balance sheet at June 30 remained in excellent shape.
+Cash and short-term marketable securities at quarter end were $666.3 million, up approximately $95 million from year-end and from March 31.
+Our debt was $1.55 billion at quarter end with leverage on a net debt basis approaching 1.5 times.
+Our weighted average cost of debt before factoring in the HydroChem transaction is 4.2% with no debt maturities until 2024.
+To finance the all-cash HydroChem deal, we intend to issue $1 billion of additional debt and fund the remainder between cash on hand and free cash flow we generate from now until the deal closes.
+
+We have yet to finalize our plans and we'll have to assess market rates as we get closer to executing this transaction.
+However, I would expect the majority, if not all of that financing to take the form of the Term Loan B that gives us low interest rates and flexibility to pay down our balance without penalty.
+Based on our current guidance and assuming the deal closes in Q4, we will anticipate ending the year somewhere around 3.3 times levered with a target of lowering that net debt leverage into the mid-2s by year-end 2022.
+Turning to Q2 cash flows on slide 14, cash from operations in Q2 was extremely strong at $162.4 million.
+Our working capital management initiatives including collections of aged receivables and inventory management also benefited -- benefiting our cash position.
+
+Capex, net of disposals, was up slightly year-over-year at $47.8 million, was in line with our expectations.
+The result of all these efforts was a record Q2 adjusted free cash flow of $114.6 million.
+For 2021, we now expect net capex in the range of $190 million to $210 million, which reflects the addition of some initial spend on the Kimball incinerator.
+During the second quarter, we bought back 200,000 shares at a total cost of $18.9 million.
+Of our $600 million authorization, we now have more than $150 million remaining.
+Moving to slide 15; based on our Q2 results and current market conditions, we are raising our 2021 guidance.
+
+We now expect adjusted EBITDA in the range of $620 million to $650 million with a midpoint of $635 million.
+While we expect both transactions to close this year, this guidance range does not assume any contribution from the Vertex assets or from the HydroChemPSC transaction.
+Looking at the midpoint of our guidance from a quarterly perspective, we expect Q3 adjusted EBITDA to be at a level similar to slightly above Q3 2020, which would infer that Q4 is approximately flat to slightly above the prior year.
+Based on where we are mid-year, here is how our full-year 2021 adjusted EBITDA guidance translates to our segments.
+In Environmental Services, we expect adjusted EBITDA to decline in the low single digits on a percentage basis from full year 2020.
+
+We still expect the benefit from growth in our incineration profitability, a continued rebound in both the Safety-Kleen branches and Industrial Services and incremental growth in base field service, with all these businesses supported by our comprehensive cost reduction measures.
+That said, these factors are not enough to offset the year-over-year decline in high margin decontamination work and more significantly, the contribution from government assistance programs in 2020 that totaled $35.6 million in this segment versus about $10 million this year.
+
+For SKSS we anticipate adjusted EBITDA to more than double from a year ago.
+The midpoint of our guidance assumes growth of approximately 120%.
+The combination of our abnormally widespread and having both our production and collection volumes returning to pre-pandemic annual levels is driving this result.
+That level of adjusted EBITDA would also put us approximately 45% above what this segment achieved in 2019, which demonstrates how well we are managing the business, the impact of IMO 2020 on our markets and the super-sized spread caused by supply driven price increases in base oil and blended products.
+
+Our guidance assumes that the spread will continue to narrow in the back half of the year.
+The exact timing and the pace of that will be determined by market conditions.
+As a final SKSS reference point, in 2020, this segment received government assistance of $3.7 million.
+That amount will likely be cut in half this year.
+In our corporate segment, we now expect negative adjusted EBITDA to be up single digits from 2020 largely due to higher incentive comp given the successful year we're having.
+We also had about $3 million in government assistance in 2020 in corporate versus less than $0.5 million this year.
+For the full year 2021, our adjusted EBITDA guidance now assumes receiving a total of $11 million to $12 million in government program assistance primarily from Canada.
+
+Based on our current EBITDA guidance and working capital assumptions, we now expect 2021 adjusted free cash flow in the range of $280 million to $315 million or a midpoint of $300 million.
+In closing, Q2 in many ways was a continuation and acceleration of the positive business trends we experienced in Q1.
+We have every reason to believe that will continue through the remainder of 2021 and also see macro trends that should support further profitable growth in the years ahead.
+We are excited to move forward with our incineration expansion plans in Nebraska.
+And lastly, with the expected addition of the Vertex assets and the HydroChemPSC business, we expect to see significant growth and synergy opportunities for us in 2022 and beyond.
+
+With that, Christine, please open up the call for questions.
+
+
+
+
+

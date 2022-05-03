@@ -1,0 +1,291 @@
+Speaker :: Mike Eliason -- Vice President of Investor Relations and Treasurer
+
+
+Thanks, Oanda.
+Good morning and thank you for joining us today for the KAR Global third quarter 2020 earnings conference call.
+Today, we'll discuss the financial performance of KAR Global for the quarter ended September 30, 2020.
+After concluding our commentary, we will take questions from participants.
+
+Before Jim kicks off our discussion, I would like to remind you that this conference call contains forward-looking statements within the meaning of the Safe Harbor provision of the Private Securities Litigation Reform Act of 1995.
+Investors are cautioned that such forward-looking statements involve risks and uncertainties that may affect KAR's business, prospects and results of operations, and such risks are fully detailed in our SEC filings.
+In providing forward-looking statements, the company expressly disclaims any obligation to update these statements.
+
+Let me also mention that throughout this conference call, we will be referencing both GAAP and non-GAAP financial measures.
+Reconciliations of the non-GAAP financial measures to the applicable GAAP financial measure can be found in the press release that we issued yesterday, which is also available in the Investor Relations section of our website.
+
+Now, I'd like to turn this call over to KAR Global's CEO, Jim Hallett.
+Jim?
+
+
+
+
+
+Speaker :: James P. Hallett -- Chairman and Chief Executive Officer
+
+
+Thank you, Michael, and good morning ladies and gentlemen.
+Welcome to our call.
+Thought I'd start just reflecting a little bit on what we're dealing with the COVID crisis.
+The COVID crisis has really created a unique opportunity for us to rapidly accelerate the transformation of our business and our industry.
+This transformation that we've been -- this is a transformation that we've been leading over the last couple of years and we decided to embrace this opportunity and we took swift action to move our business into a fully digital direction, and I believe that we're now seeing the positive results of those decisions that we took.
+
+We had a very good third quarter, although revenue was down from the prior year.
+We were able to take advantage of selling 100% of our volume through our digital marketplaces.
+And I believe the changes in our business model over the past six months in transforming to a digital operating model, provided a permanent reduction in our cost structure.
+
+It is clear to me that we are a very different business today than we were one year ago, and I am encouraged by the future prospects of our business.
+Before I get into the detail, let me review the topics that I plan to cover this morning.
+
+First, I want to review some highlights of our performance in the third quarter, including addressing how permanent the changes in our cost structure are expected to be.
+I want to give you an update on the growth in the dealer-to-dealer digital marketplace being TradeRev.
+I will also provide some color around BacklotCars and why we believe this acquisition will accelerate our growth in this channel.
+I want to give you an idea of the size of the dealer-to-dealer space and quantify the incremental impact we believe this acquisition could have on our results over the next few years.
+As well, I want to provide a review of the supply situation for the wholesale marketplace and what we see in dealer behavior that is impacting the industry volumes.
+And last, I want to talk about our strong balance sheet position and our plans for deploying capital in the near term.
+
+
+
+
+
+Speaker :: After I'm done with my remarks, I'll ask Eric to provide information on our divestiture of PWI and our investment in BacklotCars -- in CarLotz, excuse me.
+
+
+So, let me start by reviewing our third quarter performance.
+As you saw in our release yesterday afternoon, revenue was down 15% as we saw 9% less volume sold than the prior year.
+We saw declines in the volumes sold from our 74 North American facilities and in our international operations.
+We saw growth in volumes sold at OPENLANE and TradeRev.
+Although volumes declined, we experienced increases in auction fee revenue per unit in every one of our digital marketplaces, except OPENLANE.
+We did see services revenue both on-premise ancillary services and off-premise services decline year-over-year.
+
+The changes that we've made in our cost structure can be seen in the third quarter financial results.
+First, we're able to increase gross profit as a percentage of revenue to 44.5% of gross revenue, that's up 300 basis points from last year.
+This is a direct result of reducing the labor cost to execute transactions.
+
+Most importantly, we are committed to a digital marketplace model.
+We believe the changes in our processes and the reduction in direct costs experienced in the third quarter are sustainable going forward.
+As we discussed previously, we managed the business using net revenue as our key top-line measure, gross profit.
+Gross profit was 52% of net revenue compared to 47% the prior year.
+
+In addition to the reduction in direct labor, we also have reduced our SG&A in absolute dollars and as a percent of revenue.
+As a management team, we are focused on rightsizing our organization to match our business model in the digital marketplaces.
+
+We recognize the challenge is not just reducing cost right now when the volumes and the revenues are lower due to the unique operating conditions we faced during this pandemic, but to sustain this lower cost structure when volumes and revenues return to normal levels.
+We are fully committed to making these savings stick.
+
+As we look to the future, I see us committing more of our financial resources to the technology needed to operate digital marketplaces while offsetting these expenses by reducing costs to support other parts of our business, including the legacy physical auction business.
+
+Our third quarter results were strong recognizing that through most of the third quarter we experienced lower supply than normal despite a relatively strong retail environment.
+
+We saw our strongest volumes for the quarter in July, and then saw activity gradually and steadily decline.
+So, let me go into more detail on our efforts in the digital dealer-to-dealer space.
+
+First, we have seen TradeRev volume grow and started to accelerate.
+TradeRev volumes were up 22% in the third quarter with each month showing an improved growth rate.
+Our September growth rate on TradeRev was just over 30%.
+I'd like the traction that we're seeing in this space and we are getting this done without incurring losses in the business.
+
+And to what do I attribute the improved performance of TradeRev?
+First, we have simplified the platform in the U.S.
+We have listened to our customers and we've made changes to make the TradeRev app easier to use, and we've eliminated the cage match, making it easier for buyers to know quickly when they have won the car.
+Secondly, we continue to build our buyer base.
+We believe that this is the key to winning the dealer-to-dealer space in the long run.
+And last, we have made strides in bringing the ADESA customers into the TradeRev marketplace by enhancing the visibility to inventory on all of our platforms when logging into the adesa.com site.
+
+There is no doubt that this pandemic has accelerated the pace at which dealers are buying vehicles online.
+We are seeing this in our numbers as well as the volumes our competitors are publishing as well.
+Without a doubt, we need to accelerate our efforts to win this space.
+
+So, this is the reason that we are acquiring BacklotCars.
+We plan to close the transaction in the next week or so.
+Many of our investors have questioned the purchase price of $425 million.
+Well, let me size the opportunity for you.
+As we analyzed the digital dealer-to-dealer marketplace, we believe that over the next several years, we may see our addressable market grow from the typical 5 million dealer-to-dealer transactions served by the wholesale auction industry historically, to as much as 15 million vehicles going forward.
+
+As we size the opportunity for KAR, we believe the acquisition of BacklotCars could increase our annual adjusted EBITDA by over $100 million per year within the next four years.
+This will be in addition to the contribution that we expected from TradeRev over the same period.
+We believe that the ultimate opportunity in the dealer-to-dealer space is even greater than that over the next 10 years.
+With that said, it is critical that we close the gap on the competition in this space.
+
+Looking at BacklotCars and TradeRev, we see the opportunity to expand their presence in markets that they currently serve.
+In many cases, each of these companies have strength in adjoining markets.
+I see a real opportunity to take advantage of the combined buyer basis of each platform.
+We also expect to have a number of synergies that should reduce the cost structure of the combined businesses going forward, and we have begun working on a detailed integration plan and we plan to move quickly in putting these businesses together.
+
+What we know today is the combination of TradeRev and BacklotCars, more than doubled our volume in the U.S., and creates a fastest growing digital dealer-to-dealer marketplace in the industry.
+We are committed to being profitable and cash flow positive once we integrate BacklotCars in TradeRev.
+
+And we will not be satisfied with anything short of being the leader in the digital dealer-to-dealer marketplace in the U.S.
+We have already established TradeRev as the leading platform in Canada.
+In fact, TradeRev is now selling more dealer-to-dealer vehicles than ADESA in Canada, where KAR's businesses account for over 70% of all wholesale transactions.
+
+The ROI on this investment will come from the increased profits in the digital dealer-to-dealer marketplace.
+
+Now, let me talk a little bit about the overall supply and demand situation for used vehicles.
+Following April shut down of the economy, we have seen very robust retail used car activity.
+The buildup of inventory we experienced in March, April and early May gave us the opportunity to see pre-COVID levels of wholesale transactions in June and July.
+
+However, since June -- or since July I should say, we have been faced with a shortage of used car supply in the wholesale marketplace.
+Let me cover this segment by segment.
+
+First, the off-lease vehicles have returned to normal levels, but the shortage of inventory has led to many of these transactions taking place between the grounding dealer and the lessors.
+No question, we get our fair share of grounding dealer transactions on the OPENLANE platform.
+However, the revenue per transaction is very low and this is limiting the number of vehicles working their way through the funnel to our physical locations, where we can provide value-added services to enhance the wholesale value of the vehicles.
+
+The strong demand and the shortage of off-lease vehicles has led to record high prices in the wholesale marketplace that motivates dealers to disintermediate the wholesale channel.
+We have great visibility into the off-lease channel, and we expect a strong supply of vehicles for the next three years.
+
+Turning to repossessions.
+Repo volumes have made up as much of our industry volumes as off-lease vehicles in some years.
+That will not be the case in 2020.
+Our strong inventory levels in March that led to the pre-COVID level volumes in June and July include a large number of repos that got held up at our facilities due to COVID.
+We have sold off those vehicles and have not seen a recovery in repo supply yet this year.
+
+I recently met with several of our largest commercial consignors and they have acknowledged that they have not begun repossessing vehicles at normal levels yet.
+They expect repo activity to return to normal in 2021.
+They have seen delinquencies and defaults increase on auto loans and leases, but have not been able to repossess the vehicles in many states.
+We expect repo volumes in our industry to be up 30% to 40% in 2020.
+Our customers are preparing to catch up in 2021, and that could lead to a very high number of repo-related wholesale transactions in 2021.
+
+Rental car fleets are another source of wholesale supply that has received a lot of attention recently.
+This is our smallest segment of supply at KAR, but also a great opportunity for us.
+We have seen the deflating of rental car companies contribute additional volume in the second half of 2020.
+We do not expect this segment to grow in 2021 and beyond as the rental car companies are likely to have smaller fleets.
+
+Rental car companies are taking advantage of the high wholesale prices for used vehicles and moving aggressively where they can reduce the size of their fleet right now.
+
+Simulcast+ is our digital marketplace that allows consigners to sell vehicles from multiple locations across a broad geography of buyers, and rental car companies are really seeing the value of this platform.
+The Simulcast platform allows us not to be tied to a specific sale day and we can market these vehicles to a large number of buyers that are interested in the type of vehicle that is being sold.
+
+We are excited about the success of Simulcast+ and our customers see the value in the features and the functions offered on this all digital platform that are not available from any other competitor in the wholesale industry.
+This platform will give KAR the opportunity to grow its share in the rental car segment.
+
+Now, let me wrap up my discussion of supply of vehicles with the dealer segment.
+There is clearly a shortage of wholesale dealer-to-dealer transactions over the last eight months.
+The disruption of the economy followed by the strong retail used car demand and record high used car pricing has caused dealers to utilize the wholesale marketplaces differently than in recent years.
+
+This is not the first time that we've experienced this reduced supply.
+About 10 years ago, following the great recession, we saw the same situation.
+A major difference from 10 years ago to today is the health of the new car production and new car sales.
+
+New car production plummeted in 2009 and did not recover until after 2013.
+Because the disruption to our new car markets was limited to months instead of years, we expect the return to normal in the dealer trade segment to be much quicker.
+We expect the dealer segment to be a source of growth over the next three years.
+
+Now, let me speak to our balance sheet position and priorities for capital allocation.
+First, it is obvious our balance sheet and cash position is materially improved from earlier this year.
+We have over $1.2 billion in cash.
+Our net leverage is down to 1.6 times.
+We have made our businesses more efficient during the pandemic and demonstrated that strong cash flow characteristics of the KAR businesses continue even during a pandemic.
+
+I've been asked many times if we really needed to raise the capital through the Pipe transaction earlier this year.
+Well, the answer is yes.
+When we announced the Pipe transaction, we told you that we wanted a balance sheet that could get us through 2020 and 2021 under any circumstances.
+As I look at what is happening today with the growing number of COVID cases and related deaths, the continued impact on our economy and the likelihood of returning to normal being further in the future than any of us would like, and the possibility of further restrictions on the business in the near future, I'm very happy with the decisions that we made.
+
+Now, with the balance sheet as it is, we have the confidence in aggressively pursuing the digital dealer-to-dealer space, including acquiring BacklotCars.
+
+We have stabilized our leverage position and expect to repurchase KAR stock under our existing $300 million share repurchase authorization.
+The amount we commit to repurchasing shares will be determined by market conditions.
+We expect these purchases will partially offset the future dilution from our issuance of preferred stock earlier this year.
+
+And finally, we do expect that working capital will be needed as our markets return to normal, likely sometime in 2021.
+We will continue to focus on efficient generation of cash during this time of disruption to ensure we have adequate capital to support the growth of the business as things return to normal in the future.
+
+We are committed to having a higher gross margin business and lower SG&A cost structure than we have had in previous years.
+And I look forward to a return to a normal market conditions, hopefully in 2021, when we will focus on growing our volumes in the marketplace.
+
+We have the right strategy and the focus to support growth in the future.
+I know that I've had a lot to talk about today, so I will now take a break and turn it over to Eric for some more comments, and then we'll get to your questions.
+Eric?
+
+
+
+
+
+Speaker :: Eric Loughmiller -- Executive Vice President and Chief Financial Officer
+
+
+Thank you, Jim.
+Let me start by updating you on PWI growth.
+We have reached agreement to divest Preferred Warranties, Inc. to Kingsway Financial.
+We were approached by Kingsway Financial earlier this year with the proposal to acquire PWI.
+Kingsway will add PWI to its existing auto warranty business with the expectation that they could accelerate growth at PWI.
+
+As we looked at the PWI platform that is a consumer-focused product and the fact that during the initial COVID disruption, we pulled back on the sales and marketing of this line of business, it became clear to us that Kingsway was a better home for PWI.
+The PWI offering was not core to either ADESA or AFC, and we had not integrated PWI into any of our core businesses.
+
+We are awaiting regulatory approval for the transaction and expect to close the transaction before year-end.
+The cash purchase price is less than $30 million.
+The PWI business was not material to our financial results and has been reported within the AFC segment of KAR.
+
+Investors have also asked us to provide more information on our investment in CarLotz, which was recently announced as part of their SPAC transaction.
+CarLotz has been a customer of ADESA and AFC for the past five years.
+CarLotz came to us about five years ago, with an opportunity to have a strategic relationship.
+We have supported their growth with loans from AFC and a strong relationship with ADESA, as they have acquired inventory over the years.
+
+CarLotz continues to utilize AFC as their floor plan lender and ADESA as a source of used car inventory to supplement their consignment to retail sourcing model.
+As part of our relationship, we have accumulated a minority ownership position in CarLotz.
+
+With the recent announcement of their SPAC transaction, we had the opportunity to make an investment in their business as part of our strategic partnership.
+We will be receiving proceeds from the SPAC investment and we'll be reinvesting a portion of our proceeds back into CarLotz.
+
+We are continuing our relationship with CarLotz, as we see the opportunity to serve their B2C model through our strategic relationship.
+We will remain a minority investor following the completion of the proposed transactions.
+
+Now, let me turn to our plans for reporting KAR's financial results, beginning with our year-end financial statements.
+Over the past 10 plus years, the reporting of KAR's results has become increasingly complex and we have provided a myriad of metrics to assist investors understanding the various components of our business.
+While the information we provide is very detailed, it is not consistent with how we are managing the business through the digital transformation.
+
+Also, following the spin-off of IAA, we have simplified our management structure and believe our performance should be much easier to explain and the relevant metric should reflect the key indicators of our performance.
+Beginning at year-end, we will be simplifying the volume metrics we disclose.
+
+We are now selling all vehicles through our digital marketplaces.
+There is no longer relevance to online-only and physical auction volumes.
+We will be disclosing total vehicles sold and provide details on the split between commercial consignors and dealer-to-dealer transactions.
+We expect this will be sufficient information on the trends in the business for investors to understand our performance.
+
+For revenue per unit metrics, we will also simplify our disclosures.
+We intend to provide auction fee revenue per unit with the level of detail that will explain the major differences in the various marketplaces.
+We will not be including ancillary and related services revenue in our ARPU metric.
+This will allow investors to understand the trends in auction revenue without the confusion of which service is attached to the vehicle in our current disclosure of physical ARPU.
+
+Our income statement will provide similar information, including separately presenting auction fee revenue and services revenue.
+
+We believe this will be a simpler presentation and allow investors to understand the trends in the various income streams for ADESA.
+
+In terms of our segment reporting, we expect to report two segments of our business: ADESA and AFC.
+Our holding company costs have been reported separately as a segment in all past filings.
+We expect to combine the holding company costs into the segment reporting for ADESA and AFC.
+
+There are no meaningful operating expenses that are not related to the operating segments.
+We will disclose the basis of allocation for expenses like interest, corporate depreciation and other corporate expenses to the reported segments.
+We will look at SG&A in the segments and not have the separation of expenses that are currently reported in the holding company segment.
+
+I believe the simplification of our reporting structure and the streamlining of key metrics reported will make the KAR performance easier to understand and more practical to develop models on how our business should perform in the future.
+
+And finally, let me speak to guidance.
+We continue to operate with a high level of uncertainty in the near term, but believe the markets have stabilized and are not likely to be completely shut down across major portions of the geographies we serve.
+We are not giving guidance for the remainder of 2020, but we are intending to reinstate guidance in February when we announced earnings for 2020.
+We will provide our guidance with insights into the key assumptions used to formulate our guidance.
+
+I am sharing high level insights into our plans for reporting our performance with the intent to prepare investors for these changes.
+We are committed to continuing to provide detailed disclosure that provide a clear picture of our performance.
+This disclosure will match our current business model of operating digital marketplaces across all channels and segments of our business.
+
+I know my comments are only providing an overview of how we plan to report going forward.
+I thought it was important to start this dialog now, so you understand the reasons for changes and what to expect.
+We provided details in our press release, earnings supplement and earnings slide yesterday afternoon.
+I believe this gives you a clear picture on our strong performance in Q3, including the strong free cash flow generation of the business.
+
+We have been able to reverse the negative cash flow experienced in March, April, and May, with an improved cash flow performance in Q3.
+It is important that we continue to have sufficient cash on our balance sheet to support growth once the markets return to normal.
+
+After funding the BacklotCars transaction in the next couple of weeks, we will still have about $800 million of available cash and an undrawn revolver.
+
+We've shared quite a bit of information with you today, so why don't we get your questions now.
+And I thank you for your time listening to us as we gave you our remarks.
+
+
+
+
+

@@ -1,0 +1,635 @@
+Speaker :: Brian Shore -- Chairman and Chief Executive Officer
+
+
+Thank you, operator.
+Good morning, everybody.
+This is your Brian.
+I'm with Matt Farabaugh, of course, our CFO, as usual, and welcome to our third-quarter conference call.
+
+Also, happy new year to all.
+So I want to tell you, mention to you that we have a presentation that's been posted on our website, and it's also on a live webcast.
+It really will be good for you to get that up on your screen or your iPhone because we're going to be going through that.
+It will make the call a lot more meaningful for you if you don't have it up already.
+
+
+
+And there are instructions in paragraph two of the earnings release as to how to access the presentation if you haven't done that already.
+I also want to mention that there is some supplemental financial information, which is attached to the presentation as appendix I, so you may want to check that out at some point.
+And a couple of other just introductory comments before we get started with the presentation.
+So Matt and I don't cover the same things each call.
+
+Well, we try to cover things that we think are meaningful and interesting or relevant.
+But let us know what you think.
+Let us know if there are other things you'd like us to cover during these calls.
+So these calls are for you.
+
+We're not here to promote or hype up our company.
+These calls are for you and not for us.
+So just let us know what you think.
+Is there anything else you'd like to cover, any other focus you'd like us to consider, let us know.
+
+This is your time, not our time.
+So we'll go ahead now and go through the presentation.
+Matt and I will do that for you.
+And then at the end of the presentation, we'll probably take over half hour, I just want to warn you, so brace yourself, then we'll be happy to take questions, all right?
+So why don't we just skip over to Page 2 of the presentation.
+
+That's our forward-looking disclaimer language.
+So just let us know if you have any questions about that later on.
+And Matt will take over for a few minutes to cover Slides 3 and 4.
+So go ahead, Matt.
+
+The ball is in your court.
+
+
+
+
+
+Speaker :: Matt Farabaugh -- Chief Financial Officer
+
+
+OK.
+Thanks, Brian.
+On January 8, the board of directors declared a special dividend of $1 per share payable to our shareholders, payable on February 20, 2020, for shareholders of record on January 21.
+The total amount of the special dividend is approximately $20.5 million.
+
+Including this special dividend and the regular quarterly dividend of $0.10 per share payable on February 4 to shareholders of record on January 2, Park will have paid approximately $536 million or $26.15 per share of cash dividends since the beginning of our fiscal-year '05.
+Park's regular cash dividend has been paid -- regular quarterly cash dividend has been paid every year since 1985, never skipped or reduced that regular dividend.
+Moving on to Slide 4.
+I just wanted to walk through with you how we kind of think of our cash balance.
+
+Although our balance sheet shows $144.2 million at the end of our third quarter, some of that cash is really committed for future use.
+When we had the tax law change back in December '17, there is a transition tax that's got to be paid over a period of eight years, we're a couple of years into that.
+So the remaining installment payments on that transition tax is $17.7 million that's repaid over the next seven or six years.
+The Newton expansion that we have talked about in the past has begun.
+
+So the remaining payments here for that expansion, although it's not legally committed, there's unless barring any sort of major event, this is how much that we will have to pay out.
+It's our best estimate of how much we'll have to pay out to complete that expansion.
+And of course, there is this $20.5 million that we just talked about for the special dividend payment.
+So the way we look at the cash, although it's $144 million on the balance sheet, it's really roughly $91 million that we say that's -- it's remaining and available for any purposes that we see going forward.
+
+I think I've covered what I needed to cover on here.
+
+
+
+
+
+Speaker :: Brian Shore -- Chairman and Chief Executive Officer
+
+
+Thank you, Matt.
+Very good.
+All right.
+So I'd just add that or comment, I guess, that -- so what is it -- what did Matt tell us $536 million of cash dividends since 2005 fiscal year, $536 million, and we have no debt and $144 million of cash.
+
+That's a lot of money to be paid out, in my opinion, by a small little company like Park that was started by two guys with, I think, about $50,000, $60,000 back in 1954.
+It's just my opinion, but I thought you should know that.
+So why don't we move on to Slide 5, and Matt was referring to new Kansas expansion.
+And it's certainly in progress now.
+
+The picture on the top right is actually about a month old.
+So unfortunately, we couldn't get an aerial photo, a more current aerial photo of this.
+Actually, a lot more had been done in the last month.
+So the original budget was $20.5 million, and the spending, as Matt indicated -- sorry, Matt talked about how much left to be spent $15.1 million.
+
+So we've spent about $5.4 million so far.
+The completion is now expected at the end of calendar -- of this calendar year, calendar-year 2020.
+And that's a delay.
+That's about a four- or five-month delay, which we're not very happy about.
+
+It's caused by a couple of major things, governmental approvals, the process was more complex and time consuming than anticipated.
+The government approval is really the FAA.
+You may be surprised to hear this, but if you build a factory in airport, you need to get FAA approval for it, and that was more complex than we anticipated.
+Also there's a lot more additional time required to finalize contracts and other arrangements related to construction.
+
+I don't know, maybe we didn't have enough urgency, but we've done this three times now.
+And so we thought we kind of had the system down, and we were a little surprised.
+This is not what we anticipated.
+So maybe third time for us, not a charm, three times, meaning that our original building, which was I guess, I think we broke ground that building maybe 2008, then a couple of years later, we did our first expansion to the building kind of the back end of the building, if you look at the picture, so this is our third shot at it.
+
+And we're still not getting it exactly right.
+So that's disappointing, but it's about a four-month more -- four-month delay.
+And that means that the facility is expected to be qualified and in production by the end of calendar 2021, that would be especially for our large customer, MRAS, ST Engineering.
+The expansion is now expected to provide $55 million to $60 million of additional hot-melt composite material manufacturing capacity.
+
+We'll talk about capacity a little later on because I think there's some confusion about capacity.
+But we did push that number up.
+I think the last time we spoke to you, we indicated it might be $15 million, but we pushed that number up, and then we pushed it up by increasing our uptime assumptions realistically, but we feel that we needed to do that.
+So now we're talking about a little bit more capacity that will be generated by that new factory.
+
+Why don't we go to Slide 6.
+So let's get right into it.
+Estimated manufacturing capacity.
+So after our second-quarter call, we had some questions and comments, which made it obvious to us that there was confusion about our manufacturing capacity.
+
+So we wanted to lay it out for you in more detail and kind of go into more of a deeper explanation of it.
+So let's just start on the top Slide 6 -- on Slide 6, we need to separate the different aspects, major aspects or components of our manufacturing operation for you in order to have a more intelligent discussion of manufacturing capacity.
+So first, let's talk about hot-melt treated composite materials.
+The 60-inch film and tape line.
+
+That's the main line that we use to produce hot-melt materials.
+Last quarter, I think we said it's a -- we had $45 million of capacity with that line.
+There's also a 24-inch film and tape lines, $8 million of capacity.
+Well, before I proceed, it's -- I got to cover something important.
+
+I apologize I forgot.
+There's a little asterisk, a footnote, right at the capture level.
+Look what it says, manufacturing capacity is highly variable and significantly impacted by product mix, very important to emphasize this because our capacity is going to be -- manufacturing capacity is going to be an estimate and it's significantly impacted by product mix.
+Not by a couple of million dollars, but it could be impacted by a lot more than that.
+
+So you just need to be aware of it.
+It's a big variable.
+So sorry to back up on you.
+But let's just pick up here on 24-inch film and tape lines.
+
+$8 million now.
+The assumption here is if you look at the double asterisks is that that tape line, the 24-inch line is being exclusively used for the GE9X Containment Wrap program that we discussed in our past.
+So I want to remind you on that program, we have POs for that program to end this year, but we've not been awarded this program.
+This is a GE Aviation program, not an MRAS program.
+
+So remember, for -- with MRAS, we had a long-term agreement through 2029.
+This is not included in the long-term agreement, as we've previously explained.
+I just want to remind you of that, though.
+So we're saying, for purposes of this analysis, let's say, we only use a 24-inch line for the case containment wrap production, $8 million, but we want to make sure we're moving all the case wrap production from the 60-inch line, so the 60-inch line will have more capacity.
+
+And we'll get to that, I guess, next page of this presentation.
+So solution treated composite materials, $55 million.
+We don't talk about that too much because we're not nearly utilizing the full capacity of our solution treating equipment.
+Composite parts fabrication and assembly.
+
+We really don't even think of it because it's not the way to look at the composite parts business.
+We don't run the composite parts business that way.
+We look at our composite parts business as a niche business, we go after niche opportunities for parts, we're not looking to "fill" up the factory, that's not what we do with composite parts.
+Everything we do with composite parts are going to be good margins, and it's going to be niche business, things that will be good for Park.
+
+We're very fortunate.
+We just discussed this before.
+In the sense that we -- our composite parts operation is in the same facility as our composite materials operation because it gives us the ability with composite parts and not have to fill up the factory.
+We can take business that's good for us or not take business that's not good for us.
+
+That's a pretty unique and special thing we have, a lot of other companies and composite parts don't really have that luxury.
+Let's keep going.
+The estimated total composite materials manufacturing capacity.
+I think we just did the math, I got my pocket calculator out, $108 million.
+
+That doesn't include composite parts, of course.
+Now there's an issue related to $45 million of hot-melt materials manufacturing capacity from the 60-inch film and tape lines.
+Let's go through the issues.
+There are a couple of points you got to go through to get to the punchline.
+
+So the GE Programs business represents a large majority of the current hot-melt business.
+We talk hot-melt, it's largely GE Programs.
+There are other customers that we produce hot-melt product for, but it's largely consumed by the GE Programs.
+The GE Programs business has been subject to significant short-term variability, peaks and valleys.
+
+This is key.
+Remember, for you people that have been with us some years, we had a burn down about five years ago, inventory went up then it went down.
+And then if you remember, in fiscal '19, the first couple of quarters, there were -- there was a destocking going on.
+And then the fourth-quarter restocking.
+
+So I think we've explained this to you before, but in the fourth quarter of '19, our shipments to -- for GE Programs were 3x, three times what they were in the first quarter.
+And that's because -- not just because the programs are growing and the programs are ramping, but because the inventory ups and downs.
+So there's a lot of variabilities, peaks and valleys.
+Hot-melt material production was approximately $9.5 million in fiscal year -- sorry, in the third quarter, just third quarter.
+
+Sorry about that.
+So let's see.
+Let's do the math, 9.5 times four.
+What's that?
+Is that $38 million?
+OK, that shouldn't be a problem.
+
+That's less than $45 million, right?
+So let's just take in a run rate, let's say, we ran at that rate.
+But let's look at the next item, but the hot-melt materials manufacturing operations produced at an annualized run rate of $45 million during the month of October and November.
+Why that happened?
+Because we got behind a power curve in September, and we'll explain that later.
+So the point is that it's not going to be a level thing.
+
+In order for us to run our business, we need to have more capacity because of the peaks and valleys as compared to the average production during the year, if you follow what I'm saying.
+Like I said, I'm trying to give you a little more kind of a perspective on capacity rather than just superficial information about it.
+Slide 7.
+Let's go on to Slide 7, more about capacity.
+
+As a result of short-term variability we've been talking about peaks and valleys of the GE Programs business, it may be difficult to handle the peaks with $45 million of hot-melt materials manufacturing capacity.
+See the point.
+Now let's go to next item.
+Additional hot-melt materials manufacturing capacity provided by expansion will not be available and qualified for two years, remember, we just covered that?
+So that doesn't sound very good.
+
+Does it?
+We have got $45 million of capacity for the next two years.
+That's not so good.
+But what we're going to do about it.
+Our solution, we're increasing our hot-melt, our 60-inch hot-melt manufacturing -- 60-inch film and tape line, I should say, hot-melt manufacturing capacity from $45 million to $55 million.
+
+This is, we think, very achievable, very doable.
+Two things we need to do, as we mentioned before, we need to move all of the GE9X production to the 24-inch film and tape line.
+That hasn't been completed yet.
+Obviously, we have to work that with our customer as well.
+
+But that's in progress and in process rather.
+And then we're also increasing the 60-inch film and tape lines uptime by 10%, again, increasing the uptime.
+Uptime just means the percentage of time that the machine is actually producing product.
+Product is actually running through it over the course of 24 hours.
+
+So you have 12 hours uptime, that's 50%.
+And these theoretical numbers.
+So 18 hours would be what, 75%.
+That's what uptime means so.
+
+And the last item in italics, necessity is mother of invention.
+What does that mean?
+Until you actually need it, you don't really work hard to get it, and we're talking about manufacturing capacity here.
+We've been through this for many, many years in electronics in the old days as well.
+So this is not a new experience for us.
+
+And again, I think the -- our ability to achieve $55 million number is quite realistic.
+So it's quite achievable.
+Let's go on to Slide 8.
+OK, what's this about?
+Now we're talking about Q3, what happened in Q3.
+
+So the prior quarters are provided for your perspective, let's look at Q3, the sales were $15.847 million; gross profit, a little over $5 million; gross margin, $31.7 million.
+We'll be talking about gross margin because it's getting compressed a little bit, isn't it?
+So EBITDA, $3.622 million.
+Going to the first arrow item.
+What do we say about Q3 during our last quarterly conference call.
+
+We said our sales estimate was -- I'm rushing because we have a lot to cover so maybe too fast, $14.75 million to $15.75 million.
+That's what we said.
+That was our estimate for you.
+And our forecast estimate on EBITDA, what we said was $3 million to $3.5 million.
+
+So we came in both top line and EBITDA, just a little bit above the top of the range.
+With sales, it was in the case you want to do the math, $97,000 above the top of the range.
+EBITDA $120,000 above the top of the range, just a little bit.
+So those are the facts for Q3.
+
+And of course, we're not going to leave it that.
+And now we have to discuss Q3, so let's go on to Slide 9.
+So again, we're trying to give you a perspective on kind of behind-the-scenes, under-the-numbers information perspective.
+So let's start.
+
+The top carbon fiber supplier -- supply, sorry, continues to be very tight, kind of a broken record now.
+Very little slack or leeway in the system.
+The Park's carbon fiber and fabric raw material inventory is at historically low levels, hand to mouth.
+So the supply is limited, our inventory is limited.
+
+So it's pretty obvious where we're going with this.
+Then remember, the third item, this goes back to our second-quarter call.
+We had the issues with distorted carbon fiber weave and polyurethane film wrinkling in Q2, and there was associated rework with that.
+And that -- but that carried through into September -- into September of Q3, and that resulted in a Park incurring additional cost of rework in Q3.
+
+That's a -- there's a gross margin impact of that.
+Remember, the gross margins are being compressed, as I said.
+And the next item, the unavailability of carbon fabric and then the resource is diverted from production operations to rework operations, and that, in turn, resulted in significantly reduced production in September.
+We got behind the power curve in September, particularly for, there you go, hot-melt product.
+
+Now the need to run hot-melt production in October and November at an annualized run rate of $45 million.
+This resulted -- sorry, and the need to run hot-melt production in October and November at an annualized run rate of $45 million.
+Remember, that's what we said our manufacturing capacity is.
+The current manufacturing capacity limit of Park 60-inch hot-melt film and tape lines.
+
+So let's go to the next arrow item.
+Running hot-melt operations at or close to manufacturing capacity limitations for the two full months of October and November, combined with historically low carbon fiber and fabric inventory levels required intense focus and brute force effort by our manufacturing people, our great manufacturing people and resulted in manufacturing efficiencies, additional costs and reduced gross margins.
+Why is that?
+So when we're so tight, we're pushing up against our capacity, not for two weeks but for two months.
+It's really hard to plan effectively in terms of running the operations with maximum efficiency, shorter runs, more changeovers, less predictability.
+
+So it's pedal to the metal.
+I know that's kind of a silly expression, but that's the best thing I can come up with.
+Pedal to the metal sprinting for two months.
+It is not for the weaker heart or will.
+
+Q3 was not an easy quarter in manufacturing floor, -- I guess, maybe some people think it was a good quarter.
+For us, it was a good quarter but a tough quarter.
+It was not an easy quarter to run at -- run your capacity limits for two months nonstop, that's not an easy to ask.
+Like I said, not for the weaker heart or will.
+
+But our manufacturing people, our great manufacturing people, did what they had to do and they got the job done.
+So I just want to comment that the shortfall in Q2, it really bugged us to really aid at us.
+And when we got behind the power curve in September.
+But we just really didn't want to not meet our objectives in Q3.
+
+So we did what we needed to do.
+And just FYI, in case you're interested, everybody at Park received a $250 bonus for Q3, and we felt it was well deserved.
+Let's go to -- we talked about Park's people a little bit already.
+Let's go to Slide 10.
+
+Park's people count.
+So we hired 10 additional production and lab people during Q3.
+And actually, I should say, we probably started in Q2.
+One is to staff the fourth shift hot-melt operation.
+
+Remember, we talked about that last quarter and then for other manufacturing and lab functions.
+That hot-melt tape line operation, a 24-inch hot-melt tape line operation now running 24/7, which obviously it needs to, right?
+Managing Park's people count is somewhat of a trial and error process.
+So what do we mean by that?
+We're in somewhat uncharted waters here.
+We started from scratch with nothing probably, I guess, we probably broke ground in 2008, and we're kind of learning as we go.
+
+We're in a steep ramp.
+So we're, I guess, playing up by year a little bit.
+We always tend to run lean.
+Park tends to run lean always.
+
+That's just how we do things.
+That goes back to 1954.
+Park attempts to do more with less always.
+That's how we compete always.
+
+That's kind of something about us.
+We'll never change it.
+So we're really reluctant to casually add people.
+We add people cautiously and carefully as we go.
+
+We don't ever want to lay off people.
+In Kansas, we've never done a lay off.
+I can't say we never will, we shall not guide, but we're very opposed to laying off people.
+Why is that?
+Because we want our people to believe that they can build a future here at Park.
+
+And if we lay people off, like they're a commodity, that's -- how are they going to believe that they're -- that the ability to build a future with us.
+It's very key for us.
+The big companies -- I'm not criticizing them just pointing out the difference.
+They hire 1,000 people all the time, they lay off 1,000 people all the time.
+
+Like it's nothing.
+But that's not us.
+That's not us.
+So we hire people carefully because we don't like to add people unless we're convinced that those people are going to be here for the long term.
+
+The additional people, though, obviously, impact our gross margins.
+It's just a fact of life.
+And our people count is 135.
+So that's how many people received that $250 bonus, 135.
+
+Other factors which affected Q3 EBITDA and gross margins.
+Broken record here.
+And this stuff you'll see in Q4 as well.
+Outside testing costs related to data development for new product expected to be released in near future.
+
+Remember, our lab is a capacity as well.
+So we wanted to do this testing in our lab, but we were getting to it.
+So we had -- we're paying an outside lab to do the work, very expensive.
+GE9X.
+
+Sorry, I apologize.
+GE9X program, manufacturing trials, development costs.
+This thing is -- this program as these trials are really burdening our P&L.
+This is a lot of work, a lot of effort and not much in terms of current returns for it, I mean, in terms of financial returns.
+
+Some of the product we produce is actually sold, some of it's trialed that isn't sold, but it's just -- it's not a good economic thing.
+Now we hope, of course, to get the program.
+And at that point, we'll be happy about it.
+It will be a good economic thing and it should last for a long time.
+
+But right now, we're paying the price.
+Film adhesive manufacturing trials and development expenses that's still ongoing.
+That costs us.
+The cost of offering the 24-inch hot-melt line, while there's a cost of doing that as well.
+
+And legacy costs, they should end in Q4, but we still carry the legacy costs in Q3 and probably in Q4.
+Let's go to Slide 11.
+Now we talked about what happened in Q3.
+Let's talk about Q4.
+
+Q4 is highlighted.
+The right-hand column is just addition, that's the fiscal year, but just adding the columns, the one, two, three, four, of course.
+So let's focus on Q4 or forecast for Q4.
+$15 million to $16 million of revenue; EBITDA, $3.1 million to $3.6 million.
+
+A few things I want to point out regarding Q4 because we started Q4, of course.
+As of January 3, I guess, that was a week ago, Friday, maybe.
+The amount shipped so far in the quarter plus the amount booked to be shipped in the quarter was about -- approximately $13 million.
+So there's a little bit of a hole to fill to get to that $15 million to $16 million top line.
+
+Also, unfortunately, it's deja vu all over again, to quote a great sage, Yogi Berra, right?
+We're off to a slow start in December.
+Two things.
+Lengthy shutdown for major maintenance.
+We've been running our factory so hard that we just haven't had the time to do the major maintenance.
+
+I'm not talking about the normal PM.
+I'm talking about stuff that it takes a couple of weeks to do.
+For instance, our floor was looking really kind of crappy.
+And we just couldn't -- we didn't -- we couldn't get the time to redo our floor.
+
+So we bit the bullet and we said, look, we're doing it over the holidays, but it's -- it was quite a long shutdown.
+And when you're doing the floor, you can't operate the factory, of course.
+And other major maintenance items.
+So we felt we needed to bite the bullet and take care of these things, which have been put off because we just were running the factory so hard we didn't have time to do it.
+
+And the carbon fiber shortage.
+Again, you probably start hearing this, I certainly am.
+But yes, the supplier was not able to meet our forecast.
+So fiber was air freighted from Japan this week, so we're catching up.
+
+So here we are again.
+We are behind the power curve.
+December was a slow month.
+So we're going to have to make it up in January and February, deja vu all over again.
+
+So OK, that's our comment about the -- more perspective upon Q4, however, that's still our forecast.
+I mean, we -- the things we're just discussing, obviously, we take those things to account, we come up with our forecast.
+I will remind you that we don't sandbag or forecast.
+When we give you a forecast, what do we say?
+We're saying to you, this is what we think will happen.
+
+We're not sandbagging it, so we can beat it or something like that.
+Other people think that's a good way to do it, but that's not the Park way.
+We tell you it's our best ability of telling you what is true.
+We could be wrong, but it's our best ability to tell you what we think will happen, OK?
+So let's keep going.
+
+Factors, don't even need to read them because they're same factors that we talked about for Q3, right?
+They're still in place, outside testing costs, GE9X Program, film adhesive trials, a 24-inch line.
+Legacy costs, like I said, they should end by the end of Q4.
+So hopefully, that item won't be there in the next quarterly presentation.
+And I want to remind you, by the way, that Q4 of last year was a 14-week quarter.
+
+That's unusual.
+This year's Q4 is a 13-week quarter like our normal quarter.
+So every four years, we have a one 14-week quarter to kind of catch-up with the calendar.
+Let's go on to Slide 12.
+
+How are we doing on time?
+Not so well.
+Slide 12.
+So more comment about our forecast.
+Factors affecting predictability of short-term forecast.
+
+Actually, this is not really completely correct.
+It affects not just short-term forecast, it affects long-term forecast as well, these factors.
+All the major jet engine company programs and GE Programs, except the 747-8, my favorite airplane, are ramping or in development.
+Makes it very difficult to forecast because when things are steady state, you can kind of predict them better.
+
+But when things are ramping, then the question is, well, are they going to ramp that fast or little faster or little slower.
+It's much more difficult to, especially for short-term forecasting, to understand what will happen when programs are ramping, especially ramping steeply because, again, you're running short in territories as well.
+A severe stress in aerospace industry supply chain, not a new item, but this continues.
+It's very present, very palpable and it makes things very difficult because whatever we say, whatever our customer says, they have other suppliers.
+
+And if those other suppliers aren't beating the time lines, meeting demands commitments, it can slow everything down.
+That's something very hard for us to predict.
+Because of tight manufacturing capacity, reduced carbon fiber and fabric raw material inventory and a tight carbon fiber supply, there is very little slack or leeway in the system, making it difficult to recover from supplier production shortfalls.
+In other words, if we get behind, we have to catch up.
+
+It's not so easy because we've sold to find the raw materials to carbon, and we have to have the manufacturing capacity to do it to catch up.
+So we already commented what happened in Q3, we were pedal to metal for two full months in a hot melt.
+Just FYI, we're not going to -- we're not updating our long-term forecast today.
+We'll do that on January 15 at the Needham conference.
+
+And we'll be attending Needham conference.
+We'll maybe give a little more information that later on in the presentation and that would be the point at which you'll see our new long-term forecast.
+We haven't quite finished it yet, so we'll do it at that point.
+Slide 13.
+
+OK.
+So maybe this is a little more interesting, a kind of fun stuff.
+Update a major jet engine company programs that's the GE Aviation programs.
+Boeing 747 is flat.
+
+How long will the queen of the skies will be produced, I hope forever, but although some people think it's probably not likely.
+But that's like I said my favorite airplane.
+So if they discontinue it, that would be kind of a poignant moment for me, but we love that program.
+That was our first program, also our first GE program.
+
+So it has sentimental value for that reason as well.
+The first shipment, I think, was in -- was at February 28, 2014, that was for the 747.
+Second item, yes, this is a big deal.
+The A320neo family, That' a 321neo, the 321XLR.
+
+That's very strong and still ramping.
+That's like the big kahuna of our -- of the GE programs, we supply into the -- but that's not the only one.
+Bombardier Global 7500 with the Passport 20 engines.
+That's ramping nicely.
+
+The COMAC ARJ, that's regional jet, ARJ21 with a CF34-10A engines, that's ramping nicely.
+This is all good.
+The COMAC919 with a LEAP-1C engines.
+That's still down the road to ramp for that.
+
+And then the 777X with the GE9X engines.
+Yes, that's been pushed out.
+You're probably not shocked to hear that because there's a lot of news about the 777X delays in the schedule and all kind of complicated things of Boeing right now.
+So the current focus, and this is coming from our customer, of course, for us is the development work, and I'm going to remind you that the 777x, the GE9X, that's GE Aviation program, not in -- it's not in the MRAS LTA.
+
+Top five customers.
+This is alphabetical order.
+Let's talk about them.
+AAR, they've been popping up recently.
+
+That's for multiple programs, mostly interior structures.
+At GKN Aerospace that's mostly for Sikorsky and GE Aviation programs.
+Kratos Defense & Security Systems, I think, we mentioned we think we're the main -- well, we're told by them, we're the main supplier of material -- prepreg materials for all their target in tactical drones, including the Valkyrie, they announced recently.
+Lockheed Martin, I got to tell you, that's a secret program, it's a secret development program, and I don't think we'll ever be able to tell you anything about that.
+
+Other than just it's a secret development program.
+Middle River Aerostructure Systems, that's the Holy Grail.
+We don't need to comment on them.
+I think you know who they are.
+
+Let's go to Slide 14.
+Recent developments.
+So these are some big things and maybe some things of interest, kind of a combination.
+A major private space company, NRE is in progress.
+
+We can't say more about than that, but it's a very exciting program for Park to be on, very happy about it.
+We were qualified at a new -- sorry, an initial low rate production, sorry about that, on a new EVTOL program.
+You read about these quite a bit.
+Sometimes what they call urban air mobility, air taxis.
+
+This is for a large OEM.
+So we're hopeful on that program.
+We're qualified on a new hypersonics program, and we received original POs for that.
+We're not able to talk about that at this time.
+
+Here's a nice one, DC-10/KC-10 aircraft.
+The KC-10 is, I think, the tanker version of the DC-10.
+It's a big three engine airplane that was developed by Douglas.
+It's not in production anymore.
+
+But we're in production of a niche component.
+These are, I guess, you call, spares using Park materials.
+And that's really key because sometimes we produce components or parts, we're using somebody else's materials.
+This is Park's proprietary material, so it's a very nice thing.
+
+This is not going to be a very large program, but we love these programs.
+We love it.
+What happened, it was too difficult, too much of a problem, too much trouble for everybody else.
+What we do, we love that kind of stuff, and we kind of raise our heads and yes, we'll do it.
+
+That's kind of our business -- way of doing business, our modus operandi.
+Northrop Grumman, so we've been on this program for a while, but they recently announced plans to increase the Global Hawk and Park materials are qualified in those programs.
+So that was in the news recently, the Global Hawk because that was the type of drone that was shot down by the Iranians.
+So this next item, yes.
+
+So there was a Wall Street Journal article, December 20, 2019, recent article, reporting a deal for CFM manufacturing.
+CFM is a JV between Safran and GE Aviation for LEAP engines.
+CFM International to produce an increased volume of LEAP-1A engines for -- that's for the A320neo family of aircraft.
+That's the big kahuna for Park.
+
+So in addition to that, there's been -- so there's a couple of things I want to add here.
+This is actually a market share thing.
+This doesn't relate -- this one doesn't relate to the problems with the 737.
+I think more market share has been given to this than LEAP-1A as compared to the Pratt-geared turbofan.
+
+The A320neo family shares as two engines that are qualified, certified, one is the Pratt engine, one is the LEAP engine.
+We're on the LEAP program through MRAS, and it looks like according to this article that CFM is a deal to take on more market share for their engine.
+The other thing is there's been reports recently that because of the 737 MAX issues that Airbus is actually attempting to increase production of the A320 family of aircraft.
+So what does this mean for Park?
+It's hard to say because the question is going to be can this supply chain support these increases, maybe we can, but we're only one component on an airplane.
+
+And the question is can the supply chain support these increases?
+There's a lot of pressure on the supply chain already, as I said.
+So we'll see.
+Obviously, it's a good development for Park.
+But it's hard for us to really understand what it will mean.
+
+It's a positive development.
+Not possible for us to quantify it, though.
+Next item.
+Single-isle versus wide-body aircraft, the paradigm shift.
+
+There's a lot of reporting about this as well that the trend is more toward single-isle aircraft and away from wide-body aircraft.
+There's a lot of reasons for that in terms of the dynamics about air travel, which we won't go into now.
+And you could read plenty of articles about this.
+This is not coming from me.
+
+But the point is that single-isle from what seems like from most of the consensus, from what industry analysts think, seems to be the place -- seems a bigger the place to be the single isles.
+And it seems like we're well-positioned with single-isle with the A320 family of aircraft and the COMAC919 aircraft.
+So that's very good for Park.
+The other major single-isle contender is the Boeing 737, the 737 MAX aircraft, and we don't have any content we're aware of on that third platform.
+
+So I just want to say this is pure luck.
+It's not like we had some strategic vision that we're going to focus on single-isle, which we saw that single-isle was going to -- be going up and that wide-body be going down.
+It's also another just luck in terms of being on the A320 and the COMAC919 as compared to the 737 MAX.
+We of course didn't -- we didn't foresee the problems with the 737 MAX, just pure luck in both cases.
+
+But nevertheless, we still feel like we are positioned well in the single-isle area, which seems to be the growth area for commercial aviation.
+OK.
+So we're almost done.
+Thanks for hanging in there for so long.
+
+Slide 15.
+The Park is still immersed in battling through challenges related -- relating to steep program ramps, ongoing severe stress on the aerospace supply chain, tight supply of raw materials, operating with tight raw material inventories and our own manufacturing capacity limitations, but we don't quit.
+We don't back down to relent.
+That's just not our way of doing things.
+
+Last thing, as I mentioned earlier, we'll be presenting at the 22nd Annual Needham Growth Conference.
+The presentation will be at 12 noon Eastern Standard Time.
+That's, I think, it's Wednesday, January 15, and our presentation will be available via webcast on our Park's website.
+So we suggest you listen in and look at that presentation.
+
+I think that's -- I think we have been to every Needham conference since the first one.
+So this is 22 for us.
+And that is the end of our presentation.
+We're at the thank you slide, Slide '16.
+
+So operator, if anybody's still listening in, we'd be happy to take some questions.
+
+
+
+
+

@@ -1,0 +1,197 @@
+Speaker :: Joe Calabrese -- Investor Relations
+
+
+Thank you.
+Good afternoon, everyone and thank you for joining us for the Old Republic conference call to discuss third quarter 2020 results.
+This morning, we distributed a copy of the press release and posted a separate statistical supplement, which we assume you have seen and/or otherwise have access to during the call.
+Both of the documents are available at Old Republic's website, which is www.
+oldrepublic.com.
+
+Please be advised that this call may involve forward-looking statements as discussed in the press release and statistical supplements dated October 22, 2020.
+Risks associated with these statements can be found in the Company's latest SEC filings.
+This afternoon's conference call will be led by Craig Smiddy, President and CEO of Old Republic International Corporation and several other senior executive members as planned for this meeting.
+
+At this time, I'd like to turn the call over to Craig Smiddy.
+Please go ahead, sir.
+
+
+
+
+
+Speaker :: Craig R. Smiddy -- President and Chief Executive Officer
+
+
+Thank you, Joe.
+Well, good afternoon, everyone and welcome again to Old Republic's third quarter earnings call.
+With me today, we have our CFO, Karl Mueller; and Carolyn Monroe, the President of our Title Insurance Group.
+
+So we're obviously very pleased with the results we posted for this quarter, especially the record performance we saw in the Title Insurance Group, along with the improvement in the underwriting profit in the General Insurance Group.
+Overall, very strong quarter with $0.52 of operating income per share and a consolidated combined ratio of 92%.
+Although, our growth in net written premiums returns to our General Insurance Group this quarter, the pandemic has made it difficult to grow General Insurance's net earned premiums this year.
+However, our Title Insurance Group set yet another production record this quarter and year-to-date.
+
+So we continue to see the benefits of our strategy to focus on the P&C and title markets delivering a diverse portfolio of specialty products combined with an exceptional customer service record in each of these markets.
+As demonstrated in our results, this strategy continues to contribute to our track record of more consistent growth and profitability when we combine the two.
+
+So at this point, I'll turn the discussion over to Karl to review our overall consolidated financial results.
+Then he will turn things back to me to cover the General Insurance Group followed by Carolyn, who will discuss the Title Insurance Group, then we open up to Q&A.
+
+So with that, Karl?
+
+
+
+
+
+Speaker :: Karl W. Mueller -- Senior Vice President and Chief Financial Officer
+
+
+Thank you.
+Good afternoon, everyone.
+This morning, we announced third quarter net income excluding all investment gains and losses of $0.62 per diluted share, which is an increase of 21.6% from the third quarter a year ago.
+For the first nine months of 2020, net income, again excluding investment gains and losses was $1.50 per diluted share, which was up 10.3% from 2019.
+
+Consolidated net premiums and fees earned grew by roughly 6.5% during the third quarter and 6% for the first nine months of the year.
+This growth was primarily fueled by our Title operation, as it reported strong 17% growth for both this year's third quarter, as well as on a year-to-date basis.
+
+Net premiums earned for the General Insurance Group were relatively flat in 2020 compared to the same periods a year ago, posting an approximate 1% decline in both 2020 periods.
+The run-off mortgage business earned premiums continue to decrease in line with our expectations.
+This segment of the business is predictably becoming even less significant to the consolidated totals.
+
+
+
+
+
+Speaker :: Net investment income decreased by 5.6% for the quarter and 2.5% year-to-date net -- and that's largely attributable to lower yields that more than offset the growth in the invested asset base, and that growth results from the investment of the significant positive operating cash flows that we reported.
+
+
+Looking then to underwriting results, this quarter's consolidated combined ratio declined to 92% compared to 94.4 registered last year.
+For this year's first nine months, the combined ratio improved to 94.2% from last year's 95.2%.
+The improvement was driven by greater underwriting results in both the General Insurance, as well as the Title Group, as Craig and Carolyn will discuss momentarily.
+
+All three segments recorded favorable development of claim reserves in the quarter and for the year-to-date.
+On a consolidated basis, this reduced the reported claim ratios for the current quarter and year-to-date periods by 1.5 percentage points and 0.9 percentage points respectively.
+The allocation of invest -- the investment portfolio at the end of September remain relatively unchanged with earlier 2020 and 2019 periods.
+Approximately three-quarters of the portfolio is invested in bonds and short-term investments, remaining 25% is allocated to equity securities, primarily large cap companies that have a long history of paying and steadily increasing dividends.
+We don't currently anticipate any material changes to our investment strategy.
+
+Further improvement in financial markets resulted in a third quarter rise in the valuation of our equity portfolio by roughly $79 million.
+At September 30th, the equity portfolio reflected an unrealized gain of $412 million.
+And as of yesterday's close, the portfolio had rebounded by an additional $100 million.
+The retention of earnings in excess of dividends paid in combination with increases in the fair value of investments during the quarter contributed to the book value per share reaching $20.39 at the end of the quarter net, inclusive of dividends paid is a 4.7% increase from June.
+
+So now let me take a moment or two to make a few comments regarding our run-off mortgage insurance segment.
+One positive development is that the business has returned to operating profitability, which totaled $4.5 million for the third quarter and $8 million on a year-to-date basis.
+We continue to closely monitor the impact of unemployment levels, as well as the effects of government loan forbearance programs on reported delinquencies.
+During the third quarter, delinquencies declined by 4.4%.
+
+And another positive note is that the proportion of delinquent loans in forbearance increased to 47% of the total, up from 41% at June.
+Our experience and expectation is that these loans will have a lower ultimate claim rate and therefore, we continue to segregate and reserve for this population of loans separately.
+
+From a capital perspective, the mortgage companies' statutory capital at the end of September totaled roughly $424 million.
+And after dialog with our state regulators, we expect to resume the payment of extraordinary dividends from the mortgage companies starting again in 2021.
+So overall, as Craig mentioned earlier, we believe the results this quarter were very favorable.
+
+And with that overview, I'm going to now turn it back to Craig for discussion of the General Insurance Group.
+
+
+
+
+
+Speaker :: Craig R. Smiddy -- President and Chief Executive Officer
+
+
+All right.
+Thanks, Karl.
+So as Karl and I both touched on compared to 2019 third quarter and year-to-date, the General Insurance Group net premiums earned remained relatively flat, mostly as a result of the pandemic, while net premiums written begin to increase once again in the third quarter.
+Compared to 2019 third quarter and year-to-date, pre-tax operating income rose by almost 21% in the quarter and by almost 7% year-to-date.
+And of course, this is resulting primarily from improved claim ratios.
+The overall combined ratio improved from 97.7% to 95.5% in the quarter and improved from 97.1% to 96.5% year-to-date.
+The claim ratios we reported were inclusive of prior year favorable development of 0.8 percentage points in the quarter and 0.5 percentage points year-to-date.
+
+Again compared to the 2019 third quarter, net premiums earned in commercial auto grew by 1%, while net premiums written grew by 6%.
+This reflects some restoration of the exposure base in the third quarter, along with the positive effects of rate increases, which for this line of coverage now continue in the low teens.
+
+Our third quarter commercial auto claim ratio improved to 80.4% compared to 85.6% in the same period of 2019.
+And we think this reflects the work that we have been doing year in and year out on this line of coverage, as we continue of course, with rate increases, and as we continue to perfect our stricter risk selection criteria to bring that ratio back in line with our target in the low 70s.
+Claim frequency, I'll touch on here too for this line rose from the lows we saw in the second quarter, but it's still not at the pre-pandemic levels.
+And as far as severity that began all the way back in 2013, we think it still continues due to higher speeds and of course, the so-called social inflation influences on settlements.
+
+Turning to workers' compensation, compared to the 2019 third quarter workers' comp net premiums earned and written both fell 11% reflecting reduced exposure base, as payrolls have not rebounded certainly not to the extent that we saw with commercial auto exposures.
+And additionally of course, we're -- we've been faced with rate decreases in the marketplace on this line over the last few years.
+And although, there is still some rate decrease we're approaching flat -- flat rates in this line.
+The workers' compensation [Technical Issues] ratio came in at 54.1% compared to 55.4% in the third quarter of 2019.
+Here and [Phonetic] aside from COVID-19 related claims, claim frequency here too rose from the lows that we saw in the second quarter, but frequency is still not back to the pre-pandemic levels for this line either.
+
+Just to touch on COVID-19 workers' compensation claims here as well.
+They continue to behave as we discussed following the first and second quarters with 95% of our COVID-19 workers' compensation claims coming from loss sensitive business, such as large deductibles.
+And then separately 95% of the COVID-19 claims continue to be very mild in nature with very low claim payment, with less than 1% of the claim severe or fatal.
+So we continue to be comfortable with our current accident year loss ratio selection for workers' comp, taking into consideration the lower frequencies, the loss sensitive nature of our business, and the high proportion of mild cases for COVID-19 claims.
+
+Turning to general liability.
+Our claim ratios there show an increase in the third quarter relative to the '19 -- 2019 third quarter.
+But as we typically point out this is a smaller line of coverage for us and -- and therefore, there is less stability in the claim ratio quarter-to-quarter.
+And recall, we typically provide this coverage along with workers' comp and commercial auto coverages.
+So for the three of those coverages combined, the commercial auto work comp and general liability, the third quarter claim ratio came in at 72% as compared to 73% in last year's third quarter.
+The remainder of our other line of coverage claim ratios, all showed improvement relative to the third quarter of 2019.
+
+So we think our strategy that includes providing large P&C clients with loss sensitive programs continues to contribute to greater consistency in our profitability.
+And while it will be difficult for General Insurance to achieve our top line growth goals for this year, we will continue to seek the appropriate price for our products, and we'll continue to focus on improving our underwriting profitability.
+
+So with that, I'll now turn the discussion over to Carolyn for her comments on the Title Insurance Group, who by the way along with her team continue to execute at an extremely high level providing outstanding customer service.
+
+And Carolyn, with that, I'll turn it to you.
+
+
+
+
+
+Speaker :: Carolyn Monroe -- President of Title Insurance
+
+
+Well, thank you, Craig.
+As reported this morning the Title Group posted stellar third quarter and year-to-date results for 2020.
+Our Title employees continue to press on effectively serving the needs of agents and customers through what continues to be very challenging times.
+I'm grateful and honored to be associated with such a dedicated and hardworking group of individuals.
+
+All-time third quarter and year-to-date highs were set for both underwriting revenue and operating profit.
+As Karl reported earlier, total premium and fee revenue was up approximately 17% for both the quarter and year-to-date.
+Our pre-tax operating income of $103 million for the quarter compared to $73 million in last year's third quarter, an increase of $30 million or 41.5%.
+Year-to-date, pre-tax operating income of $212 million compares to $154 million in the prior year-to-date period, an increase of $58 million or 37.9%.
+Year-to-date 2020, our combined ratio of 91.2% compares favorably to the 92.9% reported for the comparable 2019 period.
+
+Technology continues to be an important focus for our industry and for our Company.
+We continue to make notable inroads with Pavaso, our digital closing platform to meet the growing need and expanded use of remote finding, as a result of shelter-in-place orders.
+We expect this growth and adoption of the digital closing model to continue due to the ease and flexibility being experienced in the marketplace, accelerating its usage and acceptance.
+
+Within the Title Group, we implemented a robotic process automation platform and experienced early success with the initial bot and are moving forward with deployments across all areas of our business to exploit the benefits of this technology.
+Most notably, we expect to realize improved accuracy and compliance, benefits of scalability and increased speed and productivity, which plays to our strengths in technology and customer service.
+
+The robust growth seen so far in 2020 reflects the continued strength in the US mortgage origination market, in particular refinances.
+As we enter the fourth quarter, order counts remain strong, mortgage rates are projected to remain favorable, and homeowners with the renewed focus on their living space should all contribute to an expected strong finish to the year.
+I can't say the loss [Phonetic], my heartfelt gratitude goes out to all of our employees, as they remain focused and positive, as they all deal with the increased daily challenges both professionally and personally during these difficult times.
+The same goes for our Title agents, who are focused on service differentiates Old Republic in the market.
+
+Our accomplishments are achieved with the unwavering commitment of our employees and the support of our agents.
+As with past challenges, we will rely on the same guiding principles of integrity, managing through the long run, financial strength, protection of our policyholders, and the well-being of our employees and customers that have served us well for over the last 10 or plus years.
+
+And with that, I will turn the call back over to Craig.
+
+
+
+
+
+Speaker :: Craig R. Smiddy -- President and Chief Executive Officer
+
+
+All right.
+Carolyn, thank you very much.
+Congratulations on a great quarter and year-to-date result.
+So again, we're very pleased with this quarter's operating results both in the Title Insurance Group and the General Insurance Group.
+Our strategic diversification between General Insurance and Title Insurance continues to produce superior, more consistent results, and we will continue on with our focus on underwriting excellence and profitability, and of course, customer service.
+
+So that concludes our prepared remarks, and we'll now open up the discussion to Q&A.
+
+
+
+
+

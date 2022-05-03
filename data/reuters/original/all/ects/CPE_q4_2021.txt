@@ -1,0 +1,242 @@
+Speaker :: Kevin Smith -- Director of Investor Relations
+
+
+Thank you, Chantal.
+Good morning, and thank you for taking the time to join our conference call.
+With me on today's call are Joe Gatto, president and chief executive officer; Dr. Jeff Balmer, SVP and chief operating officer; and Kevin Haggard, SVP and chief financial officer.
+
+During our prepared remarks, we made reference to the earnings results presentation in our fourth quarter and full year earnings press release, both of which are available on our website.
+So I encourage everyone to download both documents if you haven't already.
+You can find the slides on our events and presentations page in the press release under the new settings, both of which are located within the investor section of our website, www.
+callon.com.
+Before we begin, I would like to remind everyone to review our cautionary statements, disclaimers, and important disclosures included on Slide 2 of the presentation.
+
+
+
+We will make some forward-looking statements during today's call that refer to estimates and plans.
+Actual results could differ materially due to the factors noted on the slides and in our periodic SEC filings.
+We will also refer to some non-GAAP financial measures today, which we believe help to facilitate comparisons across periods with our peers.
+For any non-GAAP measures we referenced, we provide a reconciliation to the nearest corresponding GAAP measure.
+
+You may find these reconciliations in the appendix to the earnings presentation slides in our earnings press release, both of which are available on our website.
+Following our prepared remarks, we'll open up the call for Q&A.
+And with that, I'd like to turn the call over to Joe.
+Joe.
+
+
+
+
+
+Speaker :: Joe Gatto -- President and Chief Executive Officer
+
+
+Thank you, Kevin, and good morning, everyone joining us for the call, especially on a day with concerning developments in other parts of the world.
+As we run through our introductory comments, I encourage everyone to take a look at the earnings presentation on our website for additional background on our commentary.
+But before we get started, I'd like to formally introduced Kevin Smith, our new director of Investor Relations.
+Kevin has over 15 years of industry experience in the energy sector, working most recently in investor relations and previously as a research analyst covering the [Inaudible] industry.
+
+We are excited to have him here with us, and I'm sure you'll all enjoy working with him.
+I'd like to start by discussing the fourth quarter during which we once again achieved stellar results and beat expectations.
+For the quarter, total production came in at over a 112,000 barrels of oil equivalent per day.
+This was at the high end of guidance, driven by strong well results from the Permian Basin and efficient integration of the Delaware sell acquisition.
+
+Additionally, operating cost categories came in at either the midpoint or below guidance as our strong cost controls were effective at mitigating inflationary pressures.
+Overall, Callon's operating performance combined with our disciplined capital spending program that was below budget for the year, drove free cash flow generation to a new record of approximately $125 million for the quarter.
+As we went back to 2021, we began the year with ambitious goals for leverage improvement, by maintaining a disciplined reinvestment model and advancing our sustainability initiatives.
+I'm very pleased to say that we delivered across the board on those commitments.
+
+Early in 2021, we outlined a capital allocation framework reinvestment rates of 65% to 75% of our operating cash flow at planning process.
+In 2021, challenge actual capex ultimately represented less than 60% of our operating cash flow as commodity prices prove to be higher than our planning prices while our capital plan remained unchanged, setting the stage for excess free cash flow to flow directly debt reduction.
+This cash flow profile was a clear product of our operating profit margin that grew by roughly 141% year-over-year and remains top tier in the industry.
+As I mentioned earlier, aggressive debt reduction on both an absolute and leverage metric basis was a key focus for the team in 2021.
+
+Our free cash flow generation, combined with our asset monetization and liability management initiatives, contributed to $760 million of absolute debt reduction.
+It resulted in a net debt to adjusted ratio of 2 times on a fourth quarter annualized basis.
+These are impressive achievements that have put us in an advanced position for further balance sheet improvement and discipline reinvestment in a robust portfolio of drilling locations.
+Alongside our operational financial performance, we are all proud of the work the collective organization has done to reduce greenhouse gas emissions and improve Callon's overall carbon footprint.
+
+As you may recall, last spring, we renounced meaningful goals to reduce flaring and GHG emissions by 2025.
+Given our progress in reducing flaring in 2021, paired with increased methane emissions initiatives that are in process that accelerate our goal timeline by one year to 2024 increased our GHG reduction target to at least 50%.
+As part of raising that bar relative to our original GHG goals, we also expect to reduce our methane intensity to less than 0.2% by 2024.
+Reduce total flaring to below 1%  by 2024, and eliminate all routine flaring this year.
+
+In the presentation materials, we've outlined an inventory that represents 15 years of locations that are economic at $50 per barrel and below based on third party estimates.
+But I also want to highlight our substantial true reserve base, 485 million barrels of oil equivalent at year-end, comprised of 60% oil and 85% Permian volumes.
+Importantly, we increase PDP volumes by almost 30% in 2021, and PDP now represents 57% of total proved reserves.
+In addition to add improved volumes at an attractive valuation through acquisition, we replaced over 100% for 2021 production through the drill bit at a PDP FND cost of approximately $8 per BOE.
+
+The total our SEC PV-10 valuation increased by nearly $5 billion as we exited the year with an SEC PV-10 value $7.1 billion.
+For 2022, we have set a capital budget of $725 million, which represents an operating cash flow reinvestment rate approximately 60%, $75 per barrel WTI is expected to generate free cash flow well over $500 million using that oil price assumption.
+That recent strip pricing levels imply reinvestment rate would decline to approximately 52% and free cash flow an increase of nearly $700 million.
+Our capital allocation to the Permian will increase to 85% this year, as we advance our scale development model across a recently expanded opportunity set of over 135,000 acres in the basin.
+
+Importantly, found steady development program and proactive contracting strategy for key services, which we began last year, will help mitigate inflationary pressures being seen in the spot markets.
+As a result, we are forecasting cost inflation gradually completion and equipment costs in the range of 10%, driven primarily by labor, steel, and fuel costs.
+We are also budgeting approximately $20 million for environmental projects and initiatives, which are being accelerated this year to achieve the new goals ambitions that I discussed earlier.
+Looking at our 2022 production profile, we expect a production reset in the first quarter of 2022 as our production levels are impacted by fourth quarter divestitures of approximately 3,000 BOE per day, and a shift to a larger scale development model on the newly acquired properties, which will impact the timing of wells place on production.
+
+More specifically, the number of wells placed online in the fourth quarter of 2021 and the first quarter of 2022 combined, will be similar to the number in the third quarter of 2021 alone.
+Our POPs will rebound to over 30 net well in the second quarter of this year in conjunction with an expansion in our duct inventory to over 45 wells in the first half.
+This increased inventory will accommodate larger project sizes in the Permian, and create operational flexibility for future course.
+Note that shift in production timing will not compromise a sustained level strong free cash flow generation with the forecast of over $125 million in the first quarter.
+
+With this positioning for more efficient scale development across a larger portion of our asset base, we expect to deliver 10% growth in our oil volumes during the course of the year, and an average annual total production rate for the year in line with 2021 became an approximately 105,000 BOE per day after adjusting for acquisition divestiture activity during the year.
+Based on the forward curve, we also forecast sequential increases in operating cash flow through 2022, despite market backwardation.
+Some of our outlook for the upcoming year.
+I'll leave you with a few key points.
+
+Callons' extraordinary pace of deleveraging in 2021 will continue into 2022 on the strength of bleeding cash margins and maintenance capital program that has benefited by a scale development model.
+With free cash flow potential, and excess of 10% of enterprise value at recent strip pricing, we see a clear path to adding shareholder value as enterprise values transferred from debt balances to equity value.
+Callon's value proposition has a strong foundation inventory of 15 years of locations of $50 per barrel WTI and below with additional upside, I'm going to [Inaudible] from a multi zone resource base.
+In other words, this is a sustainable business model, not a story of near-term liquidation high grade inventory.
+
+I will now turn it over to Jeff to discuss operations.
+
+
+
+
+
+Speaker :: Jeff Balmer -- Chief Operating Officer
+
+
+Thank you, and good morning, everyone.
+As Joe pointed out, the operating environment over the last 12 months has presented many challenges, and I'm proud to say that our team was up for them.
+Thanks to our focus on execution and cost control, we had an outstanding year.
+Our  production results came in at the high end of guidance as well performance trended above expectations.
+
+Additionally, we exhibited exceptional cost control as we came in at or below the midpoint of capital cost and lifting cost guidance even in this inflationary environment.
+Now dig into the cost environment and what we're doing to offset inflation later in my prepared remarks.
+Now, I'd like to discuss some of the operational highlights we had during the year.
+Starting with the Eagle Ford, well, we do not have any completion activity in the Eagle Ford during the fourth quarter.
+
+I cannot overstate how important the 29 well Urban West project that came online during the second quarter played in our production results for the year.
+The Urban West project was the largest horizontal well development in the company's history, and took tremendous planning and coordination across essentially every part of challenge.
+It's been a terrific success.
+Another highlight from the Eagle Ford is ongoing efforts to vastly reduce emissions by having our fields on the electric grid.
+
+During the year, we collected 5 full fields to the power grids, and this allowed us to take 43 generators from service, which not only reduces our carbon footprint, but also results in over $2 billion in annual savings.
+This year, a plan is to continue expanding the field electrification across the Eagle Ford assets to release an additional 30 more diesel generators.
+Also will be replacing over 60% of the pneumatic devices with instrument air to help us move closer to our overall methane reduction targets.
+So, shifting to the middle index.
+
+We continue to have success with multi bench targeting in our lots of field development philosophies.
+During the fourth quarter, we completed an eight well 3 zone development in the Wolfcamp A, Wolfcamp B, in lower Sprayberry formations, bringing on two of those wells at the end of '21 and the other six and early January.
+Results to date for that project are excellent, with all wells meeting or exceeding expectations.
+To drilling days for the eight wells, which had an average lateral length of roughly 11000 feet, averaged about ten days from spud to rig release, which represents a reduction of 10% versus our average drilling time.
+
+So again, continued efficiency.
+Moving to the Delaware, we were very active during the fourth quarter, bringing online 16 wells, 3 of the wells, which I'll discuss later, were from our newly acquired Delaware South properties, so Primexx has become Delaware South.
+2 Ward County wells that we brought online that I would like to highlight are the cohort wells that we completed in the third bones springs formation, so a modestly nontraditional formation.
+These 5,000-foot barrel wells had an average 30-day IP rate of over 180045 BOE per day, of which 85% was oil.
+
+So again, short 5,000-foot laterals, making a significant amount of production.
+And the remaining wells in that development were Wolfcamp completions, all of which were performing in line with our expectations.
+Throughout the year, we've been very active in the Delaware Basin, converting old gas lift systems to ESPs or electric submersible pumps.
+And this decision has significantly helped improve well performance and reduce upfront costs of artificial lift systems.
+
+Our ESP management program is top tier and has resulted in an 80% improvement in runtime since 2018.
+Last year, we secured additional secondary gas gathering options for the Permian regions to help reduce our total gas flared.
+We also tested a dual fuel and electric frac fleet in the Permian region.
+The success of these two projects led us to sign four-year contracts for 2022 for both an electric frac fleet, as well as a high substitution rate dual fuel fleet.
+
+This year, we plan to upgrade natural gas treatment facilities, and we will be replacing a majority of our natural gas operated pneumatic with no [Inaudible] devices or instrument air to support our methane emission reduction initiatives.
+So next, I'd like to provide you with an update on the recently acquired Delaware South assets.
+And really, this has been as close to a seamless transition from an operations standpoint as possible.
+We completed the acquisition in October 1st, and within hours of closing, we had a crew onsite drilling out frac bugs and the 3 wells that were drilled and completed by Primexx.
+
+Our team successfully brought the three wells online within seven days of closing, these wells have been producing for roughly 90 days plus, and have oil cuts similar to our Delaware East assets and are performing in line with expectations.
+Currently, we're operating two rigs in our Delaware South assets.
+We recently brought online six additional wells and [Inaudible] to place another five wells on during the remainder portion of the first quarter.
+They're very excited about implementing our drilling and completion methods on this acreage, the size and stable nature of our overall development plan allows us to lock in supply and service contracts at more favorable pricing than operators that are having to deal with the tight spot market.
+
+As Joe mentioned, our capital budget is going to be primarily focused on the Permian Basin as we increase our attention to our Delaware assets.
+We plan on continuing to prioritize multi advanced development opportunities as we've really shifted away from the one in two well pads to focus at a larger scale.
+Over half of our 2022 Delaware program will target our new Delaware assets.
+And then, in the middle in Basin, our focus will be on multi zone infill development, primarily focused on the middle and lower Sprayberry and of course, the Wolfcamp A and B zones.
+
+In total, we've allocated approximately 85% of our DNC budget to target the Permian.
+In the Eagle Ford, we'll continue to drill into wells and record acreage and remain focused upon optimizing completion methods and costs.
+So lastly, I'd like to discuss the steps were taken to offset inflation.
+Just like our peers, we are experiencing cost inflation with average well costs between 8% and maybe 12%.
+
+We are primarily experiencing inflation in items like raw materials and fuel, and then, of course, we're also seeing our service providers pushing for price increases to reflect the tight labor market.
+To offset this, we've locked in long-term service contracts and rigs and factories.
+Our size and scale allow a huge actor, vendor management and really partnerships, and provides the opportunity also to buy in bulk pushing efficiencies that is primarily due to a very stable, well-outlined development program.
+And then specifically one area that we think we can bring down our lifting costs has been to Delaware South assets.
+
+We use our in-house expertise in chemicals management to source more effective and cheaper chemicals.
+And we've made significant progress in reducing our natural gas treatment costs.
+Additionally, again, in the Delaware South, we've already seen our proficiency in ESP runtime increase the overall runtime for the field, and the overall productivity of the new Delaware basin assets.
+So to wrap up, we exceeded expectations across the board in 2021.
+
+We've got the right plan, the right assets and the right operations team in place to once again deliver in 2022.
+And with that, I'll turn it over to Kevin to handle the financial.
+
+
+
+
+
+Speaker :: Kevin Haggard -- Senior Vice President and Chief Financial Officer
+
+
+Thank you, Jeff.
+During the fourth quarter and full year 2021, we delivered on our promises, set new records, and achieve key financial goals like our deleveraging target.
+Let's quickly look at some of these highlights.
+We set a new record for EBITDA, we've seen approximately $1 billion in adjusted EBITDA for the year.
+
+We delivered on our divestiture targets and realized $210 million more adjustments.
+Perhaps most importantly, we reduced our leverage ratio by over two turns during the year.
+Remarkable achievement ended the year with the pro forma leverage ratio of 2.3 times.
+With regard to this, 2.3 times, this is a pro forma calculation on leverage, which follows the closing of the Primexx acquisition October 1st.
+
+This pro forma metric is based on the same calculation we use with our lending banks and bond.
+During the fourth quarter, we once again, were able to expand our peer leading cash margins despite the higher lifting costs associated with our new Delaware South properties.
+[Inaudible] targeted for significant reductions in 2022, as Jeff mentioned.
+We realized an increase in operating margins as the high oil weighting of our asset base was lower gathering transportation and processing on a per unit production basis led to an 8% sequential increase in our quarterly operating margin to approximately $49 per BOE.
+This top tier margin helped us realize adjusted EBITDA of $339 million in the fourth quarter,16% increase over our third quarter results.
+
+The new company, record level of adjusted EBITDA and reduced interest combined with our disciplined capital spending has led to record levels of free cash flow.
+During the fourth quarter of Callon, generated an adjusted free cash flow for approximately $124 million.
+For the full year, we generated roughly $274 million of free cash flow.
+Our capital discipline has provided the opportunity to reduce debt levels and strengthen the balance sheet.
+
+During 2021, we reduced our debt balance by $290 million and lowered our RBO borrowing level to below 50%.
+You consider the $470 million in cash we borrowed for the Primexx acquisition, it is really $760 million of pro forma debt reduction over the course of the year.
+This also has positive implications for our equity value.
+Callon has now reduced debt levels for two consecutive years.
+
+Since year-end 2019, we have paid down roughly $500 million of debt.
+We view this as a form of returning money to shareholders as it has moved value from debt to equity.
+We are not done here, either, based on our initial 2022 guidance and consensus estimates, we expect to generate approximately $500 million of free cash flow in 2022 at least flat $75 oil price.
+This quantum of cash flow puts us in a position to achieve absolute debt levels approaching $2 billion and a leverage ratio 1.5 times by year-end.
+
+The continued achievement of our stated financial goals should also allow us to remove the second notes from our capital structure and reduce our overall cost of debt to our financial metrics more closely mirror those of a Double B credit rating.
+Turning to hedging, our hedge program for 2022 is fairly complete, minimizing the downside risk while still living upside potential.
+As we look at 2023, we remain proactive and adding additional hedges.
+You could see from the latest slides we've began to add 2023 of oil hedges that protect the floor of $70.
+
+The market has been helpful in this regard with both the oil and natural gas are strengthening recently in the out years.
+The strides we have made in deleveraging over the past two years plus the positive outlook for cash flow puts us in a good position to start having meaningful discussions about returning money to shareholders.
+While we are increasing equity value through debt reduction, we are rapidly approaching the point where many of our debt reduction and leverage goals will be achieved.
+We will need to discuss other ways to increase shareholder value.
+
+In the near term, we can do this organically through continuing to invest in our business and creating value organically.
+In the future, we can look to return capital shareholders through means like dividends and share buybacks.
+This is something we will be evaluating throughout the year as we investigate the best options to generate value for our shareholders while protecting the balance sheet and affording us corporate flexibility.
+With that, I'm going to turn things back over to Joe before we move to Q&A.
+
+
+
+
+
+Speaker :: Joe Gatto -- President and Chief Executive Officer
+
+
+I think, it's fairly appropriate to finish up here by thanking our employees for their tireless efforts and dedication, which drove an exceptional year for Callon.
+And it certainly sets us up for great things to come.
+So with that, I'm going to turn it back to Operator to open up for Q&A.
+
+
+
+
+

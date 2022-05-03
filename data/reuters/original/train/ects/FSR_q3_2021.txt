@@ -1,0 +1,210 @@
+Speaker :: Daniel Galves -- Vice President of Investor Relations
+
+
+Thanks a lot, Aaron, and welcome, everyone, to Fisker's earnings call.
+Joining me on the call today as usual, are Henrik Fisker, Chief Executive Officer; Dr. Burkhard Huhnke, Chief Technology Officer; and Dr. Geeta Gupta-Fisker, Chief Financial Officer and Chief Operating Officer.
+
+Before turning it over to Henrik, be advised we will make forward-looking statements within the meaning of the federal securities laws.
+Forward-looking statements generally relate to future events or future financial or operating performance.
+Our expectations and beliefs regarding these matters may not materialize.
+Actual results and financial periods are subject to risks and uncertainties that could cause actual results to differ materially from those projected.
+These risks include those set forth in the press release we issued earlier today as well as those more fully described in our filings with the Securities and Exchange Commission.
+The forward-looking statements in this presentation are based on information available to us as of today.
+We disclaim any obligation to update any forward-looking statements, except as required by law.
+We'll reference our financial measures that do not conform to Generally Accepted Accounting Principles or GAAP, during today's call, including non-GAAP operating expenses.
+This information may be calculated differently than the non-GAAP data presented by other companies.
+Quantitative reconciliation of our non-GAAP financial information to the directly comparable GAAP financial information appears in today's earnings release.
+
+With that, I'm happy to turn the call over to Henrik.
+
+
+
+
+
+Speaker :: Henrik Fisker -- Co-Founder, President, Chairman & Chief Executive Officer
+
+
+Thank you, Dan, and welcome, everybody.
+I've got some real interesting news I want to share in the end of my presentation, but I'll just start with some high-level bullets around the business.
+We are still on target with the Ocean to launch it in November next year.
+In fact, we're going to start ramping up the prototype built with Magna already in Q1 next year.
+We have, of course, already made some prototypes but from about the end of Q1 next year, we expect to start building two vehicles a day.
+I think that's pretty outstanding well over eight months before we launch the vehicle, and that will make sure when we launch, we can ramp up quickly into the high-quality vehicles, and that's on target.
+We also now hired a lot more people.
+We continue to hire, probably somewhere between 20 to sometime 30 people in months and we have well over 300 people in the company now.
+Our balance sheet remains solid with about $1.4 billion in cash.
+And also, we continue to accelerate our reservations.
+Now I'll talk a little bit about our marketing push as well.
+But just gearing up to the unveil the Ocean here at the LA Auto Show, where the PR base starts at 17, but we'll actually have a special event the day before which we will stream worldwide.
+So we are really excited about that.
+I'm going to talk a little bit more about that closer to that event date.
+
+We also got into validation phase that Burkhard will discuss and get a little bit more into detail about.
+And then, of course, at the show, where we are -- in LA Auto Show, we are going to really talk about the specifications of the vehicle, show our brand-new design interior with some pretty amazing features, definitely some that currently don't exist in any vehicle to-date.
+So I'm super excited about that.
+Also, we have made progress on the PEAR program.
+And actually, our internal team has come up with an expanded strategy around our FF-PAD development method.
+And what we are looking at is much more Fisker IP sharing between the Ocean and the PEAR, meaning a lot more components that we have developed and created IP on through our Ocean program.
+And what that means to the Ocean is that when we launch the PEAR in '24 we are going to start being able to use some of these components in both vehicles and much higher volume that ultimately will actually lower the Oceans, still the materials, the cost of Ocean even more.
+So, I'm also really excited about that.
+
+Let me get to marketing and sales.
+We have expanded this team dramatically.
+We have hired an agency which we are working with creating market materials.
+We are really waiting to, of course, kick off our big marketing push to around the 17th of November when we show the car.
+We obviously needed the vehicles to feature in advertising, online, digital media, etcetera.
+And all this is in the works right now.
+We are going to launch both in U.S. and Europe, major campaigns.
+I think they have some real Etsy cool stuff, and I'm really excited about it and that's going to go full blast from 17th November, and I expect that we will start seeing major acceleration in our reservations at that point in time as we obviously got to get more known across both the U.S. and Europe.
+We've also made progress on our ESG initiatives, and we are really looking at wanting to be able to explain more details and use real primary data about the full cradle to cradle life cycle analytics.
+And we'll be -- as we get closer to us, our start-up production will get more into details on that.
+
+Now, let me return to sort of the real big news here which is our new signed deal with CATL for batteries.
+And I want to elaborate a little bit about why this is such a big deal.
+We are going to launch very uniquely the Fisker Ocean with two different battery chemistries, of course, two different packs.
+And we already are running tests in these packs.
+Of course, they're going into all the prototypes as well next year.
+But what's unique about these two different pack is that the base pack actually is amazing when it comes to cost because it's using LFP, and that's a much lower [indecipherable] and that's how we are currently able to achieve the low-cost of the Fisker Ocean, specifically in that base price of $37,499 which I think is unrivaled by any competitor.
+Also, the type of range you're going to have there is going to be more than adequate probably for most people and quite good, actually.
+And then, of course, we have the second battery with NMC and the advances of that battery is not only in the cell but really in the pack and also what we have done with the structure of the vehicle in terms of the design of the pack itself.
+So our pack is not the space for our pack is not the typical square space you're seeing every single EV out there.
+It has a slightly different configuration which we're not planning to show off to our competitors too soon.
+
+But what it allows us to do is get the world's longest-range in our segment for an SUV and a power price class.
+Of course, you can make $150,000, $200,000 carbon incredible range but to make a vehicle, between $50,000 and $60,000 with such a long rate that we have achieved, I think, it's really magnificent, and it really shows what a phenomenal engineering team we have and great partnership we're having with CATL, and I'm really excited to show those numbers at the LA Auto Show.
+In fact, we will have models that people can choose between we got the sport model which will have the LFP battery, extremely well-priced.
+And then we have the two other models which we'll reveal the names of at the LA Auto Show, but both of those two will have the longest range in this segment.
+
+And as you know, right now, the longest range for sale in the U.S. is about $50,000 to $60,000 for either SUV on Crossovers around 326 miles and we'll be well over that with both these two other vehicles and I'm really excited about that.
+What's also unique about our powertrain is the efficiency because at the end of the day, we have an SUV.
+I didn't want to sort of skip out here and just do another hatchback crossover with great aerodynamics that doesn't really look that great.
+We wanted to create a vehicle that can sell globally in the fastest-growing market in the world which is SUVS.
+That's what people love.
+They love the utility, they love the looks, and that's what we're going for.
+We want to be different than our competitors.
+And despite having that larger SUV vehicles with all the utility that comes with it, we still have a vehicle that's class-leading range.
+And of course, as I mentioned, it's partly to do with CATL.
+It's partly to do with our energy-dense battery pack.
+It's partly to do with how our vehicle actually is designed and engineered in terms of space for the battery.
+
+And then our incredible powertrain which we're going to talk more about at the LA Auto Show as well.
+But one thing I will say that we haven't announced yet is that every version of the Ocean will have silicon carbide inverters, also the base vehicle, and that is part of a contribute to our really, really high performance, powertrain, long-range, really efficient.
+And I think what's interesting here is, why we be ahead of the competition?
+Well, we chose all this technology this year.
+So when you get a Fisker Ocean 12 months from now, your technology is the newest of the newest.
+If you buy any other car next year, most likely that technology was chosen three years ago.
+So that's why we're different, and that's why we're going to be trusted.
+
+I now want to hand it over to Burkhard to talk a little bit more about the details of what we're doing on the Ocean program.
+Burkhard?
+
+
+
+
+
+Speaker :: Burkhard Huhnke -- Chief Technology Officer
+
+
+Yes.
+Thanks, Henrik.
+Again, welcome everyone.
+As Henrik said, the sourcing process for Ocean is down to just a small few parts of the shelf items.
+So we have moved into this industrialization phase of the program.
+This involves, of course, a series of both virtual and physical body type builds that's already began earlier this year and will be ongoing through most of next year.
+We need to do the hard work to ensure all the components are seamlessly integrated, that we are on track with all the attributes.
+We plan for the car and it will meet all the safety, performance, durability standards in all-weather conditions and that it can be manufactured with the quality.
+So testing of our first build so-called Mule 1 was completed sometime ago.
+This was primarily to test the correlation of virtual safety testing with physical results.
+The Mule two build is complete and testing is ongoing.
+This continues to Mule 1 testing, but also adds powertrain, the battery electrical system function and platform durability.
+We also test complete vehicle function in hot and cold weather in this phase.
+
+Finally, as you can see from the photos on the earnings release, we are very happy to have started up the next prototype build at our manufacturing facility in Graz using production-intent components.
+And I can say it's super helpful, very helpful to build prototypes in the actual production facility which is unusual for a start-up.
+
+The body shop is operational.
+And once general assembly is up and running, the shop has capacity produced up to two cars per day.
+I'm very proud of our technical teams, both at Fisker and Magna for accomplishing a lot in a short period of time.
+We have the right plan to achieve on time style of production, so that's been through all the required test and validation work to prove quality, visibility, and durability from the start.
+
+Thanks.
+And now, I'll turn over to Geeta.
+
+
+
+
+
+Speaker :: Geeta Gupta-Fisker -- Co-Founder, Chief Financial Officer & Chief Operating Officer
+
+
+Thank you, Burkhard, and welcome, everyone.
+Really excited to be here today.
+Overall, I can say I'm really pleased with what we've accomplished as a team in preparation for the production SOP which is now just a year away.
+Over 90% of the Ocean business materials is now sourced and the remaining components, mostly just off-the-shelf parts.
+The sourcing process was definitely not easy but ultimately, we were successful at procuring a significant amount of advanced technology which will result in an amazing product packed with class-leading features.
+Beyond sourcing, the development process of this corrosion has taught us a lot.
+In various components and various technologies as both a system and a subsystem level has resulted in exciting fiscal owned intellectual property that we intend to put to use on all our future vehicle programs, as Henrik just alluded to now.
+
+Our recent announced battery reservation agreement with CATL marks our final long lead and one of the most critical items in the vehicle.
+Of course, the two companies have been working together on development, validation and testing since last year.
+And now we're really pleased that we can share with the public a committed long-term capacity agreement.
+And I want to make a statement that we actually visited CATL in 2019 and have spent three to four years developing trust and a phenomenal relationship with leadership at CATL, and it's evident from the quote that the President of CATL made in our joint press announcement.
+
+We have a committed supply of over 5-gigawatt hour per year capacity initially.
+This includes two different chemistries, as Henrik mentioned, a long-range NMC chemistry-based pack which is a high-capacity pack in the cathode, that's a port segment-leading range and a high-value pack which uses LSP from the cathode that supports the compelling price of Fisker Ocean Sport while providing range and acceleration consistent with the much more expensive EVs.
+We see this a very deep and strategic relationship with CATL and as part of our contract, we have the ability to jointly plan 12 months ahead of time to increase our capacity as we see demand in the market, including opportunities to localize production in various countries globally overtime.
+We are now needy, working with our suppliers and partners on the test and validation space, as Burkhard mentioned, supported by a robust set of timelines, milestones and shared deliverables.
+
+As we move from the sourcing phase to the industrialization phase, I have been able to turn my personal focus to the balance sheet as well as preparing the business to scale by focusing on our operations, hiring and building processes.
+We took action to bolster our balance sheet in August this year, raising $667.5 million in a convertible note offering at 2.5% interest rate and a 30% conversion premium through a cap call.
+We use part of the proceeds to find a cap call, reemphasize, we had a 30% conversion premium, and we used part of the proceeds to fund a cap call that takes the effective conversion price to $32.57 or 115% of the cost price at the time of the convert.
+This was an efficient way to bolster the balance sheet and be funding for additional vehicle programs.
+The timing was by choice, it was not out of a need, and the gas call signals our confidence in the future value of the company based on our internal view of both progress to date and the stellar product lines we intend to launch.
+
+On the operational side, as Henrik mentioned, we've also had a phenomenal year in hiring.
+We were 100 people last year, we now have over 300 employees that includes 20 extremely seasoned Vice President who have done a great job in building their own departments and the entire organization.
+And we have empowered our entire company with a very attractive performance-based restricted stock unit bonus which has created our existing employees to be part of the success of Fisker, but is also helping us immensely in retaining and hiring talent in this new market.
+We are now working with our advisors on setting up global entities worldwide and ID systems that take us from a development company into a revenue-generating product company with customers worldwide.
+And Henrik covered the work we need to build out the customer experience functions that are critical to launching a successful product.
+Our products are the number one focus, but if we don't have right IT systems in place to support those products, the business simply cannot scale.
+
+Now, turning to our results and outlook.
+Our operating expenses in Q3 aligned very closely with internal expectations.
+Capital expenditures were way below our expectations.
+As many of you know, capex is lumpy and very reliant on the timing of billings and suppliers which can sometimes be hard to predict.
+Our forecast is due to timely billing and has been slower than we expected despite ongoing work.
+That billing activity has picked up significantly so far in Q4, so we have good visibility that capex will increase meaningfully in Q4 as implied by our guidance.
+
+Operationally, the increase in R&D in Q3 versus Q2 was primarily the result of increased headcount, increased prototype spending, and modest engineering design and integration refinement as we enter into our industrialization phase.
+We expect a more modest sequential increase in Q4 on headcount and as the prototype book continues to ramp.
+The increase in SG&A expense in Q3 versus Q2 was a result of a higher headcount -- higher professional services as we engaged the global advisory form for tax structuring and IT spending on global ERP systems and CRM installations.
+We expect SG&A to more than double in Q4 due to kick-off of marketing campaigns to build our brand, including significant spending on the LA Auto show unveil of Fisker Ocean and activity surrounding that event.
+Plus, we will bring in to accrue lease expenses on our flagship LA Experience Center property we recently signed.
+
+Now, turning to outlook.
+As noted in the press release, our overall opex plus capex guidance stays unchanged at $490 million to $530 million but there has been adjustments in the categories.
+Our R&D increased $15 million at the midpoint.
+This is related to a refinement of the test and validation plan for the remainder of 2021.
+Our SG&A increased by $10 million due to a more robust marketing plan for Q4 and the flagship store lease I mentioned earlier.
+Higher opex was offset by about $25 million lower capex spending which is related to receiving late invoices from suppliers.
+Work is progressing on track, but we'll spend time refining when they are likely to be built for the work.
+
+Overall, I'm extremely proud of our entire Fisker team for all the accomplishments we've made so far in 2021.
+We have a lot of work ahead of us for sure as we enter the critical industrialization phase, but we have a lot of confidence in the plans we have established to execute a fantastic, profitable product on time and budget, and I can't wait to unveil the Fisker Ocean at the LA Auto Show.
+
+We're now happy to take your questions.
+
+
+
+
+
+Speaker :: Daniel Galves -- Vice President of Investor Relations
+
+
+Thanks, Geeta.
+Aaron, can you please compile in queue.
+
+
+
+
+

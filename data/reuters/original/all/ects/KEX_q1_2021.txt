@@ -1,0 +1,177 @@
+Speaker :: Eric Holcomb -- Vice President of Investor Relations
+
+
+Good morning, and thank you for joining us.
+With me today are David Grzebinski, Kirby's President and Chief Executive Officer; and Bill Harvey, Kirby's Executive Vice President and Chief Financial Officer.
+A slide presentation for today's conference call as well as the earnings release, which was issued earlier today can be found on our website at kirbycorp.com.
+During this conference call, we may refer to certain non-GAAP or adjusted financial measures.
+Reconciliations of the non-GAAP financial measures to the most directly comparable GAAP financial measures are included in our earnings press release and are also available on our website in the Investor Relations section under financials.
+As a reminder, statements contained in this conference call with respect to the future are forward-looking statements.
+These statements reflect management's reasonable judgment with respect to future events.
+Forward-looking statements involve risks and uncertainties, and our actual results could differ materially from those anticipated as a result of various factors including the impact of the COVID-19 pandemic and the related response of governments on global and regional market conditions and the company's business.
+A list of these risk factors can be found in Kirby's Form 10-K for the year ended December 31, 2020.
+
+I will now turn the call over to David.
+
+
+
+
+
+Speaker :: David W. Grzebinski -- President and Executive Officer
+
+
+Thank you, Eric, and good morning, everyone.
+Earlier today, we announced a net loss of $0.
+06 a share for the 2021 first quarter.
+The quarter's results were heavily impacted by the continuing effects of the COVID-19 pandemic and winter storm Uri, which brought extreme cold temperatures the Gulf close during February and virtually shut down the Gulf Coast refining and petrochemical industry for the balance of the quarter.
+I'd like to start by talking specifically about the major winter storm and the significant impact it had on Kirby and our customers.
+It has essentially pushed back our recovery a full quarter.
+The storm descended into Texas and Louisiana in mid-February, bringing with it a severe cold wave.
+During the storm, the Texas electric grid collapsed, plant infrastructure and pipeline froze and business came to an abrupt halt.
+Our customers' facilities were forced into hard emergency shutdowns, which contributed to unit damage even beyond what typically happens with events like hurricanes, where an orderly shutdown can be planned and implemented.
+As a result, refinery and chemical plant utilization and production levels plummeted for an extended period.
+In the refining complex, utilization in PADD III, which is the Gulf Coast, declined to 41%.
+This represents the lowest level on record in EIA's published data.
+It did not fully recover back above 80% until the end of March.
+In petrochemicals, the impact was also extensive, stretching across the entire Gulf Coast petrochemical complex and impacting our major customers.
+Operating rates at nameplate ethylene plants in Texas declined from 86% in January to the year, 40% in February and March, corresponding to a 51% decline in production and feedstock consumption.
+
+At the height of the storm, the majority of capacity and production was off-line, including 75% of U.S. ethylene capacity.
+More than 80% of U.S. olefins capacity, 90% of ethylene glycol production, more than 80% of polypropylene production, 65% of propylene production and over 60% of epoxy resins production.
+Overall, the damage was so widespread and severe that some of our largest customers have just recently restarted their plants and are not yet back to full production levels.
+With this impact on our customers, it goes without saying that Kirby's businesses were also significantly impacted.
+Particularly in England, where demand and overall volumes materially declined in February and through a large portion of March.
+As you would expect, this had a negative impact on pricing, which had stabilized prior to the storm.
+Distribution and services was also impacted by the storm, with most of our locations in Texas, Oklahoma and Louisiana closed for several days contributing to reduced activity, lower revenue and project delays.
+Overall, we estimate the winter storm directly contributed to losses totaling approximately $0.09 per share during the first quarter.
+Looking at our segments.
+In Marine transportation, the inland market started the quarter with gradually improving demand as economic activity was improving and refinery utilization has returned to levels not seen since the summer of 2020.
+However, this upward momentum sharply reversed as the winter storm set in and refineries and chemical plants along the Gulf Coast abruptly shut down.
+These weak market conditions contributed to continued pricing pressure in the quarter, with further reductions in both average term and spot pricing.
+However, toward the end of the quarter, refinery utilization recovered to over 80%, and most chemical plants came back online.
+
+As a result, our barge utilization recovered late in the quarter and by early April, it was over 80%.
+Importantly, this improvement contributed to stabilization and modest gains in spot market pricing in the last few weeks.
+In coastal, for the quarter, market dynamics were largely unchanged sequentially with continued low demand for refined products and black oil transportation.
+This contributed to minimal spot requirements and low barge utilization.
+In distribution and services, we experienced improved demand throughout much of the segment, which contributed to sequentially higher revenues and a return to positive operating income.
+The most significant improvement came from our oil and gas businesses, which experienced increased demand as U.S. rig counts and frac activity continue to recover from lows seen in the pandemic.
+In manufacturing, incremental orders and deliveries of new environmentally friendly and remanufactured pressure pumping equipment as well as some seismic equipment contributed to the quarter's results.
+There was also increased demand for new transmission parts and service in our oil and gas distribution business from major oilfield customers.
+In commercial and industrial, the continued recovery resulted in sequential improved demand levels in our on-highway and power generation businesses.
+Marine repair activity also increased with higher demand for major overhauls following the dry cargo harvest season in the fourth quarter.
+These gains, however, were offset by reduced product sales in Thermo-King as a result of supply chain delays and lower new engines sales in Marine repair.
+When combined with closures and lower activity associated with the storm, there was an overall sequential reduction in commercial and industrial revenues.
+In summary, the first quarter was tough and the freeze ultimately pushed back our recovery.
+In a few moments, I'll talk about the remainder of 2021, including our more favorable outlook in the second half of the year.
+
+I'll turn the call over to Bill to discuss our first quarter segment results and the balance sheet.
+
+
+
+
+
+Speaker :: William G. Harvey -- Executive Vice President and Chief Financial Officer
+
+
+Thank you, David, and good morning, everyone.
+In the 2021 first quarter, marine transportation revenues were $301 million with an operating income of $1.9 million and an operating margin of 0.6%.
+Compared to the 2020 first quarter, marine revenues declined $102.3 million or 25%, and operating income declined $48.8 million.
+The reductions are primarily due to lower inland and coastal barge utilization, significantly reduced pricing in inland and the impact of the winter storm.
+These reductions were partially offset by the savage in the Marine asset acquisition, which closed on April 1, 2020.
+Compared to the 2020 fourth quarter, revenues increased slightly by $1.5 billion, inclusive of increased rebuilds related to higher fuel prices, partially offset by a reduction in freight revenue.
+The reduction of freight revenue included lower pricing and volume reductions as a result of the winter storm.
+These were partially offset by a modest sequential increase in overall barge utilization.
+Operating income declined $27.2 million, largely due to the impact of significant disruptions and winter store-related volume reductions particularly as it related to contracts of affreightment as well as lower term and spot pricing in inland.
+Also contributing for seasonal wind and fog along the Gulf Coast flooding on the Mississippi River and ice on the Illinois River.
+Additionally, we did incur increased maintenance employee costs in the quarter's results as we began to ramp up our operations in anticipation of increased activity levels.
+This will continue in the second quarter.
+During the quarter, the inland business contributed approximately 75% of segment revenue.
+
+Average barge utilization was in the mid-70s range, representing a significant reduction as compared to the low to mid-90s range in the 2020 first quarter, but up from the high 60s range in the 2020 fourth quarter.
+Barge utilization continued to be impacted by the effects of COVID-19 as well as reduced refinery and chemical plant volumes as a result of the winter storm.
+Long-term inland marine transportation contracts are those contracts with a term of one year or longer contributed approximately 65% of revenue with 61% from time charters and 39% from contracts of affreightment.
+Term contracts that renewed during the first quarter were down in the high single digits on average.
+Average spot market rates declined approximately 5% sequentially and 25% to 30% year-on-year.
+However, late in the first quarter, rates stabilized and started to move off the bottom.
+During the first quarter, the operating margin in the inland business was in the low to mid-single digits.
+In coastal, our business continued to be challenged by significantly reduced demand for refined products in black oil as well as weak spot market dynamics.
+During the quarter, coastal barge utilization was in the mid-70s range, which was unchanged sequentially, but down from the low to mid-80s range in the 2020 first quarter.
+Average spot market rates and renewals of term contracts were generally stable.
+During the first quarter, the percentage of coastal revenue under term contracts was approximately 80%, of which approximately 85% were time charters.
+Coastal's operating margin in the first quarter was in the negative mid-single digits.
+With respect to our tank barge fleet, a reconciliation of the changes in the first quarter as well as projections for the remainder of 2021 are included in our earnings call presentation posted on our website.
+Moving to distribution and services.
+Revenues for the 2021 first quarter were $195.9 million with an operating income of $2.9 million and an operating margin of 1.5% compared to the 2020 first quarter, distribution and services revenues declined $44.8 million or 19%, and operating income declined $0.8 million.
+
+These reductions are primarily due to the pandemic lower oilfield activity in the winter storm, with the impact to operating margins mitigated by significant cost reductions throughout 2020.
+Compared to the 2020 fourth quarter, overall demand for our products and services steadily improved, with revenues increasing $5.6 million or 3% and operating income increasing $5.8 million.
+Favorable sales mix contributed to the increase in operating income.
+In commercial and industrial, increased economic activity results in improved demands for parts and services in the on-highway power generation and marine repair businesses.
+However, lower sales of Thermo-King products reduced deliveries of new marine engines and closures associated with the winter storm resulted in an overall sequential reduction in commercial and industrial revenues.
+During the first quarter, the commercial and industrial businesses represented approximately 68% of segment revenue.
+Operating margin was in the mid-single digits and benefited from favorable sales mix.
+In oil and gas, improving market dynamics in the oilfield contributed to sequential increase in revenues and operating income during the first quarter.
+Our manufacturing businesses experienced sequential improvement with increased orders of new environmentally friendly and remanufactured pressure pumping equipment for domestic markets and seismic units for international markets.
+Our oil and gas distribution businesses also improved sequentially with improved demand for new transmissions, parts and services by major oilfield customers, but was partially offset by facility closures during the winter storm.
+For the first quarter, the oil and gas related businesses represented approximately 32% of segment revenue and had a negative operating margin in the mid-single digits.
+Turning to the balance sheet.
+As of March 31, we had $52 million of cash and total debt of $1.35 billion, with a debt-to-cap ratio of 30.
+4%.
+During the quarter, cash flow from operations was $103 million, which included a tax refund of $117 million.
+In the quarter, we repaid $120 million of debt and use cash flow and cash on hand to fund capital expenditures of $14 million.
+
+At the end of the quarter, we had total available liquidity of $776 million.
+Looking forward, capital spending in 2021 is expected to be approximately $125 million to $145 million, which represents nearly a 10% reduction compared to 2020 and is primarily composed of maintenance requirements for marine fleet.
+We expect to generate free cash flow of you, Bill.
+Although the first quarter was very challenging.
+Many of Kirby's businesses are seeing more favorable market conditions and improving levels of demand.
+I'll talk more about the anticipated recovery in each of our major businesses in a moment, but overall, we expect a sequential increase in revenues and a return to profitability in the second quarter.
+That said, the improvement in the second quarter will be muted due to the effect of lower pricing on contracts renewed in recent quarters as well as increased spending in anticipation of a much busier second half.
+We anticipate improvement in the third and fourth quarters as the economy continues to recover, refinery and chemical plant production continues to grow and our barge utilization improves above the 82% to 84% we've seen in April.
+In the inland market, with our barge utilization starting in the second quarter over 80%, most refineries and chemical plants back online and improving weather conditions, we expect better results going forward.
+From a macro viewpoint, the economy is steadily improving and pent-up demand is significant.
+The winter storm reduced product inventories and with higher commodity and product prices and increasing crack spreads, the economics for our customers are becoming increasingly more favorable.
+We believe this will drive increased production in the coming months, which should bode well for the inland market.
+
+With little construction of new barges and retirements of barges occurring across the industry, we expect an improvement in the spot market and our barge utilization to move up into the high 80% to low 90% range in the second half of the year.
+Market conditions are looking more favorable and spot market pricing appears to have bottomed as we are now seeing some positive momentum.
+However, we expect it to take some time for reduced pricing on term contracts, which were renewed lower last year and during the first quarter to reset.
+Overall, in the second quarter, we expect revenues and operating income will sequentially improve due to the higher barge utilization, improved weather and more favorable operating conditions.
+However, as mentioned, certain costs, including maintenance horsepower and labor are expected to increase in the second quarter as operations ramp up.
+Beyond the second quarter, we do expect third and fourth quarter revenues and operating income to meaningfully improve with better spot market dynamics.
+On a full year basis, as compared to 2020, given the tough first quarter and second quarter -- anticipated second quarter, we continue to expect revenues and operating income will be down year-over-year.
+The lower average barge utilization reduced term contract pricing and the impact from the recent storm are the main drivers for the anticipated year-over-year decline.
+In coastal, our outlook has not materially changed.
+We expect coastal second quarter revenues and operating margin will be similar to the first quarter.
+However, we do expect coastal market conditions will begin to improve in the second half-half of the year as demand for refined products and black oil increases, resulting in higher barge utilization and reduced operating losses in the second half of the year.
+Looking at distribution and services, we expect further growth in the second quarter and the remainder of 2021, driven by a more robust economy and increased activity in the oilfield.
+In commercial and industrial, we anticipate continued improvement in on-highway with increasing truck fleet miles, some recovery in bus repair and increased part sales as a result of our new online sales platform.
+
+We also expect increased thermal product -- Thermo-King product sales and in power generation, demand for new equipment parts and services is expected to grow as the need for 24/7 power becomes increasingly more important.
+In marine repair, although activities remain strong, we do expect a year-on-year reduction in revenues, primarily due to reduced new engine sales.
+In oil and gas, we believe current oil prices will contribute to increased rig count and well completions at 2021 progresses.
+As a result, we expect to see higher demand for new engines and transmissions, parts and service and distribution as well as increased remanufacturing activities on existing pressure pumping equipment in the coming quarters.
+With respect to manufacturing of new equipment, and intensifying focus on sustainability and the desire of many of our customers to reduce their carbon footprint will likely result and increased demand for Kirby's portfolio of environmentally friendly equipment during the remainder of the year.
+Currently, we anticipate increased sales of new electric and dual fuel pressure pumping equipment as well as natural gas power generation equipment.
+For distribution and services in the second quarter, we expect the economic growth anticipated manufacturing deliveries and increased Thermo-King product sales will drive sequential improvements in segment revenues and operating income with margins rising into the low to mid-single digits.
+For the full year, our expectations have not materially changed.
+
+We anticipate significant year-over-year growth in revenues and operating income with commercial and industrial representing approximately 70% of segment revenues in oil and gas, representing the balance of 30%.
+We expect E&S margins will be in the low to mid-single digits for the full year, with the first quarter being the lowest and the third quarter being the highest, with the expectation that normal seasonality will likely result in some reduction in operating margins in the fourth quarter.
+In conclusion, the first quarter's results were disappointing.
+Although we expected lower pricing and winter weather to contribute to a sequential reduction in first quarter revenues and earnings, the winter storm through us and many of our customers a curveball.
+Ultimately, the storm was a disaster for the state of Texas and created significant disruptions across the industry supply chain that will likely be felt for many months to come.
+We do anticipate improving markets as the pandemic eases and demand continues to rise, especially since product inventories for certain refined products and chemicals have fallen significantly in a very short period of time.
+Also, prices for many finished goods, including refined products, plastics and other consumer products are escalating at rapid rates.
+As a result, many of our customers are working hard to ramp up production, which will ultimately be positive for our outlook.
+So while the winter storm pushed back our recovery, looking forward, the underlying economic outlook remains strong.
+As a result, we firmly believe we will see improving results for the balance of the year.
+
+Operator, this concludes our prepared remarks.
+We're now ready to take questions.
+
+
+
+
+

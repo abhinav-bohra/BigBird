@@ -1,0 +1,331 @@
+Speaker :: Erik Staffeldt -- Executive Vice President and Chief Financial Officer
+
+
+Good morning everyone and thanks for joining us today on our conference call for our Third quarter 2021 earnings release.
+Participating on this call for Helix today are Owen Kratz, our CEO; Scotty Sparks, our COO; and Ken Neikirk, our General Counsel; and myself.
+Hopefully, you've had an opportunity to review our press release and the related slide presentation released last night.
+If you do not have a copy of these materials, both can be accessed through the For the Investor page on our website at www.
+helixesg.com.
+The press release can be accessed under the Press Releases tab.
+And the slide presentation can be accessed by clicking on today's webcast icon.
+Before we begin our prepared remarks.
+Ken Neikirk will make a statement regarding forward-looking information.
+Ken?
+
+
+
+
+
+Speaker :: Ken Neikirk -- Senior Vice President, General Counsel and Corporate Secretary
+
+
+During this conference call, we anticipate making certain projections and forward-looking statements based on our current expectations.
+All statements in this conference call or in the associated presentation other than statements of historical fact, are forward-looking statements and are made under the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995.
+Our actual future results may differ materially from our projections and forward-looking statements due to a number and variety of factors, including those set forth in Slide 2 in our most recently filed Annual Report on Form 10-K and in our other filings with the SEC.
+Also during this call, certain non-GAAP financial disclosures may be made.
+In accordance with SEC rules, the final slide of our presentation provides reconciliations of certain non-GAAP measures to comparable GAAP financial measures.
+These reconciliations along with this presentation, the earnings press release, our annual report and a replay of this broadcast are available under the For the Investor section of our website at www.
+helixesg.com.
+Owen?
+
+
+
+
+
+Speaker :: Owen Kratz -- President and Chief Executive Officer
+
+
+Good morning.
+We hope everyone out there and their families are doing well, healthy and staying safe.
+This morning, we will review our Q3 and year-to-date performance, our operations, our view of the current market dynamics and provide our outlook for the balance of '21.
+We will also discuss the underlying market environment and how we think it will influence 2022 and beyond.
+
+Moving to the presentation slides 5 through 7 provide a high level summary of our results.
+Our performance for the quarter and year-to-date continues to be in line with expectations as our teams continue to execute at high levels of upper -- operationally [Phonetic].
+The Q7000 continued successful operations in West Africa.
+North Sea Intervention activity increased with both vessels, the Well Enhancer and the Seawell working parts of the third quarter.
+Gulf of Mexico intervention continued to improve.
+We benefited from increased utilization and have visibility for work into Q1 of '22.
+In Brazil, the Siem Helix 2 worked the entire quarter.
+The Siem Helix 1 completed its contract with Petrobras in August.
+The vessel was in dry-dock at the end of the quarter.
+Robotics benefited from the good weather season in the North Sea with increased activity in trenching and site clearance work.
+And production facilities continues to be a steady performer benefited from the production enhancement efforts completed on our Droshky field during Q2 with increased production.
+Our results for the third quarter of 2021 were largely in line with our results from the second quarter of 2021.
+Revenues were report -- reported $181 million with a net loss of $19 million and EBITDA of $27 million.
+Our gross profit was $3 million or 2%.
+
+On to Slide 8.
+From a balance sheet perspective, our cash balance at the end of the quarter was $238 million with an additional $71 million in temporarily restricted cash associated with the short LLC -- short term LC for our work in West Africa.
+During the third quarter, we generated $29 million of operating cash flows and spent $1 million on capex, with the resulting free cash flow of $28 million.
+Year to date, we've generated $121 million of operating cash flow and $114 million of free cash flow.
+During the quarter, we entered into a new $80 million asset-based revolving credit facility and paid off our term loan.
+We achieved a long-standing financial goal of ours by reaching net debt zero and ended the quarter with a negative net debt balance of $4 million.
+I'll now turn the call over to Scotty for an in-depth discussion of our operational results.
+
+
+
+
+
+Speaker :: Scotty Sparks -- Executive Vice President and Chief Operating Officer
+
+
+Thanks, Owen, and good morning everyone.
+Moving on to slide 7.
+We continue to operate all of our business lines through a challenging year with the ongoing COVID 19 pandemic.
+Both onshore and offshore, our teams have done a phenomenal job keeping our operations functional and safe.
+Our office and facilities in Houston and in Aberdeen are open and fully operational, and shortly we will commence reopening our offices in Rio and Singapore.
+Safety measures and protocols remain in place and the team's compliance to these allow safe access to work in these locations.
+The COVID-19 pandemic still presents many logistical challenges.
+However, we continue to successfully transport personnel to our work sites globally.
+We are keeping our protocols, testing and screening our personnel, subcontractors and clients at each offshore work location.
+Most of our personnel where the vaccine is available have been vaccinated and we are now seeing less COVID-19 related incidents at our work sites.
+In some parts of the world travel restrictions have been eased and most clients are returning to their offices.
+And finally after all these months, some clients are now allowing in-person meetings.
+In the third quarter, we continue to operate 14 vessels globally with minimal operational disruption, continually operating at exceptional standards with 98.5% uptime efficiency.
+Our dedicated and committed personnel continued the third quarter with very satisfying and notable safety statistics again, emphasizing our strong supportive safety culture and leadership globally.
+
+On to Slide 11.
+During the third quarter, we produced revenues of $181 million resulting in a gross profit margin of 2%, producing a gross profit of $3 million, producing EBITDA for the third quarter of $27 million compared to $162 million revenue, $3 million gross profits and EBITDA at $25 million in the second quarter.
+In the third quarter, the well intervention fleets achieved utilization of 72% globally with 72% utilization in Brazil with the completion of the long-term Siem Helix 1 contract for Petrobras.
+Utilization increased to 74% in the Gulf of Mexico with 57% utilization in the North Sea and utilization increased to 100% in West Africa.
+The Robotics chartered-vessel fleet achieved utilization of 99% globally, increasing to 358 vessel days during the quarter compared to 236 days in the second quarter.
+In the Gulf of Mexico, we had both the Q4000 and the Q5000 working with increased utilization over the second quarter with some scheduled gaps between projects working for numerous client.
+In the North Sea, the Well Enhancer was operational prior to being warm stacked for part of the quarter, and the Seawell was again reactivated to onsite projects prior to returning to warm stack mode.
+In West Africa region, the Q7000 had an impressive quarter working in Nigeria for two clients undertaking production enhancement works.
+Operating performance in Brazil was at the usual high standard with the Siem Helix 1 safely completing works with zero [Indecipherable] and then demobilizing from the Petrobras contract.
+The Siem Helix 2 was 100% utilized producing a strong quarter.
+The Robotics chartered-vessel fleet achieved high utilization in the quarter working between ROV support, trenching and renewable works globally, completing 358 days.
+176 days work was undertaken on four projects using spot charter vessels, including one vessel conducting our first project offshore Guyana.
+
+Slide 12 provides a more detailed review of our operations for our Well Intervention business in the Gulf of Mexico.
+The Q5000 increased utilization to 77% compared to 72% in Q2, performing production enhancement operations in ultra deepwater for three clients with some small scheduled gaps between projects.
+The Q4000 increased utilization to 71% compared to 45% in Q2, completing production enhancement works for two clients in ultra deepwater followed by two small construction projects for two clients.
+Additionally, we provided aid to one of our clients with platform repair work caused by storm damage from Hurricane Irene.
+Both Q units have integrated Helix from J-line's teams and equipment installed proactively working as one complete productive and safe team.
+Most of our Q unit Intervention contracts undertaken in the Gulf of Mexico and our single point contract mechanism allow for easier contracting for our clients.
+In the third quarter, the Helix 1 J-line's team was successful in being awarded the BP Gulf of Mexico riser based well intervention vessel and services package for a three-year quota contracts plus options.
+Whilst the contract does not provide a guaranteed days, we are told we have the contractor of choice for any riser based interventions for BP in the Gulf of Mexico and we do expect [Indecipherable] utilization for one to three wells each year.
+Pleasingly both vessels of high utilization contracted work in Q4 with contracted and awarded works into 2022 and much better visibility potential further up to 2022 compared to 2021.
+And in recent weeks, we've been awarded approximately 250 days for the Gulf of Mexico Q units from nine clients to work in the fourth quarter and the first quarter of 2022.
+
+Moving to Slide 13, our North Sea Well Intervention business continues to be most affected by reduced work opportunities related to COVID 19.
+The Well Enhancer achieved 57% utilization in Q3 working for two clients in the quarter, including completing production enhancement scopes.
+The vessels in warm stacked in Leith, Scotland significantly reduced in vessel operating costs and crew levels.
+The Seawell achieved 56% utilization working for three clients, the vessel completed the diving scope for one customer and completed production enhancement works for the following customer followed by full [Indecipherable] abandonment program for the third customer.
+The vessels [Indecipherable] warm stacked in Leith, Scotland's significantly reduced cost and reduced crews for the remainder of the quarter.
+The Q7000 had a strong performing quarter in Q3.
+The vessel performed extremely well working with the multinational and integrated Helix from J-lines team.
+The vessel worked on two wells in the quarter for two clients and now has contracted work in Nigeria well into Q4 with a potential further works identified at the end of 2021 and in 2022.
+
+Moving to Slide 14.
+In Brazil, both vessels achieved strong performance with zero commercial downtime in the third quarter, the Siem Helix 1 at 45% utilization in Q3 with no commercial downtime for the safe completion of the Petrobras contract and demobilization in mid-August.
+The vessel completed abandonment work on one well and production enhancement works on two additional wells.
+The vessel has completed its planned five year regulatory maintenance docking period, and our focus is now on pursuing other works for the vessel in Brazil and other markets internationally.
+We have identified and are in discussions regarding numerous opportunities that we hope will have the vessel contracted in the coming months.
+The Siem Helix 2 had 100% utilization and completed abandonment work on three wells and production enhancement work on two wells during the quarter.
+We are currently discussing the possible expansion with Petrobras regarding the Siem Helix 2 but the outcome of those discussions remains to be seen, and we are identifying other opportunities globally.
+
+Moving to slide 15 for our Robotics review.
+Robotics had another good quarter continue -- continuing another good year in 2021 operating six vessels during the quarter primarily working between trenching, ROV, decommissioning, non-oil and gas and renewables related projects.
+In the APAC region the Grand Canyon 2 had 100% utilization in Q3.
+The vessels contracted in Thailand undertake an unexpected 210 days [Indecipherable] decommissioning projects removing 125 robots from the sea floor and is expected to continue into Q1 of 2022.
+
+In the North Sea, the Grand Canyon 3 was utilized 98% undertaking two oil and gas trenching projects, a renewable trenching project for another client, and the teleconference project for a new client.
+The vessel has contracted oil and gas and renewable trenching scope utilized in the vessel for most of the remainder of 2021 and a good portion of 2022.
+The chartered vessels in the [Indecipherable] continued site clearance and survey works for 53 days on a wind farm project that is now expected to last until late Q4.
+The project started [Indecipherable] commenced work on a [Indecipherable] clearance and detonation projects for 46 days, and is also expected to continue into the latter part of Q4.
+
+In the Gulf of Mexico, ROV activity remains strong and we continue to market this [Indecipherable] vessel going forward this year.
+The project chartered Siem Dorado was contracted for a cable installation projects on our first offshore work Guyana for 77 days in the quarter.
+The Robotics Group transition further into the green renewable sector continued adding new clients and more services.
+We have recently been contracted to undertake further site clearance and survey projects and our teams [Indecipherable] increased for all the services we provide globally.
+We've also recently been awarded further renewable trenching works in 2022 and 2023 that may require a second tranche investment in '22.
+
+Over to Slide 16.
+I'll leave this slide detail in the vessels ROV and trenching utilization for your reference.
+Before I close, I would like to mention some other key points.
+We have commenced programs to reduce our carbon footprint and greenhouse gas emissions across all of our business regions, and recently appointed a senior manager the take on the plans and work closely with our operations and sustainability teams.
+It is also very pleasing to see far better visibility across our business lines, especially within the Gulf of Mexico, Brazil and our newer international markets.
+Tender activity has increased and the number of available working days appears to be recovering.
+We've added to our salesforce in many areas recently, and within the Robotics we continue to increase activity in the green and renewables markets and we expect an increased trenching activity and favorable [Indecipherable] services we have been offering.
+Before I turn the call over to Eric, I would again like to thank our Helix Global team, our offshore personnel, our onshore personnel and our partners who continue to innovate and evolve and doing a fantastic job under these challenging circumstances and [Indecipherable] operational excellence with minimal NTT while keeping very high standards in safety performance.
+
+
+
+
+
+Speaker :: Erik Staffeldt -- Executive Vice President and Chief Financial Officer
+
+
+Thanks, Scotty.
+Moving to slide 18, it outlines our debt instruments and their maturity profile at [Technical Issues] our total [Technical Issues] $340 million at the end of Q3.
+Our next scheduled principal payments are in 2022.
+
+Moving on to slide 19.
+This slide provides an update on key balance sheet metrics, including our long-term debt and net debt levels at year-end and September 30th.
+With $309 million of cash and restricted cash as of September 30, we are in a negative net debt position of $4 million at quarter end.
+Our cash position at the end of Q3 was $238 million with an additional $71 million of restricted cash that supports a temporary project LC.
+During the quarter we paid off our term loan and entered a new $80 million ABL revolving credit facility with availability driven primarily by our US and UK-based receivables.
+At quarter end, we had no amounts outstanding and 70 million of availability under the ABL.
+
+For a discussion on our outlook we move to 22, 23.
+We continue to operate in a challenging market, our customers continue to be very cautious in committing to spend in '21.
+The currently relatively stable macro backdrop has increased customer interactions and increased activity in regions like the Gulf of Mexico, but it has been slow to develop in areas like the North Sea one Intervention market.
+The positive development globally and within our sector are providing a positive foundation for recovery in our markets for primarily beyond 2021.
+We have made slight updates to our Q2 guidance.
+Our guidance is a good-faith attempt to provide investors information that is appropriately caveated as best we can against the backdrop of the current environment.
+
+Revenues $600 million to $645 million, EBITDA $85 million to $100 million, and free cash flow $80 million to $120 million.
+Our EBITDA outlook is based on the following.
+We expect visibility utilization will continue to be on a quarter-to-quarter basis.
+We have increased the bottom end of our EBITDA range based on work that has been contracted into Q4.
+We have also increased our cash flow forecast.
+Our free cash flow outlook is supported by the strong year-to-date cash generation and highlights both the challenges in the range of possibilities during the fourth quarter.
+Range provided acknowledges the expected range of Q4 EBITDA and the range of our annual capital spending of $15 million to $25 million.
+We received approximately $12 million CARES Act tax refund in Q3.
+Working capital levels are assumed to support the 2022 activity.
+
+To provide a bit more color to our key assumptions by segment and region on Slide 22, first our Well Intervention segment.
+In the Gulf of Mexico intervention business both vessels have contracted work in Q4 extending into Q1 2022 with expected high utilization.
+In the North Sea Well Intervention business both vessels are stacked with limited opportunities in Q4.
+In Brazil, the Siem Helix 2 is on contract into December, the Siem 1 completed its dry-dock in mid-October and is available in the spot market.
+In West Africa, we expect to work the Q7 into late Q4 with possibilities thereafter.
+
+Moving to our Robotics segment on Slide 23.
+Robotics will continue to be steady early in the quarter.
+Project in the North Sea will likely begin to taper off with the coming winter months.
+The Grand Canyon 2 in APAC is on contract in Thailand into Q4 and possibly longer.
+Vessels are expected to have strong utilization for the balance of '21 in that region.
+The Grand Canyon 3 is contracted to be performing trenching in the North Sea with expected strong utilization in Q4.
+To follow on wind farm survey and site clearance in -- the North Sea is not continuing into Q4.
+Moving to production facilities, HP one is on contract with no expected change.
+Production facility should benefit from the Droshky production and our agreement with HWCG.
+
+Continuing on slide 24.
+Moving -- just [Indecipherable] our capex forecast range is $15 million to $25 million.
+The majority of our capex forecast is maintenance and project related.
+It also includes the production enhancement opportunity at Droshky completed in April.
+The downward revision for capex is based on timing shifting into 2022.
+Reviewing our balance sheet, our funded debt decreased to $314 million with our retirement of our term loan cash position at the end of Q3 was $238 million.
+This does not include the $71 million of temporarily restricted cash that supports our project LC.
+We have received $7 million tax refund in Q1 and the $12 million in Q3, a product of the tax changes from the CARE Act.
+As previously stated, we achieved net debt zero during Q3 and ended the quarter with a negative net debt of $4 million.
+
+I'll skip Slide 26 for your reference.
+At this time, I'll turn the call back to Owen for closing comments.
+Owen?
+
+
+
+
+
+Speaker :: Owen Kratz -- President and Chief Executive Officer
+
+
+Thanks Erik.
+Like many businesses globally, parts of the Helix strategy were necessarily deferred due to COVID and the resulting downturn, but essentially it's not changed we'll endeavor to deliver free cash flow, once we're confident about the market outlook and our ability to meet all obligations we plan to start to return value to shareholders through dividends or share repurchase.
+We've been focused on positioning our balance sheet to assure being able to weather the storm of what we believed would be a prolonged downturn.
+This belief was based on the oversupply in the OFS market that might hinder our recovery cycle once COVID impacts subsided.
+However, things are never simple.
+In addition, we're seeing COVID linger longer than many believe, we're seeing a significant pivot to renewables impact in traditional recovery type capital allocations, and we're seeing a meaningful divestment of producing fields to newer producers with the requisite digested period.
+Having said all that, the pendulum often swings too far and some are beginning to notice.
+Our balance sheet is strong and we're starting to see signs of recovery.
+It may not be a hockey stick but over the next few years we believe the recovery will be robust.
+We're seeing this across all of our markets with each region having some variations.
+The North Sea is usually the first to fall off and the first to recover, this time seems a bit different.
+Many properties have changed hands.
+COVID shutdown seems to have had a significant impact on planning and the Green Party now shares more power.
+The result has been a slower pickup in the North Sea work, is that this is a new material basin.
+So we are seeing and expect to continue to see a pickup in production enhancement work.
+There's also been a shift in the government position from wanting to preserve infrastructure to promote marginal production development to a public driven stands to want more field abandonment and removal.
+Since the government will be on the hook for -- to fund a portion of this, we're seeing the direction from them is to take an over time approach.
+We expect field commissioning to grow and remain a strong market over time.
+Helix is well positioned, and we plan to take steps to expand our presence in this niche, not only with our current [Indecipherable] capability in the North Sea, but with the introduction of the first non-rig riser based assets in the North Sea.
+The Gulf of Mexico was severely impacted by COVID and the drop in the commodity price in 2020.
+We were fortunate to have had a legacy contract with BP that was originally signed back in 2013.
+That contract came to an end of this year and the market is reverting back to a more traditional spot market.
+This negatively impacted the results from our two Gulf of Mexico assets this year.
+Fortunately, the visibility on demand is increasing and the potential exists that both assets will be highly utilized in 2022.
+Our rates are still relatively low as we were impacted by the alternative rig rates.
+However, rig availability has tightened and most forecasts are for a significant improvement on rig rates, which is starting to happen.
+With that, we expect improvement through 2022 and a strong 2023.
+We've also broadened our surface offering to include hydraulic stimulation.
+We did this initially the Baltzar bolster utilization, but it may actually grow to be a new market for us as the volume of work increases.
+In 2014 following the downturn of 2015 we began a strategy to increase demand for our services by expanding geographically.
+Brazil was the first region that we targeted to establish a presence in.
+We were able to achieve four year contracts for two monohull riser base Intervention vessels.
+We were the first in our industry to history to successfully deploy a non-rig monohull developed for riser based innovation and intervention.
+These vessels remain the only non-rig monohulls available with that capability along with the Well Enhancer.
+
+The first vessel, the Siem Helix 1, has now completed its four year contract and the Siem Helix 2 contract expires at the end of the year.
+There has been a significant amount of field divestment by Petrobras.
+The result is that there is a growing client base for our services other than Petrobras Our intentions are to redeploy the SH1 out of Brazil for most of 2022.
+We are in negotiations with Petrobras for an extension of the contract for the Siem Helix 2.
+Our intent is to keep the SH2 in Brazil.
+We believe there is a long-term market there for at least one of our vessels.
+In late 2019, we deployed our first major asset in West Africa, the Q7000 to Nigeria.
+After a COVID delay, we continued work in earnest at the start of 2021.
+The West African market is a prime market for primarily production enhancement.
+We expect strong demand for this service in the region.
+We initially believe that there is potential for 150-day campaign every other year.
+The Q4 -- the Q7000 has worked continuously however throughout the year with very little non-productive time.
+We have visible work in Nigeria, potentially through the first half of 2022 and that's just Nigeria.
+And we're now starting to market and gain interest from the Angolan market is -- which is potentially even larger.
+We believe the West African market has the potential to fully utilize one of our riser base assets on a permanent basis.
+
+The latest region that we've been working toward establishing a presence in is the Asia-Pacific market.
+This market has trends -- transitioned over time from the development market to be one that in the future we anticipate will be dominated by field abandonment work.
+The Australian government is increasingly demanding to see decommissioning occur following a significant bankruptcy which left the decommissioning liability with the government.
+We expect this to be a strong market which could potentially utilize one of our assets on a permanent basis.
+We already have our first contract in place in Australia.
+Although the start of the work has been delayed, now expected in the second half of 2023.
+We expect this will provide the opportunity to secure additional work likely ahead of that time or after.
+As you can see we have multiple sources of potential utilization.
+We have seven intervention assets, two vessels in the North Sea and two vessels in the Gulf which we'll continue to support these regions with expected improvement on utilization and over time significant improvement on rates.
+For the remaining three assets, although we're not there yet we see demand eventually to exceed our supply.
+
+To recap, we see one vessel in the North Sea supporting riser base decommissioning one vessel supporting production enhancement in Nigeria and Angola, one vessel supporting decommissioning work in Asia Pacific, and one or two vessels in Brazil.
+Beyond that, the potential market is developing in Guyana and we're seeing further actively -- activity potentially in the Mediterranean in Canada.
+Rates are below where they need to be but we're generating free cash flow.
+We're seeing gradual improvement in rates off -- by the lot of the legacy rates on our three long-term contracts.
+We are anticipating meaningful rate increases by 202.
+Between a variety of global utilization opportunities and the chance for meaningful rate improvement, we feel the market offers us a lot of upside.
+It is incumbent upon us to prioritize those decision points and deliver results.
+
+To try and give some color on our Robotics Group, let me begin by saying that this is where we report our involvement in the offshore wind market.
+There are four components of our Robotics contribution, ROVs, vessels with ROVs, ROVs in support of our Intervention vessels and trenching in the UXO Boulder clearance.
+Trenching in UXO Boulder clearance is derived from the offshore wind market.
+It's a bit lumpy as is the market, but the expected EBITDA contribution on a lumpy basis is anywhere from $8 million to $20 million a year.
+We have plans to increase our volume of work in these niches, as well as expand our offering and capabilities for site assessment and prep beyond UXO Boulder clearance with relatively low capital cost.
+Of our world-class ROV were roughly half plus and minuses in support of our intervention assets.
+If and that doesn't utilization improved so will this segment.
+The remaining work for our world-class ROVs is from providing ROVs on vessels of opportunity to our ROVs third-party vessels in support of construction support primarily with the potential [Indecipherable] work from the offshore wind market.
+Expanding our involvement in the offshore wind market is the goal for us but we plan to be prudent and avoid EPC works or provision of new vessels other than those we already operate.
+As I stated at the beginning, our strategy is to increase free cash flow and then return value to shareholders.
+The tactics we intend to focus on to achieve and increasing free cash flow are, one, increased demand for our assets through geographic expansion, increased demand results in greater utilization, which results in pricing leverage, which would be in addition to demand leverage from us -- from simply a market recovery.
+Two, will expand our offerings and field decommissioning.
+First, we are developing technologies that provide a step change in capability with our existing assets for decommissioning.
+And second we will launch an aggressive new marketing campaign highlighting our broadened decommissioning capabilities.
+Three, we have potential to reduce our operating costs and we'll pursue the cost reductions.
+Four, we'll explore and implement plans to expand our offerings to the offshore wind market in a prudent manner steering clear of the risky and low margin vessel in EPC niche.
+And five, we will maintain capital spending discipline with a focus on return on capital for any potential expenditures.
+The next year will be a transition year for us as we further establish in these markets and redeploy our three non-North Sea or Gulf of Mexico assets.
+We may accept some lower than cost contracts during 2022 to bridge as we build the demand that's listed here and including the potential for servicing wind farm developments.
+We see work building.
+2022 may be a transitional year initially -- but we have initiatives that are in place and a bright future beyond.
+With that, I'll turn it back for questions.
+
+
+
+
+
+Speaker :: Erik Staffeldt -- Executive Vice President and Chief Financial Officer
+
+
+Operator, at this time, we'll take any questions.
+
+
+
+
+

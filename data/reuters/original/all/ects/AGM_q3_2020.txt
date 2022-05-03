@@ -1,0 +1,307 @@
+Speaker :: Bradford T. Nordholm -- President and Chief Executive Officer
+
+
+Good afternoon everyone, I'm Brad Nordholm, and I'm very pleased to welcome you to the third quarter 2020 investor conference call.
+We have an exciting report for you today, but before I begin, I'd like to first ask Steve Mullery, our General Counsel to comment on forward-looking statements that management may have today as well as Farmer Mac's use of non-GAAP financial measures.
+Steve?
+
+
+
+
+
+Speaker :: Stephen P. Mullery -- Executive Vice President-General Counsel and Corporate Secretary
+
+
+Thanks, Brad.
+Some of the statements made on this conference call may be forward-looking statements under the securities laws.
+We make these statements based on our current expectations and assumptions about future events and business performance, and we may not be obligated to update these statements after this call.
+We caution you that forward-looking statements are subject to risks and uncertainties.
+
+Actual results may differ materially from the results expressed or implied by the forward-looking statements.
+In evaluating Farmer Mac, you should consider these risks and uncertainties as well as those described in our 2019 annual report on Form 10-K filed with the SEC in February as updated in our quarterly report on Form 10-Q filed with the SEC today.
+
+In analyzing its financial information, Farmer Mac sometimes uses measures of financial performance that are not presented in accordance with Generally Accepted Accounting Principles in the United States, also known as non-GAAP measures.
+Disclosures and reconciliations of Farmer Mac's non-GAAP measures can be found in the most recent Form 10-Q and earnings release posted on Farmer Mac's website, farmermac.com, under the Financial Information portion of the Investors section.
+A recording of this call will be available on our website for two weeks starting later today.
+
+
+
+
+
+Speaker :: Bradford T. Nordholm -- President and Chief Executive Officer
+
+
+Thanks Steve, and good afternoon everyone and thank you very much for joining us.
+We hope that you and your families remain safe and healthy during the pandemic.
+Amidst continuing uncertainty on many fronts, Farmer Mac delivered a quarter of record earnings growth, strong net effective spread, stable operating expense ratios and healthy credit metrics.
+Our performance reflects the strength of our disciplined approach, our resilient business model, as well as our focus on a sector of the economy that is among the most essential, Agriculture and the food that sustains us.
+
+Core earnings were a record $27.7 million, reflecting an 18% year-over-year growth.
+Net effective spread was 96 basis points in the third quarter and 92 basis points year-to-date, a modest increase compared to prior periods as we benefited from excellent funding and asset liability management and we're beginning to see a shift in the composition of our portfolio toward some higher spread loan purchase products.
+
+We're also pleased with our overall credit quality, as we have maintained our consistent and conservative underwriting guidelines for credit approvals and we're continuing to closely monitor the impact of COVID-19 on the portfolio.
+Since March, we have approved 465 payment deferral --deferment requests from borrowers related to COVID-19 that was through October 30th, and that's with a total principal balance of $454 million or 1.7% of total outstanding credit.
+
+As of October 15th, $4.6 million of Farm & Ranch COVID deferments have been repaid in full, and another $153.3 million and that's compared to that $454 million of Farm & Ranch deferments or 35% of loans deferred have ended their deferral period and they are not delinquent.
+This is a positive trend.
+We continue focusing on serving the needs of our customers and are challenging ourselves to find more efficient and effective ways to provide our customers with a flexibility and assistance that they need to serve their borrowers in this new normal.
+Although the environment remains particularly fluid, we will remain steadfast in our commitment to maintain the availability and flow of credit to American agriculture and rural communities.
+
+Turning to business volume, we provided $1.3 billion in new credit to rural America in the third quarter of 2020.
+This is a gross number.
+However, maturities and repayments in our Institutional Credit line of business and net pay-downs of loans under long-term standby purchase commitments modestly outpaced new business this quarter, and our outstanding business volume decreased by $52 million from the second quarter to just under $22 billion at quarter end.
+
+We continue to see very strong Farm & Ranch loan origination volume, largely attributable to our continued focus on being proactive and reaching out to our customers and retaining their business.
+We provided $741 million in gross new Farm & Ranch loan purchases in the third quarter and $1.8 billion year-to-date.
+This compares with $761 million in the first nine months of 2019.
+Put another way, we purchased nearly as much Farm & Ranch loan business in this quarter as we did in the first three quarters of 2019.
+
+The exceptional growth in our Farm & Ranch and Rural Utilities loan purchase business over the last year builds upon our already strong foundation for growth and bodes well for the future as we continue to execute on significant growth objectives identified in our strategic plan.
+Two noteworthy examples from this quarter that reinforce our focus on our long-term strategic plan are the completion of two transactions.
+First, Farmer Mac completed a syndication of a new purchased agricultural loan and second, we completed our first wind project financing as part of our renewable energy project finance initiative.
+
+These two transactions highlight our efforts to broaden and deepen our market share and are expected to be significant growth opportunities for us over the long term.
+I'm extremely proud of our business development team's dedication and execution of our mission and the strategic objectives and all of this volume, especially in this challenging time.
+
+Before I turn it over to Zach, I do want to take this opportunity to reiterate my thanks and appreciation to all the employees at Farmer Mac who have worked tirelessly and have shown immense dedication and determination in unprecedented circumstances.
+They have focused daily on executing on our strategies, delivering exceptional service to our customers and carrying out our multi-year strategic plan.
+
+When you consider the volume of Farm & Ranch this last quarter, equal to the first three quarters of 2019, I think that puts in perspective just how much work has been required to deliver what we have reporting today.
+Our Board and management are united around the opportunities that are ahead of us and our culture is growing in a healthy way that will only make us stronger in the years to come.
+
+And now I'd like to turn it over to Zach, our Chief Business Officer to give you an update on customer and market developments.
+Zach?
+
+
+
+
+
+Speaker :: Zachary N. Carpenter -- Executive Vice President-Chief Business Officer
+
+
+Thanks, Brad.
+Our team delivered solid results during the quarter despite the headwinds of the current environment.
+We have remained focused on moving forward key elements of our strategic plan as loan purchase volumes continue to grow and our capabilities line up well with the market trends and opportunities.
+As Brad mentioned, business volume modestly decreased $52.8 million to $22.0 billion in the third quarter of 2020.
+
+It is important to note that a driver of our quarterly volume decrease reflects continued decreases in certain pass through securitization and off balance sheet products, specifically long term standby purchase commitments and loans held in trusts of a combined $177.6 million.
+Changes in quarterly volumes pertaining to these products are generally driven by market conditions and reflect our customers' needs to manage concentration levels of their asset base and certain loan origination activity levels.
+
+In addition, given the fee-based income Farmer Mac receives on these products, the impact in quarterly volume changes does not affect our net effective spread and generally does not affect core earnings with the same degree as our higher spread loan purchase products.
+Turning to our on-balance sheet loan purchase products, net volume growth was up $480.3 million during the quarter driven by significant growth in our core loan purchase products in Farm & Ranch, USDA Securities and rural infrastructure.
+The sequential quarter and year-to-date growth rates in net loan purchases in these lines of business were 5.6% and 20.3% respectively.
+
+This strong net volume growth overcame a large decrease in AgVantage securities of $335.3 million, which I will discuss in more detail later.
+Loan purchase net volume growth in our foundational Farm & Ranch line of business was $399.5 million during the quarter, over three times greater than the same period in 2019 and as Brad mentioned, the single quarter exceeded the net volume growth during the first three quarters of 2019 combined by over $160 million.
+
+On a year-to-date basis, loan purchase net volume growth in our Farm & Ranch line of business was $905.3 million compared to $239.0 million in 2019.
+The consistent growth we've seen in Farm & Ranch loan purchases over the last 12 months reflects the success of our customer acquisition and retention initiatives, our ability to provide competitive interest rates across our product set and our efficient and effective execution in the loan approval and purchase process.
+
+Additionally, our strong business volume growth over the last year has outpaced the broader agricultural credit markets, specifically Farmer Mac's agricultural mortgage loan portfolio grew 21.1% over the last 12 months compared to the year-over-year growth rate of the total agricultural mortgage loan market of approximately 3.5% through June 2020.
+As part of our efforts to invest in infrastructure in order to become a more commercial organization, we added a new capital markets function to help facilitate capital flows across our customers.
+
+This team is responsible for developing and managing the syndication functions for our commercial lines of business, which also includes cultivating, enhancing strategic relationships with the Farm Credit System.
+As Brad mentioned, the team completed a milestone for Farmer Mac this quarter completing a $15 million syndication of a newly purchased $59.2 million agricultural loan.
+
+This syndication sell down was made to a key partner in the Farm Credit System.
+While the team is still ramping up in integrated into our business model, we are excited about the prospects of broadening our relationships across the agricultural and rural utilities lending spectrum.
+Turning to our USDA Securities line of business, we achieved record gross loan purchase volume this quarter of $225 million resulting in net volume increase of $73 million.
+
+The year-to-date net volume growth of $188.9 million reflects our focus on customer acquisition and retention strategies, the consistent and reliable liquidity, we're able to provide and the increased USDA loan limits authorized by the 2018 Farm Bill.
+Net loan purchases in our Rural Utilities line of business increased modestly by $7.8 million during the quarter, reflecting $62.3 million in new loan purchases offset by scheduled amortization and maturities.
+
+As part of our renewable energy project finance strategic initiative, Farmer Mac purchased a $10 million loan in connection with a wind project financing.
+The pipeline in the renewable energy sector remains strong as our Rural Utilities team has been doing an outstanding job of enhancing our foundation and infrastructure to build its reputation as a key player in the renewable energy market.
+
+Our Institutional Credit line of business experienced a net decrease of $335.3 million during the quarter.
+A large part of the decrease reflects the unwinding of incremental liquidity provided to counterparties during the first quarter of 2020 due to the significant volatility experienced in the capital markets.
+
+As the need for incremental liquidity has lessened as markets have returned to a less volatile state, these counterparties chose to let bonds mature.
+We continue to see significant liquidity [Indecipherable] in the market, which is a direct result of the Federal Reserve's action to continue to facilitate the functioning of the capital markets.
+As such, investment grades credit spreads for large financial institutions remain at historically low levels.
+
+Looking ahead, our pipeline remains strong for the remainder of the year.
+Although some financial institutions may have paused capital deployment to the sectors we serve, given the impacts associated with the pandemic, which has helped facilitate increased volume growth for Farmer Mac, the core agricultural and Rural Utilities lenders continue to compete for transactions, which in many cases is causing competitive pressures in terms of price, structure and execution.
+
+We will continue to work alongside our growing customer base and build upon our more dynamic and responsive business model that has led to improved customer satisfaction, volume retention and penetration in existing and new markets and transform the way we deliver upon our mission.
+During this pandemic, where travel and face-to-face interaction is limited, Farmer Mac has benefited from the investments we've made in our infrastructure, product set, and relationship strategies in an effort to continually assess enhancement [Phonetic] that will better support our customers.
+
+I'm proud to say, we recently launched the doubling of the eligible loan size that sellers can offer their borrowers for our AgXpress scorecard product from $750,000 to $1.5 million.
+AgXpress is our flagship scorecard product with a simplified application in underwriting process as well as generally same day credit decision.
+Since this enhancement launched we have seen a record month of AgXpress application volume with an increased average loan size.
+
+Lastly, we continually survey our customers to better understand how we as an organization can enhance our products, processes and interactions.
+I'm thrilled to say that our most recent customer survey indicated record results pertaining to Farmer Mac's customer and relationship focus as well as processes and product enhancements.
+
+We believe our focus on becoming a more relationship-oriented institution is helping drive these significantly positive results and we look forward to continuing to integrate that focus into our business model.
+I'm proud of the results of this quarter and optimistic about the many opportunities before us.
+We are focused on executing a straightforward, customer-focused strategy, and we believe continued execution of this strategy will enable long-term growth, profitability and create value for all of our stakeholders.
+
+With that, I'll turn it back to you, Brad.
+
+
+
+
+
+Speaker :: Bradford T. Nordholm -- President and Chief Executive Officer
+
+
+Zach, thank you very much for that.
+And now I'd like to turn to Jackson Takach, our Chief Economist here at Farmer Mac.
+Jackson is going to provide you with an update on current economic and credit conditions.
+Jackson?
+
+
+
+
+
+Speaker :: Jackson Takach -- Chief Economist
+
+
+Thanks, Brad.
+While general uncertainty remains elevated, many economic indicators improved in the third quarter.
+Improving consumer spend and increases in inventories helped to boost inflation adjusted third quarter U.S. gross domestic product or GDP at historic pace of 33.1% on an annualized basis.
+
+The strong quarter put the U.S. on track to close the year approximately 4% below 2019 levels, according to data released by the U.S. Bureau of Economic Analysis.
+The U.S. Bureau of Labor Statistics reports that the national unemployment rate improved to 6.9% in October and continuing unemployment claims fell across 49 states in the four weeks leading up to their October 16th data release.
+Finally, data from the Federal Reserve Bank of St. Louis indicates that financial credit spreads have stabilized since July 2020, a time that financial stress is more muted in the second half of the year.
+
+COVID-19 continues to create a haze around current and future economic conditions as the widespread and maintained resurgence of the coronavirus could unwind some of the ceiling that was experienced in the third quarter.
+Furthermore, a lack of clarity on additional fiscal stimulus adds to the uncertainty heading into the fourth quarter.
+Conditions in the agricultural economy also improved during the quarter led by improvements in grain commodity prices.
+
+The USDA data shows that overseas commitments for corn, soybean and wheat purchases increased significantly over the summer driving up grain prices in August and September.
+U.S. consumers continue to spend at food and beverage stores at levels 10% above 2019 levels.
+Protein processing plants are operating at typical pre-pandemic levels and the major -- and of the major industries tracked by the U.S. Bureau of Labor Statistics, the agricultural industry exhibit the lowest increase in unemployment between October 2019 and October 2020 which further demonstrates the essential nature of the U.S. food sector and its millions of employees across the rural landscape.
+
+Once again, although conditions have improved, the rural economy is not without challenge.
+COVID-19 case rates have resurged in counties with high levels of farm output and food processing and the restaurant industry has yet to fully recover from the dark of outside the home dining.
+To combat these unique challenges, farmers, ranchers and rural electric cooperatives have had access to several stimulus programs throughout 2020 continuing into the fourth quarter.
+
+The USDA distributed over $10.3 billion in direct payments to farmers and ranchers from June to October through its first Coronavirus Food Assistance Program or CFAP1 and the small business administration has distributed more than $8.1 billion in paycheck protection program or PPP loans to businesses involved in agriculture, forestry, fishing and hunting.
+
+In September, USDA announced a second round of CFAP payments and through October 25th, the USDA has distributed an additional $7.6 billion in payments across the country of their allocated $14 billion set aside for this program.
+The patchwork of government support is one of the reasons that the USDA forecast an increase in net cash farm income and stable land values in 2020.
+
+Credit quality in Farmer Mac's loan portfolio continues to be strong with no realized losses generated during the quarter.
+Loans past due by 90 days or more increased in the third quarter of 2020 to 1.07% of the outstanding Farm & Ranch portfolio or 0.4% across all four lines of business.
+
+The increase is typical of the seasonal patterns and scheduled loan payments as most loans have a July 1st payment due date and the end of our third quarter marks 90 days from that payment date.
+There were no delinquencies in any of the other lines of business.
+Individual loan risk ratings held steady in the third quarter of 2020 with substandard loans totaling $326 million across all loans and guarantees.
+
+This volume is spread across 50 different commodities and over 200 counties in 38 states.
+These metrics remain at historical averages as a percentage of Farm & Ranch as well as total loans and guarantees.
+The American food, fuel and fiber supply chain remains stalwart in the face of heightened ambiguity.
+Historically, the Food and Rural Infrastructure sectors have been supported in all political and economic climates, a testament to the critical nature of the industries that we are here to support.
+
+With that, I'll turn it back to you, Brad.
+
+
+
+
+
+Speaker :: Bradford T. Nordholm -- President and Chief Executive Officer
+
+
+Thanks.
+Jackson.
+Now, I'd like to turn the call over to Aparna to discuss our financial results in more detail.
+Aparna?
+
+
+
+
+
+Speaker :: Aparna Ramesh -- Executive Vice President-Chief Financial Officer and Treasurer
+
+
+Thank you, Brad and good afternoon everyone.
+We're pleased to report another quarter of strong earnings growth accompanied by stable credit performance and uninterrupted access to debt capital markets in the face of the pandemic.
+Our earnings this quarter were extremely strong and driven by growth in higher spread business volume, continued disciplined expense control and substantially lower funding costs.
+
+Our access to capital markets has remained strong.
+We have issued debt on the daily basis and continued to maintain our disciplined asset liability management policies and practices.
+We continue to issue debt across all price points and tenants and our spreads are within historical ranges of other GSE issuances.
+
+Callable debt funding costs have also dropped significantly over the past few months and we have been effective in using our callable debt instruments to mitigate the ongoing rate of prepayments that have resulted from the low rate environment and thereby we've maintained or actually widened our overall spread in our net effective spread.
+
+This approach of using callable debt allows us to continue a very disciplined match funded approach to the portfolio while selectively giving us an opportunity to increase spreads on an opportunistic basis.
+We continue to maintain spreads in the range of 90 basis points plus or minus a few basis points.
+
+We remain well capitalized with strong liquidity and maintained a total cash position of over $900 million as of September 30th.
+You will also note that we've enhanced our capital position once again this quarter through the issuance of $120 million of non-cumulative perpetual Series F preferred stock.
+We used $60 million of the net proceeds to redeem the outstanding non-cumulative Series A preferred stock that had been outstanding.
+
+This issuance strengthened our Tier 1 capital position, which increased in total by 83 basis points going from 13.42% to 14.25% and positions us well for our various growth initiatives, but also buffers us in case of unforeseen stress.
+Due to the timing of the preferred stock issuance, Farmer Mac incurred dividends on both Series A and Series F preferred stock for 30 days during the third quarter and recognized deferred issuance costs of $1.7 million related to the redemption of the Series A preferred stock.
+
+Turning to financials, core earnings increased $4.3 million to $27.7 million for third quarter 2020 as compared to $23.4 million in third quarter 2019.
+Our net effective spread was $51.8 million in third quarter 2020 compared to $42.5 million in the same period last year.
+Net effective spread in percentage terms of 96 basis points this quarter exceeded our previously disclosed target range of plus or minus 5 basis points of 90 basis points, and this is primarily due to a decrease in funding cost and from higher spread business volume.
+
+The increase in core earnings was primarily due to a $7.4 million after-tax increase in net effective spread and this was partially offset by a $1.7 million increase in preferred stock dividends, a $0.8 million after-tax increase in operating expenses and a $0.5 million after-tax increase in the total provision for credit losses.
+Operating expenses increased by 7% in third quarter 2020 compared to third quarter 2019.
+
+And this was primarily due to increased compensation and benefits expenses that were related to increased headcount through the year to support our growth.
+This increase though was offset by lower General and Administrative or G&A expenses related to the lower travel and training that we incurred related to the current pandemic environment.
+There were also other lower variable costs such as printing, utilities, and deferments of consulting fees for certain projects.
+
+However, this reduction in expenses this year is temporary and we do expect that these will normalize in the future.
+We plan to continue such investments as I noted for the foreseeable future.
+And this will be primarily to modernize our infrastructure, enhance our technology platforms to support our revenue strategies and we also plan to add relevant talent to fill gaps across the organization.
+
+We are a lean organization and as we enter new markets, we need to also grow and modernize our capabilities.
+These investments will also enable Farmer Mac to more efficiently meet and exceed customer needs and thereby enable greater revenue retention over time.
+All this said, going forward, we expect operating expenses to increase commensurately with revenue growth even as we make these investments, we plan to keep our expenses to revenue ratios within the range that is consistent with our historical averages.
+
+Now turning to the provision for loan losses.
+The provision this quarter for loan losses of $1.2 million was largely attributable to continued net growth in the rural utilities portfolio and credit downgrades in the Farm & Ranch long term standby purchase commitment portfolio.
+The increase was partially offset by improving economic factors that uniquely impacted the Farm & Ranch portfolio as well as scheduled maturities in the AgVantage portfolio.
+
+The economic factors that positively impacted the Farm & Ranch portfolio were improving commodity prices and lower expected volatility in land values.
+Turning to our sequential results, our core earnings increased by $1.3 million on an after-tax basis, compared to second quarter 2020.
+This increase was driven by higher net effective spread of $4.2 million after tax, and this was partially offset by $0.9 million after-tax increase in the total provision for credit losses, a $1.2 million increase in preferred stock dividends, and a $0.4 million after-tax increase in operating expenses.
+
+The higher net effective spread was attributable to net volume growth in the Farm & Ranch loan purchases accompanied by substantially lower funding costs in the third quarter.
+As I mentioned previously, we continue to remain extremely well capitalized.
+Farmer Mac's $984 million of core capital as of September 30th, 2020 exceeded our statutory requirement by $314 million or 47%.
+This compares to $916 million of core capital as of June 30th, which exceeded our statutory requirement by $248 million or 37%.
+
+This brings our Tier 1 capital ratio to 14.25% from 13.45%, an increase of 83 basis points from the prior quarter.
+The increase in capital from the prior quarter is primarily due to the previously mentioned issuance of Series F preferred stock as well as a $10 million increase in retained earnings in the third quarter of 2020.
+Our liquidity remains extremely strong and we are far exceeding our regulatory requirements.
+As we head into the fourth quarter, we will continue to maintain a higher than required level of cash and liquidity.
+We believe that this elevated position will allow us to weather any unexpected cash flow shocks given the continuing economic uncertainties.
+
+It will also adequately fund the [Indecipherable] to meet customer needs, but it will also allow us to retain the flexibility that we need to maintain lower, but ample levels of liquidity as market conditions change.
+In conclusion, Farmer Mac's underlying fundamentals reflect a well-capitalized balance sheet, stable core earnings and disciplined asset liability management.
+Our capital markets access at competitive levels, our use of callable bonds positions us to successfully continue to deliver and expand our mission.
+
+We have strong liquidity and capital positions as I previously mentioned and these should enable us to navigate these uncertain times very effectively.
+More complete information about Farmer Mac's third quarter 2020 performance is in the 10-Q we filed today with the SEC.
+
+And with that Brad, I'll turn it back to you.
+
+
+
+
+
+Speaker :: Bradford T. Nordholm -- President and Chief Executive Officer
+
+
+Thanks, Aparna.
+In closing, we remain well positioned for success in the current economic environment as we've built upon a resilient business model with increased focus on our customers and their needs.
+We have generated consistent, strong core earnings against not only a tough COVID backdrop, but also amid an investing environment with benchmark interest rates around the world at near 0%.
+
+While the timeline and trajectory of an economic recovery remains somewhat uncertain, I remain very optimistic about the future, even these uncertain times and that's primarily because of the abilities of our team, the strength of our balance sheet and the power of our core operation.
+We will continue to remain diligent, strategic and focused on the future.
+As I've said on prior calls, Farmer Mac was created in response to a crisis and is intended to be a resource for financial institutions serving rural America and this is especially true during these times of economic pressure and uncertainty.
+
+And so now, I'd like to see if we have any questions from anyone on the line today.
+Operator?
+
+
+
+
+

@@ -1,0 +1,1076 @@
+Speaker :: Dennis Puma -- Director of Investor Relations
+
+
+Good morning, everyone.
+Dennis Puma, Director of Investor Relations at New Jersey Resources, and I'd like to welcome you to our 2020 Analyst Day.
+I'm joined here today by Steve Westhoven, our President and CEO; Pat Migliaccio, our Chief Financial Officer as well as other members of our senior management team many of whom you'll be hearing from today.
+
+As you know, certain statements in today's webcast contain estimates and other forward-looking statements within the meaning of the securities laws.
+We wish to caution persons watching this webcast that the current expectations, assumptions and beliefs forming the basis for our forward-looking statements are beyond our ability to control or estimate precisely which could cause results to materially differ from our expectations as found on slide 2.
+These items can also be found in the forward-looking statement section of today's earnings release, first on Form 8-K and in our most recent forms 10-K and Q as filed with the SEC.
+We do not, by including this statement, assume any obligation to review or revise any particular forward-looking statement referenced herein in light of future events.
+We'll also be referring to certain non-GAAP financial measures such as net financial earnings or NFE, utility gross margin, financial margin, S&T adjusted EBITDA, adjusted funds from operations and adjusted debt.
+We believe these non-GAAP financial measures provide a more complete understanding of our financial performance and liquidity.
+However, they are not intended to be a substitute for GAAP.
+
+Net financial earnings, financial margin, utility gross margin are discussed more fully in Item 7 of our 10-K.
+We've also provided presentations of our most comparable GAAP financial measure and a reconciliation of these non-GAAP financial measures in the appendix of this presentation.
+You'll find an agenda on slide 3, outlining our speakers for today.
+We'll then take a short and conclude with a question-and-answer period.
+All the slides accompanying today's webcast are available on our website and were furnished on Form 8-K filed with the SEC this morning.
+
+As always, I want to thank you for your interest and investment in New Jersey Resources.
+Please enjoy the day.
+
+
+
+
+
+Speaker :: Stephen D. Westhoven -- President and Chief Executive Officer
+
+
+Good morning, everyone and thank you for joining us today.
+Looking forward to this discussion and excited to share the progress we've made over the past 12 months.
+Our plans for the future, only wish we could have done this update in person.
+This is an important moment for NJR, we're holding this Investor Day to give an up close look at our Company and who we are.
+I'll talk today about the opportunities we're pursuing.
+We'll give a detailed view of our plan to deliver predictable, sustainable growth and long-term value to our shareowners.
+We'll talk about how our strategy increases NJRs value and how we've positioned our assets and infrastructure to be part of the clean energy economy, not only in the short term, but over the long term as we transition to decarbonization.
+
+What you'll see is a diversified company with complementary businesses that began to provide strong profile for growth here.
+New Jersey Natural Gas, our core utility business is the strongest it's ever been.
+We have projected double-digit rate base CAGR for fiscal year 2024.
+Clean Energy Ventures is poised to dramatically accelerate its growth, given favorable market conditions, CEV will expand outside of New Jersey and nearly double the amount of capital deploy annually by 2024, and we're also taking a number of strategic steps to derisk some aspects of our business.
+These actions will strengthen our ability to deliver more predictable NFE moving forward.
+
+I will detail a few of these changes in just a few minutes, but most importantly what you see today is a company that has a clear understanding of its role in the clean energy landscape.
+Now there are some who will wonder when a company like ours, could be part of this future.
+The reality is, we have been pursuing it for a long time.
+NJR is delivering the cleanest available fuel today.
+We are already advancing efforts to use our infrastructure for the next generation of Clean Energy like renewable natural gas and hydrogen to meet society's emissions and sustainability goals.
+
+We will show you how the sustainability investments that we have made and continue to make with regulatory support, translate into a competitive advantage for our Company.
+As part of our plan to execute in our vision and increase our ability to compete and grow, we need to reset our NFE in fiscal 2021.
+This reset is mainly the result of the change in the finance and accounting method for solar investments as well as some minor regulatory lag.
+When looking past fiscal year 2021, we have significant growth.
+Going forward from 2022, we are increasing our long-term NFE growth rate to 6% to 10%.
+The mid-point of this range is above our previous range of 6% to 8%.
+
+This growth will be fueled by $2.6 billion in planned capex from 2021 through 2024, focused largely on our natural gas and solar businesses.
+So let me also be clear about the commitment to our dividend.
+There'll be no reduction in our current dividend.
+There'll be no reduction to our dividend growth rate.
+In fact, we are increasing our annual dividend growth range 6% to 10% and we plan to maintain a reasonable payout ratio along the way.
+The dividend will be anchored by strong operating cash flows.
+We are targeting cash flows for the CAGR of about 20% over the next four years.
+Later today, Pat will take you through the financials, provide more details on our guidance range for 2021 and 2022 as well as our projected long-term growth.
+
+Before we talk about our future, let's briefly discuss the year that just ended fiscal 2020, the strength of our diversified model and the dedication of our workforce delivered solid results, despite a challenging environment.
+NJR delivered on our guidance range, generating $2.07 of NFE per share, a growth of almost 6%.
+We raised our dividend for the 25th consecutive year.
+Most importantly, I want to thank and recognize our employees as they continue to work through the pandemic.
+Our team has never lost sight of the mandate to provide safe and reliable energy to our customers.
+And more than ever, our solid performance in 2020 is owned to these women and men.
+
+A deeper look at fiscal 2020 results will be included in Pat's section later today.
+Our core NJR is an energy infrastructure company.
+For more than six decades, we have successfully built, acquired and operated the energy assets to meet market needs and policy demands.
+A reputation for acting responsibly with our regulators, suppliers and customers along with our proven ability to execute, allows us to deliver value for our shareholders.
+Every day, we deliver energy, there is a foundation of our customers' quality of life, and we do so in a safer, reliable and environmentally responsible way.
+
+Our portfolio includes complementary businesses that leverage our core utility experience.
+Clean Energy Ventures benefits from our expertise in policy and our commitment to further climate goals in New Jersey.
+It's been a growth driver since 2009.
+To better position CET for accelerated growth.
+We're expanding outside of New Jersey to pursue regional market opportunities in the Northeast.
+This region is one of the fastest growing solar markets in the country.
+Due to public mandates and aggressive Clean Energy targets, Midstream is now Storage & Transportation.
+Name change meant to reflect the assets that we own.
+
+Our portfolio is largely comprised of lower risk investments when compared to other Midstream segments, and we believe it's important to differentiate them.
+Safely operating and managing natural gas infrastructure, it's always been a priority at NJR.
+Our storage and transportation business benefits from this expertise.
+We manage these assets with the goal of generating stable, fee-based revenue from long-term capacity commitments with high quality customers.
+Our business looks to serve constrained of growing end use markets with assets that offer organic growth, opportunities through optimization and expansion.
+
+Our Energy Services business benefits from long-term customer relationships and a deep understanding of wholesale energy markets.
+It's rooted in our gas supply management experience.
+In use of strong performance, we have strategically used excess cash flows from this business as growth capital to strengthen our balance sheet and lessen need for debt or equity issuances.
+Finally, our Home Services business benefits from our long history in retail operations.
+We serve approximately 115,000 customers with services that align with our core utility business and that reinforces our overall brand strength and customer loyalty.
+
+So now let's talk about the energy transformation under way in our country and what that means for NJR.
+The landscape for energy companies is evolving as we all focus on reducing carbon emissions.
+I've been with this Company my entire career and I continue to see, with extraordinary clarity, the opportunities that come with the changing regulatory landscape.
+The 1990s respond quickly to interstate pipeline regulation, the launch of Energy Services.
+I mean the state saw [Phonetic] to become a leader in renewables 10 years ago, we created Clean Energy Ventures and became one of the most significant solar investors in the state.
+Both of these businesses have made material, financial contribution to NJR since their inception.
+
+New Jersey Natural Gas is a driving force behind the company in New Jersey, and this change created a pathway for significant energy efficiency investments without compromising NFE.
+This year, we submitted the largest energy efficiency in our history.
+Today's clean energy transition offers even more opportunities for growth, more captured and by doing what we've always done, aligning our strategy and investments with public policy.
+The world is moving toward a clean energy future.
+NJRs embrace this future, and we're ready to lead and thriving it.
+Renewables will play a big role in achieving these goals and see these poised to capitalize on these opportunities.
+
+And we also know that electrification of renewables alone are not the most reliable or the most cost efficient path to reach these emissions targets.
+That's where natural gas infrastructure steps in.
+Today [Phonetic] New Jersey in most parts of the country, natural gas is the most affordable and reliable choice for heating homes and businesses.
+As innovations like RNG and hydrogen scale, the existing gas distribution system will deliver more and more decarbonize fuel dramatically reducing emissions without a massive build-out of new infrastructure.
+This step is more economical and a reliable way to achieve the same emissions goals, maximizing the benefit of existing infrastructure is the practical path moving forward.
+So let's talk about the fundamentals of market which support this view.
+
+In New Jersey, 75% of the homes and businesses rely on natural gas service.
+In our service territory, that figure is 82% and growing.
+Full electrification model for New Jersey would be extremely costly for residents who are already paying some of the highest electric bills in the country.
+From an emissions perspective, the generation mix of the PJM grid, which serves New Jersey, has a high penetration of fossil fuels and that coupled with the inefficiency of electric heat pumps in colder climates means electrification would actually increase carbon emissions in many scenarios.
+
+Over the past year, we've had productive conversations with our regulators and policymakers about how to use infrastructure like cars that supply decarbonized energy sources like hydrogen and renewable natural gas.
+Environmental benefits of these fuels are clear but it will take some time for these solutions to scale and achieve competitive prices.
+As that market develops for these fuels, our economy will still rely on traditional natural gases to grow and prosper.
+Consumer demand will remain strong and as it becomes more difficult to build new large-scale gas infrastructure especially Midstream segment, these market fundamentals will cause existing assets to increase in value.
+Natural gas is not going away anytime soon, but we are investing today to prepare for and capitalize on the transition toward decarbonization.
+Amy Cradic and our team will provide additional details on these trends later in the presentation.
+
+So let's talk about the strategic path we will follow to deliver results.
+First, we'll focus on significant growth at our regulated utility in clean energy metrics.
+These are our core businesses and the growth prospects support significant climate [Phonetic] capital.
+A substantial portion of our NFE and cash flow over the coming years is expected to come from these two businesses.
+The regulated utility will remain our largest segment, both in terms of capital allocation and NFE generation and we expect about 11% rate based CAGR through fiscal 2024 and NFE contributions in the 60% to 70% range over the long-term.
+And CEV as we extend our footprint outside of New Jersey, we will allocate more capital to this business reaching a level of $250 million in fiscal 2024.
+Lower cost, greater efficiencies, favorable public policies, and market constructs have more predictable returns for all accelerating growth in this energy segment, making it ripe for increased investment.
+
+Second is our strategy to generate more predictable net financial earnings.
+Our Clean Energy business will benefit from New Jersey moving toward fixed price subsidies for solar, which we see now in the new TREC market.
+At the same time, states across the Northeast have adopted aggressive renewable portfolio standards and stable revenue models and Rhode Island for example, who are already moving several projects forward and they have a 20-year feed-in tariff along with power purchase agreements with local utilities.
+In the case of our storage and transportation segment, our large infrastructure investments will soon become operational and our NFE will become more predictable as a result.
+To achieve this, our revenue profile will become more fee-based supported by long-term capacity commitments from investment grade counter parts.
+Our focus will be on growing this business through organic growth opportunities and not new acquisitions.
+
+At Energy Services business, although NFE can be heavily impacted by weather, we'll pursue higher fee-based revenue that will better ensure coverage of fixed cost.
+This will reduce the chance of potential loss in the future and importantly, we are also derisking our financial guidance.
+NJR remains committed to the PennEast project, but we're removing it completely from our financial projections.
+This is an important project for the Northeast, but the uncertainty around an in-service date requires us to take this action.
+
+Capex spend will continue to be prudent and minimal as the project worked toward approval and reconstruction.
+Also, our financial guidance will rely minimally on NFE contributions for our Energy Services Group lessening the influence of this business on our water NFE performance.
+As we seek to deploy more capital at Clean Energy Ventures, we'll be changing our accounting and funding methodologies [Indecipherable] deferred method of accounting for investment past credits more commonly used approach, will increase the use of tax equity financing for our solar projects.
+This change will increase the predictability of NFE and make us more competitive.
+These are necessary steps to provide more certainty and a clear line of sight into our guidance and growth projections.
+Pat will provide more details in the financial section today.
+
+Finally, we are seeking investments to help the finally [Phonetic] achieve the clean energy future.
+For emerging technologies and the decarbonization of [Indecipherable].
+We are in the early stages of projects that will incorporate both renewable natural gas and hydrogen into our system.
+The CEV will leverage our decade of clean energy market experience to become more active in emerging technologies.
+On the next slide, you can see that we expect NJR's long-term business mix will remain similar to what it is today.
+90% of our NFE and cash flows are expected to be generated by New Jersey Natural Gas and Clean Energy Ventures, our core businesses.
+As mentioned before, we're removing PennEast entirely from our guidance and it's our commitment to the project that offers the potential upside of NFE and cash flow beyond the long-term guidance we are providing today.
+We expect the Energy Services business will continue to contribute to NFE, but will do so at a minimal level starting in 2021.
+Energy Services will also continue to offer the upside of additional cash flow in the years of natural gas price volatility and as in prior years, we'll use any excess cash from Energy Services outperformance as growth capital decreasing our borrowing needs.
+
+In the near-term, our plans at storage and transportation are focused on revenue strategies and organic growth.
+Supporting our strategic plan forward is our a four-year capital plan.
+Over the next four years, we expect to invest around 60% of our capital expenditures in New Jersey Natural Gas and 30% in CEV.
+We expect New Jersey Natural Gas to achieve 11% rate-based CAGR through fiscal 2024 as I mentioned earlier.
+Looking at our capital allocation in a slightly different way, we expect that approximately 50% of our capital expenditures will be allocated to sustainability investments.
+These are defined as investments in renewable energy, energy efficiency programs, renewable natural gas, powered gas, expenditures in our distribution system to reduce carbon emissions.
+
+Turning to Slide 13, I believe it's important for me to end on a broader sustainability note.
+Although you received valuable facts about NJR's assets and financials through the remainder of this presentation, how we manage sustainability issues is core to our long-term value proposition.
+Already, many corporations have started to focus on sustainability in a meaningful way.
+NJR's actions were guided by ESG's core principles.
+Environmental stewardship, corporate responsibility, sound governance, caring for the communities have been fundamental values for our company for decades.
+They influence how we operate and the way we work with our customers, regulators, business partners and employees.
+Transparency in these issues will become even more critical as we move through the significant changes during the energy transition.
+This will be the first fiscal year where we will communicate our sustainability goals and progress through SASB standards.
+We believe this will strengthen our dialog with our investors and other stakeholders moving forward.
+You'll continue to hear more about the excellence for record safety record, support of our communities, volunteerism, charity efforts, the strength, independence, and diversity of our Board, and our environmental stewardship.
+
+The recent focus on social justice and racial quality has brought a new urgency to our commitment to diversity, equity, and inclusion among our employees in the communities that we serve.
+NJR has a strong record of engagement on these issues and we are committed to building on those efforts.
+Sustainability is a common thread that ties together all of our companies and the nearly 1,200 people behind them.
+You need good people, good governance, and discipline and good relationships with the diverse communities you work in to get good results.
+And you'll find that at NJR and the way we think about ESG and our vision for a clean energy future.
+
+Finally, I'm joined by several members of our talented leadership team you will hear from today.
+Collectively, they bring decades of experience in energy markets, utility and Midstream operations, regulatory and public service.
+Amy Cradic joined NJR in 2018 after a nearly 25-year career in policy and regulatory roles in the highest levels of state government.
+Amy has brought tremendous vision and leadership to NJR.
+Mark Kahrer is third-generation utility employee with nearly four decades in the industry.
+Mark has extensive experience in accounting and finance.
+Mark Valori is a former United States Navy Officer, a well-known leader in the renewable energy market here in New Jersey.
+
+John Bremner is a gas industry veteran with decades of experience managing natural gas infrastructure across the country.
+And Tim Shea has three decades of energy and industry experience from up and down the natural gas value chain.
+Prior to joining NJR, he worked with producers and pipelines in the growing physical gas market.
+In Pat Migliaccio, our CFO who's over 20 years experience in the energy industry across many segments including merchant generation, retail, and utilities.
+He's been with NJR for the past 11 years as we've grown into the diversified energy business that we are today.
+This is a team that is driven and ready to execute on the vision we're outlining for the future.
+So with that, I'll turn it over to Amy Cradic to talk more about strategy and sustainability.
+Amy?
+
+
+
+
+
+Speaker :: Amy Cradic -- Senior Vice President and Chief Operating Officer of Non-Utility Businesses, Strategy and External A
+
+
+Good morning, everyone.
+I'm Amy Cradic, I have been with NJR for a few years now after many years working across Republican and Democratic administrations at the Department of Environmental Protection and in the Governor's Office as a Senior Policy Adviser and as Chief of Staff.
+Steve just touched upon NJR's broad ESG agenda, as well as the fundamental beliefs we hold as a company about the future of the US energy economy.
+I'm going to focus today on the environmental aspect of that agenda.
+We will discuss the macro drivers that are shaping the way we produce, use and consume energy and why we believe NJR is well positioned to capitalize on those trends.
+We will focus on the New Jersey energy landscape where our core utility is located and will share details about the innovative work we are doing to align with public policy and position ourselves to deliver long-term value.
+We know that tremendous opportunity exists for NJR in the broader clean energy transition.
+That's why we have embraced the shift to clean energy and have literally been building toward it for years within our utility and in CEV.
+
+For NJNG with decades of investing in upgrading our infrastructure we have one of the most environmentally sound delivery systems, as measured by leaks per mile both in the State of New Jersey and among our peers nationally.
+And as you can see in the number of environmental firsts we've outlined here, we continue to demonstrate leadership when it comes to taking action to drive lower emissions and control methane in our system, while delivering safe, reliable service.
+
+In addition to the progress made by our utility, NJR was one of the earliest and continues to be one of the most significant investors in New Jersey solar market.
+Today Clean Energy Ventures has invested approximately $1 billion in solar assets in all 21 counties across New Jersey.
+Supported by our beliefs about the future of the energy landscape, our vision for NJR is to be a leading energy infrastructure company driven by innovation to deliver clean, decarbonized fuel to reliably heat homes and businesses to operate high integrity, environmentally responsible assets to continue to strategically invest in solar and to leverage our expertise to support emerging technologies and new market opportunities like battery storage and electric vehicles.
+As decarbonization continues to accelerate and we become increasingly reliant on renewables, NJR is making strategic investments today to support that transition.
+
+One of the most important points we will discuss is how our upgraded underground delivery network will provide a competitive advantage as we transition to a decarbonized fuel supply.
+Ultimately, we believe our infrastructure investments will become even more valuable and relied upon in both the near term as natural gas continues to displace coal and oil and over the longer term as intermittent solar and wind become a more dominant part of the energy market.
+Alternative fuels and the delivery systems to dispatch them will need to step in to ensure energy reliability.
+
+In fact, prominent energy researchers who are now consulting with believe that decarbonized flexible fuel source delivered through our existing delivery systems is not only critical from an energy reliability perspective, but also a necessity.
+Battery storage, given their short-term storage capabilities and the sheer volume of the limited natural resources needed to develop them are not a sustainable solution on their own.
+Instead, in order to achieve societies' aggressive emission reduction goals we will need to explore new solutions like flexible clean fuel.
+
+Let's take a moment to dive deeper into the trends that are driving the clean energy transition and shaping our strategy.
+While these trends are well defined they are evolving at different paces in different areas around the country.
+Some states are still transitioning from coal and oil to cleaner natural gas and will continue to do so for the foreseeable future.
+Other states like New Jersey have already transitioned and are reaping the emission reduction benefits of natural gas.
+These states are focusing their efforts over the next decade or more to incorporate wind and solar at scale into the power grid mix.
+Here is what we know today.
+Nationally and globally, natural gas demand continues to rise and is expected to grow over the next 30 years.
+That's primarily because it is one of today's cleanest available fuels that can be reliably and affordably delivered to our customers.
+At the same time in many parts of the country, natural gas infrastructure is becoming harder to build from a regulatory perspective.
+From there it's a simple supply and demand.
+Less infrastructure growth coupled with strong demand increases the value of the infrastructure that already exists.
+That's why we believe the value of our existing assets and delivery systems will continue to increase over time.
+This is especially pertaining to our transportation assets that serve a growing industrial center in Pennsylvania and with our storage assets serving the Gulf Coast region, a region bolstered by broader export needs.
+
+In terms of energy efficiency, we expect to lower energy consumption per customer over time given broad public policy support.
+We are well positioned for the acceleration of this trend to the decoupling initiatives at the utility, which Mark will discuss in greater detail.
+Against this backdrop, identifying how to leverage the billions of dollars already invested in the existing natural gas network to deliver decarbonized fuels in the long term will remain a high priority.
+The European Union is a global leader in clean and renewable energy and it's already making significant investments in this area.
+As an example Germany just announced a $10 billion investment to support a hydrogen economy.
+We expect utilities across the United States follow and many are already advancing these efforts.
+As we have witnessed over the past decade, we will continue to see renewables grow because of benefits from technology and decreasing costs.
+And just as we did at the launch of solar, public policy including financial incentives is accelerating the electric vehicle market.
+NJR's widespread solar assets will offer opportunities to play an early role in fleet and mobile battery charging.
+Greater charging opportunities will help supply the green energy side by growing number of corporations with public sustainability goals customers with whom CEV is already engaging.
+
+Let's now look beyond the national clean energy trends to focus on how our business aligns with New Jersey's policy landscape and where we see opportunity for long-term growth.
+NJR's corporate strategy and policy team actively weighed in on the development of the state's Energy Master Plan, or the EMP, which is one of the most progressive in the country.
+We are making real strides toward achieving the state's EMP goals which aligned with many of our own business priorities.
+Our capital deployment is solar over the next five years will nearly double as we target investments in growing markets supported by favorable policy and stable incentives.
+Through our decoupling and energy efficiency programs at NJNG, we are helping customers save money and energy and we are working toward decarbonization through the exploration of alternative fuel sources, which we will go over in greater detail later this morning.
+This strategy is already driving investments in our utility after positive discussions with regulators and policy makers.
+
+Clearly the EMP has aggressive goals and we believe that a diversity of solutions must be considered to ensure affordability and reliability along the way.
+While electrification is an early trend in a 30-year-long transition this single source policy has cost technology and reliability challenges.
+The most significant progress we made in the EMP development was inclusion and importance of alternative fuels to achieving emission reduction goals.
+NJR has been studying these issues in depth for some time.
+Three years ago we partnered with a consulting firm ICF to model carbon reduction strategies in New Jersey identifying cost as a key factor.
+The economywide results are shown on the chart to the right.
+Leveraging existing gas utility infrastructure to distribute alternative fuel solutions in addition to aggressive energy efficiency and more efficient space heating is a cost-effective way to meet the state's emission goals.
+The combination of these solutions provides the state the potential to achieve $100 billion of savings for ratepayers as compared to forced electrification alone.
+
+As more thought is given to this complex transition, innovation will be critical in achieving the EMP goals while addressing the things that are important to our customers affordability and reliability.
+And by nearly 25 years in regulatory and policy roles in government I've learned that any feasible solution to address even the most urgent public issues must take cost into account.
+That's why a successful a clean energy transition must factor in affordability in terms of both implementation and end cost for our customers.
+Space heat is the primary use for natural gas in New Jersey and 75% of the state's homes are supported by natural gas.
+There are two main reasons for this.
+One, New Jersey has among the lowest delivered natural gas prices in the US and gas prices are currently four times less expensive than electricity on an equivalent energy basis.
+And two, while heat pumps work well in mild climates like the southeast in California, they are less reliable, less comfortable and less efficient in cold weather climates like New Jersey.
+
+As you can see from the chart on the right, according to the Federal Energy Information Administration in addition to higher operating costs, the capital cost to install electric heat pumps are about 60% more today than for a comparable heating system.
+This cost premium trends is anticipated to be true over the next several decades.
+Added to that, there are no environmental benefits for making that shift.
+PJM's regional power grid which supplies the power for New Jersey is largely supported by fossil fuels.
+So when looking at environmental outcomes, natural gas as home heating is cleaner, reducing significantly less emissions, reliability is another critical consideration that we must account for during the Clean Energy Transition as lifeline service providers, utilities are mandated by law to ensure millions of residents are reliably served.
+However, increasing reliance with wind and solar to generate electricity can pose certain reliability challenges, specifically increased intermittency that is seasonally dependent.
+
+For example, the chart on the left shows how the loss of wind power in the winter can impact the delivery of electricity to customers.
+This chart depicts an actual situation in the Midwest in winter 2019 created by a polar vortex which forced most wind turbines to shut down.
+The power state on only because fossil fuel power plants to be called upon and dispatched.
+These are challenges that we are developing solutions for today and this is why our infrastructure will be counted on for years to come.
+On the right, we showed data comparing the electric grid to natural gas.
+And natural gas is 70 times more reliable then the electric grid.
+
+I'll give you a recent local example where natural gas is stepping in to help customers.
+On August 4 this year a tropical storm moved up the East Coast bringing wind at 75 miles per hour to take may -- and parts of Ocean County.
+Electricity outages reported in our service territory impacted hundreds of thousands of residents, some for nearly a week.
+Immediately following the storm, NJNG experienced a 53% increase in its normal summer sent out as more than 16,000 of customers turn to their natural gas generators to resume their quality of life.
+Once the storm ended, NJNG saw five-fold increase in additional customers seeking to install natural gas generators.
+We have the obligation and duty to provide our customers with safe and reliable energy and our underground network has the capability to ensure that they get the energy they need when they need it most.
+We talked a lot today about NJR's strong track record in preparing for a clean energy future, so further illustrate this point, I'd like to point out that NJR previously committed to New Jersey's initial global warming response at target of a 20% reduction in emissions by 2020.
+We met that goal for the reductions in our fleet, pipeline and facility emissions.
+The reductions were primarily accomplished with the replacement of cast iron and unprotected steel pipe materials in the utilities distribution system.
+These materials pose the highest risk to environmental, because they are more likely to develop leaks and release methane, a greenhouse gas that contributes to climate change.
+
+We set a goal for our Company to voluntarily reduce our operational emissions in New Jersey to 50% of 2006 levels by 2030.
+I am proud to share that we have already achieved that goal and now we are going even further.
+NJR is now targeting a 60% reduction in emissions from 2006 levels by 2030 which is solidly in line with the state's 80% reduction target by 2015.
+We actively engaged environmental experts to set a baseline and measure our progress, and we will continue to develop specific emission reduction strategies based on innovation, technology and cost.
+Looking ahead, over the next decade, our strategy is to meet this new target will include continued emission reduction gains from our capital investments in NJNG system integrating decarbonized fuels and investing in a cleaner vehicle fleet.
+
+Looking further ahead, hydrogen will no doubt play a large role in a decarbonized future.
+Many analysts have noted that we are in the early stages of a $2.5 trillion industry and many of the largest energy companies and gas LDCs across the nation are beginning to study hydrogen with expected cost reductions in renewables and the electrolyzers used to produce hydrogen, the cost of green hydrogen production is estimated to decline by more than half over the next decade and by half again to 2015.
+The cost reductions will make hydrogen increasingly competitive in a wide variety of uses including long haul transportation, heavy industry, power generation and space seating.
+
+Infrastructure businesses like ours will be at the forefront to competitively and affordably transport and store this resource.
+We believe we are well positioned to play a role in the early hydrogen market for two reasons, first, NJR focuses on maintaining a best-in-class distribution system and we have modernized it to be one of the best in the country.
+These upgrades are important when transporting alternative fuels like hydrogen.
+Second, we are located in a state with very significant renewable power industry.
+New Jersey set an ambitious goal installing 7500 megawatts of offshore winds by 2035 and a good portion of that will come ashore in our service territory.
+
+Our recently acquired transportation and storage assets built for natural gas today making value in the future as the hydrogen economy advances, salt caverns have known capabilities and have already been put to use storing hydrogen, storage being a critical issue in helping hydrogen come to scale in the energy sector.
+The hydrogen opportunity before has proven potential which is why NJNG has initiated a power to gas project right here in our service territory.
+We are developing this renewable hydrogen projects that are New Jersey facility and we expect to reach commercial operation in 2021.
+It will be used to study blending capabilities and technology, create awareness with regulators and policy makers and build expertise to allow us to scale as the market continues to develop.
+
+Moving to slide 27, I'd like to discuss pipeline quality biomethane referred to as renewable natural gas or RNG.
+Biomethane's role in meeting decarbonization targets is underestimated.
+R&D is sourced through a variety of feedstocks including landfill gas, which is a no short supply in New Jersey, currently many landfills, flare their methane gas to reduce its impact on the atmosphere, but that gas can be captured, processed and injected into the pipeline.
+New legislation was recently passed in New Jersey that focuses on the energy potential produced from recycling food waste.
+It requires commercial establishments to recycle the significant waste stream, so it can be used as renewable energy source.
+The state is currently working on the implementation of this legislation, and NJR is participating in the stakeholder discussions.
+
+With these and other feedstocks being utilized, RNG, can have a real impact on reducing carbon emissions in the state.
+ICF estimates that by 2050, RNG can represent nearly half of New Jersey Natural Gas usage economywide.
+Nationally, ICF has estimated that enough RNG can be produced to meet nearly all home heating needs.
+The team is currently analyzing multiple opportunities related to RNG and we expect these discussions to progress through the coming year.
+
+Turning to slide 28, before I hand it over to Mark, I want to take a moment to reiterate some of the key sustainability things we discussed.
+We have great confidence that we will continue to deliver on the clean energy opportunities we are capitalizing on today, and in the new opportunities that we are already seeding investments for tomorrow.
+Natural gas demand will continue to grow over the next 30 years and our storage and transportation assets are strategically located to capture value along the way.
+And as demand grows and fewer assets are build, the ones we have invested in, will only increase in value over time.
+The intermittent performance of growing renewable energy mix will further drive the need for maintaining access to reliable natural gas.
+Gas seed has a long-term competitive advantages and our customers are loyal and growing.
+
+We are well positioned to participate in emerging clean energy markets that have good prospects for NJR, distributed energy that leverage storage, electric vehicles and energy efficiency.
+Our infrastructure is part of the solution and we will continue to harness new technology and innovation to help meet societal decarbonization goals.
+To conclude, since I joined NJR I've seen firsthand how deeply rooted the values of conservation, responsibility and sustainability really are within this Company is because of these values in our commitment to our stakeholders and to each other that our long-term vision to build and maintain energy infrastructure that is driven by innovation with improved environmental outcomes is well under way.
+Thank you.
+
+
+
+
+
+Speaker :: Mark G. Kahrer -- Vice President of Regulatory Affairs, Marketing & Energy Efficiency
+
+
+Good morning, everyone.
+My name is Mark Kahrer, and I serve as New Jersey Natural Gas' Vice President of Regulatory Affairs, Marketing and Energy Efficiency.
+I'm a CPA, and as Steve said, I'm also a third generation utility employee.
+I hope you enjoyed the short video you just saw of one of our construction projects.
+This was a remarkable installation of just over 9,000 [Indecipherable] of distribution main, hold about a 100 feet below the Brunner Green Bay, [Phonetic] but now connects the Mainland for the Brunner Island in [Indecipherable].
+It illustrates how our engineers and construction crews bring to life the infrastructure investments that ensure our customers enjoyed safe, reliable service.
+Our industry continues to change.
+And this project illustrates the quality and innovation that our associates deliver every day creating value for our customers.
+
+Today, I will spend time talking about the value created in New Jersey Natural Gas, as we contribute to the NJR story.
+New Jersey Natural Gas is the foundation upon which NJR was built.
+So let's look first that how NJNG delivers value.
+Our exception service territory will provide robust customer growth well into the future.
+In our history of prudent investment and exceptional customer service contributes to the strong regulatory relationships, which are built on trust.
+That trust that has allowed us to build one of the most environmentally sound distribution systems in New Jersey.
+
+Our territories needs for infrastructure investments to address supply diversity, system integrity and reliability, who can allow us to continue to grow rate base at a double-digit compound annual growth rate over the next few years.
+And this growth is expected to continue as we take steps to decarbonize the fuel we deliver through our distribution infrastructure.
+Further, our constructive regulatory environment also provides mechanisms that reduced commodity and volumetric risk, both by weather or energy conservation efforts.
+The margins on energy efficiency and gas supply optimization helped to increase our returns above our traditional rate based assets making New Jersey Natural Gas a very attractive utility investment.
+
+But if you are still wondering is this growth story sustainable well into the future, our answer is a resounding, yes.
+The infrastructure that we use to deliver energy to homes has an unparalleled track record for reliability compared to electricity.
+Customers think about that when they encountered winter storms.
+Further, our environmentally sound infrastructure will enable our transition to renewable natural gas and hydrogen.
+I will get into all of these value drivers during my presentation.
+
+Turning to the next slide, when you look under the hood, you'll see that New Jersey Natural Gas is a premier natural gas utility.
+Specifically, you will see that the allowed ROE in our last base rate case was fair and reasonable.
+And while we have done an exceptional job of reducing infrastructure risk in eliminating due to the emissions from our system operations, there is still work to do and that will result an expected future rate base compounded annual growth rate of more than 11% for 2024.
+New Jersey Natural Gas proudly serves more than 1.5 million people in three desirable counties in New Jersey, with growth expected for the foreseeable future.
+
+So let's spend a few minutes talking about our service territory.
+NJNG has a very attractive service area, that includes growing customer base with strong demographics.
+If you look at the map, you'll see the majority of our customers reside at Monmouth and Ocean counties which are situated along New Jersey shore, but our within commuting distance about New York City and Philadelphia.
+Our Northern Territory service Morris County.
+Monmouth and Morris County are among the top counties in the nation on a household income basis.
+But from many people in New Jersey, they are the same on retiring, downsizing and moving down to shore.
+That shore is generally Ocean County, which was largely populated by active adult communities and where there has been robust growth for more than 30 years and was residents wealth is not shown in traditional measures.
+
+New Jersey Natural Gas customer base is comprised of 93% residential customers along with the associated commercial establishments that serve their daily needs.
+We have low concentration risk associated with large customers.
+And again, our margins are largely protected from weather and usage variations.
+As we look at the forecasted population, according to New Jersey Department of Labor over 240,000 people are expected to move into our service area boding well for new construction, especially in Ocean County which remains one of the fastest growing cabins in New Jersey.
+Supporting our customer growth is new construction and conversion to natural gas.
+
+In fiscal 2020, we had 8,349 customers consistent with our recent history about 65% of that growth came from new construction and the other came from convergence.
+While this number was below our original forecast, the lower result was due to the pandemic as construction projects were delayed and potential conversion customers put off work in their homes.
+That being said, the mix of customers, we expect it was different and we were able to add a few larger customers to the picture and that helped us exceed our projected margin revenue growth.
+So all in all, fiscal 2020 was a good year for NJNG growth.
+
+Regarding the customer additions, we view this as a near-term delay and remain confident in reaching our three-year target of 28,000 to 30,000 new customers by the end of 2023.
+Based on current rates, this will add cumulative utility gross margin of approximately $18 million of our three-year planning period, but what makes us so confident about our outlook, residential permitting remains robust in our territory and based on our current experience, we expect more than 90% of those new residences will choose natural gas of those business hours [Phonetic].
+We have also almost 100,000 customers that could potentially convert to natural gas.
+
+If you do some quick math, using our annual results and forecast, you'll see that both the new and conversion markets have a sizable inventory to help us sustain our growth.
+That is why we can confidently predict that by the end of fiscal 2023, we expect to serve nearly 590,000 customers.
+When choosing an Energy Source to heat your home, it all comes down to economics and reliability.
+And for home heating costs efficiency and reliability natural gas is a clear winner.
+
+Let us take a closer look at the value we deliver to our customers on Slide 35.
+This is an important part of our success.
+In the chart on the left, comparing the cost to translate energy into [Indecipherable].
+Natural gas cost significantly less than its closest competitor.
+The chart on the right further illustrate this point.
+Over the past 12 years, New Jersey Natural Gas's average natural gas bill has declined by more than 32% in real terms.
+This is possible that the technology and innovation that is open to the additional sale region supply to the Northeast with Marcellus in right next door.
+
+Keep in mind that over the same years thanks to the support of our regulators and other process takeovers New Jersey Natural Gas has been able to accelerate investment in its infrastructure, by securing the lowest cost supply and leveraging the basic gas supply service of BGSS Incentive tools, we have been able to keep our costs low and dramatically improved safety, reliability, resilience and our environmental [Indecipherable].
+Combining these elements with a passion for customer service, it's no wonder why New Jersey Natural Gas has become synonymous with superior customer satisfaction.
+
+Earlier this year, we were proud to receive our 11 JD Power Award, which marks six consecutive years of leadership in our segment.
+We are in the top spot in each of the six categories that JD Power rates and we were also among the nation's leaders as well.
+Making sure that every interaction with our customer is handled expertly, actively supporting the communities and solutions in our service territory and living our mission to provide safe and reliable service 24 hours a day, 7 days a week, is why NJNG has been a perennial leader in the JD Power customer satisfaction survey in the largest category.
+
+We continually listen to our customers and look to improve how we serve and interact with them.
+And that is why our customers have also currently made us and most trusted brand as measured by [Indecipherable].
+We truly value this feedback and take nothing for granted, especially when it comes to customer satisfaction and safe among one of the service.
+And this active engagement from whom it translates to all areas of our business.
+While our key mission is delivering safe reliable service to our customers in the safest way possible.
+
+On Slide 37, you will see that we favorably measure up against our peers in generating superior operational results.
+We take every week reported serious of responding them on timely monetary basis, well under the AGA benchmarks.
+Further, we have 20 times dual lease that median AGA company.
+Nearly 100% of our system is composed to be the plastic or protected steel.
+Having that environmentally sound system with limited leaks makes us an excellent candidate for the new decarbonization technologies such as hydrogen blending and renewable natural gas and that will help us achieve our mission to bring safe and reliable energy to our customers in an environmentally responsible way, part of that commitment has been a strong focus on the leak reduction and our targeted strategies to continuously improve our system has served us well and it's a key to our future success.
+You can see our long track record of continuous improvement and leak reduction and how we are the most environmentally sound natural gas delivery system in New Jersey.
+
+As Amy discussed earlier, we are committed to reducing methane emissions from our distribution system and we will look to drive our pending leaks on our infrastructure to zero.
+We have invested more than $1.9 billion in our delivery system in the last decade thus reducing the methane emissions by more than 900 metric tons since 2015.
+That's equal to driving 2.2 million miles.
+That's like driving around the world 88 times.
+NJNG's commitment to action has also made us a company of firsts, eliminating cast iron in 2015, unprotected steel pipe next year, a ONE Future membership, the TrustWell responsible gas purchase, and our goal of driving our pending leaks to zero shows that we're who company recognizes practical next steps and takes immediate action to make it happen.
+Although our environmental record is outstanding, we believe there is still much work to do and our commitment is to continue to reduce methane emissions and we will target our infrastructure improvements prudently.
+NJNG's foresight and actions have also shown leadership on aligning the state policy and this extends to many facets of our business converting these initiatives into rate recovery is achieved through a collaborative approach.
+
+And here on Slide 39, I'd like to touch on our strong regulatory relationships, operational efficiency, and infrastructure investments that are driving margin growth for NJR while also delivering savings to our customers.
+We're proud of the relationships that we've developed with the Board of Public Utilities and Rate Counsel and these relationships, built on trust, have enabled our investors to share in the benefits with customers.
+When we seek their approval programs and cost recovery, it is by no means a foregone conclusion.
+They are all just the past [Phonetic], but in the end we all share common goals of getting it right each and every day for our stakeholders.
+The conservation incentive program enables NJNG's utility gross margin to be largely protected from usage variations through the weather or energy efficiency and our safety and project investments are in full weighted average cost of capital on amortized balances.
+Our infrastructure mechanisms provide timely recovery on specific investment.
+
+Our BGSS mechanism not only protects NJNG from commodity price risk but also incentivizes us to optimize the supply portfolio to first ensure us 100% supply reliability and second to optimize those assets in a way that reduces our cost to customers.
+Through capacity release, off-system sales, and storage optimization, we have saved customers more than $1 billion since inception.
+And annually, we contribute on average about $9 million to utility gross margin, but the key to our success in the past, present, and future is the safety, reliability, and resilience of our underground network and that requires investment in infrastructure beyond the accelerated mechanisms to recover those investments require traditional rate cases.
+
+The rate-based growth that Steve and I have both mentioned will come from a mix of accelerated rate infrastructure mechanisms in traditional base rate case.
+Our last base rate case was settled with a rate base of $1.76 billion as of August 2019 with rates effective November 15th of 2019.
+Between that case and fiscal 2024, we expect a rate-based compound annual growth rate of more than 11% as we complete several of our major infrastructure and IT-related capital projects like the Southern Reliability Link and Project NEXT, which is a major [Indecipherable].
+Those IT investments were clearly described in our Infrastructure Investment Program or IIP filing.
+As part of the approved settlement of the IIP, we agreed with BPU staff and Rate Counsel that those IT investments would best be included in a base rate case filing.
+So in the future, we will pursue that avenue for recovery.
+In addition, we expect to continue to expend capital on our normal capex items such as customer growth, system reimbursement, and end of life asset replacements.
+Finally, we believe new technologies that Amy has described today will also be included in our capital plans and rate base as we continue to work toward a clean energy future by decarbonization our gas stream.
+
+So as we turn to our capital expenditures on Slide 41, looking forward, our future capex seen in the chart shows the breakout for the $1.5 billion that we plan to deploy in the next four years to grow our system, fulfill our mission of providing safe and reliable natural gas and prepare for the future.
+Let me provide you with the latest updates on our infrastructure in the Southern Reliability Link and our SAFE II, NJ RISE, and new IIP.
+The SRL is making great progress.
+Our current plans expect completion of the project during 2021.
+Earlier this year, we encountered an issue with the directional drill that resulted in an inadvertent return and a temporary suspension of our Department of Environmental Protection DEP permits related to the horizontal directional drills.
+The remainder of the traditional trenching construction was not impacted and proceeded safely during the suspension.
+
+Following comprehensive review process of our drilling plans for the remainder of the project, which was less than one mile of construction, the DEP reinstated our permits, allowing us to fully proceed with our construction plans.
+We continue to work with local governments and our regulators as we proceed with the project in a safe and environmentally sound manner.
+We now have 26 of the 30 miles built and upon completion, will put the SRL into service with timely recovery and rate base [Phonetic].
+Our infrastructure mechanisms are a clear indication of the progressive regulatory environment that we operated in.
+On October 28th, the BPU approved $150 million Infrastructure Investment Program or IIP as mentioned earlier.
+Our common goal of safe and reliable service to customer guides our path and through these mechanisms, we positioned our infrastructure network to deliver the energy to heat homes most reliably.
+So keeping homes warm isn't just about the fuel, it's also about the whole house and helping our customers use energy wisely and that's something we have been doing and hard at work for many years.
+
+For over a decade, we've been a leader in advancing energy efficiency.
+More than 62,000 customers have invested in energy efficiency and we have helped create meaningful jobs by supporting over 2,700 contractors who participated in the program and generated over $550 million in economic activity in our state.
+To date, this program has successfully complemented the efforts of the state's Office of Clean Energy but as a result of the 2018 Clean Energy Act, NJNG will take over many of the programs run by the State beginning in July of 2021.
+Recently, NJNG filed its new $258 million safety [Phonetic] program that will effectuate that migration.
+By doing so, we'll be able to more effectively work directly with our customers to perform home energy audits, provide rerebates and financing and we will be expanding incentives with the low to moderate income customers to ensure that all customers will benefit from lowering their energy consumption.
+For our larger customers, we will have the ability to tailor our energy conservation initiatives along with financing alternatives to help them become more cost competitive.
+We will work through the process to be ready to approach our customers on July 1st of next year.
+Once the BPU approves our filing and we expect that to be no later than May of next year.
+
+Our expectation is that approval of this filing will increase the amount of investment made by NJNG annually.
+From a historical perspective, our earlier saving program spend was about $5 million to $15 million.
+Our current program is about $30 million annually.
+If the filing is approved, we can invest more than double that in the future and on a full-weighted average cost of capital on the unamortized balances and those will be now amortized over 10 years versus the seven years that in our current program.
+This case is one of many cases that are on the regulatory agenda and as we turn to Slide 44, our rate case filing assumptions, I want to remind you of the results of our last case.
+The approved ROE was 9.6% with an equity layer of 54% and we received full recovery of our planned investments to that fee [Phonetic].
+We also saw a timely resolution of that case as we filed on our March 29th, 2019 and rates became effective 7.5 months later.
+
+In terms of timing for future cases, it's important for you to see our estimates for some potential filing associated with conference [Phonetic].
+We will file a base rate case to coincide with the in-service date of the Southern Reliability Link.
+The test year for that case will be time to reduce regulatory lag on that investment.
+By fiscal 2024, our IT project should be completed to allow us to file for recovery of those costs and again, we will time the filing to ensure that the assets are in service while reducing regulatory lag.
+While we try to reduce regulatory lag as much as possible, the attributes of New Jersey regulatory contract where rates are based on fully historical test years with adjustments for known and measurable items tends to reduce uneven NFE profiles.
+Our strategy is to time those rate cases with completion of our major investments and pursue infrastructure mechanisms where appropriate to reduce or minimize regulatory lag.
+
+Let me provide some of the key takeaways that summarize why New Jersey Natural Gas is poised to continue on its growth trajectory and drive value at NJR.
+First and foremost, our strategic infrastructure investments and accelerated mechanisms will fuel an 11% rate base CAGR through 2024.
+We have an incredibly attractive service territory with strong demographics and that will provide robust customer growth.
+Our regulatory construct is supportive of prudent investments and fair returns for our investors.
+It provides for margin stability against commodity price risk and usage variation as well as incremental returns from gas supply optimization and energy efficiency investments and our environmentally sound infrastructure provides an excellent pathway for our transition to RNG and hydrogen.
+At NJNG, being recognized for excellent results isn't our vision, it's our reality and we continue and will continue each and every day to deliver on the promises we make.
+We will continue to work at transforming the energy that our customers are reliable [Phonetic] use that's served in a cleaner, more sustainable future.
+Thank you.
+
+
+
+
+
+Speaker :: Mark F. Valori -- Vice President, NJR Clean Energy Ventures
+
+
+Good morning, I'm Mark Valori, Vice President of NJR Clean Energy Ventures.
+In 2010, I joined NJR and have over 30 years of experience in the energy field.
+Prior to joining CEV, I was the renewable energy lead with the Honeywell CSG market manager team at New Jersey's Clean Energy Program.
+The video we just saw highlights the importance of the Clean Energy Ventures business here at NJR.
+CEV is a direction, a path, a future for New Jersey Resources and complementary to the work being performed at our utility, NJNG.
+When we started this business over a decade ago, we were looked at as a disruptor.
+People were questioning why a natural gas company would get into clean energy, but clean energy has always been at the core of NJR.
+Since then, we have persevered and have vested approximately $1 billion in this business.
+That investment has provided significant returns and CEV is now a major contributor to NJR's overall earnings profile, but more importantly, it's a growth engine of the future.
+
+Off of that past success, the future of NJR is clean, sustainable, and profitable.
+Turning to Slide 47 and how CEV is driving value as part of NJR.
+For a decade now, we have successfully operated solar energy infrastructure to serve our customers.
+This pursuit has delivered profitable growth, aligned us with New Jersey's sustainability goals including the New Jersey's Energy Master Plan and promoted economic development and job creation.
+We believe that the market opportunity in solar is growing fueled by lower costs, greater efficiencies, and the need to reduce carbon admissions.
+Clean Energy Ventures can capitalize on this opportunity by significantly increasing the capital invested in the sector and aligning that investment with policy and sustainability goals.
+We are expanding our solar footprint beyond New Jersey, optimizing our current portfolio, insourcing key development, and operating activities and capitalizing on emerging generation technologies such as battery infrastructure and electric vehicle charging stations.
+
+Notably, we will be prioritizing tax equity financing to enable our solar investment strategy.
+We will get into greater detail on this shortly.
+NJR's CEV is the largest in-state solar operator in New Jersey with about 11% of total market share in the state and we are a leading New Jersey's clean energy future.
+CEV's portfolio totals about 350 megawatts of installed capacity that produces energy each and every day.
+That represents enough energy to light a small city.
+Our commercial solar projects represent the largest segment in our portfolio with 276 megawatts of installed capacity across 49 active projects in the state.
+These projects span the gamut from grid connected to net meter, rooftop to ground-mounted, we even have the largest floating solar array in the country.
+
+On the residential side, our portfolio accounts for 74 megawatts of installed capacity.
+Through our Sunlight Advantage leasing program, NJR CEV owns, operates, and maintains each residential system with over 8,600 customers enjoying savings of 20% to 30% off of their electric utility rate.
+Here you can see over the past decade CEV has invested approximately $1 billion in New Jersey's solar market.
+While these investments have continued to provide clean renewable energy for our customers, they also have provided high-single digit unlevered returns for the company, which continues to grow over time and has become an important part of the NJR story.
+This long track record will be important in determining our success into the future, a future full of opportunities where NJR is particularly well suited to succeed.
+
+Looking ahead on Slide 50, let's talk about the future of the U.S. solar industry.
+The U.S. solar market is forecasted for continued expansion making up a larger and larger contribution of the overall U.S. energy mix.
+Over the next five years, we expect to see more solar installed than we saw in the last 10.
+This expansion will be driven by public policy and technological advances.
+As governments try to tackle climate change, they will continue to create programs such as aggressive renewable portfolio standards and mandates that support solar growth and the decarbonization of energy.
+We expect continued innovation in photovoltaic technologies with efficiency and cost improvement gains propelling the industry forward.
+And finally, we will see the pairing of these solar facilities to battery storage and electric vehicle technologies creating additional value.
+This environment offers NJR a large market opportunity for continued profitable investment.
+And importantly, it also allows us to advance our environmental objectives in close alignment with public policy objectives.
+With that as a backdrop, how has CEV positioned to succeed going forward.
+We will continue to take advantage of this large and growing market opportunity to drive profitable growth across NJR.
+Here we can see that NJR CEV expects to invest $850 million over the next four years.
+This essentially doubles our rate of investment when compared to the last 10 and will double our installed capacity from approximately 350 megawatts today to approximately 770 megawatts in only four years.
+This incremental investment will be allocated primarily to the commercial solar space where our investment expands rapidly.
+
+On the next slide, we can see that as a result of this investment we expect that by the end of 2024, CEV revenues will be approaching $170 million, an approximate 60% increase compared to fiscal year 2020 revenues.
+More importantly, if we look at the make up of this investment, we can see that by 2024 a vast majority of that revenue will be de-risked.
+As SREC exposure declines more revenue will be locked up in PPAs hedged in the marketplace or in more standard fixed revenue environment's as CEV expands into adjacent markets.
+
+Turning to Slide 53, clearly CEV has had great success over the past decade, but we recognize that we must adapt to changing marketplace conditions in order to extend that track record into the future.
+To touch on some of the points Steve described earlier, if we examine some of the headwinds that the industry is facing, one of the most prominent is the scheduled decline of the investment tax credit or ITC.
+Today, it's projected that ITCs for the solar industry will decline from a high of 30% down to 10% in the near future.
+We believe that although a headwind, this will not overcome our ability to invest profitably in the solar space.
+In fact, over the planned period, other factors will more than overcome this headwind, allowing NJR to maintain and even improve our project returns.
+Pat Migliaccio will get into this in much greater detail shortly.
+I talked a lot today about the opportunities ahead of us in the solar market.
+Now let's look at how exactly we are capitalizing on a future that is built on rapid solar expansion while at the same time maintaining or improving our profitability.
+
+We'll do this by pursuing a clear strategy with four distinct pillars.
+First, we will expand in the solar markets outside of New Jersey.
+Second, we will continue to improve how we do business by optimizing our investments and insourcing many of our activities to reduce reliance on third-parties.
+Third, we will prioritize tax equity financing to accelerate cash returns.
+And finally, we will invest in and adopt emerging technologies such as battery storage and electric vehicle infrastructure, which we can leverage for additional value out of existing solar assets as well as new ones moving forward.
+Let's examine each of these more closely.
+
+Our first strategy pillar is shown here on Slide 55 to expand into adjacent markets that offer attractive returns.
+Specifically, we're focused on markets that are growing rapidly and where revenues are contracted with investment grade counterparties.
+With CEV's solar capacity almost doubling over the next four years, CEV will grow into a regional player in the renewable energy business going beyond the boundaries of New Jersey.
+Expanding beyond New Jersey into the Northeast will enable CEV to organically build scale while leveraging our skill sets and relationships to create value.
+We will pursue projects in the areas of grid supply, landfill and brownfield project sites, also net meter projects, community solar and other operating projects, all areas where we have experience.
+Ultimately, we are relying on deep expertise, our strong track record, and our reputation for quality to compete for solar business in these new markets.
+This effort is already under way as CEV is currently in the midst of constructing projects in Connecticut and Rhode Island.
+Projects like the one in Rhode Island where our $20 million investment has revenue streams fully contracted with an investment grade utility.
+
+The second pillar of our growth strategy is to continue to improve how we conduct business.
+We will do this by optimizing our existing investments and taking more control of the commercial solar value chain by in-sourcing certain development and operating activities.
+The optimization opportunities shown on this slide are two-fold.
+One, physical, that is deploying technical solutions to improve project returns.
+Examples include minimizing site losses to increase the available energy generated from a site.
+The second contractual or repositioning assets in the marketplace to achieve a more valuable revenue stream.
+An example would be migrating grid connected projects to net metered alternatives.
+Some of these efforts are already under way and we believe they will accelerate with the adoption of new technologies.
+Further means of optimization can be achieved by changing how we continue to invest in the renewable energy space.
+
+CEV has traditionally been a solar owner operator, sourcing our projects from solar developers once the projects had been permitted.
+CEV has developed skill sets to take on more and more of the activities along the value chain.
+We are now ready to extend our reach up and down the value chain to optimize investment.
+First moving upstream, driving down costs on the development side of the house, reducing our reliance on third parties and thus enhancing returns.
+And then moving downstream on the implementation side of the business where we are internalizing more and more construction and O&M activities, building scale, deploying new technologies such as robotics and aerial surveys to bring down costs.
+
+On Slide 58, you could see this strategy at work.
+Here we show that the optimization and in-sourcing of these key activities will drive CEV to become more efficient in the deployment of solar capital.
+On the construction side, we will see continued downward pressure on installed cost per watt, which will help us overcome the ITC decline.
+And in regard to operating costs, CEV has driven down operating costs over the past and will continue to do so into the future, maximizing the use of available technologies to do so.
+
+On Slide 59, we could see the benefits of tax efficiency, the third pillar of our strategy, weaken accomplishes by prioritizing tax equity finance in the form of lease bags.
+This is a necessary step for us to be able to increase our level of solar investment.
+Pat Migliaccio will be discussing this strategy in more depth.
+Today, we are witnessing a solar industry that is growing and maturing, migrating from a non-dispatchable energy position to being a core asset in the future of the production of energy.
+
+Yes, solar facilities will continue to be built, so what we are seeing is public policy moving beyond that.
+Policy decisions are being made with the goal of transitioning solar from a fringe technology to a core energy source used to power homes to power transportation and to power additional distributed energy resources.
+Through the deployment of energy storage opportunities battery storage and electric vehicles, we believe that solar will move into position as the preferred source of energy.
+
+CEV's solar facilities when combined with battery infrastructure and charging infrastructure will help us capture a more profitable market opportunity and help CEV become a higher margin business.
+Successfully penetrating these markets will generate a potential uplift in our revenue.
+Since we would be able to provide energy to parties interested in reliable solar power at more retail rates.
+CEV has begun to pursue these new business models.
+The future is here.
+
+In summary, let me leave you with a few key takeaways.
+We are making a significant investment to take advantage of our large and growing market opportunity in commercial solar.
+We are using that investment to expand beyond our solar footprint, beyond New Jersey and invest in new technologies that will allow us to leverage our existing portfolio of assets.
+We are also optimizing our current portfolio and insourcing key activities.
+As I said, we expect installed and operating cost per watt to decrease as a result.
+
+In tandem with our plans to increase our solar investment, we are pursuing tax equity financing.
+This will accelerate the cash benefit of incremental solar ITCs and increase our return on equity.
+We also plan to continue to take advantage of our businesses deep alignment with public policy goals.
+Ultimately, we believe that this strategic plan will enable us to drive profitable growth across the business and maintain current project returns even after ITCs reduced to 10%.
+In this future, CEV is well positioned to succeed as we continue to evolve, to expand and to compete in a changing solar landscape.
+Thank you.
+
+
+
+
+
+Speaker :: John Bremner -- Vice President, NJR Midstream
+
+
+Good morning, everyone.
+I'm John Bremner, Vice President responsible for NJR Storage and Transportation business.
+Well, I'm relative newcomer to NJR, I spent my entire 38-year career in the natural gas industry.
+I've managed Natural Gas Distribution, Storage and Transmission businesses in Canada, US and Mexico.
+Throughout my career, I have been amazed by the vast complex in almost invisible network of pipelines to today's safely and seamlessly delivers one-third of the primary energy requirements to power our economy.
+An industry that provides an essential logistics service, transporting fuel for homes, hospitals, factories, power generators, restaurants and chemical plants.
+This is the business of NJR Storage and Transportation.
+
+So let me begin with what we see as the value proposition for Storage and Transportation or S&T.
+We see S&T investments as a logical extension of NJRs core competencies in another attractive segment of the gas value chain.
+As Steve said earlier, NJR has been an active participant in gas markets for decades, building an operating energy infrastructure, contracting for capacity and serving wholesale end-use markets.
+Our S&T business targets investments in low risk, gas infrastructure serving long-term, end-use customers or market pull assets, as opposed to infrastructure providing basins takeaway capacity or producer push assets.
+In other words, we're focused on the part of the gas value chain that is aligned with our core competencies and investment criteria.
+
+We're not focused in gas processing, gathering, liquefaction or liquid assets given their exposure to production and commodity prices fundamentals.
+Our S&T business creates value by connecting economic, flexible, reliable, gas supply to end use markets where it's needed most in growing supply constrained areas of the pipeline grid.
+The portfolio generate stable, predictable, fee-based revenue primarily from long-term commitments with a diverse mix of high quality and creditworthy customers.
+The attractive organic expansion options of our assets create additional layers of value upside for NJR.
+And we see decades of service ahead for our assets, even a certain sectors move aggressively toward decarbonization.
+
+As Amy mentioned in her remarks, natural gas demand is expected to continue to grow in the markets we serve and beyond.
+As a preferred choice for home heating, as the cleanest available fuel today displacing coal and oil.
+Many industrial demand were substitutes to not exist in supporting the transition to renewable electricity generation.
+As the US Department of Energy stated in September 2020, US oil and natural gas report, natural gas has a critical role to play in supporting the increased prevalence of renewables.
+Natural gas provides a secure and reliable energy source during interruptions in renewable energy supply.
+Given all of these characteristics, we expect the value of our difficult to replicate assets to grow over time.
+
+Now let me give you an overview of our attractive and highly strategic assets.
+NJR has built a portfolio of S&T assets through selective acquisitions and joint ventures.
+Our investments include two storage facilities, Leaf River and Steckman Ridge.
+The two pipelines Adelphia Gateway and PennEast.
+Leaf River serves the regions with the fastest growing demand for natural gas anywhere in North America, the Gulf and Southeast.
+The Southeast in particular is increasingly dependent on storage and regional gas imports delivered through heavily utilized pipelines to ensure supply reliability for growing in variable markets.
+Steckman Ridge serves the Northeast region, which relies on increasingly constrained pipeline grid and storage to meet and balanced growing peak day end-use demand.
+
+Our pipeline investments Adelphia Gateway and PennEast provide some of the most advanced options to bring incremental Appalachian supply, growing end use markets in Pennsylvania and New Jersey.
+Markets that are currently served by a constrained and difficult to expand regional pipeline system.
+And as Steve mentioned earlier, PennEast isn't is not included in any of our financial projections.
+
+On the next slide, you'll see we are projecting strong EBITDA growth from our assets over the next four years, mainly due to the expected in service of Adelphia's South Zone project, which is now under construction.
+Beyond fiscal 2024, we see EBITDA upside potential related to organic expansions, Adelphia Gateway and Leaf River, an increased storage and transportation rates.
+
+So before I dive into the specifics of each asset, let me share more detail about our customers and revenues.
+Here you can see the quality of the revenue our portfolio generates from an attractive mix of creditworthy customers paying predominantly take or pay fees to reserve capacity 365 days a year.
+High percentages of our fiscal 2020 revenues came from utilities, power generators and pipelines, investment grade customers and take or pay fees.
+These metrics will look even better at the end of next year, when -- at the Adelphia's South Zone project is completed.
+
+On this slide, you can see our top 10 customers, which is an attractive mix of utility, pipeline, power, producer and marketer companies that our assets have served continuously for many years.
+This reflects the long-term nature of the relationships that we strive to build and maintain, founded on the trust and confidence that we stand ready to provide flawless, reliable service whenever called upon by our customers.
+In addition, our contracting profile is very manageable with an average remaining contract term of 4.5 years and the majority of our revenue in future years were locked in undertake or pay contracts.
+We expect this profile will look very similar going forward as we continue to grow contracted revenue with each successive year of recontracting activity.
+
+Now let's take a closer look at our assets beginning with Leaf River.
+Leaf River is a salt cavern storage facility.
+A type of storage which makes up only 10% of total US storage capacity.
+Salt cavern storage is a highly valued for its unique ability to rapidly withdraw and inject gas making it powerful asset to balance supply and variable demand.
+So it's interstate pipeline connections provide access to our key supply basins and a large market with storage services with the region's major utilities, power and LNG companies.
+The region's interstate pipelines have experienced significant growth over the last decade placing increasing operating strain on their systems.
+Shippers and pipelines have turned to storage operators like Leaf River for help managing supply and system reliability.
+
+For example, Southern Company move from 2007 through 2019 increased gas source generation from 15% to 50% of reducing coal source generation from 70% to 22% is Leaf River's largest customer.
+Similarly, Leaf River recently executed a long-term contract with Alabama power generator to support a new gas power plant that will replace a retiring coal plant.
+Further, the growing LNG export business will require additional storage capacity to manage its feed gas supply.
+These growing demands will drive the need to increased storage capacity which Leaf River is well positioned to satisfy where designed in economic options to increase capacity as supported by market needs.
+
+Turning to our other storage investment.
+Steckman Ridge is situated along a key supply corridor that moves gas to Northeast demand centers.
+It's two interstate pipeline connections provide access to the heart of Appalachian supply and regional markets including utilities and power generators.
+Steckman's flexible market based storage services offer an alternative to the regions largely interstate pipeline cost of service storage offerings.
+Its revenues are 88% fee-based and anchored by long-term utility customers Con Ed and New Jersey Natural Gas.
+
+As Amy mentioned earlier, material amount of coal generation remains in the PJM region.
+This is expected to be partially replaced with cash generation as hold units retired over time and there is a broader shift to cleaner energy sources.
+We expect this along with utility demand growth and little or no increase in regional storage capacity to continue to support the value of Steckman Ridge.
+
+Now let's take a look at our transportation assets starting with Adelphia Gateway.
+Adelphia will provide an attractive transportation path from sales supplied and reach growing markets in Southern, Pennsylvania, New Jersey and Delaware.
+Adelphia is one of only two authorized another construction capacity expansion projects into a region primarily served by capacity constrained interstate pipelines.
+Project capacity is fully committed allowing Adelphia Gateway to generate 97% fee-based revenue with an average remaining contract term of 7.1 years beginning fiscal 2020.
+
+Looking beyond the completion of the South Zone project, we see three opportunities for Adelphia's value to grow.
+The opportunity to capture increased transportation value and contracts begin to roll over in 2025 and attractive compression expansion options, and the potential for expanded supply access from either the PennEast or Transco REA projects.
+
+On the next slide, let me provide a status update on Adelphia's South Zone project.
+When NJR acquired the former oil pipeline, the North Zones already in gas service supply and talent energy power plants, while the South Zone was yet to be converted.
+In October of this year, having received all the required FERC and state authorizations, we began construction on the South Mainline conversion, two compressor stations and the associated market interconnections.
+We're currently awaiting final authorizations for the Tilghman and Parkway Laterals, which is scheduled to commence construction next spring.
+And the project is on schedule to achieve full commercial in service late in calendar 2021.
+I will now -- two of Adelphia's authorizations are currently under appeal.
+However, these appeals are not expected to impact construction or the in-service date of the project.
+
+Finally, let me provide you a brief overview of the PennEast project.
+PennEast is a 120 mile Greenfield pipeline, which will create an attractive new path for Northeast Pennsylvania Marcellus supply to reach Atlantic region utility markets.
+PennEast is predominantly a remarkable pipeline with commitments from investment grade utility companies for over two-thirds of its capacity.
+PennEast is currently plan to be constructed in phases of construction in the first 68 miles in Pennsylvania commencing in 2021 pending receipt of final FERC and state authorizations.
+
+And final plans for construction of Phase II are to be determined pending the resolution of a PennEast petition for US Supreme Court review of a lower court ruling.
+Capex spend on the project will continue to be minimal as the project advances toward approval and construction.
+And while we have removed PennEast from our guidance, our commitment to the project offers the upside earnings and cash generation upon its completion.
+
+So to summarize, our S&T portfolio consists of expandable hard to replicate, low risk infrastructure investments.
+It's served capacity constrained growing end use markets that generate stable, predictable, fee-based revenue and that serve a diverse mix of long-term creditworthy customers.
+We believe these assets will be valuable for decades to come serving markets with long term needs for safe, reliable, essential natural gas storage and transportation services.
+Thank you.
+
+
+
+
+
+Speaker :: Timothy F. Shea -- Vice President
+
+
+Good morning.
+My name is Tim Shea, Vice President of NJR Energy Services.
+Over a 30-year career in the energy industry, I have worked for LDCs and gas-fired generator, and natural gas producer, and for the past 22 years at NJRs Energy Services.
+The broad industry knowledge and experience I've gained over my career are invaluable in leading Energy Services through a volatile and dynamic energy market.
+
+At Energy Services, we contract or acquire physical assets and opportunistic locations and we have developed strong customer relationships across the upstream, midstream and downstream natural gas markets.
+We worked with producers in order to move their natural gas to the highest priced markets.
+We work with utilities and managing their assets, so they can achieve savings and bring the most economic natural gas to their customers in the most reliable way possible.
+And we work with Electric Power generators that unlike the utilities that want firm capacity, like to buy just entire natural gas with the electricity that they need to generate.
+
+Our long option strategy provides significant upside potential with limited downside risks.
+Leveraging natural gas market volatility to drive value.
+And we have a proven track record with disciplined risk management strategies, optimizing value while reducing risk are core to our trading strategies at Energy Services.
+Ultimately, we're a focused in generating consistent profitability through higher fee-based revenue that will better ensure the coverage of fixed costs.
+
+We may change contractual rights to a diverse portfolio of physical natural gas storage and transportation assets.
+These assets are connected pipeline transportation and storage capacity that allows us to strategically move and provide natural gas to serve our customers across North America.
+Our portfolio of physical assets capitalizes on changing market conditions, driven by factors such as weather, demand growth and supply constraints.
+Our assets are chosen for their opportunistic locations where we believe a higher level of volatility can exist allowing us to serve our customers, while creating trading strategies around them.
+
+This business was launched 25 years ago on the expertise gained in managing our utilities gas suppliers with strong and effective risk management strategies and controls in place.
+NJR ES is one of the longest established energy service companies in the industry and has consistently contributed to the company's [Indecipherable].
+Let's put that into context.
+Energy Services serves our customers by committing to purchase or deliver natural gas and in certain cases by managing storage and transportation assets to asset management agreements where [Indecipherable].
+Energy Services may generate fee revenue and exchange for its management services, it may also obtain operational control, storage and transportation assets from customers and exchange for a fee.
+These assets complement the assets in our existing storage and transportation portfolio.
+
+Energy Services generates value through what we call long option strategy.
+They provide significant upside potential with limited downside risks and minimal long-term capital commitments.
+Leveraging natural gas market volatility to drive value.
+The physical storage and transportation assets that Energy Services controls provide optionality to capture location time spreads, whose value can be locked in with the use of financial instruments, downside risk equivalent to an options premium is limited to the difference between demand charges and the value locked in.
+The geographic diversity of Energy Services assets increases the chances of generating significant returns in at least some of the assets.
+Given the dynamic nature of the energy markets, we've seen a regular cycle a significant outperformance years that more than offset the years with less optimal market conditions.
+
+Let's look at fiscal year 2021.
+NJR ES is already in the stronger market position than last year.
+The supply and demand fundamentals for natural gas this fiscal year are constructive.
+We are seeing lower natural gas production as a result of less capital investment by gas producers.
+At the same time, demand for gas is increasing with more LNG exports.
+As my colleague John Bremner mentioned in this presentation, the EIA shares that natural gas demand is rising and will continue to rise in the long-term.
+Fuel by low gas prices and accelerating coal plant retirements, the electric generation sector continues to rely on natural gas and our work with power generators continues to be productive.
+The anticipated growth in North America's aggregate natural gas demand particularly in the Gulf Coast region is supported by industrial expansion, exports and gas-fired electric generation.
+
+NJR ES maintains assets that are well positioned to benefit from this growing demand.
+Moving forward NJR ES sees several key strategic opportunities emerging energy landscape with increased cost cutting, efficiencies, consolidation and growing financial pressures on producers.
+We see increased potential to expand fee based transactions and producer service agreements.
+Our fee-based transactions and producer agreements support stable more consistent revenues for NJR ES, which is a go-forward priorities for the business as it reduces the risk if not covering our fixed costs.
+And in markets where the supply demand balance continues to tighten creating higher pricing volatility.
+We will continue to pursue our successful long option strategy.
+
+NJR ES has achieved significant value from our transportation portfolio by selling peak and supply services to Northeast utilities.
+It is widely known that the increased difficulty in building new gas infrastructure and with growing customer demand New York and other states in the region are experiencing severe capacity constraints.
+These utility secure incremental gas supply delivered to their city gates in order to satisfy peek system requirements during high demand winter months.
+NJR has the assets to enter agreements with these utilities to supply gas for the winter season.
+The utility will pay a significant demand fee to NJR ES for the right to call on this gas.
+And when called on the gases price that are fixed premium to index, which in this region could be Transco Zone 6, New York, for example.
+
+To put it simply, Energy Services sales to peaking service to the utility, ensures that has the capacity to cover the commitment and earnest money out of the transaction.
+Ongoing challenges to building greenfield infrastructure projects continue to raise long-term value of our existing assets, particularly in the Northeast and continues to contribute to market volatility in already constrained regions facing growing demand.
+
+Now turning to Slide 79.
+Let's discuss what our natural gas portfolio looks like today.
+We currently have firm storage capacity of about 34 Bcf and we hold about 1 Bcf a day as firm transportation capacity in multiple connected regions.
+We've positioned our portfolio across the eastern half of the country to serve the largest US gas supply and demand centers with our transportation connectivity NJR profits from intra-regional supply and demand variability.
+Our portfolio of assets can change over time based on market conditions.
+For example, a few years ago, we had a West Coast presence and due to increase in asset cost combined with operational uncertainty in the West region, we shifted focus to other regions and chose to release our Western based contracts.
+We have the ability to hedge and lock in most of our storage contract demand charges with seasonal summer-winter positions.
+And injection and withdrawal flexibility allows us to participate and add value in daily spot market volatility.
+
+On the transportation option side hedging most of our forward market area transportation position locks in margin that exceeds the demand charges that we pay for these assets.
+The small remaining open position gets NJR significant upside potential during high demand periods when prices typically increase.
+Peak market conditions can increase the value of market area transportation to over $100 a dekatherm.
+Contract segmentation creating two or more transport pads on the same contract and secondary transport services also add value to our transportation portfolio.
+
+Trading strategies around our storage and transportation assets have made NJR Energy Services a consistently profitable business.
+NJR ES has a proven track record of success and profitability since 1995.
+This chart goes back 10 years to 2010 over which time Energy Services averaged $64.75 million in financial margin.
+Over these 10 years, this cash generation has reduced our overall funding needs.
+You can also see the upside potential of the long option strategy that is contributed to several outsized years such as 2014, 2015 and 2018.
+Sustained high demand periods in each of those years increased price volatility in the spot market.
+This allowed us to use our storage and transportation portfolio to deliver and sell gas into extremely high price locations.
+
+2020 was the first time in 25 years of our history that we've lost money on a net financial earnings basis.
+Even then we were able to cover the demand charges for the year.
+That is despite this being our worst year in terms of financial performance, we're still able to cover all the fees that we owe to pipelines and storage providers for the railroad to transport and store gas utilizing their assets.
+Fiscal 2020 performance was a result of a unique combination market conditions that included one of the warmest winters on record combined with one of our key pipelines implementing a rare integrity testing program heading into winter.
+The potential disruption of operations on Texas Eastern which has since been addressed.
+Risks reducing the volume of physical gas at Energy Services contractually deliver in the winter high seas.
+This impacted our ability to hedge a larger portion of our transportation capacity.
+2020 was an anomaly, and as highlighted earlier, we have a clear path to profitability moving forward, which incorporates significant derisking opportunities, particularly around increased fee based agreements and producer contracts.
+
+Our Energy Services business benefits from extensive experience and a deep understanding of wholesale energy markets and customers' needs.
+We have 25 professionals with expertise in trading, operations, risk, asset acquisition, contracting, regulatory affairs and information technology.
+We've built a strong foundation for our future by focusing on reducing business risk and creating more predictable NFE profile while executing our long option strategy to drive value.
+We are targeting a higher percentage of fee-based revenue from structured transactions and optimizing the value of certain contractual storage and transportation agreements within our portfolio.
+
+The future is bright for NJR.
+With a measured and conservative approach to the market, Energy Services will continue to make positive contributions to corporate NFE.
+Thank you.
+
+
+
+
+
+Speaker :: Patrick Migliaccio -- Senior Vice President and Chief Financial Officer
+
+
+Good morning, everyone.
+I'm Patrick Migliaccio.
+I've been with NJR for 11 years now, and my role of CFO for five.
+As Steve stated in his opening remarks, my colleagues are reinforcement of presentations.
+Our businesses have strong growth prospects.
+NJNG's major infrastructure projects are moving forward with regulatory support.
+Its customer growth remains strong and the investments in our underground energy delivery system will position NJNG to play a lead role in the Clean Energy Transition by carrying decarbonized fuels in the future.
+
+We expect CEV to nearly double its investment in solar support of a market constructs that provide long term, stable net financial earnings.
+Global portfolio standards adopted by states across the region are accelerating solar, and to ensure success and capitalize on these market strengths, NJR is creating a more competitive platform for the business by changing our accounting policy and adopting more efficient financing to support increased capital deployment.
+S&T energy services play a smaller role in overall story.
+We're also building a solid foundation from which they will contribute.
+
+As you can see, we're taking steps today to strengthen our ability to create long-term value for our shareholders.
+We do this by following the principles that are outlined on slide 83.
+As Steve mentioned earlier, we're investing $2.6 billion of capital the next four years almost 90% of it into our utility and solar energy projects.
+This coupled with the completion of our already in progress investments support significant increases in our cash flows that we reinvest in our businesses, but also used to provide an attractive dividend to our shareholders.
+All the while and ensuring that our capital structure provides access to the financial markets for both NJNG and NJR.
+
+Before we get into NJR's outlook, I'll take you through the highlights of fiscal 2020 on slide 84.
+For fiscal 2020, NJR reported NFE of $196 million or $2.07 per share compared to NFE of $175 million or $1.96 per share in 2019.
+NJNG saw an NFE improvement year-over-year of approximately $49 million to higher base rates and lower O&M expenses, principally resulting from COVID-19.
+S&T saw an improvement of $3 million during the year, driven by increased operating income from Leaf River and Adelphia slightly offset by higher O&M, interest expenses related to those assets.
+CEV saw a decrease of $24.5 million, primarily due to lower ITC eligible capital expenditures as compared to the prior year, as well as the absence of contributions of the wind portfolio, which was sold in 2019.
+
+Energy Services decreased about $11 million due to lower natural gas price volatility resulting from the warmer than normal winter compounded by operational issues on key interstate pipeline.
+Finally NJR Home Services and Other increased $4 million mainly due to lower O&M expenses and income tax benefit associated with the revaluation of certain deferred state tax liabilities.
+As Steve mentioned in his remarks fiscal 2021 will be a reset here.
+We're setting our initial guidance at a range of $1.55 to $1.65.
+There are few factors that are driving this as outlined on slide 85.
+The most significant component of the NFE reset is the change in accounting for investment tax credits and the expected use of tax equity financing for our solar projects.
+
+As we will discuss in greater detail, well, this results in a short-term decline.
+These changes provide the foundation for increasing our investment in solar and should result in stable and predictable NFE from Clean Energy Ventures.
+There are few other items that result in decline as compared to performance in fiscal 2020, principally at New Jersey Natural Gas.
+As Mark Kahrer noted in his materials, we expect to spend north of $200 million to replace the IT infrastructure that supports New Jersey Natural Gas, including our work in asset management and customer billing systems.
+While we're able to capitalize most of the cost associated with these implementations, there are certain activities that must be classified as O&M which will seek to recover in our fiscal 2021 rate case.
+With the significant decline in interest rates as compared to last year, we saw a large increase in the cost of our pension and other post-employment benefits.
+In addition, as a result of COVID-19 and the warmer than normal winter, employee wages and benefit expenses are much lower in fiscal 2020 than we expect in '21.
+These items taken together total a range of approximately $0.12 to $0.16.
+
+Importantly, as we look forward, we expect O&M growth to average less than 2% through 2024.
+We're making every effort to align the conclusion of our rate case with the expected in-service date of SRL, construction of the project is currently approaching completion and based on the current timeline will likely be in service prior to the end of the fiscal year.
+In addition, in fiscal year 2020, we placed approximately $159 million of utility infrastructure into service.
+These activities support our double-digit rate base CAGR over the long term.
+While, in the short-term result in some regulatory lag as we begin to depreciate the plan before it's in our rates.
+
+These items will be included as part of our revenue and our upcoming rate case.
+We expect to recover them.
+Running at the comparison between fiscal 2021 and 2020, we expect journey services provide a nominal contribution to fiscal year '21.
+We're reflecting an improvement over the prior year, the contribution is less than 5% of our guidance for this year.
+Before I move to our fiscal '22 expectations and a long-termEPS growth guidance, I'd like to take a few minutes to recap what will drive our future growth and why we believe that we can achieve it.
+As a general comment, across the presentation today, we're providing capital plans through fiscal 2024, a step further what we've done in the past, which reflects confidence in our ability to execute on those plans.
+
+The top quartile rate base CAGR of 11% plus, NJNG will have strong NFE and cash flow growth.
+As Mark Kahrer mentioned, this rate base growth is tied to investments in customer growth, maintaining our system reliability and finally replacement of our aging IT systems.
+While our next case is tied to SRL.
+Beyond that, our capital plans like large individual projects to drive rate base growth.
+For CEV with the financing and accounting changes behind us, we expect to grow our capacity CAGR of 21% resulting in more than 400 megawatts of additional capacity with a long track record of success in our solar business.
+Our near-term capital budgets are not much larger in the past, and then also do not rely on large individual projects to achieve the goals.
+
+Moreover, we expect to invest in projects toward the revenue will largely be anchored by long-term fixed price subsidies at TRX in New Jersey or long-term power purchase agreements.
+As Mark Valori noted in his presentation, with nearly $20 million of projects under construction in Rhode Island, that have long-term power purchase agreements.
+For S&T, with Adelphia Gateway construction under way and our asset acquisitions behind us, we build the focus on organically increasing the bioline contributions from that segment.
+We're also moving PennEast from a long-term NFE EPS outlook, derisking the potential growth in that segment.
+
+Finally, as you will see NJR Energy Services is expect to contribute a much lower level than the past, and as Tim mentioned in his remarks, we're taking steps to minimize the risk of downside while preserving some of the potential upside.
+As a reminder, this business requires no long-term capital and its periods of outperformance have improved our balance sheet and reduced equity needs.
+By now you should you detecting a theme with the forward progress on our large infrastructure projects and other changes to our segments.
+These steps provide for more stable, predictable future.
+
+Moving to slide 87, and as I said earlier, fiscal 2021 is a reset year for NJR.
+With NFE EPS guidance of $1.55 to $1.65 supporting the growth in fiscal 2022 is the successful conclusion of our rate case of New Jersey Natural Gas, the expected completion of Adelphia Gateway and our solar investments.
+This should result in NFE EPS growth of over 30% from 2021.
+So the financial results are back in line with 2020, even though we're using a different method to account for investment tax credits.
+
+Our guidance for fiscal 2022 is a range of $2.05 to $2.15.
+We expect to grow at a rate of between 6% and 10% thereafter.
+One thing that is not changing is our commitment to our growing dividend.
+On slide 88, you can see we're targeting a dividend growth rate of 6% to 10% in line with our long-term NFE EPS growth rate.
+In fact, the midpoint of this growth rate is higher than our prior dividend growth guidance.
+This is supported by strong cash flow from operations growth, which you can see in the chart on the right.
+There are number of reasons why this is the case.
+As I've mentioned a few times, eventual completion of our large infrastructure projects, SRL, Adelphia Gateway resulting cash flows from the SRL rate case and [Indecipherable] contracts on Adelphia Gateway.
+This reflects a change in the complexion of NJRs and NFE.
+For the last couple of years, a large portion of our NFE came from investment tax credits and AFUDC equity.
+
+We're planning to invest nearly $2.6 billion over the next several years at NJNG and at CEV.
+For New Jersey Natural Gas, an increasing portion of spend with our near real-time returns and near real-time cash flows as a result of the annual recovery mechanisms that NJNG has.
+While we're ramping up the investment at CEV, we'll be using sale leaseback financing which surely monetize the tax attributes on a timely basis.
+Also, in contrast to a large pipeline projects, the average construction cycle for our solar projects is approximately four months, ensuring a quick turnaround from construction to cash.
+
+Now on slide 89, you can see why we're extremely confident in our ability to continue to grow the dividend.
+As you can see from this slide will appear to issue a temporary increases in the near term.
+It normalizes over time.
+Looking at our dividend payment as a percentage of cash flows paints an even stronger picture.
+On slide 90, we provide the expected segment contributions for fiscal '21, 2022 and beyond.
+For all of our outlooks, we expect that NJNG will continue to be most significant contributor to our NFE EPS.
+Our steadily increasing investment in solar will continue to support CEV's for almost the second most significant segment, while our SMT segment will largely stay at levels consistent with '21 and '22, and as I've noted in my remarks we're not placing much reliance on NJR ES.
+
+As Steve mentioned earlier in his remarks and as shown on slide 91, we changed our accounting policy for investment tax credits or ITCs.
+I'm going to spend a fair bit of time to those topic, because it's important.
+Under the current guidance for investment tax credits there are two acceptable methods.
+For fiscal 2020, we utilized the flow-through method under which the value of the investment tax credit flows through as a reduction in income tax expense in the year in which your project was placed in the service.
+We're changing our accounting method to the deferral method.
+This result in the value of the ITC being amortized over the life of our solar assets, usually between 20 and 35 years.
+In essence or reduction of depreciation expense.
+
+I want to emphasize this change is strategic and not the result of an error.
+The deferral method is considered the preferred method by the FASD [Phonetic] and in fact is the more common method of accounting for investment tax credits among public companies.
+The change is permanent that applies to all of our solar assets.
+This will change the NFE profile of our assets.
+Historically, the recognition of the ITC resulted in a significant front loaded tax benefit and now be more even loaded profile.
+There is no change the economics of the solar investment, because there is no change in the underlying cash flows.
+You maybe ask yourself, why is NJR making this change.
+The benefit is shown in the chart on the right.
+The change will result in less than a few volatility from investment tax credit recognition under our current policy, the amount of the ITC fluctuate significantly based on the level of our capital investment in qualified projects.
+
+Moreover, this accounting change eliminates a source of quarterly NFE volatility at the timing when projects were placed in service will no longer impact our effective tax rate each quarter additionally, while there may be federal legislative action to external investment tax credit and its current levels, this change eliminates the NFE cliff that results from a declining ITC even as we look to increase investment in solar assets.
+All that being said, for the solar assets that we financed with sale leaseback.
+The recognition of the ITC will prober five years.
+I realize this is a complex change.
+So, in connection with our Analyst Day today we are posting a white paper to our website, that includes the relevant details to system modeling.
+As Mark Valori mentioned earlier, we expect to grow our investment in commercial solar assets from $140 million today to $225 million in fiscal 2024 to take advantage of a significantly growing opportunity for investment and to drive growth for NJR.
+
+Over in the last few years with the cumulative balance of investment tax credits, principally as a result of tax law changes in 2018.
+Currently, we don't make investments that exceed after factoring in the tax tools.
+However to stay competitive and grow our level of investment some form of tax equity is necessary.
+We've experienced using sale leaseback financing on a more opportunistic basis in the past, with starting this year through fiscal 2024, we expect to finance all of our commercial solar assets with this form of tax equity.
+Given our tax position, this will create economic value for NJR by line was to monetize the tax attributes more quickly than we otherwise would.
+
+This is illustrated on slide 92.
+In the table on the right, you can see the project IT sale will be significantly greater than today, if we continue to finance with solar assets on balance sheet.
+As you can see, migrating to tax equity should allow us to utilize our tax assets, credits, which in turn results in better returns and increases our ability to compete.
+We take a moment to remind you how the structure works.
+The sale for tax purposes only.
+NJR retains the revenue, expenses and even the book depreciation of the asset.
+
+However, instead of recognizing the value of the ITC through tax expense as was the case under the flow through method more than offset to depreciation expense as will be the case under the full method, 20% of the economic, the ITC is recognized each year in other income, beginning on the one-year anniversary of the solar projects in service date.
+From a cash flow perspective, the economic benefit of the ITC is factored into the debt service on the financing arrangement.
+That results in a higher net present values compared on balance sheet financing.
+Before I leave this slide and remind you that the accounting and finance that made for our solar projects, these are the more stable, predictable net financial earnings and improved returns.
+
+Our utility New Jersey Natural Gas is the only NJR rated entity by Moody's and Fitch have stable outlooks with A1 and A plus senior secured ratings respectively.
+As we conclude the fiscal 2022 rate case with SR oil and service with the support of accelerated recovery mechanisms, NJNG will generate strong cash flows that will support our list in credit ratings.
+NJR is not a rated entity, reached the majority of our debt through the private placement markets.
+That said, we're committed to a strong investment grade credit rating equivalent for NJR.
+As you can see on slide 93, our FFO to debt ratio lies as the high teens by 2024, which would support a strong investment-grade equivalent.
+
+Furthermore, we have no plans to issue equity beyond incremental amounts raised Georgia program and the equity forward price in December of last year.
+As you can see from slide 94, we manage the debt needs of NJNG separately from NJR.
+And in either case have ample liquidity to support the businesses and have no meaningful long-term debt maturities in the near term.
+
+And on slide 95, you see there is approximately half of our funding needs for fiscal 2024 are expected to be supplied from cash flow from operations.
+And as I mentioned before, our financing activities include no block equity needs.
+I'd like to summarize a few of the key financial items that I reviewed.
+First, while our guidance range for 2021 is lower than the prior year, this is principally due to a change in accounting and financing method for our solar investments.
+Further, the accounting change is non-cash in nature.
+There is no impact on the expected returns of our solar projects and Clean Energy Ventures.
+Second, following that reset, we have strong NFE EPS growth of over 30% in 2022, and then 6% to 10% thereafter.
+The midpoint above our prior guidance range and we have eliminated reliance on large infrastructure projects to drive our growth rate.
+Third, we're committed to growing a dividend at a rate of 6% to 10%.
+And finally, with the cash flow growth liquidity to support the continued investment, our businesses and the dividends to our shareholders.
+
+Before I turn it back to Steve, I'd want to thank my team for the hard work that they put in this year to implement our new financial system on time during this pandemic.
+Thank you.
+
+
+
+
+
+Speaker :: Stephen D. Westhoven -- President and Chief Executive Officer
+
+
+Before we turn to Q&A, I'd like to spend a few minutes summarizing, some of the key takeaways from our presentations today.
+As I said in the beginning, the world is moving toward a clean energy future, New Jersey Resources invested in it and our strategy is centered in line.
+New Jersey Natural Gas is already an incredibly strong business and will remain our largest both in terms of capital allocation and NFE generation.
+We expected approximately 11% rate base CAGR through fiscal 2024 and CEV will be investing $850 million in solar over the next four years.
+Our focus is also in generating more predictable NFE across all of our businesses and derisking our financial projections.
+
+
+
+
+

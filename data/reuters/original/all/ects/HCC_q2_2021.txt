@@ -1,0 +1,169 @@
+Speaker :: Walter J. Scheller, III -- Chief Executive Officer
+
+
+Thanks, operator.
+Hello, everyone and thank you for taking the time to join us today to discuss our second quarter 2021 results.
+After my remarks, Dale will review our results in additional detail and then you'll have the opportunity to ask questions.
+
+During the second quarter, global steel production continued its recovery trajectory from the impact of the COVID-19 pandemic and we were pleased to see strong market demand from customers around the world.
+As met coal prices improved during the quarter, we were able to take advantage of the groundwork we previously established to increase sales and reduce inventories.
+
+As a result, we were able to capitalize on China's ban on Australian coal imports through higher sales to Chinese customers at higher prices compared to the Australian FOB prices.
+As a result of these pricing dynamics and our ability to successfully manage costs, working capital and capex spending, we were able to deliver another strong quarter of free cash flow and adjusted EBITDA.
+
+We continue to execute successfully on our business continuity plans in response to the UMWA strike, which began on April 1st, allowing us to continue to meet the needs of our valued customers.
+While we continue to negotiate in good faith to reach a new contract, the UMWA unfortunately remains on strike.
+Despite incurring incremental costs associated with the strike, we've been able to manage our working capital and spending to deliver strong results in this market.
+
+Steel market fundamentals remained strong throughout the second quarter, propelled by strong demand across the majority of sectors and tight supply across most regions.
+Even the impact of the microchip shortage on automobile production was barely noticeable on overall steel demand.
+
+The World Steel Association reported a 6.8% increase in global pig iron production for the first six months of the year, with China increasing its year-over-year production by 4%.
+Excluding China, the rest of the world grew its pig iron production at an impressive rate of 13%.
+
+The strength observed in the steel market since the beginning of the year finally, made its way into the met coal markets during the second quarter.
+Although, we've been expecting some level of upward pricing corrections take place, we were nonetheless surprised by the magnitude and speed of the correction.
+
+During the second quarter, the Australian FOB indices experienced a gain of $82 per metric ton, rising from its low of $107 per metric ton on April 30 to its high of $194 per metric ton at the end of June.
+Likewise, the CFR China indices gained $93 per metric ton from its low of $216 per metric ton on April 1st to its high of $309 per metric ton at the end of June.
+
+The Chinese ban on Australian coals remains firmly in place with no signs of policy changes in the short-term.
+The global seaborne met coal trade has adapted quickly to these conditions as illustrated by the change in trade flows.
+
+China has increased its reliance on imports from North America, Russia and landborne imports from Mongolia while Australian coal producers have increased their exports to India, Japan Korea and Taiwan and they've also exported more into our natural markets of Europe and South America.
+These conditions are expected to continue as long as the ban is in place.
+
+We've been successful in placing some of our premium coals into China during the second quarter while capturing 100% of the CFR China index price on the day of the sale.
+Sales volume in the second quarter was 1.8 million short tons compared to 1.5 million short tons in the same quarter last year.
+
+Our sales by geography in the second quarter were 31% into Europe, 6% in South America and 63% into Asia.
+The higher than normal sales to Asia was primarily driven by Chinese demand that we capitalized upon during the second quarter.
+Production volume in the second quarter of 2021 was 1.2 million short tons compared to 2.1 million short tons in the same quarter of last year.
+The decrease is attributed to Mine four being idle and Mine seven operating at lower rates due to the ongoing strike during the second quarter.
+These results also include a zero-day longwall move during the second quarter at Mine 7, which is accomplished by having the extra set of longwall shields we purchased some time ago.
+
+Our gross price realization for the second quarter 2021 was 100% of the Platts premium Low-Vol FOB Australian index price and was the same amount achieved in the prior year period.
+Our gross price realization was primarily, due to a higher percentage of our sales to Chinese customers at the CFR index price.
+
+Our spot sales volume in the second quarter was approximately 34% of total volumes, down from 48% in the first quarter when compared to our normal expectation of approximately 20%.
+I'll now ask Dale, to address our second quarter results in greater detail.
+
+
+
+
+
+Speaker :: Dale W. Boyles -- Chief Financial Officer
+
+
+Thanks, Walt.
+What a difference a year makes?
+Last year's second quarter saw the peak stages of COVID-19 and its impact on the steel and met coal industries, tripled down to our company even as we continued to run both mines at near capacity.
+In contrast, this year our second quarter results were negatively impacted by the UMWA strike in, which we idled Mine four and significantly reduced operations at Mine seven.
+
+As we executed our business continuity plans to meet our contractual commitments to our customers, we drew down our inventory levels to take advantage of strong market conditions to generate strong results of adjusted EBITDA and free cash flow.
+
+For the second quarter of 2021 the company recorded a net loss on a GAAP basis of approximately $5 million or a loss of $0.09 per diluted share compared to a net loss of $9 million or $0.18 per diluted share in the same quarter last year.
+Non-GAAP adjusted net income for the second quarter, excluding the nonrecurring business interruption expenses, idle mine expenses and incremental stock compensation was $0.25 per diluted share compared to a loss of $0.18 per diluted share in the same quarter of 2020.
+
+Adjusted EBITDA was $65 million in the second quarter of 2021 as compared to $20 million in the same quarter last year.
+The quarterly increase was primarily driven by a 24% increase in sales volume and a 14% increase in average net selling prices.
+Our adjusted EBITDA margin was 29% in the second quarter of 2021, compared to 12% in the same quarter last year.
+
+Total revenues were approximately $227 million in the second quarter of 2021, compared to $164 million in the same quarter last year.
+This increase was primarily due to the 24% increase in sales volume and the 14% increase in average net selling prices.
+
+The Platts Premium Low-Vol FOB Australian index price averaged $19 per metric ton higher were up 16% in the second quarter of 2021, compared to the same quarter last year.
+The index price averaged $137 per metric ton for the quarter on the back of a 37% increase in the month of June alone.
+Demurrage and other charges reduced our gross price realization to an average net selling price of $123 per short ton in the second quarter of 2021 compared to $108 per short ton in the same quarter last year.
+
+Cash cost of sales was $152 million or 68% of mining revenues in the second quarter, compared to $130 million or 82% of mining revenues in the same quarter of 2020.
+The increase in total dollars was primarily due to a $31 million impact of higher sales volume, partially offset by $9 million of lower variable cost and a concerted effort to keep our costs low and in line with lower production.
+
+Cash cost of sales per short ton FOB port was approximately $83 in the second quarter, compared to $88 in the same period of 2020.
+Cash costs on price-sensitive costs such as wages transportation and royalties that vary with met coal pricing were lower in the second quarter combined with a focus on cost control.
+
+Depreciation and depletion expenses for the second quarter of 2021 were $40 million, compared to $22 million in last year's quarter.
+The increase quarter-over-quarter was primarily due to 24% higher sales volume as these expenses are first capitalized into inventory and then relieved when the tons are sold.
+In addition, this quarter included approximately $5 million of Mine four depreciation that would have normally been capitalized into inventory with production.
+However, it was directly expensed due to the idling of Mine four.
+
+SG&A expenses were about $11 million or 5% of total revenues in the second quarter of 2021 and were higher than the same quarter last year, primarily due to higher non-cash stock compensation expense, which included an incremental $4 million associated with the accelerated vesting of awards to certain individuals that reached retirement eligibility.
+During the second quarter, we incurred incremental non-recurring business interruption expenses of $7 million directly related to the ongoing UMWA strike.
+These nonrecurring expenses were primarily for incremental safety and security, legal and labor negotiations and other expenses.
+
+As a result of the ongoing UMWA strike that began on April 1st, we Idled Mine four in the second quarter.
+We incurred $11 million of expenses associated with the idling of Mine four and reduced operations at Mine seven.
+These expenses were primarily fixed cost in nature for electricity, insurance, maintenance, labor and taxes.
+
+Net interest expense was about $8 million in the second quarter, included interest on our outstanding debt, interest on equipment financing leases, plus amortization of our debt issuance cost associated with our credit facilities partially offset by interest income.
+
+The slight increase quarter-over-quarter was primarily related to new equipment financing leases.
+We recorded an income tax benefit of $7 million during the second quarter of 2021, compared to a benefit of $4 million in the same quarter last year.
+
+The second quarter of this year included a benefit due to the pre-tax loss and additional marginal gas well credits.
+The year-to-date, tax expense include a non-cash charge of $25 million recognized upon the establishment of a valuation allowance against our state deferred income tax assets.
+
+This result was due to a change in Alabama state tax law in February that became effective as of the beginning of the year.
+In essence, our export sales are no longer subject to Alabama state income taxes and therefore, the value of our state, net operating losses have been written down.
+
+Turning to cash flow, during the second quarter of 2021, we generated $53 million of free cash flow, which resulted from cash flows provided by operating activities of $69 million.
+Thus cash used for capital expenditures and mine development cost of $15 million.
+
+Free cash flow in the second quarter of 2021 was positively impacted by a $32 million decrease in net working capital.
+The decrease in net working capital was primarily due to a decrease in coal inventory, due to higher sales volume and lower production.
+
+Higher collections of accounts receivable partially offset the decrease in accounts payable and accrued expenses from lower production volumes in the second quarter.
+Cash used in investing activities for capital expenditures and mine development costs were $15 million during the second quarter of 2021, compared to $31 million in the same quarter last year.
+
+We continue to rationalize spending during these unprecedented times.
+However, we do expect to spend more dollars in the second half of 2021 to keep the mines well-capitalized.
+Cash flows used by financing activities were $9 million in the second quarter of 2021 and consisted primarily of payments for capital leases of $6 million and the payment of the quarterly dividend of $3 million.
+
+Our total available liquidity at the end of the second quarter was $288 million, consisting of cash and cash equivalents of 267 and $21 million available under our ABL facility.
+This is net of borrowings of $40 million and outstanding letters of credit of approximately $9 million.
+
+Our balance sheet has a leverage ratio of 1.3 times adjusted EBITDA.
+And notably, we have no near-term debt maturities.
+We believe our liquidity position and strong balance sheet combined with a low and variable cost structure has enabled us to weather this period of uncertainty and gives us the flexibility to continue to manage through a continued uncertain landscape.
+
+Now, turning to our outlook.
+Due to the ongoing uncertainty related to our negotiations with the union the COVID-19 pandemic, the Chinese ban on Australian coal, and other potentially disruptive factors, we will not be providing full year 2021 guidance at this time.
+We expect to return to providing guidance once there is further clarity on these issues.
+
+We continue to appropriately adjust our operational needs including managing our expenses, capital expenditures, working capital, liquidity, and cash flows.
+In addition, we have delayed the development of the Blue Creek project and our stock repurchase program also remains temporarily suspended.
+I'll now turn it back to Walt for his final comments.
+
+
+
+
+
+Speaker :: Walter J. Scheller, III -- Chief Executive Officer
+
+
+Thanks Dale.
+Before we move on to Q&A, I'd like to make some final comments.
+As we look forward, we expect the favorable market conditions to continue throughout the third quarter as indicated by our contract and spot customers.
+We've recognized the uncertainty created by the Chinese government's mandate to limit 2021 steel production to 2020 levels and we'll continue to monitor the situation closely.
+
+At the same time, we are also balancing our contractual obligations to our long-term customers with the transitory opportunities created by the changes in the seaborne met coal trade flows.
+We understand that many of you have questions about the status of the UMWA negotiations, estimates of potential outcomes, and possible timelines.
+Unfortunately, we cannot speculate at this time on any of those topics for various reasons.
+
+Let me just say that we value and appreciate the hard work of our hourly employees.
+Our priorities have always been keeping people employed with long-lasting careers and ensuring the company remains financially stable in a particularly volatile coal market.
+While we are disappointed that the union continues with the strike, we continue to negotiate in good faith to reach a resolution.
+
+Finally, as we navigate through these headwinds we will continue to execute our business continuity plans to meet our contractual customer commitments.
+
+In closing, we believe we are well-positioned to fulfill our customer volume commitments for 2021 of approximately 4.9 million to 5.5 million short tons through a combination of existing coal inventory and expected production during the rest of the year.
+Those numbers assume that Mine four continues to be idle and that production continues at Mine 7, although at lower than usual rates.
+
+While we have business continuity plans in place, the strike may still cause disruption to production and shipment activities and the plans may vary significantly from quarter-to-quarter for the remainder of 2021.
+With that we'd like to open the call for questions.
+Operator?
+
+
+
+
+

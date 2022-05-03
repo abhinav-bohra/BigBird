@@ -1,0 +1,163 @@
+Speaker :: Charles Lambert -- Treasurer & Managing Director of Capital Markets
+
+
+Thank you.
+Good morning.
+Welcome to the Medical Properties Trust conference call to discuss our Second Quarter 2021 Financial Results.
+With me today are Edward K. Aldag, Jr., Chairman, President and Chief Executive Officer of the company; and Steven Hamner, Executive Vice President and Chief Financial Officer.
+Our press release was distributed this morning and furnished on Form 8-K with the Securities and Exchange Commission.
+If you did not receive a copy, it is available on our website at www.medicalpropertiestrust.com in the Investor Relations section.
+
+Additionally, we're hosting a live webcast of today's call, which you can access in that same section.
+During the course of this call, we will make projections and certain other statements that may be considered forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+These forward-looking statements are subject to known and unknown risks, uncertainties and other factors that may cause our financial results and future events to differ materially from those expressed and/or underlying such forward-looking statements.
+We refer you to the company's reports filed with the Securities and Exchange Commission for a discussion of the factors that could cause the company's actual results or future events to differ materially from those expressed in this call.
+The information being provided today is as of this date only, and except as required by the federal securities laws, the company does not undertake a duty to update any such information.
+
+In addition, during the course of the conference call, we will describe certain non-GAAP financial measures, which should be considered in addition to and not in lieu of, comparable GAAP financial measures.
+Please note that in our press release, Medical Properties Trust has reconciled all non-GAAP financial measures to the most directly comparable GAAP measures in accordance with Reg G requirements.
+You can also refer to our website at www.medicalpropertiestrust.com for the most directly comparable financial measures and related reconciliations.
+
+I'll now turn the call over to our Chief Executive Officer, Ed Aldag.
+
+
+
+
+
+Speaker :: Edward K. Aldag, Jr. -- Chairman, President & Chief Executive Officer
+
+
+Thank you, Charles and thank all of you for listening in today.
+By now most if not all of you have seen the reports from the likes of HCA, and Tenet and Universal.
+Their positive reports may have surprised some of the street but they certainly didn't surprise us.
+Our tenants are continuing the positive trends with very favorable operating results.
+But first let me discuss the growth of MPT.
+We're very excited to discuss another major push forward in our accreted growth strategy, investing more than $3.6 billion year-to-date, and more than $7 billion at the beginning of 2020 and yet growth for the sake of growth is not consistent with the way we've built MPT.
+
+Our ideals have always been immediately accretive.
+Not only did MPT generate growth in FFO per share in excess of 20% last year, but we have grown both NFFO and AFFO per share well in excess of 10% year-over-year in the first half of 2021.
+This is the strategy we put in place more than 18 years ago, and we have not deviated from it.
+In the 10-year period ending the first quarter of this year, our normalized FFO per share grew at an annualized rate approaching 9%.
+Over the same time span, our AFFO per share grew at 6% annually.
+Now let me turn our attention to the operating results of our tenants.
+
+EBITDARM coverage for our same-store acute care hospitals, which make up 72% of our portfolio increased 31% year-over-year on a trailing 12 month basis.
+These numbers include all of the grants received by our tenants.
+It does not include any Medicare advances.
+These grants, as you will recall have essentially reimbursed hospitals for the time period last year that they were shut down at the request of governments around the world.
+The first quarter 2021 lease coverage was 3.31 times for our acute care sector.
+This includes the grants that were recognized by the tenants and expensing the extraordinary COVID expenses.
+The EBITDARM coverage for the acute care sector increased almost 22% quarter-over-quarter, demonstrating the same type of trajectory that we have seen from previously reported public company filings for hospital operators, acute care operators EBITDARM for same-store increased by more than $400 million year-over-year.
+
+Our LTACH portion of our portfolio, which only represents 1.5% of the total portfolio, as a group continue to perform at the top of their historical coverages.
+The same-store EBITDARM increased by more than $25 million year-over-year and generated a trailing 12 month coverage of almost three times and an increase of almost 40 basis points quarter-over-quarter.
+The earth [Phonetic] sector also continues to show strong performance.
+The EBITDARM for the trailing 12 months ending the first quarter of 2021 showed a slight improvement over 2020.
+The coverage continued to be strong at more than two times, which was a slight increase over the fourth quarter of 2020.
+
+We certainly want to continue the policy of not divulging proprietary and nonpublic information on any of our tenants.
+But I do want to give you some more information on our largest tenants.
+So in alphabetical order, Circle continues to outperform our expectations on their integration of the BMI portfolio we acquired in January of 2020.
+Their total portfolio coverage is strongly above two times, their cash balances are higher today than they were at 12/31/20.
+You may have also seen that the American based healthcare company Centene has acquired 100% of the remaining shares of Circle that they did not already own.
+
+Ernest continues to generate some of the strongest EBITDARM coverages in its history.
+The coverages are approaching three times and increased quarter-over-quarter by more than 30 basis points.
+Their liquidity also remains very strong.
+Healthscope continues its upward trajectory in lease coverage with numbers in line with pre-COVID coverages.
+LifePoint continues its strong operational position with coverages well in excess of pre-COVID numbers.
+EBITDARM coverages increased quarter-over-quarter by 40 basis points.
+Their liquidity position is one of the strongest in the MPT portfolio.
+MEDIAN, one of our strongest performers throughout 2020 continues its steady and strong performance with coverages very near their historical highs.
+
+Prime's current EBITDARM coverages are well above their historical highs, their quarter-over-quarter coverage increased by more than 50 basis points, and the overall coverage is well in excess of our average acute care sector.
+Prospect has a very strong liquidity position and is generating coverages about 15 basis points above last quarter, their overall coverage is well above historical highs with MPT.
+Steward performance tracks right in line with what we're seeing from our other operators.
+Their quarter-over-quarter coverage showed a more than 16 basis points increase.
+Their total coverage is also at an all-time high with MPT.
+[Indecipherable] has continued its historical levels with overall coverage well in excess of the average of our other post-acute operators.
+
+With the recent announcement of pending acquisitions in the U.S., our U.S. portion of our total portfolio is expected to be approximately 61%.
+The acute care sector is projected to be 72% and our behavioral health 11% once we close on the Miami acute care hospitals and the Springstone transaction, we continue to be very bullish on our tenants and their performance, our balance sheet and liquidity management and our very calculated accretive growth strategy.
+
+I'll now turn it over to Steve, he will walk you through the details of our financial results.
+
+Steve?
+
+
+
+
+
+Speaker :: R. Steven Hamner -- Executive Vice President & Chief Financial Officer
+
+
+Thank you, Ed.
+This morning we reported normalized FFO of $0.43 per diluted share for the second quarter of 2021, a 13.2% increase versus last year's second quarter result, which itself was a 23% increase over the comparable 2019 period.
+Importantly, our AFFO per share increased by a similar 13.3% versus the second quarter of 2020, which along with our already attractive dividend payout ratio of only 82% continues to create capacity for sustained dividend growth.
+Adjusted for all mid quarter transactions, including in particular the closing of the Priory sale leaseback as if they all occurred on April 1, normalized FFO for the second quarter would have been $0.44 or an annualized $1.76 per share.
+The high end of our estimated normalized FFO annualized run rate.
+
+As a reminder, our run rate guidance of $1.72 to $1.76 per share is an estimate of the expected annual FFO for our in place assets, plus other assets that are either under development or subject to binding acquisition agreements.
+Neither of which of course are included in our pro forma second quarter $0.44 per share.
+We do plan to update our run rate guidance for the effects of our recently announced Springstone, Steward Southeast Florida and other transactions.
+Once we have more clarity about the amount, terms, and timing of certain expected capital recycling activities.
+We remain hopeful that will be before year-end.
+But under any reasonable set of assumptions about capital sourcing, we expect these transactions to be solidly accretive to per share earnings and FFO, consistent with how we have managed this business for every single acquisition we have made since forming Medical Properties Trust.
+
+Before going into more detail about access to capital, I'll just mention a few other items related to the results for the second quarter.
+First, we recorded a $43 million adjustment to our estimate of net deferred tax liabilities related almost exclusively to the United Kingdom's increase in its corporate income tax rate from 19% to 25%.
+We do not expect discharge to have any material impact on our foreseeable cash results.
+Second, as we do each quarter, we recognize the change in the market value of our investment in the securities of Aevis the parent of our tenant Swiss Medical Network.
+This quarter being a $2.1 million decline from the end of the first quarter.
+Finally, I'll point out that included in the $18.7 million in property related expenses for the quarter is approximately $16 million for annual property insurance premiums, property taxes, ground lease payments, and other impositions, which are built back to tenants and included as revenue in real estate interest and other income a $1 for $1 offset.
+
+Since our last earnings update, we have announced more than $2 billion in new investments.
+Virtually all in the U.S. at a weighted average GAAP yield approximating 8.7% and first year cash yield of about 7%.
+Activity began with the announcement of a $950 million investment in 18 inpatient behavioral hospitals, and an equity interest in the operator as Springstone.
+In addition to the very attractive terms from the initial 18 hospital portfolio, MPT immediately gains the scale necessary to rapidly grow in new markets in the inpatient behavioral health business, as the U.S. seeks to address unmet and growing demand for acute behavioral care.
+Following this announcement, we announced plans to acquire five general acute care hospitals to be operated by Steward in the Miami and Fort Lauderdale area for approximately $900 million.
+These are truly critical community assets that are essential to the dense, growing and ageing populations of the region.
+And through the existing master lease we'll further diversify and strengthen our credit profile with Steward.
+
+This morning, we also announced a couple of smaller acquisitions, both of which have closed already.
+First, we acquired for $215 million a network of four hospitals and two medical office buildings in densely populated areas of Los Angeles from Pipeline Health.
+Pipeline has carefully structured its operations to successfully accommodate an otherwise underserved population that has few attractive alternatives for hospital care.
+In addition, we added one hospital in Scotland to our Circle Health relationship for GBP15.6 million.
+As we have been predicting, almost all of our recent acquisitions have been in the U.S. that's an important point, because among other considerations when we invest away from the U.S. as has been the case in the last couple of years, we purposely over lever with very low rated debt in local currency, which provides a natural currency hedge.
+
+In anticipation of over equitizing U.S. acquisitions, where lease yields are higher and can more profitably absorb the higher cost, but necessary equity funding.
+We have been doing this successfully since our first non-U.S. acquisition in 2013.
+So, during the last couple of years when our acquisitions have coincidentally been relatively weighted away from the U.S., and our leverage measures have therefore predictably unexpectedly increased.
+We have at the same time been preparing for the over equitization that is part of our U.S. activities.
+
+And today, we have a very attractive position in so far as liquidity and other non-debt sources of permanent funding including.
+As of June 30, we have $720 million in unencumbered cash on the balance sheet.
+And this does not include about $350 million in repayment proceeds from Priory that are due by the year-end or a $135 million in proceeds from the sale of our Olympia Hospital in Washington state to the largest operator in that state.
+This is under binding contract subject only to regulatory approval and will reflect the gain on sale of approximately $30 million.
+Nor does it include another $30 million in proceeds from the sale of a smaller hospital that we expect will close imminently.
+
+So between cash on hand and pending contractual proceeds in the near-term, we have total cash of about $1.1 billion available for our pending acquisitions.
+In addition, we are able to issue shares under our ATM program at very low cost relative to an underwritten offering.
+And finally, but critically, I mentioned a few minutes ago that we remain expectant of completing certain capital, recycling transactions during the remainder of this year.
+We expect to generate $1 billion or more in equity like capital from joint venture like arrangements.
+While we are not prepared today to disclose any details about possible joint ventures, there are independent indications that the market for hospital assets is robust.
+These indications include Ramsey's bids to acquire Spire in the U.K. Apollo invest a LifePoint acquisition of Kindred Healthcare and an actual bidding war going on in Australia for Australian Unity's Healthcare Property Trust.
+The same conditions that have driven our own unmatched growth and hospital assets are also rapidly attracting sovereign, institutional and other large sophisticated investors toward hospital assets.
+
+We hope to be in a position soon to quantify how this rapidly expanding market will provide equity funding for our acquisitions at a cost considerably below that of conventional underwritten common equity offerings.
+So depending on whether these transactions actually close consistent with our current estimates, and there is no assurance that they will and the timing of any such closings.
+Our expectation is that we will have sufficient capital to complete all of our pending acquisitions, lower our leverage to six times or better, and provide substantial liquidity for future acquisitions all without unwarranted dilution of our current shareholders.
+But because we do not control timing of regulatory approvals or other conditions to completion of our pending acquisitions, or the progress of potential joint venture counterparties, or other unforeseen events.
+We have also prudently provided liquidity backstops in the form of $2.3 billion in interim and revolver facilities that would temporarily fund these transactions.
+If the sequence of events so requires.
+
+We strongly favor the cost of equity capital available to us in the private real estate market, such as joint ventures over the public market at current pricing.
+And we have carefully and thoughtfully preplanned our capital strategies to avoid the need to issue common shares in an unattractive market.
+It's a very good place to be in.
+
+I'll now turn the call back to the operator for questions.
+
+
+
+
+

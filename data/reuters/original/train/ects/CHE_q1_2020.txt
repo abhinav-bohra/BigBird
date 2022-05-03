@@ -1,0 +1,182 @@
+Speaker :: Sherri Warner -- Investor Relations
+
+
+Good morning.
+Our conference call this morning will review the financial results for the first quarter of 2020 ended March 31st, 2020.
+Before we begin, let me remind you that the Safe Harbor Provisions of the Private Securities Litigation Reform Act of 1995 apply to this conference call.
+
+During the course of this call, the Company will make various remarks concerning management's expectations, predictions, plans, and prospects that constitute forward-looking statements.
+Actual results may differ materially from those projected by these forward-looking statements as a result of a variety of factors including those identified in the Company's news release of April 28th, and in various other filings with the SEC.
+You are cautioned that any forward-looking statements reflect management's current view only and that the Company undertakes no obligation to revise or update such statements in the future.
+
+In addition, management may also discuss non-GAAP operating performance results during today's call, including earnings before interest, taxes, depreciation and amortization or EBITDA and adjusted EBITDA.
+A reconciliation of these non-GAAP results is provided in the Company's press release dated April 28th, which is available on the Company's website at chemed.com.
+
+I would now like to introduce our speakers for today, Kevin McNamara, President and Chief Executive Officer of Chemed Corporation; Dave Williams, Executive Vice President and Chief Financial Officer of Chemed; and Nick Westfall, President and Chief Executive Officer of Chemed's VITAS Healthcare Corporation subsidiary.
+I will now turn the call over to Kevin McNamara.
+
+
+
+
+
+Speaker :: Kevin J. McNamara -- President and Chief Executive Officer
+
+
+Thank you, Sherri.
+Good morning.
+Welcome to Chemed Corporation's first quarter 2020 conference call.
+I will begin with highlights for the quarter, and David and Nick will follow up with additional operating detail.
+I will then open the call up for questions.
+
+First, let's start with the obvious.
+The coronavirus and related shutdown of significant portions of the US economy in March 2020 has triggered significant operational issues and disruption in both of our business segments and specifically within our labor scheduling and supply chains.
+Fortunately, both VITAS and Roto-Rooter are classified as essential services allowed Chemed the opportunity to continue to operate both operating units throughout the pandemic.
+
+However, make no mistake, this is not business as usual.
+Operating during a pandemic with an incredibly infectious and deadly virus creates unique challenges.
+First and foremost, our number one focus is the safety and well-being of our employees, patients and customers.
+We will maintain this focus regardless of the cost to safety to operate during the panic -- pandemic and panic.
+Starting in March, we've seen a significant escalation in cost of some supplies, primarily in the area of personal protection equipment or PPE.
+
+In addition, we are experiencing increased labor costs, as we robustly staff schedules to increase our ability to meet the immediate needs of our patients' family and industrial customers.
+We have also followed state and federal guidelines and are providing the infrastructure necessary to allow field support and corporate staff to work from home and limit as much as practical, physical interaction among our 17,000 employees.
+
+On the VITAS segment, the Federal government and specifically HHS and CMS have been exceptionally supportive in terms of relaxing regulations and creating pragmatic flexibility in caring for our patients.
+During the term of this pandemic, I anticipate some disruption around our patient referral patterns.
+Admissions expanded 4.8% in the first quarter of 2020.
+However, as we began to experience disruption to the healthcare system in the second half of March, admissions increased to modest 1.1% for the month when compared to the prior year.
+Hospital referral admissions typically represent roughly 50% [Phonetic] of our total admissions and our key portal for identifying terminal patients.
+
+In fact, our admissions from hospital referrals increased 7.9% in the quarter.
+However as hospitals shift their focus to COVID-19 patients, it is likely for short-term disruptions to emerge in our hospital referral patterns.
+We have continued working closely with our hospital partners to identify patients within the hospital care continuum who are hospice-appropriate.
+
+As most of you are aware, on March 27th, 2020, the CARES Act was passed and signed into law by President Trump.
+The CARES Act contains provisions related to healthcare providers operations and issues caused by the coronavirus pandemic.
+On April 10th, 2020 VITAS without application received $80.2 million from the CARES Act Relief Fund as a formulaic calculation applied to VITAS' 2019 Medicare fee-for-service revenue.
+While specific granular details of the program have not been announced, funds are specified to be used, prepare for and respond to coronavirus, and shall reimburse the recipient for healthcare-related expenses or lost revenues that are attributable to the coronavirus.
+
+The ability of VITAS to retain and utilize the full $80.2 million from the relief fund will depend on the magnitude, timing and nature of the economic impact of COVID-19 within VITAS, as well as the guidelines and rules of the Federal relief program.
+This financial support is material for VITAS in maintaining its operational capacity to safely and appropriately care for over 19,000 patients daily.
+The Cares Act funding provides for VITAS to operate in the near term were increased labor costs, higher PPE and equipment costs as well as disruption to hospital referrals without a material negative impact to our operating results and our overall financial condition.
+
+Roto-Rooter continues to operate at full capacity.
+However, in March of 2020, we noticed disruption in our commercial business.
+Commercial plumbing and drain cleaning services represented 28% of total Roto-Rooter revenue for 2019.
+With the shutdown of most restaurants and retail businesses, we have noticed a demand impact on this subset of our commercial business.
+Fortunately, our first quarter 2020 revenue service demand, which typically represents over 61% of Roto-Rooter revenue continues to remain solid.
+
+David will provide additional color on Roto-Rooter revenue later in the call.
+With that, I would like to turn this teleconference over to David.
+
+
+
+
+
+Speaker :: David P. Williams -- Executive Vice President and Chief Financial Officer
+
+
+Thanks, Kevin.
+VITAS' net revenue was $338 million in the first quarter of 2020, which is an increase of 10.1%, when compared to our prior-year period.
+This revenue increase is comprised primarily of a 5.9% increase in days-of-care, a geographically weighted average Medicare reimbursement rate increase of approximately 5%, and acuity mix shift which then reduced the Medicare rate increase approximately 90 basis points.
+The combination of a decline in Medicare Cap, increase in Medicaid net room and board pass through and other contra revenue activity had minimal impact on overall revenue growth in the quarter.
+
+Our average revenue per patient per day in the first quarter of 2020 was $198.99, which, including acuity mix shift, is 4.1% above the prior-year period.
+Reimbursement for routine home care and high acuity care averaged $164.14 and $990.72, respectively.
+During the quarter, high acuity days-of-care were 4.2% of total days of care, 21 basis points less than the prior-year quarter.
+This 21 basis point mix shift in high acuity days-of-care reduced the increase in average revenue per patient per day from 5% to 4.1% in the quarter.
+
+In the first quarter of 2020, VITAS accrued $2.5 million in Medicare Cap billing limitations.
+This compares to prior year Medicare Cap billing limitations of $3.4 million.
+
+VITAS currently has 30 Medicare provider numbers.
+During the first six months of fiscal 2020 Medicare Cap year, 23 of these provider numbers have a Medicare Cap cushion of 10% or greater, two provider numbers have a cap cushion between 5% and 10%, two provider numbers have a cap cushion between 0% and 5%, and three of our provider numbers have an estimated 2020 Medicare Cap billing limitation.
+
+The first quarter 2020 gross margin for VITAS excluding Medicare Cap was 23.8%, which is a 108-basis point margin improvement when compared to the first quarter of 2019.
+Selling, general and administrative expense was $22.3 million in the first quarter of 2020, which is an increase of 3.4% compared to the prior-year quarter.
+Adjusted EBITDA, excluding Medicare Cap, totaled $60.2 million in the quarter, an increase of 21.2%.
+And our adjusted EBITDA margin, excluding Medicare Cap, was 17.7% in the quarter, which is a 167 basis point improvement compared to the prior-year period.
+
+Now let's look at Roto-Rooter.
+Roto-Rooter generated quarterly revenue of $178 million for the first quarter of 2020, which is an increase of $22.6 million or 14.6% over the prior year.
+On a unit per unit basis, which excludes our Oakland and HSW acquisitions completed in July and September 2019 respectively, Roto-Rooter generated quarterly revenue of $158 million for the first quarter of 2020, which is an increase of 1.6% over the prior year.
+
+Excluding acquisitions, commercial drain cleaning revenue was equal to the prior year, commercial plumbing and excavation declined 4.3%, and commercial water restoration declined 15.5%.
+Commercial water restoration represents approximately 10% of our total water restoration service revenue.
+And overall, commercial revenue excluding acquisitions decreased 3.5%.
+On a residential side, if we exclude acquisitions, residential drain cleaning increased 4.1%, plumbing and excavation for residential increased 4.4%, and residential water restoration decreased 1.9%.
+
+Overall residential sales, excluding acquisitions, increased 2.4% in the quarter.
+Roto-Rooter gross margin in the quarter was 48.1%, a 105 basis point increase compared to the first quarter of 2019.
+Adjusted EBITDA in the first quarter of 2020 totaled $40 million was an increase of 19.5%.
+The adjusted EBITDA margin in the quarter for Roto-Rooter was 22.5%, which is a 92 basis point improvement compared to the prior year.
+As of March 31st, 2020 Chemed had total cash and cash equivalents of $29 million and long-term debt of $160 million.
+
+Regarding our outlook for 2020, certainly operating during the pandemic has the potential to materially impact the operational metrics and overall operating results of the company.
+However, it is expected that the CARES Act funds received by VITAS will be sufficient to substantially offset anticipated costs and lost revenue related to the COVID-19 pandemic.
+Roto-Rooter is anticipated to receive minimal financial support from the CARES Act.
+However, it is important to consider Roto-Rooter's main service is to stop water and raw sewage from flowing and causing destruction to residential and commercial structures.
+It is primarily a necessity and great service that has historically been resistant to even the deepest of recessions.
+
+We are early into the disruption caused by the COVID-19 pandemic and related shutdown in significant portions of our economy.
+It is premature and in fact impossible to reasonably measure or predict the impact of COVID-19 will have on Roto-Rooter's full-year 2020 operating results.
+
+Recognizing these issues, we anticipate providing updated 2020 earning guidance when we issue our second quarter 2020 operating results.
+I'll now turn this call over to Nick Westfall, President and Chief Executive Officer of our VITAS subsidiary.
+
+
+
+
+
+Speaker :: Nicholas M. Westfall -- Executive Vice President
+
+
+Thanks, Dave.
+Before I discuss our first quarter metrics and provide some additional color on what VITAS has been doing operationally during this unprecedented pandemic, I first wanted to thank every member of our VITAS team for their passion, commitment and unwavering dedication being displayed each and every day.
+As hurricanes, wildfires, and other natural disasters have taught us in the past, this pandemic has brought our organization together to remind ourselves we will persevere through even the toughest of challenges and do it together.
+
+Now let's dive into the first quarter of 2020 operating metrics.
+In the first quarter, our Average Daily Census was 19,215 patients, an increase of 4.7% over the prior year.
+Total admissions in the quarter were 18,603.
+This is a 4.8% increase in admissions when compared to the first quarter of 2019, and is a continuation of admissions improvement over the previous five quarters.
+This admissions performance is a result of our collective organization, striving to improve all aspects of our ability to differentiate VITAS, and efficiently serve the patients' families and referral sources in each of the communities we operate.
+
+As Kevin mentioned in his opening remarks, the need to be the best partner in the communities we serve is only amplified during this pandemic.
+During the quarter, admissions increased in the three largest contributing pre-admit locations when compared to the first quarter of 2019.
+Hospitals which typically represent roughly 50% of our admissions increased 7.9%.
+Home based admissions increased 2.8%, and nursing home admissions expanded 20 basis points, assisted-living facilities had a decline in admits of 4%.
+
+Our average length of stay in the quarter was 90.7 days, this compares to 91.3 days in the first quarter of 2019 and sequentially to 95.2 days in the fourth quarter of 2019.
+Our median length of stay was 14 days in the current quarter, which is one day less than the 15 day median in the prior-year quarter and compares sequentially to a 16 day median length of stay in the fourth quarter of 2019.
+Median length of stay is a key indicator of our penetration in the high acuity sector of the market.
+
+Before I turn this call back over to Kevin, I want to provide some additional color as to what VITAS is doing operationally during this unprecedented time.
+As Kevin mentioned in his opening comments, our top priority has been ensuring the safety of our employees, the patients we serve and their families.
+I'm proud to say we've been able to achieve this priority to date through swift prudent decision-making to anticipate and adhere to all CDC guidance and leverage the support of relief we partnered to vocalize with CMS and HHS.
+This includes leveraging our own VITAS owned devices to provide telehealth when needed for our team members, healthcare partners, patients and their loved ones.
+
+Additionally, we've been successful in our tireless efforts to source appropriate PPE by any means possible allowing us to not negatively impact our ability to admit new patients as well as service our existing patients since the start of the pandemic.
+Additionally, we've taken a proactive approach to communicate and collaborate with our local partners in all the communities we serve to minimize the patient access disruption occurring as a result of the prescribed changes to the healthcare system.
+
+This approach is specific to the market and the partner whether a hospital, nursing home, assisted living facility or physician practice as each are uniquely navigating how this pandemic has impacted their ability to service their communities.
+For example, for the most part we've been successful working with our nursing home and facility partners to continue to access these locations given the importance of our role for placement of new admissions along with caring for existing residents that are on VITAS service.
+
+As certain markets across the country prepare to reopen in a phased approach, we are similarly working with our partners to remind them we will adjust in lockstep to help support them to receive care for eligible patients as we plan for this new normal.
+I couldn't be more proud of the team, and what we're going to continue to accomplish in serving our communities during these times.
+
+With that, I'd like to turn the call back over to Kevin.
+
+
+
+
+
+Speaker :: Kevin J. McNamara -- President and Chief Executive Officer
+
+
+Thank you, Nick.
+I will now open this teleconference to questions.
+
+
+
+
+
