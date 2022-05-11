@@ -31,7 +31,7 @@ class Ect(datasets.GeneratorBasedBuilder):
         )
 
     def _split_generators(self, dl_manager):
-        data_dir = "/content/Long-Text-Summarization/data/reuters/bigbird/"
+        data_dir = "/content/ECTSumm/data/reuters/Longformer/"
         return [
             datasets.SplitGenerator(
                 name=datasets.Split.TRAIN,
@@ -50,8 +50,8 @@ class Ect(datasets.GeneratorBasedBuilder):
             datasets.SplitGenerator(
                 name=datasets.Split.VALIDATION,
                 gen_kwargs={
-                    "filepath": os.path.join(data_dir, "validation.txt"),
-                    "split": "dev",
+                    "filepath": os.path.join(data_dir, "val.txt"),
+                    "split": "val",
                 },
             ),
         ]
@@ -64,7 +64,6 @@ class Ect(datasets.GeneratorBasedBuilder):
             for line in f:
                 d = json.loads(line)
                 summary = "\n".join(d["abstract_text"])
-                summary = summary.replace("<S>", "").replace("</S>", "")
                 yield d["article_id"], {
                     _DOCUMENT: "\n".join(d["article_text"]),
                     _SUMMARY: summary,
