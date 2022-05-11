@@ -8,7 +8,7 @@ _DESCRIPTION = "None"
 _HOMEPAGE = "None"
 _LICENSE = "None"
 _DOCUMENT = "article"
-_SUMMARY = "abstract"
+_SUMMARY = "summary"
 
 # TODO: Name of the dataset usually match the script name with CamelCase instead of snake_case
 class Ect(datasets.GeneratorBasedBuilder):
@@ -31,7 +31,7 @@ class Ect(datasets.GeneratorBasedBuilder):
         )
 
     def _split_generators(self, dl_manager):
-        data_dir = "/content/ECTSumm/data/reuters/Longformer/"
+        data_dir = "/content/ECTSumm/data/reuters/longformer/"
         return [
             datasets.SplitGenerator(
                 name=datasets.Split.TRAIN,
@@ -63,8 +63,8 @@ class Ect(datasets.GeneratorBasedBuilder):
         with open(filepath, encoding="utf-8") as f:
             for line in f:
                 d = json.loads(line)
-                summary = "\n".join(d["abstract_text"])
+                summary = " ".join(d["summary_text"])
                 yield d["article_id"], {
-                    _DOCUMENT: "\n".join(d["article_text"]),
+                    _DOCUMENT: " ".join(d["article_text"]),
                     _SUMMARY: summary,
                 }
