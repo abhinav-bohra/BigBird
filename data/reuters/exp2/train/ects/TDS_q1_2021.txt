@@ -1,0 +1,77 @@
+In terms of our upcoming IR schedule, Slide 3, we're doing the J.P. Morgan Virtual Non-Deal Roadshow on May 11th and on June 16th we are attending a Virtual Investor Corporate Access Event with the New York Stock Exchange.
+TDS is redeeming $225 million of its 6.875% Senior Notes and $300 million of its 7% Senior Notes and UScellular is redeeming $275 million of its 7.25% Senior Notes for a total of $800 million.
+As you see on Slide 4 at the end of the first quarter, TDS continues to have a good financial position, including ample available funding sources consisting of cash and cash equivalents, and available credit facilities.
+In March, TDS issued $420 million in perpetual preferred stock, which will be used primarily for funding fiber deployments and the repayment of debt.
+TDS purchased $3 million worth and UScellular purchased $2 million worth of shares.
+Flip to slide 6, our strategic imperatives are simple.
+We have 5G available to some degree in 18 states today.
+This exceeds our results from last year where we achieved a distance of five kilometers with average speeds of 100 Megabits per second.
+Let's start with the review of customer results starting on slide 7.
+We saw connected device gross additions decrease by 3,000 year-over-year.
+Wrapping up this slide, total smartphone connections increased by 13,000 during the quarter and a 56,000 over the course of the past 12 months.
+That helps to drive more service revenue given that smartphone ARPU is by $20 higher than feature phone ARPU.
+Next, I want to comment on the postpaid churn rate shown on slide 8.
+Postpaid handset churn depicted by the blue bars was 0.92% down from 0.95% a year ago.
+Total postpaid churn combining handsets and connected devices was 1.12% in the first quarter of 2021 also, lower than a year ago.
+Now let's turn to the financial results on slide 9.
+Total operating revenues for the first quarter were $1.023 billion, an increase of $60 million or 6% year-over-year.
+Retail service revenues increased by $40 million to $685 million, the increase is primarily due to a higher average revenue per user, which I will discuss in a moment as well as an increase in average postpaid subscribers.
+Inbound roaming revenue was $28 million that was a decrease of $9 million year-over-year driven by the decrease in data volume.
+Other service revenues were $58 million, an increase of $4 million year-over-year, including a 9% increase in tower rental revenues.
+Finally, equipment sales revenues increased by $51 million year-over-year due to an increase in units sold, an increase in sales of higher-priced units as well as an increase in accessory sales as a result of higher volume.
+Now a few more comments on postpaid revenue shown on slide 10.
+Average revenue per user or connection was $87.65 for the first quarter, up $0.42 or approximately 1% year-over-year.
+On a per account basis average revenue grew by $2.33 or 2% year-over-year.
+Turning to slide 11 as we continue our multi-year network modernization and 5G rollout, control of our towers remains very important.
+As I mentioned first quarter tower rental revenues increased by 9% year-over-year.
+Moving to Slide 12.
+As shown at the bottom of the slide, adjusted operating income was $258 million, an increase of 12% year-over-year.
+As I commented earlier, total operating revenues were $1.023 billion, a 6% increase year-over-year.
+Total cash expenses were $765 million, increasing $33 million or 5% year-over-year.
+Total system operations expense increased 3% year-over-year.
+Excluding roaming expense, system operations expense increased by 2% due to higher service costs.
+Roaming expense increased $1 million or 4% year-over-year resulting from an 80% increase in off-net data volume, that was largely offset by a decrease in rates.
+Cost of equipment sold increased $58 million or 26% year-over-year due to an increase in units sold, an increase in sales of higher-priced smartphones, as well as higher accessory sales volume.
+Selling, general and administrative expenses decreased $30 million or 9% year-over-year, driven primarily by a decrease in bad debt expense.
+Bad debt expense decreased $26 million due to lower write-offs driven by fewer non-paying customers as a result of a better credit mix and improved customer payment behavior.
+Turning to Slide 13.
+Adjusted EBITDA for the quarter was $302 million, an increase of $21 million or 8% year-over-year.
+Equity in earnings of unconsolidated entities decreased by $3 million or 7%.
+Total service revenues, we have increased our midpoint by $25 million to a range of $3.05 billion to $3.15 billion.
+We have raised the midpoint of our adjusted operating income and adjusted EBITDA ranges by $25 million by increasing low end of the ranges, with no change to the high end of the ranges resulting in new ranges of $850 million to $950 million, and $1.025 billion to $1.125 billion respectively.
+For capital expenditures, we are maintaining our guidance range of $775 million to $875 million and we have provided a breakdown by major category.
+We added 13,000 fiber service addresses to our footprint, and continue to execute on our fiber strategy.
+Overall, we grew our top line 4%.
+Whether it is our markets where we have upgraded copper, or building fiber or provided DOCSIS 3.1 capability, we are striving to increase Internet speed to better serve our customers.
+On a combined basis we are able to offer 1 gigabit speed to 55% of our total service addresses.
+Total telecom broadband residential connections grew 9% in the quarter as we continue to fortify our network with fiber and expand into new markets.
+Bolstered by this growth Wireline broadband residential connections grew 10% and Cable increased 8%.
+Total broadband penetration continued to increase, up 100 basis points to 38%.
+Overall, higher value product mix and price increases drove a 5% increase in average residential revenue per connection.
+On Slide 18, you can see the broadband connection growth across all markets.
+This quarter, we achieved a major milestone reaching 0.5 million total broadband subscribers.
+Residential broadband revenues grew 16% in total in the quarter.
+We are offering up to 1 Gigabit broadband speed in both our fiber and DOCSIS 3.1 market.
+1 Gigabit product is an important tool that allows us to defend market and win over customers and new markets.
+In areas where we offer 1Gig service we are seeing 17% of our new customers taking the superior product.
+Now turning to Slide 19, we have augmented our success, growing broadband with our TDS TV Plus offering.
+Wireline growth of 7%, driven by our expansion markets nearly offset losses in the Cable market.
+This rollout of this product currently covers about 60% of our total operation.
+We continue to be bullish on our fiber strategy, which is shown on Slide 20.
+Slide 21 shows the progress we are making this year on our multi-year fiber footprint expansion, which includes fiber into incumbent markets and also expansion into new markets.
+As a result of this strategy over the last several years 321,000 or 38% of our wireline service addresses are now served by fiber, which is up from 32% a year ago.
+This is driving revenue growth while also expanding the total wireline footprint 6% to 855,000 service addresses.
+Moving on to slide 22, we've highlighted the total service addresses for the clusters that are in construction and we are actively marketing.
+We have completed 321,000 fiber service addresses through the first quarter and are working to build out the footprint in these announced markets to 620,000 service addresses by 2024.
+On slide 23, total revenues increased 4% to $249 million, largely driven by the strong growth in residential revenues, which increased 9% in total.
+Incumbent wireline market also showed impressive growth of 6% due to increases in broadband and video connections as well as increases from within the broadband product mix.
+This was partially offset by a 2% decrease in residential voice connection.
+Cable residential revenues grew 9% due to an 8% increase in broadband connections.
+Commercial revenues which continue to be impacted by C like decline, decreased 6% to $47 million in the quarter.
+And wholesale revenues decreased 3% to $45 million, primarily due to reductions in special access in the incumbent wireline market.
+So let me sum up the combined financial results for the quarter shown on slide 24.
+Revenues increased 4% from the prior year as growth from our fiber expansions and increases in cable broadband subscribers exceeded the declines we experienced in our legacy business.
+Cash expenses increased 5% due to additional employee and advertising expense related to our expansion market.
+Adjusted EBITDA declined 1% to $81 million on lower interest income compared to last year.
+Capital expenditures increased 30% from last year to $70 million as we continue to increase our investment in fiber deployment for the success base band for new customer installs.
+And finally, moving to slide 25.

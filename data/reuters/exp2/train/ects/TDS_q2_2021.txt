@@ -1,0 +1,78 @@
+In terms of our upcoming IR schedule, slide three, the Investor Relations team is attending the Morgan Stanley Media and Communications Corporate Access Day on August 12.
+Before turning the call over, I want to remind everyone that due to the FCCs anti-collusion rules related to auction 110, we will not be responding to any questions related to spectrum auctions.
+First, our effective tax rate was a negative 48.9% during the quarter due primarily to the reduction of certain tax accruals.
+And as part of redeeming some of our higher-cost debt, we recorded an additional $36 million in noncash interest expense, $20 million of which was at U.S. Cellular.
+As you can see, through June 30, weve redeemed over $1 billion in debt with a weighted average cost of 7.1% and replaced it with debt with an average cost of 4.8%.
+This results in a run rate of $25 million in annual coupon savings on the redeemed debt.
+And this will raise the amount redeemed by over $450 million to a total of almost $1.6 billion.
+And most recently, we achieved another world record using our 5G millimeter wave spectrum, achieving near gigabit speeds over a distance of 10 kilometers.
+Postpaid handset gross additions increased by 16,000 year-over-year due to higher switching activity which was depressed last year as a result of the unfolding pandemic.
+We saw connected device gross additions decline by 4,000 year-over-year.
+Total smartphone connections increased by 15,000 during the quarter and by 60,000 over the course of the past 12 months.
+That helps to drive more service revenue given that smartphone ARPU is about $20 higher than feature phone ARPU.
+Our prepaid base increased 11,000 due to an increase in gross additions, combined with a decrease in defections.
+Postpaid handset churn, depicted by the blue bars, was 0.88%, up from 0.71% a year ago.
+Total postpaid churn, combining handsets and connected devices, was 1.11% for the second quarter of 2021, higher than a year ago as we have also seen churn increase on connected devices due to certain business and government customers disconnecting devices that were activated during the peak periods of the pandemic in 2020.
+Now lets turn to the financial results on slide 10.
+Total operating revenues for the second quarter were $1.014 billion, an increase of $41 million or 4% year-over-year.
+Retail service revenues increased by $28 million to $686 million.
+Inbound roaming revenue was $28 million.
+That was a decrease of $13 million year-over-year, driven by a decrease in data volume and rates.
+Other service revenues were $60 million, an increase of $6 million year-over-year, including a 6% increase in tower rental revenues.
+Finally, equipment sales revenues increased by $20 million year-over-year due to an increase in units sold and an increase in accessories sales as a result of higher volume, partially offset by a decrease in the average revenue per unit in large part as a result of an increase in promotional activity.
+As a result of the combined impact of these factors, loss on equipment increased $20 million year-over-year from a positive margin of $2 million in 2020 to a loss on equipment of $18 million in 2021.
+Now a few more comments about postpaid revenue shown on slide 11.
+Average revenue per user or connection was $47.74 for the second quarter, up $1.50 or approximately 3% year-over-year.
+On a per account basis, average revenue grew by 4.55% or 4% year-over-year.
+Turning to slide 12.
+As I mentioned, second quarter tower rental revenues increased by 6% year-over-year.
+Moving to slide 13.
+As shown at the bottom of the slide, adjusted operating income was $218 million, a decrease of 7% year-over-year.
+As I commented earlier, total operating revenues were $1.014 billion, a 4% increase year-over-year.
+Total cash expenses were $796 million, increasing $58 million or 8% year-over-year.
+Total system operations expense increased 4% year-over-year.
+Excluding roaming expense, system operations expense increased by 7% due to higher circuit costs and sell-side rent and maintenance expense.
+Roaming expense decreased $3 million or 7% year-over-year, resulting from lower voice roaming while higher day usage was largely offset by lower rates.
+Cost of equipment sold increased $40 million or 19% year-over-year due to an increase in units sold and an increase in accessory sales as a result of higher volume.
+Selling, general and administrative expenses increased $11 million or 3% year-over-year, driven primarily by costs associated with supporting enterprise projects, billing system upgrades and federal universal service fund expense, which is fully offset in service revenues.
+Turning to slide 14.
+Adjusted EBITDA for the quarter was $267 million, a decrease of $13 million or 5% year-over-year.
+Equity and earnings of unconsolidated entities increased by $3 million or 7%.
+For total service revenues, our guidance range of $3.05 billion to $3.15 billion remains unchanged.
+For adjusted operating income and adjusted EBITDA, we are maintaining our guidance ranges of $850 million to $950 million and $1.025 billion to $1.125 billion, respectively.
+For capital expenditures, we are also maintaining our guidance range of $775 million to $875 million, and we have provided a breakdown by major category.
+We grew residential broadband revenues 16% in total in the quarter, driving total residential revenue growth of 10%.
+Overall, we grew our top line 5%, while planned investment spending on new market launches caused our adjusted EBITDA to be lower than prior year.
+Also notable during the quarter was strong average residential revenue per connection growth of 7% on price increases and product mix as customers take higher speeds.
+During the quarter, we grew our total footprint 6%, which increased strong organic household growth across our market.
+Turning to the slide 17.
+On slide 18, total residential connections increased 2% due to residential broadband growth in new and existing markets, partially offset by a decrease in voice and video connections.
+Total telecom broadband residential connections grew 7% in the quarter as we continue to fortify our networks with fiber and expand into new markets.
+Overall, higher value product mix and price increases drove a 7% increase in average residential revenue per connection.
+On slide 19, you can see the broadband connection growth across all markets.
+Our focus on broadband connection growth and fast reliable service has generated a 16% increase in total residential broadband revenue.
+We are offering up to one gig broadband speeds to 56% of our total footprint, including both our fiber and DOCSIS 3.1 market.
+In areas where we offer one gig service, we are now seeing 21% of our new customers taking this superior product.
+Turning to slide 20.
+Wireline growth of 6%, driven by our expansion markets, nearly offset losses in the cable market.
+For example, we are experiencing a 40% video attachment rate to every broadband connection in our wireline markets where we offer IPTV services, and thats across half our wireline footprint -- nearly half our wireline footprint.
+The rollout of this product currently covers 60% of our total operations, including our cable markets.
+Moving to slide 21.
+As a result of this strategy, 39% of our wireline service addresses are now served by fiber.
+This is up from 33% a year ago.
+This is driving revenue growth while also expanding the total wireline footprint, 8% to 873,000 service addresses.
+Moving to slide 23.
+We recently announced our expansion of fiber into Spokane Valley, Washington, adding 33,000 service addresses to our plans in the Spokane cluster.
+In total, we completed 338,000 fiber service addresses through the second quarter and are working to build out the footprint in these announced markets to 657,000 service addresses by 2024.
+Year-to-date, we completed construction of 31,000 fiber addresses, adding 18,000 service addresses in the quarter.
+The delays we are seeing in construction could impact our ability to deliver our goal of 150,000 service addresses by the end of the year, but we are confident that well still complete a substantial portion of our plan.
+On slide 24, total revenues increased 5% year-over-year to $252 million, largely driven by the strong growth in residential revenue which increased 10% in total.
+Incumbent wireline markets also showed impressive residential growth of 7% due to increases in broadband connections as well as increases from within the broadband product mix, partially offset by a 4% decrease in residential voice connections.
+Cable residential revenues grew 10%, also due to increases in broadband connections as well as product mix.
+Commercial revenues, which continue to be impacted by CLEC declines, decreased 4% to $46 million in the quarter.
+And wholesale revenues decreased 3% to $45 million due primarily to reductions in special access in the incumbent wireline market.
+As shown on slide 25, total revenues increased 5% from the prior year as growth from our fiber expansion and increases in broadband subscribers exceeded the declines we experienced in our legacy business.
+Cash expenses increased 10% due to both supporting our current growth as well as spending related to future expansion into new markets, which is not yet reflected in our revenue.
+As a result, adjusted EBITDA decreased 7% to $78 million as expected.
+Capital expenditures increased 33% from last year to $99 million as planned.
+On slide 26, weve provided our 2021 guidance, which is unchanged from the guidance we shared at the beginning of the year.

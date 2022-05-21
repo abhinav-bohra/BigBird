@@ -1,0 +1,38 @@
+For the first quarter, we delivered revenues well above the high end of the range of our outlook with a total non-GAAP revenue ending the quarter at $257 million, representing year-over-year growth of 33%.
+First-quarter adjusted EBITDA was $106.5 million, representing an adjusted EBITDA margin of 41%, exceeding the high end of our outlook for the first quarter.
+Our Q1 core IT management maintenance renewal rate of 87% is higher than the low- to mid-80% renewal rates we noted we expected in 2021 when we discussed our full-year results in February.
+We continue to focus on customer retention as a key priority and hope to grow back to our historical and best-in-class renewal rates of over 90%.
+Our N-able business, again, delivered double digit, 13% revenue growth in Q1, and we continue to expand our portfolio in support of our MSP partners and SME customers.
+We are accelerating our momentum in the database monitoring segment with the formation of a dedicated core team to help us capture what we believe is a large and growing market opportunity of over $6 billion.
+First, the market opportunity for N-able starts with a small and medium enterprise IT spending, which is over $1 trillion globally and growing.
+We believe the market opportunity for our software solutions is approximately $23 billion and expected to nearly double by 2025.
+As we strive to become a stand-alone Rule of 50 company with a heavier lean toward growth from the potential spin-off transaction, I want to highlight the unique aspect of our growth model called partner enabled expansion.
+We delivered a solid 13% total revenue growth and 15% subscription revenue growth, especially considering a couple of headwinds worth noting.
+We had a much better quarter than anticipated and finished well above the high end of the range of our outlook for the first quarter with total non-GAAP revenue ending the quarter at $257 million, representing year-over-year growth of over 3%.
+Total N-able revenue was $83 million, representing growth of 13%.
+And total -- or core IT management revenue was $174 million.
+Total license and maintenance revenue was $147.9 million in the first quarter, down 3.5% versus the prior year.
+Maintenance revenue was $123 million in the first quarter, up 6% versus the prior year.
+We typically disclose the maintenance renewal rate for our perpetual license products on a trailing 12-month basis.
+Our Q1 trailing 12-month rate was 91%.
+However, given the heightened focus on smaller windows of performance since the cyber incident, we want to provide the in-quarter renewal rate for Q1, which was approximately 87%.
+This exceeded our expectations for renewal rates in the low- to mid-80% range throughout 2021, which we provided on our last earnings call.
+In addition, we expect this renewal rate of 87% to increase by a few percentage points based on historical trends after factoring in renewals that expire bookings that occur post quarter end.
+For the first quarter, license revenue was $24.9 million, which represents a decline of approximately 33% as compared to the first quarter of 2020.
+Our on-premises subscription sales resulted in approximately 2-percentage-point headwind to our license revenue for the quarter.
+Total ARR reached approximately $961 million as of March 31, reflecting year-over-year growth of 12%.
+Subscription ARR grew 13%, reaching $438 million at the end of the quarter.
+First-quarter non-GAAP subscription revenue was $109.1 million, up 15% year over year, which was driven by N-able's 15% year-over-year subscription revenue growth, as well as solid performance in core IT management subscription revenue.
+We finished the quarter -- we finished the first quarter of 2021 with 1,074 customers that have spent more than $100,000 with us in the last 12 months, which is a 16% improvement over the previous year and 17% more since year-end.
+First-quarter adjusted EBITDA was $106.5 million, representing an adjusted EBITDA margin of 41%, exceeding the high end of the outlook for the first quarter.
+Unlevered free cash flow for the first quarter totaled $51 million.
+Excluded from EBITDA and unlevered cash flow -- unlevered free cash flow are one-time costs of approximately $20 million, including $10 million of spin-off-related costs and $10 million of cyber-related remediation, containment, investigation and professional fees, net of insurance proceeds.
+They are separate and distinct from the $20 million to $25 million of Secure by Design initiatives, which are aimed at enhancing our IT security and supply chain process.
+Net leverage at March 31 was 3.2 times our trailing 12-month adjusted EBITDA.
+With $374.4 million in cash at March 31, we believe we are well-positioned from a financial standpoint to continue to invest in the future growth of our business.
+For the second quarter of 2021, we expect total non-GAAP revenue to be in the range of $254 million to $258 million, representing year-over-year growth of 3% to 5%.
+Adjusted EBITDA for the second quarter is expected to be $102 million to $104 million, which implies an approximately 40% adjusted EBITDA margin.
+Non-GAAP fully diluted earnings per share is projected to be $0.21 per share, assuming an estimated 319.6 million fully diluted shares outstanding.
+And last, our outlook for the second quarter assumes a non-GAAP tax rate of 22%, and we expect to pay approximately $22 million in cash taxes during the second quarter of 2021.
+Increasing the percentage of our recurring revenue has been a focus over the past five years, and recurring revenue is down 90% of our total revenue.
+We expect our conversion rate for the full year to be above 70% and grow to the low 80% range in 2022.

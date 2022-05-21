@@ -1,0 +1,60 @@
+Turning to Slide 3.
+We are very pleased with our fourth-quarter performance and book value of $7.63, which represents a 5.8% quarterly return on book value.
+We have spent a significant amount of resources over the years building out our MSR acquisition and oversight platform, and we reaped some benefits this quarter as we added over $40 billion of unpaid principal balance of MSR through both our flow sale channel and bulk purchases.
+Finally, as a reflection of all of these trends and with the confidence in our forward outlook, we also raised the common stock dividend this quarter by 21% to $0.17 per share.
+Subsequent to quarter end, we issued $287 million of a new convertible note maturing in 2026 and whose proceeds were primarily used to refinance the existing convertible note that is maturing in January 2022.
+As a consequence of the events of the first quarter, our ratio of preferred stock to total equity had increased from 20% to about 32%.
+After the call was completed on March 15, our new ratio of preferred stock to total equity will be about 26%, which we think is appropriate for our Agency plus MSR portfolio.
+Purchases in our MSR flow program grew by over 136% year over year, reflecting the strength of the platform and relationships we've built to source and manage the asset.
+Results for 2020 as a whole were disappointing to be sure as book value declined to $7.63 from $14.54, a result of the market volatility and dislocation induced by the pandemic.
+In many ways, we think of our newly internalized company as Two Harbors 2.0, and we are really excited for 2021 and the years ahead.
+We generated comprehensive income of $113.5 million or $0.41 per common share, representing an annualized return on average common equity of 22.1%.
+As Bill mentioned, our book value rose to $7.63 from $7.37 per share on September 30, resulting in a total economic return of 5.8%.
+Moving on to Slide 5.
+Core earnings increased to $0.30 per share from $0.28 in Q3.
+Interest income decreased this quarter from $89.7 million to $72.5 million due to lower average balances and coupons as well as higher Agency amortization due to prepayments.
+This decrease was partially offset by lower interest expense of $22.6 million, reflecting lower borrowing rates and average balances.
+Gain on other derivatives increased from $32.9 million to $43.5 million due to higher TBA dollar roll income on higher average balances and continued roll specialness.
+Roll specialness contributed $0.06 to core earnings versus $0.04 in Q3.
+Expenses declined by $6.2 million, primarily due to transition to self-management and lower servicing costs.
+Turning to Slide 6.
+Our portfolio yield in the quarter was 2.26%, and our net spread decreased two basis points to 1.76%.
+Portfolio yield decreased by 16 basis points from 2.42% to 2.26%, primarily due to higher Agency RMBS prepayments.
+Our cost of funds decreased 14 basis points from 0.64% to 0.50%, driven primarily by favorable repo rolls.
+Inclusive of this impact, the annualized net spread for the aggregate portfolio was 1.96% with the benefit of 36 basis points in cost of funds.
+Slide 7 highlights our strong liquidity and capital position with ample liquidity with $1.4 billion in unrestricted cash as well as $215 million in unused committed capacity on our MSR asset financing facilities.
+Late in the third quarter, we also added a $200 million servicing advanced facility to provide committed capacity in the event of increased forbearances or defaults.
+Our economic debt to equity at quarter end declined to 6.8 times from 7.7 times at September 30, as we decreased risk late in the quarter.
+And our quarterly average economic debt to equity was 7.5 times in Q4 compared to 7.6 times in the third quarter.
+On Slide 8, we have outlined the pro forma impact of the liability and capital actions we have taken post-quarter end.
+With that certainty in hand and our plans to optimize the financing of our MSR asset over the coming year, we elected to redeem $275 million of preferred stock, effectively reducing our cost of capital as well as our preferred ratio to 26%.
+Taken together, these actions are expected to deliver an annual net benefit to earnings of approximately $0.04 per share beginning in 2022, from the reduction in preferred dividends, offset by costs associated with the convertible debt and incremental MSR financing.
+As a final note, we have included information on REIT taxable income and the tax characterization of our dividend distributions on appendix Slide 27.
+Turning to Slide 9, let's review our quarterly portfolio activity and composition.
+As previously noted, the fourth-quarter economic performance was primarily driven by a general spread tightening in MBS as the Federal Reserve continued its balance sheet expansion, having purchased almost 1.5 trillion MBS during Q4 so far.
+As Mary noted, we did decrease risk somewhat during the quarter, reflected by lower economic debt to equity of 6.8 times.
+In addition, after having increased our position size in TBA 2s to $7 billion, a significant spread tightening and resulting valuations in the quarter led us to reduce that exposure.
+On net, we took our overall notional TBA exposure down by $1 billion to end the quarter at $5.2 billion.
+The result has been that roll specialness in the 2% coupon has decreased significantly between mid-December and the end of January.
+Additionally, we opportunistically added almost $200 million market value of interest-only securities, or IO, during the quarter.
+In the lower left-hand chart, you can see that specified pool performance was mixed with a 3%, 3.5% and 4% coupon specified outperforming TBA, but flat or underperforming in both lower and higher coupons.
+While we don't own any specified pools in the 2% coupon, as I mentioned earlier, we do own TBA, which outperformed by more than one point during the quarter, supported by strong Fed demand and attractive roll dynamics.
+Moving to Slide 11.
+You can see that our MSR portfolio was valued at $1.6 billion as of December 31, based on $186 billion of UPB and with a gross coupon of 3.7%.
+That translates into a price of about $0.86 or right around a 3.2 multiple on our existing portfolio.
+The balances from the end of 2019 are also shown here, and I would highlight two things: first, our UPB is up modestly in a fast prepay environment, which is a testament to our ability to source new MSR investment; second, the weighted average coupon fell from 4.1% to 3.7%, consistent again with what you would expect in a refi environment.
+We settled $23 billion UPB of new MSR through our flow program during the quarter, which represents record volume for us as we experienced our biggest three months ever.
+We had some success in the bulk market and settled on $20.4 billion UPB in four separate transactions.
+Primary mortgage rates have continued to grind lower with 30-year rates generally below 3% in national surveys, even with the spread between primary and secondary rates at wide levels.
+In the chart on the top of Slide 12, we show the combined exposures of Agency P&I bonds and MSR at year end compared to our positioning at the end of Q3, as indicated by the diamond bullets.
+The main change in our effective positioning was a decrease in the 2.5% and 4% coupons, a result of the specified pool activity I mentioned earlier.
+The lower left-hand chart shows our common book value exposure to 25 basis point spread widening or tightening, and it indicates that book value would decrease by only 2.7% in an instantaneous 25 basis point spread winding.
+In aggregate, this 2.7% exposure is lower than in recent quarters due to the reduction in specified pools and TBA positioning.
+Moving to Slide 13.
+What we have here is 10 years of daily option adjusted spread data on the JPMorgan mortgage index with the x-axis being the OAS.
+As of January 4, the OAS was 16 basis points and as highlighted by the vertical blue line.
+This data shows that it's quite common for spreads to widen 20 or 30 basis points in the year that follows.
+In fact, in the past 10 years, there are exactly 0 instances when spreads were unchanged, let alone tighter one year later.
+You can see that at the OAS level of 16 basis points, historically, we've observed spreads move around 20 basis points wider over the next year.
+And in that case, the one-year return would be expected to be negative around down 1% in the Agency-Only example.
+Finally, I'd like to take a look at our outlook for Two Harbors and our return expectations on Slide 15.

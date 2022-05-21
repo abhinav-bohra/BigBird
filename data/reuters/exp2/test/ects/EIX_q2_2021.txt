@@ -1,0 +1,51 @@
+Edison International reported core earnings per share of $0.94 compared to $1 a year ago.
+However, this comparison is not meaningful because SCE did not receive a final decision in track 1 of its 2021 General Rate Case during the quarter.
+While Maria will cover the PD in more detail, our financial performance for the quarter, and other financial topics, let me first give you a few observations, which are summarized on page 2.
+The PD's base rate revenue requirement of $6.9 billion is approximately 90% of SCE's request.
+Excluding wildfire mitigation-related capital, the PD would approve 98% of SCE's 2021 capital request, much of which was uncontested.
+SCE's CEO, Kevin Payne, addressed these implications well during oral arguments earlier this week, and the utility will elaborate on them in its opening comments, which are outlined on page 3.
+A scorecard of SCE's wildfire mitigation plan progress is on page 4 of the deck.
+Page 5 provides a few proof points of how SCE believes it has reduced wildfire risk for its customers.
+First, circuits with covered conductor have experienced 69% fewer faults than those without, which demonstrates the efficacy of this tool.
+Second, where SCE has expanded vegetation clearance distances and removed trees that could fall into its lines, there have been 50% fewer tree or vegetation-caused faults than the historic average.
+Lastly, since SCE began its high fire risk inspection program in 2019, it has found 66% fewer conditions requiring remediation on the same structures year-over-year.
+I will highlight that SCE's rates have generally tracked local inflation over the last 30 years and have risen the least since 2009 relative to the other major California IOUs.
+Currently, SCE's system average rate is about 17% lower than PG&E's and 34% lower than SDG&E's, reflecting the emphasis SCE has placed on operational excellence over the years.
+Through the first half of the year, SCE completed over 190,000 high fire risk-informed inspections of its transmission and distribution equipment, achieving over 100% of its full year targets.
+Year-to date, SCE installed over 540 circuit miles of covered conductor in high fire risk areas.
+For the full year, SCE expects to cover at least another 460 miles for a total of 1,000 miles deployed in 2021, consistent with its WMP goal.
+SCE is on target to complete its expedited grid hardening efforts on frequently impacted circuits and expects to reduce customer minutes of interruption by 78%, while not increasing risks, assuming the same weather conditions as last year.
+To support the most vulnerable customers living in high fire risk areas when a PSPS is called, the utility has distributed over 4,000 batteries for backup power through its Critical Care Back-Up Battery program.
+Just last week, the state announced that CAL FIRE had secured 12 additional firefighting aircraft for exclusive use in its statewide response efforts, augmenting the largest civil aerial firefighting fleet in the world.
+In June, SCE contributed $18 million to lease three fire-suppression helicopters.
+This includes two CH-47 helitankers, the world's largest fire-suppression helicopters, and a Sikorsky-61 helitanker.
+In addition, a Sikorsky-76 command and control helicopter, along with ground-based equipment to support rapid retardant refills and drops, will be available to assist with wildfires.
+In 2020, approximately 43% of the electricity SCE delivered to customers came from carbon-free resources, and the company remains well-positioned to achieve its goal to deliver 100% carbon-free power by 2045.
+We have been engaged in Federal discussions on potential clean energy provisions and continue to support policies aligned with SCE's Pathway 2045 target of 80% carbon-free electricity by 2030.
+For example, the utility is spending over $800 million to accelerate vehicle electrification across its service area, that's a key component to achieve an economywide net zero goal most affordably.
+Recently, SCE opened its Charge Ready 2 program for customer enrollment.
+This program is going to support 38,000 new electric car chargers over the next 5 years, with an emphasis on locations with limited access to at-home charging options and disadvantaged communities.
+Edison International reported core earnings of $0.94 per share for the second quarter 2021, a decrease of $0.06 per share from the same period last year.
+We will account for the 2021 GRC track 1 final decision in the quarter SCE receives it.
+On page 7, you can see SCE's key second quarter earnings per share drivers on the right hand side.
+To begin, revenue was higher by $0.10 per share.
+CPUC-related revenue contributed $0.06 to this variance, however this was offset by balancing account expenses.
+FERC-related revenue contributed $0.04 to this variance, driven by higher rate base and a true-up associated with filing SCE's annual formula rate update.
+O&M had a positive variance of $0.11 and two items account for the bulk of this variance.
+First, cost recovery activities, which have no effect on earnings, were $0.05.
+Second, lower wildfire mitigation-related O&M drove a $0.02 positive variance, primarily because fewer remediations were identified through the inspection process.
+Lastly, depreciation and property taxes had a combined negative variance of $0.10, driven by higher asset base resulting from SCE's continued execution of its capital plan.
+As Pedro mentioned earlier, SCE received a proposed decision on track 1 of its 2021 General Rate Case on July 9.
+If adopted, the PD would result in base rate revenue requirements of $6.9 billion in 2021, $7.2 billion in 2022, and $7.6 billion in 2023.
+The earliest the Commission can vote on the proposed decision is at its August 19 voting meeting.
+As shown on page 8, over the track one period of 2021 through 2023, rate base growth would be approximately 7% based on SCE's request and approximately 6% based on the proposed decision.
+In the absence of a 2021 GRC final decision, SCE continues to execute a capital spending plan for 2021 that would result in spending in the range of $5.4 to $5.5 billion.
+This could add approximately $350 million to rate base by 2023.
+Page 9 provides a summary of the approved and pending cost recovery applications for incremental wildfire-related costs.
+The PD would authorize recovery of $81 million of the requested revenue.
+As you can see on page 10, during the quarter, SCE requested a financing order that would allow it to issue up to $1 billion of recovery bonds to securitize the costs authorized in GRC track 2, 2020 residential uncollectibles, and additional AB 1054 capital authorized in GRC track 1.
+Turning to page 11, SCE continues to make solid progress settling the remaining individual plaintiff claims arising from the 2017 and 2018 Wildfire and Mudslide events.
+During the second quarter, SCE resolved approximately $560 million of individual plaintiff claims.
+That leaves about $1.4 billion of claims to be resolved, or less than 23% of the best estimate of total losses.
+Turning to page 12, let me conclude by building on Pedro's earlier comments on sustainability.
+Shortly after publishing the framework, SCE issued $900 million of sustainability bonds that will be allocated to eligible projects and reported on next year.

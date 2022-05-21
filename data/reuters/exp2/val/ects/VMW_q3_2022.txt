@@ -1,0 +1,31 @@
+Actual results may differ materially as a result of various risk factors described in the 10-Ks, 10-Qs and 8-Ks VMware files with the SEC.
+I am pleased with the continued strong performance in Q3 fiscal year 2022 with revenue of $3.2 billion and non-GAAP earnings of $1.72 per diluted share.
+It's clear that multi-cloud will be the model for digital business for the next 20 years and in this vibrant dynamic marketplace, the pace of innovation is relentless.
+In the area of Edge, we recently helped an international wholesaler with 800 stores across 30 countries to refresh its decade-old in-store platform.
+Our innovation engine is thriving as we bought many of these new offerings, features, beta programs and partnerships to the forefront during VMworld 2021, which attracted approximately 116,000 registrants.
+Total revenue for Q3 was $3.2 billion.
+Combined subscription and SaaS and license revenue grew 16% year-over-year totaling $1.5 billion, ahead of our guidance.
+Subscription and SaaS revenue of $820 million was up 21% year-over-year, in line with our expectations, representing 26% of total revenue for the quarter.
+Subscription and SaaS ARR was $3.3 billion, up 25% year-over-year in Q3.
+License revenue in Q3 grew 11% year-over-year to $710 million.
+Our non-GAAP operating income for the quarter of $935 million was driven by our revenue performance and lower-than-expected growth in expenses.
+Non-GAAP operating margin for the quarter was 29.3% with non-GAAP earnings per share of $1.72 on a share count of 422 million diluted shares.
+We ended the quarter with $10.2 billion in unearned revenue and $12.5 billion in cash, cash equivalents and short-term investments, which includes proceeds from our $6 billion bond issuance.
+The bond issuance proceeds together with $4 billion of additional borrowings from term loan commitments, as well as other available cash on hand was used to fund a special dividend of $11.5 billion.
+Q3 cash flow from operations was $1,090 million and free cash flow was $984 million.
+RPO was $11.1 billion, up 9% year-over-year, and current RPO was $6.2 billion, up 11% year-over-year.
+Total backlog was $124 million, substantially all of which consisted of orders received on the last three days of the quarter that were not shipped and orders held due to our export control process.
+License backlog at quarter end was $34 million.
+Core SDDC product bookings increased over 20% year-over-year.
+In Q3, we repurchased approximately 1 million shares in the open market at an average price of $150 per share.
+In early October, our Board of Directors authorized up to $2 billion of stock repurchases through FY'24, which replaced the relatively small balance remaining on our prior authorization.
+We're increasing our expectation for total revenue to $12,830 million, a growth rate of approximately 9% year-over-year.
+We expect the combination of subscription and SaaS and license revenue to total $6,305 million, an increase of approximately 12% year-over-year.
+Approximately 50.5% of this amount is expected to be subscription and SaaS.
+We are increasing guidance for non-GAAP operating margin for the full-year to 30% and non-GAAP earnings per share to $7.19 on a diluted share count of 422 million shares.
+We're also increasing our cash flow from operations guidance to $4.1 billion and increasing free cash flow expectations to $3.7 billion.
+For Q4, we expect total revenue of $3,510 million or a growth rate of approximately 7% year-over-year.
+We expect $1,875 million from subscription and SaaS and license revenue in Q4 or an increase of nearly 9% year-over-year with approximately $860 million from subscription and SaaS, reflecting the current pace of adoption of our subscription and SaaS offerings.
+We expect non-GAAP operating margin to be 30.4% for Q4 with non-GAAP earnings per share of $1.96 on a diluted share count of 422 million shares.
+We are planning on growing our sub and SaaS revenue to nearly 30% of total revenue with our FY'23 exiting ARR growth rate exceeding FY'22's.
+We expect non-GAAP operating margin of approximately 28%, which is similar to our initial outlook for FY'22, reflecting continued investments in subscription and SaaS and the resumption of more normalized level of T&E as we support our customers.

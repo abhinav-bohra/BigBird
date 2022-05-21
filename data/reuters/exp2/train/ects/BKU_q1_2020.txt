@@ -1,0 +1,106 @@
+And today, Leslie has put in front of me a 27-page deck and talking points that are several pages long.
+We enable 97%, as of now, 97% of our employees are working from home.
+And this is 97% of our nonbranch employees, of course.
+We are also -- I think as of last night, are close to $700 million or maybe over $700 million in loans that we've done through the PPP program.
+And our estimates are that we've helped retain about 85,000 or 86,000 jobs in our footprint through this program.
+By the way, while all this is happening, I just want to clarify, when I say 97% of the employees, nonbranch employees are working remotely, 76% of our branches are still open.
+And in other segments, we have reached out to everyone over $5 million in exposure to understand this exactly what the impact will be to our balance sheet.
+We are committed to our dividend, which we very recently increased by 10%.
+We were very -- we had an authorization from I guess -- I think it was the fourth quarter, it was authorized $150 million.
+We executed about $101 million, and we stopped that, and we're going to put it aside at least until the dust settles on the economy.
+Like I said, this time around, we've never had a slide in our calls, but at this time, we have provided a lot more disclosure and there's a 27-page slide deck.
+So for example, right now, I'm talking about Page 4 in the slide deck, which then takes the DFAST severely adverse scenario for 2018 and 2020 and runs that on the March 31, 2020, portfolio to see what the losses would be.
+And by the way, not just 9 quarters of losses, but lifetime losses.
+We use full 2018 and to 2020 DFAST severely adverse scenario, and said, OK, if -- what are the losses that are generated, and you can see them on Slide 4.
+We are -- we currently have over $8 billion, I think it's $8.5 billion of liquidity, safe liquidity available.
+We reported a net loss of $31 million, $0.33 a share.
+The provision for this quarter was $125 million.
+This increased our credit losses to $251 million, which is 1.08%.
+So we used to be, at December 31st, we were at $109 million or 47 basis points.
+On January 1st, under CECL, that number bumped up to $136 million or 59 basis points and now in the end of March, we were at 1.08% or $251 million.
+And that obviously was the biggest driver in the $31 million loss that we are posting this quarter.
+So $2.5 trillion and counting in fiscal stimulus and God knows how much on the monetary side.
+So I'm going to refer you to Slide 8 in the supplemental deck that talks a little bit about our CECL methodology.
+This forecast assumes an approximate 20% decline in GDP in Q2, unemployment reaching about 9% in Q2, the VIX approaching 60 and year-over-year decline in the S&P 500 approaching close to 30%.
+Some of the more impactful ones are listed on the right side of Slide 8 there for you.
+Another thing that I want to point out about our CECL estimate at 3/31, we did not make a qualitative overlay.
+I want to refer you now to Slide 9.
+I just got a text from someone saying that the call cut off for about 20 seconds, and they couldn't hear you for the first 20 seconds.
+So again, I'm referring to Slide 8 in the deck about our CECL methodology.
+That forecast assumes an approximate 20% decline in GDP in Q2, unemployment reaching about 9% in Q2, the VIX approaching 60, and year-over-year decline in the S&P 500 approaching close to 30%.
+And well, there's been a lot of focus on GDP and unemployment, and the discussions taking place around these CECL forecasts, and those are certainly important reference points, these are complex models, and there are, in fact, hundreds, if not thousands, of national, regional and MSA-level economic variables and data points that inform the loss estimates, and some of the more impactful ones of those are listed for you on Slide 8.
+I also want to mention briefly that we did not incorporate in our CECL estimates at 3/31 any significant qualitative overlay related to the impact of the government direct assistance, PPP, deferral programs that we may put in place.
+At 3/31, we felt we just didn't have enough data to properly dimension the impacts of those, so we did not reduce our reserve levels to take those into account.
+And now I'll refer you back to the deck and look at Slide 9.
+And Slide 9 provides for you a visual picture of what changed our reserve form 12/31/19 to 3/31/20.
+We started at $108.7 million.
+You can see here the $27.3 million impact of the initial implementation of CECL.
+The most significant driver of the increase in the reserve from January 1st after initial implementation to March 31st is not surprisingly, the change in the reasonable and supportable forecast, which increased the reserve by about $93 million.
+We've also taken an additional $16 million in specific reserves this quarter, the majority of this related to the franchise finance portfolio.
+I want to reemphasize that we ended at -- for the quarter at 3/31/20 with a reserve of 1.08% of loans, and we certainly don't think that's outside in comparison to other banks whose results we've seen released.
+I want to take a minute and just focus you on Slide 10.
+And you can see the results of those on Slide 4 in the deck.
+So you can see that our reserves at March 31, 2020, stand at about 44% of severely adverse projected losses under 2018 DFAST and about 56% of some severely adverse projected losses under the 2020 DFAST severely adverse scenario.
+It came in at $85 million this quarter, and that compares to $104 million last quarter.
+So what was that delta of that $19 million?
+First, NII was down by $5 million.
+NII really is for two reasons; one, our margin contracted by 6 basis points from 2.41% to 2.35%.
+I think it's a good thing that we did not have that business but that creates little bit of asset growth and NIM that compressed 6 basis points leads to a $5 million reduction in NII.
+Last quarter, we had $7.5 million or so of securities gains.
+Well, this quarter, we've had $3.5 million of securities losses.
+So that's an $11 million-or-so swing in fee income.
+By the way, in the $3.5 million securities losses in this quarter, it includes a $5 million of unrealized losses on equity securities.
+HSA contributions, the 401(k) contribution, and all that stuff hits in the first quarter, so that is what drove expenses higher.
+To give you a little comparison, we have an SBA business where we probably do roughly about 200 units of business in a year.
+We are now in the process of trying to do over 3,000 loans through the SBA in less than a month or so.
+And so far, we've already close to $700 million of loans that we've done and we're not done yet.
+As you can see, deposits grew for the quarter by $606 million, and just over 50% of that or $305 million was noninterest DDA, which now stands at the 18.4% of total deposits, compared to 15.9% a year ago.
+The cost of total deposits declined by 12 basis points this quarter from 1.48% to 1.36%.
+To give you a better idea of this, the spot rate on total interest-bearing deposits, including our certificates of deposit, declined by 36 basis points of December 31, 2019, to March 31, 2020, and then by another 27 basis points through April 17th of 2020.
+So a total of 63 basis points decline during that period of time.
+And if you go to Slide 7 in the deck, you'll get a little bit more information and detail on that.
+On the loan side, Raj mentioned, loans that are relatively flat for the quarter with net growth of $29 million.
+The C&I business had total growth of $353 million, which was a good quarter for that segment.
+Mortgage warehouse outstandings have also increased by $84 million, but really offsetting that, our CRE book declined by $315 million, which is pretty much in line with what we expected, primarily driven by the continued decline in New York multi-family, which was $249 million.
+I would like you to flip to Page 16.
+So in total, it's about 14% of our portfolio.
+NPLs were also down a few basis points from 88 basis points to 85 basis points.
+So really just keep that in mind that the criticized classified this quarter went up by $269 million, $207 million of that $269 million was in the franchise portfolio.
+And 90% of that $207 million was really attributable to COVID as that kind of play itself out in the month of March.
+Charge-offs were 13 basis points.
+So more detailed metrics are toward the end of the slide deck, Page 22, 23, 24 and 25.
+So we'd refer you to Slide 14 in the deck, which provides some additional detail around the level of deferrals and segments.
+But through April 20, we have received request for deferrals from almost 800 commercial borrowers and approved modifications for about 500 of those borrowers, totaling a little over $2 billion.
+We've also processed about $500 million in residential deferrals, excluding the Ginnie Mae that's early buyout portfolio, which would represent about 10% of that portfolio.
+These deferrals typically take the form of a 90-day principal and/or interest payment deferrals for commercial loans, and those payments are generally due at maturity.
+Now we'll obviously be reassessing each of these loans at the end of the 90 days and looking in making the best decisions we can at that point in time.
+As you can see, the large amount of commercial deferrals is in the commercial real estate portfolio, particularly the hotel subsegment, where 90% of the borrowers, by dollars, have requested and been approved for deferrals, followed by the retail subsegment.
+We have also received a high level of deferral requests from borrowers in the franchise finance portfolio, as we've mentioned, where 74% of the borrowers have been approved for deferrals.
+At this point, and as of today, modification requests appear to be slowing over the last 10 to 15 days.
+Starting on Slide 17, we provide a little bit deeper dive into some of the higher-risk portfolios, subsegments that Raj has already mentioned.
+We estimate that about 60% of the CRE retail exposure is supported by businesses that we would categorize as essential or moderately essential and the remainder we would categorize as nonessential businesses.
+Within this segment, LTVs averaged 57.5%, and 84% of the total are below the 65% level.
+I'll refer you to page -- on Slide 18, where you could see further breakdown of the franchise portfolio, which is a fairly diverse portfolio, both by some concept in geography.
+We saw over a $200 million increase in criticizing classified assets in this segment during the first quarter.
+Approximately 90% of these downgrades were directly related to the COVID-19 crisis.
+On Slide 19, you can see that most of the hotel book represents well-known flags and is within our footprint.
+LTVs in this segment averaged 54% and 78% of this segment has LTVs under 65%.
+And finally, referring to Slide 20, our energy exposure, particularly in the loan portfolio, remains somewhat minimal.
+I'll remind you that these unrealized losses do not impact regulatory capital, and I'll be referring to Slides 26 and 27 in the deck for this part of the discussion.
+The available-for-sale securities portfolio was in a net unrealized loss position of $250 million at March 31st.
+As you can see on Slide 26, 90% of the available-for-sale portfolio is in governance, agencies or is now rated AAA.
+At March 31st, we stressed the entire nonagency portfolio at the individual security level, modeling collateral losses that we believe to be consistent with levels reflecting the trough of the 2008 global financial crisis.
+On Slide 27, we show you the ratings distribution of these portfolio segments along with levels of credit enhancement compared to stress losses, illustrating the high credit quality of these bonds.
+We also priced the March 31 portfolio as of April 22, and you can see that our results of that on Slide 26.
+The NIM declined by 6 basis points this quarter from 2.41% to 2.35% compared to the immediately in the proceeding quarter.
+To get a little bit into the components of that, the yield on interest-earning assets declined by 18 basis points.
+That reflects a decline of 9 basis points in the yield on loans and a 37-basis-point decline in the yield on investment securities.
+The decline in the yield on securities reflects the very short duration of that portfolio and to an extent, increases in prepayment speeds, which contribute about 5 basis points to the decline.
+The cost of interest-bearing liabilities declined by 14 basis points quarter over quarter.
+Our largest contributor of the $6.8 million decline in the other noninterest income line compared to the immediately preceding quarter was a reduction in income related to our customer swap program, and this was really attributable just to lower levels of activity in that space during the quarter.
+Employee compensation in benefits actually increased by $3 million compared to immediately our preceding quarter.
+So, a better comparison might be to the first quarter of the prior year, and compensation expense declined by $6.3 million compared to the first quarter of 2019.
+We generally have a pretty good idea of what we're seeing in the business and the economies where we operate or we can look out about 6 months or so.
+Like I said, -- rough, so somewhere in the $800 million number is what will people end up with.
+So whether it's BankUnited 2.0 or all the other things that we're working on, they continue.
+Some of the initiatives around BankUnited 2.0, especially around revenue might get pushed out by a couple of months because it's new products that are being launched.

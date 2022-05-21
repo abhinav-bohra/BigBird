@@ -1,0 +1,65 @@
+A discussion of these risks and uncertainties is included in our annual report on Form 10-K and other SEC filings.
+Regarding our Q4 performance, our revenues were $4.39 billion, approximately $85 million above the top end of our guidance.
+Concerning adjusted EBIT margin, we delivered 7.5%, also higher than the top end of our guidance.
+Book-to-bill for the quarter was 1.08, underscoring the success of bringing the new DXC, which focuses on our customers and colleagues to the market.
+This is the fourth straight quarter that we've delivered a 1.0 or better book-to-bill.
+We have achieved our goal of $550 million of cost savings in FY '21.
+Our cost optimization program was responsible for the strong adjusted EBIT margin of 7.5% in Q4.
+So the 1.08 book-to-bill that we delivered this quarter is consistent evidence that our plan is working.
+In Q4, 53% of our bookings were new work and 47% were renewals.
+Our ability to deliver a consistent book-to-bill of over 1.0 in each of the four quarters of FY '21 is clear evidence that we can win in the IT services industry.
+Turning on to our financial priorities on Slide 10.
+We paid down $6.5 billion of debt in the past nine months and subsequent to year-end, retired an additional $500 million.
+We are now approaching a far more manageable $5 billion debt level.
+Fourth, we will reduce restructuring and TSI expense to approximately $550 million in FY '22 to under $100 million in FY '24, ultimately improving cash flow.
+GAAP revenue was $4.39 billion, $85 million higher than the top end of our guidance.
+On an organic basis, revenue increased 0.4% sequentially.
+Organic revenue declined 7% year over year due to the previously disclosed runoffs and terminations.
+As we mentioned on our third-quarter earnings call, our Q3 10.5% year-over-year decline would be the high watermark.
+GAAP EBIT margins were negative 16.8% in the fourth quarter, impacted by approximately $1.1 billion of costs, including pension mark-to-market, asset impairments, restructuring TSI, loss on disposals, and debt extinguishment costs.
+Excluding these items, adjusted EBIT margin was 7.5% in the fourth quarter, an improvement of 50 basis points from the third quarter.
+Non-GAAP diluted earnings per share was $0.74 and was negatively impacted by $0.04 due to a higher-than-expected tax rate of 32%.
+In Q4, bookings were $4.7 billion for a book-to-bill of 1.08, the fourth straight quarter of a book-to-bill greater than one.
+For the full year, this takes our book-to-bill to 1.12, compared to 0.9 in FY '20.
+GBS was $2 billion or 46% of our total Q4 revenue.
+Organic revenues increased 2% sequentially, primarily reflecting the strength of our applications and analytics and engineering business.
+Year over year, GBS revenue was down 4% on an organic basis.
+GBS segment profit was $315 million with a 15.8% profit rate, up 160 basis points from Q3.
+GBS bookings for the quarter were $2.39 billion for a book-to-bill of 1.2 and a full-year book-to-bill of 1.32, compared to 0.99 in the prior year.
+Revenue was $2.39 billion, down 0.9% sequentially and down 9.3% year over year on an organic basis due to the previously disclosed terminations and runoffs.
+The ITO business benefited from approximately $100 million of resale revenue, resulting from a typical Q4 increase of customer demand due to their fiscal year-end.
+GIS segment profit was $98 million with a profit margin of 4.1%, a 40-basis-point margin improvement over the third quarter.
+GIS bookings were $2.3 billion for a book-to-bill of 0.98.
+Book-to-bill for FY '21 was 0.94, compared to 0.83 in the prior year.
+IT outsourcing revenue was $1.19 billion in the quarter, up 1.4%, the first positive sequential growth since we began tracking in this manner.
+ITO book-to-bill was 0.98 in the quarter.
+Cloud and security revenue was $524 million, declined 1.6% sequentially, and was down 5.7% year over year.
+The cloud and security business had a difficult compare as the third quarter grew 4.7% sequentially.
+Book-to-bill was 1.08 in the quarter.
+Moving up the stack, the applications layer posted a 1.9% sequential growth and was down 7.2% year over year.
+Analytics and engineering revenues were $478 million, up 2% on a sequential basis and up 8.4% compared to prior year.
+Analytics and engineering book-to-bill was 1.46 in the quarter.
+The modern workplace and BPS revenues were $795 million, down 3.3% sequentially and down 10.5% compared to the prior year.
+Moving on to cash flows on Slide 15.
+Fourth-quarter cash flow from operations totaled an outflow of $280 million.
+Free cash flow for the year was negative $652 million, impacted primarily by four nonrecurring items.
+Q4 tax payments of $531 million related to the business sale.
+As you may recall, we planned $900 million of tax payments, so this result surpassed our expectation.
+As we told you before, in Q3, $832 million related to readying the U.S. state and local Health and Human Services business for sale and normalizing payables and $200 million related to deferrals of certain tax payments due to COVID relief legislation that will be paid during FY '22.
+Since DXC was formed four years ago, we had significant cash outflows with approximately $900 million in expense per year on average.
+In FY '22, this will be reduced to approximately $550 million, with a larger portion being allocated to facilities restructuring efforts to improve the work experience for our people as we reshape our portfolio for our virtual model.
+On Slide 17, we detail our efforts we have undertaken to strengthen our balance sheet.
+As you can see, we have achieved a lot in this area, reducing our net debt leverage ratio by more than one turn from the high watermark of 2.4 to one at the end of March.
+Starting with our first-quarter guidance on Slide 18.
+Organic revenues declines are expected to moderate, down 2% to down 4% in the first quarter year over year.
+This translates into reported revenues between $4.08 billion and $4.13 billion.
+Our sequential revenue is lower for two reasons: first, previously mentioned lumpiness of resale revenue that occurs in Q4; second, our portfolio-shaping efforts reduced revenue by about $100 million.
+EBIT margin 7.4% to 7.8% includes 20 basis points of margin headwinds due to the sale of our healthcare provider software business.
+Non-GAAP diluted earnings per share in the range of $0.72 to $0.76.
+Moving on to our FY '22 guidance on Slide 19.
+Organic revenue growth of minus 1% to minus 2%.
+On a year-over-year basis, divestitures will account for $1.2 billion of the revenue decline.
+This translates into revenue of $16.6 billion to $16.8 billion; EBIT margin, 8.2% to 8.7%; non-GAAP diluted earnings per share of $3.45 to $3.65, an increase of 42% to 50% year over year; free cash flow of $500 million.
+Now, moving on to our longer-term expectations on Slide 20.
+Organic revenue growth of 1% to 3%; adjusted EBIT margin of approximately 10% to 11%; non-GAAP diluted earnings per share of $5 to $5.25; free cash flow of approximately $1.5 billion.
+In the market, we went from losing to winning, and we repaid over $6 billion in debt, taking our balance sheet from highly leveraged to strengthened.

@@ -1,0 +1,71 @@
+A discussion of these risks and uncertainties is included in our annual report on Form 10-K and other SEC filings.
+Regarding our Q1 performance, our revenues were $4.14 billion, and our adjusted EBIT margin was 8%.
+Book-to-bill for the quarter was 1.12.
+This is the fifth straight quarter that we delivered a 1.0 or better book-to-bill, and we expect our success of winning in the market to continue in Q2.
+Our non-GAAP earnings per share was $0.84 in the quarter, which is up 300%, as compared to $0.21 that we delivered in Q1 of FY '21.
+The goals of this phase are: first, continue to increase our employee engagement, all while we attract and retain highly talented colleagues; second, stabilize year-on-year organic revenue; third, expand adjusted EBIT margins; fourth, consistently deliver a book-to-bill number of 1.0 or greater, with a nice mix of new work and renewals; and finally, under Ken's leadership, deliver a financial foundation that increases discipline and improves our cash flow and earnings power.
+75% of our leadership team is now new to DXC and bringing in talent based on their personal credibility as talent follows talent.
+We mentioned during our investor call that nearly 50% of our vice presidents across the company are new to DXC within the last 22 months.
+This quarter, we rewarded high performance by paying annual bonuses that benefited roughly 45,000 of our colleagues.
+In Q2, we are planning merit increases that will benefit roughly 77,000 of our colleagues.
+These levers have helped us expand our margin going from 7.5% last quarter to 8% this quarter.
+The 1.12 book-to-bill that we delivered this quarter is evidence that our plan is working.
+In Q1, 57% of our bookings were new work and 43% were renewals.
+Our ability to deliver a consistent book-to-bill of 1.0 in each of the last five quarters is evidence that these sales campaigns are working and that we can win in the IT services industry.
+This momentum and success in the market gives us confidence that we will deliver another book-to-bill of 1.0 or greater in Q2.
+Turning to our financial performance on Slide 12.
+GAAP revenue was $4.14 billion, $10 million higher than the top end of our guidance range.
+Adjusted EBIT margin was 8% in the quarter, an improvement of 380 basis points as compared to the prior quarter.
+In Q1, bookings were $4.6 billion for a book-to-bill of 1.12, the fifth straight quarter of a book-to-bill greater than one.
+Moving on to Slide 13.
+Our Q1 non-GAAP earnings per share was $0.84 or $0.08 higher than the top end of our guidance, benefiting $0.05 from a lower tax rate.
+Restructuring and TSI expenses were $76 million, down 58% from prior year.
+Free cash flow was a use of cash of $304 million, as compared to a use of cash of $106 million in the prior year.
+Starting with organic growth progression, we went from approximately 10% decline in the first three quarters of FY '21 to down 6.5% in the fourth quarter and now down to a decline of 3.7%.
+This is a 40% improvement from the prior quarter.
+Adjusted EBIT margin expanded 380 basis points.
+Excluding the impact of dispositions, margin expanded almost 600 basis points.
+Revenue was $1.9 billion in the quarter.
+Organic revenue growth was positive 2% as compared to prior year.
+In terms of quarterly progression, organic revenues declined about 6% to 7% in the first three quarters of FY '21, declined 3.4% in the fourth quarter and turned to positive 2% this quarter.
+GBS segment profit was $272 million with a 14.4% profit rate, up 450 basis points from the prior year.
+GBS bookings for the quarter were $2.4 billion for a book-to-bill of 1.29.
+Revenue was $2.3 billion, down 9.1% year over year on an organic basis.
+GIS segment profit was $131 million with a profit margin of 5.8%, a 480-basis-point margin improvement over the prior-year quarter.
+GIS bookings were $2.2 billion for a book-to-bill of 0.97, compared to 0.77 in the prior year.
+Analytics and engineering revenues were $482 million, up 12.9% as compared to prior year.
+We continue to see high demand for our offerings with a book-to-bill of 1.32 in the quarter.
+Applications also continued to demonstrate solid progress with revenue of $1.246 billion, growing organically almost 1%.
+Applications also continues its strong book-to-bill at 1.32.
+Business process services revenues were $118 million, down 13% compared to the prior-year quarter with a book-to-bill of 1.13.
+Cloud and security revenue was $549 million, up 4.9% as compared to the prior year.
+Book-to-bill was 0.85 the quarter.
+IT outsourcing revenue was $1.13 billion, down 9% as compared to prior year.
+To put this decline in perspective, last year, this business declined almost 20% year over year.
+Modern workplace revenues were $577 million, down 19.7% as compared to prior year.
+Book-to-bill was 1.0 in the quarter.
+We expect to reduce this from an average of $900 million per year over the last four years to $550 million in FY '22 and about $100 million in FY '24.
+On Slide 19, we detail our efforts to strengthen our balance sheet.
+We are proud of what we achieved on this front, reducing our debt by $7 billion, while improving our net debt leverage ratio to 0.9 times.
+Further, we have reached our targeted debt level of $5 billion with relatively low maturities through FY '24.
+First-quarter cash flow from operations totaled an outflow of $29 million.
+Free cash flow for the quarter was negative $304 million.
+We remain on track to deliver our full-year free cash flow guidance of $500 million.
+Let's now turn to our financial priorities on Slide 21.
+We are encouraged by our almost 50% year-over-year interest expense reduction.
+During the quarter, we paid $88 million to draw to conclusion a long-standing $3 billion take-or-pay contract for IT hardware.
+Additionally, we paid down $300 million of capital leases and asset financing in order to allow us to dispose of IP hardware purchased under the previously mentioned take-or-pay arrangement and realizing tax deduction once we dispose of the unutilized assets.
+We continue to reduce capital lease and asset financing origination from approximately $1.1 billion in FY '20 to $450 million in FY '21 and believe that we will remain at that level or lower for FY '22.
+As we continue to curtail capital lease origination, our average quarterly lease payment will reduce from about $230 million a quarter in FY '21 to about $170 million near term.
+Lastly, we terminated our German AR securitization program, negatively impacting cash flow by $114 million for the quarter.
+During the quarter, we executed $67 million of stock buybacks to offset dilution, taking advantage of what we believe was an attractive valuation in the market.
+Our results today include the benefit from the sale of assets, partially offset by other discrete items, and the headwind of 30 basis points of margin associated with the disposition of our healthcare provider software business.
+Moving on to second-quarter guidance on Slide 22.
+Revenues between $4.08 billion and $4.13 billion.
+This translates into organic revenue declines of down 1% to down 3%.
+Adjusted EBIT margins of 8% to 8.4%.
+Non-GAAP diluted earnings per share in the range of $0.80 to $0.84.
+As we look forward to the rest of the year, I would note that we expect $175 million of tax payments in Q2 related to the gains on dispositions.
+We also updated our FY '22 interest guidance to approximately $180 million, a $20 million improvement; and reduced our full-year non-GAAP tax rate by 200 basis points to 26%.
+As noted on Slides 23 and 24, we are reaffirming our FY '22 and longer-term guidance.
+We expect our progress in driving a book-to-bill of over 1.0 to continue.

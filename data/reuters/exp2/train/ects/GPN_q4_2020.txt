@@ -1,0 +1,55 @@
+Certain risk factors inherent in our business are set forth in filings with the SEC, including our most recent 10-K and subsequent filings.
+We also accomplished a great deal over the last 12 months.
+Specifically, we signed Truist Financial Corporation, the sixth largest commercial bank in the United States, a competitive win twice over [Phonetic]; entered a new collaboration with AWS, our preferred provider of issuer cloud services to launch a unique go-to-market distribution strategy coupled with transformative cloud-native technologies; expanded and extended our partnership with CaixaBank by increasing ownership of our joint venture and executing a new referral agreement through 2040; renewed agreements with a number of the most complex and sophisticated financial institutions globally, including TD Bank in North America, HSBC in Europe and CIBC in Canada; assisted in a rapid distribution of more than $2.5 billion in stimulus funds for our net spend customers' days faster than other financial technology participants; and announced today a new partnership with Google to deliver innovative and seamless digital services to all manner of merchants worldwide.
+Cameron will provide more detail on Google in a minute, but it's worth noting that in the six last months, we have struck significant and unique distribution relationships with two of the world's largest and most respected technology companies with a combined market capitalization of nearly $3 trillion.
+We already have reached the threshold of 60% of our business coming from technology enablement, a goal we set in March 2018 for year-end 2020 and achieved early last July.
+And roughly 25% of our business is now related to our e-commerce and omni-channel initiatives.
+Our omni-channel partnered software and own software vertical markets businesses collectively represent nearly 60% of merchant adjusted net revenue.
+We also reached an agreement with Wolverine to consolidate their U.K. and European acquiring across 32 countries.
+Moving to Global Payments Integrated, which drives another nearly 20% of our merchant adjusted net revenue.
+The strength of our combined integrated offerings allowed us to exceed our budgeted new sales forecast for calendar 2020, with new partner production increasing 171% versus 2019.
+Our own software businesses represent the remaining roughly 20% of our merchant-adjusted net revenue.
+Lastly, our enterprise QSR business continued its success with Xenial's Cloud POS [Phonetic] and omni solutions, nearly over 100 million transactions and $1.5 billion in sales for the year.
+In addition to serving 26 of the Top 50 QSR brands, we are also pleased to announce the signing of Xenial for cloud-based SaaS solutions, extending our addressable market to the fast casual category.
+For example, our U.S. business is seeing significant uptake of its SaaS point-of-sale solutions with adjusted net revenue and new sales both exceeding 20% growth in 2020.
+We currently have 11 letters of intent with financial institutions worldwide, six of which are competitive takeaways.
+In the last 18 months, we have had 36 competitive wins across North America and international markets.
+During the first quarter of 2021, we will complete the first phase of the conversion of over 4 million accounts from a competitor for one of our largest customers.
+That shift is under way without any compromise in execution, as we also achieved adjusted net revenue in excess of $200 million for the first time in the fourth quarter.
+Since late December, we have processed more than 1 million deposits, accounting for just over $1 billion in stimulus payments to American consumers dispersed by the IRS.
+In combination with the 2020 stimulus payments, we will have disbursed more than $2.5 billion in aid to customers through the first quarter of 2021.
+Specifically, Google Workspace serves as the cloud-native operating backbone for small and medium-sized businesses as well as many of the most sophisticated enterprise organizations globally, while Global Payments provides payments technology solutions to roughly 3.5 million merchant locations, in addition to some of the most complex multi-national corporations across 60 countries.
+Today, Google executes approximately 3 billion transactions annually and Global Payments is well positioned to meet the complex payment needs of one of the world's largest and most sophisticated technology companies by leveraging our Unified Commerce Platform.
+For the full year, we delivered adjusted net revenue of $6.75 billion, down 5% compared to 2019 on a combined basis.
+Importantly, our adjusted operating margin increased 210 basis points on a combined basis to 39.7%, as we benefited from the broad expense actions we implemented to address the impact of the pandemic and the realization of cost synergies related to the merger, which continue to track ahead of plan.
+The net result with adjusted earnings per share of $6.40, an increase of 3% over 2019.
+Moving to the fourth quarter, adjusted net revenue was $1.75 billion, a 3% decline relative to 2019 as underlying trends in our business continued to recover from third quarter levels.
+Adjusted operating margin was 41.5%, a 320 basis point improvement from the fourth quarter of 2019.
+Adjusted earnings per share was $1.80 for the quarter, an increase of 11% compared to the prior year period, an impressive outcome that highlights the durability of our model and momentum we have heading into 2021.
+Merchant solutions achieved adjusted net revenue of $1.1 billion for the fourth quarter, a 4% decline from the prior year, which marked a 200 basis point improvement from the third quarter.
+Notably, we delivered an adjusted operating margin of 47.5% in this segment, an increase of 250 basis points from 2019, as our cost initiatives, expense synergies and the underlying strength of our business mix more than offset topline headwinds from the macro environment.
+Moving to issuer solutions, we delivered $457 million in adjusted net revenue for the fourth quarter, which was essentially flat to the prior year period.
+Excluding our commercial card business, which represents approximately 20% of our issuer portfolio and is being impacted by the slow recovery in corporate travel, this segment delivered low single-digit growth for the quarter.
+Notably, this business achieved record adjusted operating income and adjusted segment operating margin expanded 450 basis points from the prior year, also reaching a new record of 44.7% as we continue to benefit from our efforts to drive efficiencies and the business.
+Finally, our business and consumer solutions segment delivered adjusted net revenue of $205 million, a record fourth quarter result, representing growth of 3% from the prior year.
+Gross dollar volume increased more than 5% for the quarter, a result including little impact from the late December incremental stimulus, which we expect to primarily benefit us in Q1.
+We are particularly pleased with trends with our DDA products, which includes an acceleration in active account growth of 29% compared to the prior year.
+Adjusted operating margin for this segment improved 260 basis points to 24.1%, as we benefited from our efforts to drive greater operational efficiencies, as well as favorable revenue mix dynamics toward higher margin channels.
+As a result, we are pleased to again raise our estimate for annual run rate expense synergies from the merger to at least $400 million within three years, up from the previous estimate of $375 million.
+Additionally, our early success in leveraging our complementary products and capabilities worldwide also gives us the confidence to increase our expectation for annual run rate synergies again to $150 million, up from our previous forecast of $125 million.
+From a cash flow standpoint, we generated adjusted free cash flow of roughly $780 million for the quarter and approximately $2 billion for the year.
+This is after reinvesting $107 million of capex for the quarter and $436 million for the year.
+As you may recall, we indicated we expected to invest between $400 million and $500 million of capex back into the business following the onset of the pandemic.
+Consistent with our announcement on our last call, we are also pleased to have now returned to our traditional capital allocation priorities, and during the quarter, repurchased 1.2 million of our shares for approximately $230 million.
+Our balance sheet is extremely healthy, and we ended 2020 with roughly $3 billion of liquidity and a leverage position of roughly 2.6 times on a net debt basis.
+Further, our Board of Directors has again approved an increase to our share repurchase authorization to $1.5 billion.
+As part of this program, we intend to execute an accelerated share repurchase program for $500 million in the coming days.
+Based on our current expectations for continued recovery from the COVID-19 pandemic worldwide, we expect adjusted net revenue to range from $7.5 billion to $7.6 billion, reflecting growth at 11% to 13% over 2020.
+Considering this topline forecast, we would expect to deliver normalized adjusted operating margin expansion of up to 450 basis points, given the natural operating leverage in our business and expense synergy actions related to the TSYS merger.
+Therefore, we are currently forecasting adjusted operating margin expansion of up to 250 basis points compared to 2020 levels on a net basis.
+Regarding segment margins, we expect up to 250 basis points of adjusted operating margin improvement for the total Company to be driven largely by merchant solutions, while we expect issuer and business and consumer to deliver normalized margin expansion consistent with the underlying leverage profile of these businesses.
+This follows the 500 basis points and 400 basis points of adjusted operating margin expansion, delivered by issuer and business and consumer respectively in 2020.
+We currently expect net interest expense to be slightly lower in 2021 relative to 2020, while we anticipate our adjusted effective tax rate to be relatively consistent with last year and expect our capital expenditures for 2021 to be in the $500 million to $600 million range.
+Putting it all together, we expect adjusted earnings per share for the full year in a range of $7.75 to $8.05, reflecting growth of 21% to 26% over 2020.
+This is consistent with the adjusted earnings per share target of roughly $8.00 that we provided on our third quarter call, despite the incremental adverse impact of additional lockdowns and social distancing protocols in a number of our markets since late October.
+This would have been a remarkable year of milestones regardless of the macroeconomic environment, but it's all the more notable in the face of a 100-year pandemic.

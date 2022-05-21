@@ -1,0 +1,57 @@
+Overall, we are pleased with the start of the year as adjusted revenues for the quarter increased 29% and adjusted EBITDA increased 37%.
+Organic constant-currency revenues increased 1.3% as strength in international was partially offset by the final quarter of COVID-19 headwinds and Data.com in North America.
+Total company revenue retention was 96.3% and we now have approximately 48% of our business under multiyear contracts.
+As we reach the two-year anniversary of our cost savings program, we finished the quarter with $246 million of annualized run-rate cost savings.
+Despite COVID-19 delaying some of our planned cost savings initiatives, we exceeded our original target by 23%, which ultimately contributed to the expansion of adjusted EBITDA margins by over 800 basis points from when we took the company private.
+We're pleased with the ongoing success we're having with our strategic clients as they renew near 100%, while continuing to expand their relationships with us.
+In the first quarter, we rolled out a Global 500 account program simultaneously with the close of Bisnode, prioritizing the most strategic accounts.
+Our U.K. team is working with Generali, a Global 500 global insurance and asset management provider with a leading position in Europe and a growing presence in Asia and Latin America, to help them identify ways to improve consistency of screening across their global, corporate, and commercial businesses, as well as reduce risk.
+Another Global 500 company, Linde Region Europe North, member of Linde PLC, is a leading global industrial gas and engineering company that wanted to improve their credit checks and risk monitoring of B2B customers in a more data-driven way.
+Today, we have 22 partner datasets, including healthcare reference data from IQVIA and commercial fleet data from IHS Markit, and we're adding more partners monthly.
+While inside the portal, we offer personalized offerings of our and our partner's solutions, which has already resulted in a 60% increase in cross-sells during the first quarter.
+Bank of America became the first major financial institution to offer millions of small businesses the ability to get ongoing insights into their D&B business credit score directly through their Business Advantage 360 banking platform.
+In the first quarter, subscriptions to our freemium products were up 43% from the prior year.
+After 20 new product launches in 2020, we continued the momentum in the first quarter, introducing the Finance Analytics platform in the U.K., Data Vision in Greater China and India, and data blocks in three additional worldwide network partner markets.
+Overall, we have actioned approximately $12 million of annualized run-rate savings and continue to see significant efficiencies through the combination of our two companies.
+Turning to Slide 1.
+On a GAAP basis, first-quarter revenues were $505 million, an increase of 28% or 27% on a constant-currency basis compared to the prior-year quarter.
+This includes the net impact of a lower purchase accounting deferred revenue adjustment of $17 million.
+Net loss for the first quarter on a GAAP basis was $25 million or a diluted loss per share of $0.06, compared to a net income of $42 million for the prior-year quarter.
+Turning to Slide 2.
+First-quarter adjusted revenues for the total company were $509 million, an increase of 28.6% or 27.7% on a constant-currency basis.
+This year-over-year increase includes 22 percentage points from the Bisnode acquisition and 4.4 percentage points from the net impact of lower deferred revenue purchase accounting adjustments.
+Revenues on an organic constant-currency basis were up 1.3%, driven by growth in our International segment, partially offset by the final quarter of headwinds in North America from COVID-19 and the Data.com wind down.
+Excluding these headwinds, the underlying business grew approximately 3%.
+First-quarter adjusted EBITDA for the total company was $186 million an increase of $50 million or 37%.
+This increase includes the net impact of lower deferred revenue purchase accounting adjustment, a 15-percentage-point impact on year-over-year growth.
+First-quarter adjusted EBITDA margin was 36.5%.
+Excluding the impact of the deferred revenue adjustment and the net impact of Bisnode, EBITDA margin improved 220 basis points.
+First-quarter adjusted net income was $98 million or adjusted diluted earnings per share of $0.23, an increase from first quarter's 2020 adjusted net income of $50 million.
+Turning now to Slide 3.
+In North America, revenues for the first quarter were $339 million, an approximate 1% decrease from prior year.
+Excluding known headwinds, North America grew approximately 2%.
+The growth in these solutions was offset by approximately $3 million of lower revenues attributable to COVID-19 and $1 million of revenue elimination from the Bisnode transaction.
+And while data sales also had another solid quarter, the overall growth in sales and marketing was partially offset by $5 million from the Data.com wind down.
+North America first-quarter adjusted EBITDA was $151 million, an increase of $7 million or 5% primarily due to lower operating costs resulting from ongoing cost management efforts.
+Adjusted EBITDA margin for North America was 44.5%, up 220 basis points versus prior year.
+Turning now to Slide 4.
+In our international segment, first-quarter revenues increased 137% to $179 or 131% on a constant-currency basis, primarily driven by the net impact from the acquisition of Bisnode and strong growth in our sales and marketing solutions.
+Excluding the impact from Bisnode, International revenues increased approximately 9%.
+Finance and Risk revenues were $107 million, an increase of 83% or an increase of 78% on a constant-currency basis primarily due to the Bisnode acquisition.
+Excluding the net impact of Bisnode, revenue grew 7% with growth across all markets, including higher worldwide network cross-border sales and higher revenues in Greater China from our risk and compliance solutions and newly introduced API offerings.
+Sales and marketing revenues were $63 million, an increase of 382% or an increase of 359% on a constant-currency basis, primarily attributable to the Bisnode acquisition.
+Excluding the net impact of Bisnode, revenue grew 18% due to new solution sales in our U.K. market and increased revenues from our worldwide network product loyalty.
+First-quarter international adjusted EBITDA of $52 million increased $28 million or 114% versus first-quarter 2020 primarily due to the net impact of Bisnode acquisition, as well as revenue growth across our international businesses, partially offset by higher net personnel costs.
+Adjusted EBITDA margin was 30.3% or 37.8%, excluding Bisnode, which is an increase of 430 basis points versus prior year.
+Turning now to Slide 5.
+At the end of March 31, 2021, we had cash and cash equivalents of $173 million, which when combined with full capacity of our $850 million revolving line of credit through 2025, represents total liquidity of approximately $1 billion.
+As of March 31, 2021, total debt principal was $3,674 million, and our leverage ratio was 4.8% on a gross basis and 4.6% on a net basis.
+The credit facility senior secured net leverage ratio was 3.6%.
+And finally, on March 30, we executed $1 billion floating to fixed swaps at an all-in rate of 46.7 bps.
+These are three-year slots and bring our fixed floating debt ratio to approximately 50-50.
+Turning now to Slide 6.
+Adjusted revenues are expected to remain in the range of $2,145 million to $2,175 million, an increase of approximately 23.5% to 25% compared to full-year 2020 adjusted revenues of $1,739 million.
+Revenues on an organic constant-currency basis, excluding the net impact of the lower deferred revenues, are expected to increase between 3% to 4.5%.
+Adjusted EBITDA is expected to be in the range of $840 million to $855 million, an increase of 18% to 20%.
+And adjusted earnings per share is expected to be in the range of $1.02 to $1.06.
+Additional modeling details underlying our outlook are as follows: We expect interest expense to be $200 million to $210 million; depreciation and amortization expense of approximately $90 million, excluding incremental depreciation and amortization expense resulting from purchase accounting; an adjusted effective tax rate of approximately 24%; weighted average shares outstanding of approximately $430 million; and finally, capex, we anticipate, of around $160 million, including $7 million due to a small asset acquisition we completed in the first quarter.

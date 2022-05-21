@@ -1,0 +1,53 @@
+Our team is executing, maintaining a swift pace toward our path to $10 billion in revenue and beyond.
+In Q1, we grew subscription revenue 30% year over year, exceeding the high end of our guidance.
+We delivered strong profitability with operating margin over 27%.
+And we increased free cash flow margin 7 points year over year to 46%.
+As a result, digital investments are at an all-time high and will total more than $7.8 trillion by 2024, according to IDC.
+Our team of 14,000 colleagues are exponential thinkers.
+In just the past 18 months, we have more than doubled the features and functionality of our platform for our customers.
+We're proud that Quebec, our latest platform release, delivered 1,700 new customer capabilities; breakthrough innovations like predictive AI operations, AI search, and virtual agents that enhance every experience, to name a few.
+By the end of 2021, Forrester Research predicts that 75% of development shops will use low-code platforms.
+In just 10 days, NCI leveraged ServiceNow to build a new application for an online portal to collect and track specimens from COVID-19 patients.
+ITSM was in 12 of our top 20 deals.
+ITOM had a strong quarter and was in 13 of the top 20 deals.
+Creator workflows, our platform business, was in 19 of our top 20 deals.
+Three of our top 10 app engine wins came from APJ, where we are seeing increased awareness of ServiceNow and is continuing to drive demand.
+In the U.S., the Now Platform is at the heart of the city of Los Angeles' digital transformation, helping to provide reliable access to essential services for its 4 million citizens.
+Employee workflows were included in eight of our top 20 deals.
+1 priority, caring for children.
+Within two hours of the portal going live, 120,000 people have registered and received an appointment.
+ServiceNow ended Q1 working with over 100 organizations and governments globally to help vaccinate people at scale.
+That's why we're so grateful to be named to the Fortune 100 "best places to work" list for the first time.
+And we're proud to have increased our position on the Fortune's Best Workplaces in Technology list by more than 10 points.
+We are well on our way to $10 billion and beyond, and we are striving with all we have to be the defining enterprise software company of the 21st century.
+Q1 subscription revenues were $1.293 billion, representing 30% year-over-year growth inclusive of a 4-point tailwind from FX.
+Remaining performance obligations or RPO ended the quarter at approximately $8.8 billion, representing 34% year-over-year growth, putting us well on our way toward our $10 billion revenue target.
+Current RPO was approximately $4.4 billion, representing 33% year-over-year growth and a 100 basis points beat versus our guidance.
+Notably, we delivered that beat with 100 basis points less of an FX tailwind.
+Due to the weaker euro, currency contributed 4 points instead of our original outlook for a 5-point tailwind.
+Q1 subscription billings were $1.365 billion, representing 29% year-over-year growth and a $50 million beat versus the high end of our guidance.
+FX and duration were a 4-point tailwind year over year.
+Our renewal rates remained strong at 97%, as the Now Platform remains a mission-critical part of our customers' operations.
+We closed 37 deals greater than $1 million ACV in the quarter, including seven net new customers.
+Our focus on selling comprehensive solutions instead of point products continue to drive more multi-product deals as 17 of our top 20 deals included three or more products.
+We now have 1,146 customers paying us over $1 million in ACV, up 23% year over year.
+And the number of customers paying us $5 million or more in ACV grew over 50% year over year.
+Operating margin was 27%, up 300 basis points year over year, driven by our strong top-line outperformance and the timing of some spend that will shift into Q2.
+Our free cash flow margin was 46%, up 700 basis points year over year, driven by strong collections and lower T&E.
+The industries highly affected by COVID that we outlined early last year, which represent about 20% of our business, remained resilient in Q1.
+For Q2, we expect subscription revenues between $1.29 billion and $1.295 billion, representing 27% to 28% year-over-year growth, including a 300-basis-point FX tailwind.
+We expect cRPO growth of 30% year over year, including a 250-basis-point FX tailwind.
+We expect subscription billings between $1.25 billion and $1.255 billion, representing 23% year-over-year growth.
+Growth includes a net tailwind from FX and duration of 300 basis points.
+We expect an operating margin of 21.5%, which includes $15 million of sales and marketing spend that shifted out of Q1 and into Q2; and 202 million diluted weighted outstanding shares for the quarter.
+We are increasing the midpoint of our previous subscription revenue expectations by $32 million based on the strong trends we saw in Q1.
+However, a weaker euro resulted in a $59 million headwind to our growth.
+Taken together, we expect subscription revenues between $5.455 billion and $5.47 billion, representing 27% to 28% year-over-year growth.
+This includes a 200-basis-points FX tailwind.
+Similarly, we're increasing the midpoint of our previous subscription billings expectation by $50 million on a constant-currency basis.
+However, the weaker euro resulted in a $68 million headwind to our growth.
+Taken together, we expect subscription billings between $6.19 billion and $6.205 billion, representing 24% to 25% year-over-year growth.
+This includes a net tailwind from FX and duration of 150 basis points.
+We now expect about 21% of our total subscription billings to be in Q3 and 37% to be in Q4.
+We continue to expect subscription gross margins of 85% and an operating margin of 23.5%.
+Finally, we expect free cash flow margin of 30% and 202 million diluted weighted outstanding shares for the year.

@@ -1,0 +1,67 @@
+Let's begin on Slide 4 with some highlights from the third quarter.
+First, we delivered 20% total revenue growth and 39% recurring revenue growth in the third quarter.
+Recurring revenue represented 62% of total revenues in the quarter which is a significant increase from 53% one year ago.
+We continue to make steady progress increasing our recurring revenue, which is consistent with our 80/60/20 goals.
+As you know, the third quarter was the first full quarter of incorporating Cardtronics in our financial results as we closed on the transaction in late June and received the final regulatory approval on August 10 from the CMA in the U.K. Second, adjusted EBITDA increased 41%.
+Third, adjusted EBITDA margin expanded to 18.5%, which represents an increase of 280 basis points from the third quarter of 2020 and marks the highest level in four years.
+We generated 125 million of free cash flow in the quarter.
+Now moving to Slide 5.
+In the third quarter, digital banking had 22 renewals, three new logo deals, and eight new product sales to existing clients, all positive drivers of growth.
+During the third quarter, digital banking grew 9% over the same period last year.
+We had two major software-defined store commerce platform signings during the third quarter from large clients that have installed the NCR eCommerce platform validated the technology in a full rollout during 2021, both confirming their success with signing a five-year subscription agreements during the third quarter, these two, Pilot Flying J, the largest operator of travel centers in North America with 750 retail locations in 44 states; and Circle K, which operates more than 15,000 convenience stores in over 20 countries.
+During the quarter, we also signed 17 new contracts through our digital front-end app, Freshop.
+NCR realized a significant upgrade in our relationship with Buffalo Wild Wings, which is part of the Inspire Brands family, entering into a four-year contract to support Buffalo Wild Wings across 1,200 locations with subscription-based point-of-sale software, various cloud-based applications, and end-to-end managed services.
+In the SMB market, the momentum of Aloha Essentials, which bundles payments, software, services, and hardware into a single offering, continued in the third quarter with a 102% increase in a Aloha Essentials sites over last year's same quarter.
+We increased the number of restaurant payment processing sites by 27% from the second quarter, as well as upselling existing customers to our payments platform.
+Let's begin with Slide 6, which presents a top-level overview of our third-quarter financial performance.
+Starting on the top left, revenue was $1.9 billion, up $312 million or 20% versus the 2020 third quarter, driven by strong growth in both our banking and hospitality segments.
+Normalizing for the inclusion of Cardtronics, pro forma revenue was up 3% year over year.
+With the inclusion of the full quarter of Cardtronics revenue, which has a preponderance of recurring revenue, our aggregate result was up 39% and comprised 62% of revenue in the quarter.
+On a pro forma basis, recurring revenue was up 7% year over year.
+In the top right, adjusted EBITDA increased $103 million or 41% year over year to $352 million.
+Adjusted EBITDA margin rate expanded 280 basis points to 18.5%, representing a high watermark for the previous four years.
+In the bottom left, non-GAAP earnings per share was $0.69, up $0.15 or 28% from the prior-year third quarter.
+The Cardtronics transaction remains on track to be 20 to 25% accretive to earnings per share within the first full year.
+The tax rate was 28.5%, and we now expect the full-year tax rate to be 28%.
+And finally, and maybe most importantly, we delivered another strong quarter of free cash flow with generation of $125 million.
+This compares to $160 million in the third quarter of 2020, which benefited from pandemic-related temporal cash preservation actions and the timing of an insurance settlement.
+Moving to Slide 7 for our banking segment results, which now includes the Cardtronics operations.
+Banking revenue increased $273 million or 35% year over year, driven by increases in software and services revenues that more than offset the decline in ATM hardware revenue.
+Banking adjusted EBITDA increased $98 million or 68% year over year.
+Adjusted EBITDA margin rate expanded by 450 basis points to 23%.
+On the left, while current quarter wins have a typical lag to conversion and eventual revenue generation, prior period wins at digital banking drove a 9% year-over-year growth rate in the third quarter.
+Digital banking registered users also increased 9% compared to Q3 of 2020.
+The shift to recurring revenue continues to gain traction, with recurring revenue up 71% year over year and 7% on a pro forma basis.
+Cash transactions on our ATMs in the U.S. were up 12% compared to the third quarter of 2020.
+Moving to Slide 8, which shows our retail segment results.
+Looking at SCO revenue, which is approximately 50% hardware, as we called out in Q2, we posted a very strong Q2 growth rate due to a customer request to accelerate a $30 million self-checkout order into Q2 from the second half of the year.
+We expect a strong Q4 for self-checkout that will result in full-year 2021 growth of more than 10%.
+The nature of these contracts shifts roughly $30 million of very high profit revenue that would have previously occurred is upfront software license to revenue that now recurs over the next several years.
+Considering those two retiming impacts, retail revenue declined $3 million or 1% year over year due to the lower hardware revenue and the shift to recurring revenue, partially offset by growth in software and services.
+And similarly, retail adjusted EBITDA declined $11 million or 14% year over year, while adjusted EBITDA margin rate contracted 190 basis points to 12.7%.
+Recurring revenue in this business increased 4% versus the third quarter of last year.
+Slide 9 shows our Hospitality segment results, which is participating fully in the recovery of the restaurant industry.
+Hospitality revenue increased $50 million or 29% as restaurants reopen, rework existing locations, and expand.
+Our signed subscription total contract value in this business increased 46% from the year-ago third quarter.
+Second quarter adjusted EBITDA increased to $35 million, up 46% from the third quarter of 2020, while adjusted EBITDA margin rate expanded 180 basis points to 15.7%.
+Aloha Essentials sites more than doubled when compared to the prior year third quarter and grew 30% sequentially.
+And in the graph on the bottom right, recurring revenue increased 19% from last year and 7% sequentially.
+Turning to Slide 10, we provide our second-quarter results for our 80/60/20 strategic targets.
+First, we strive to generate 80% of our revenue from software and services or less than 20% of our revenue from discrete hardware sales.
+In the third quarter, software and services represented 76% of our revenue, which is up from 71% in the year-ago quarter.
+Stepping down the page, we aim for 60% of our revenues to be recurring to drive more resilient, more predictable, and more valuable revenue.
+With the addition of Cardtronics, we have now exceeded our goal with recurring revenue representing 62% of the total, up from 53% in last year's third quarter.
+And we aspire to a 20% adjusted EBITDA margin rate.
+We made significant progress in this quarter with an adjusted EBITDA margin of 18.5% compared to 15.7% in the third quarter of 2020.
+On Slide 11, we present free cash flow, net debt and adjusted EBITDA metrics to facilitate leverage calculations.
+We generated total free cash flow of $125 million.
+This provided a onetime $274 million benefit to operating cash flows.
+We use that cash, along with our strong Q3 free cash flow, to redeem our highest coupon debt to $400 million of 8% bonds.
+Taken all together, all of these efforts have reduced our average borrowing rate to 4.15%.
+This slide also shows our net debt to adjusted EBITDA metric with a pro forma leverage ratio of 3.8 times.
+When we announced the Cardtronics transaction, we estimated that our pro forma leverage would be about 4.5 times with a commitment to delever below 3.5 by the end of 2022.
+We ended the third quarter with $383 million of cash and remain well within our debt covenants, which include a maximum pro forma leverage ratio of 5.5x.
+We also have significant liquidity with about $1 billion available under our revolving credit facility.
+Finally, about 90 days ago, we provided guidance for the first time since the beginning of the pandemic to help you bridge your modeling efforts to an NCR that was inclusive of the Cardtronics acquisition.
+While we expect a 20% sequential increase in hardware revenue in Q4 and anticipate continued excess demand for both self-checkout and point of sale and some recovery from price increases on hardware, supply chain constraints will likely cause us to carry some backlog into 2022.
+Now turning to Slide 12.

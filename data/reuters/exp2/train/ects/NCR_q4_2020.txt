@@ -1,0 +1,87 @@
+I'll begin on Slide 4 with some highlights from the fourth quarter and full year.
+We generated $149 million of free cash flow in the quarter and $448 million of free cash flow for the year.
+Second, we expanded adjusted EBITDA margin sequentially for the third consecutive quarter to 15.8% in the fourth quarter, which represents an increase of 10 basis points from the third quarter.
+We entered 2021 with $150 million in cost savings that are expected to drive margin expansion.
+Third, we delivered 6% recurring revenue growth in the fourth quarter, bringing recurring revenue to 54% of total revenue.
+Throughout 2020, we have made steady progress generating increased recurring revenue, which is consistent with our 80, 60, 20 goals.
+We continue to expect the proposed transaction to close midyear 2021 and to be 20 to 25% accretive to earnings per share in its first full year.
+Now, moving to Slide 5.
+We remain focused on our transition to drive NCR as-a-Service and achieve our 80, 60, 20 strategic goals.
+For the full-year 2020, software and services represented 72% of our total revenues, up from 65% in 2019, and 54% of our revenues were recurring, up from 46% in 2019.
+EBITDA margin was 14.4%.
+One of those new customers was Wintrust, a $43 billion bank with 15 branded community bank subsidiaries that selected NCR's D3 Digital Banking solution.
+We have already started off 2021 strong with the signing of another new D3 customer-associated bank, which is a $35 billion regional bank based in Wisconsin.
+We continue to be excited about the sales funnel for NCR Emerald and recently signed our biggest NCR Emerald deal to date with the largest cooperative in Canada with 1,500 stores.
+During the fourth quarter, over 90% of all Aloha sites sold to our direct offices were sold as subscription bundles, with payments attach rate also strong at roughly 75% of sales into new sites.
+Turning to Slide 6, which presents the top-level overview of our fourth-quarter financial performance.
+Starting on the top left, consolidated revenue was $1.63 billion, down $255 million or 14% versus the 2019 fourth quarter.
+Revenue was up $42 million, or 3% sequentially from 2020's third quarter, with all three business segments showing increases.
+And while I'll dig into the more specific drivers of the year-over-year decline later, in aggregate, $203 million, or 80% of that decline was attributable to lower hardware revenue, which was down 30%.
+Recurring revenue was up 6% year over year and 3% sequentially.
+We shifted $32 million or over two points of revenue that previously would have been booked upfront as a perpetual sale to a recurring revenue stream.
+This compares to just $9 million in last year's fourth quarter or $27 million in this year's Q3.
+In the top right, adjusted EBITDA decreased $41 million or 14% year over year to $258 million, in line with the revenue decline, with EBITDA margin rate down only slightly from the prior year, ending at 15.8%.
+On a sequential basis, adjusted EBITDA was up 4%, and EBITDA margin rate expanded 10 basis points.
+These actions were upsized from $100 million to $150 million to allow us to sustain our profitability at pandemic levels of demand and to drive further margin expansion as demand improves and our revenues follow.
+$27 million of adjusted EBITDA did shift out of the quarter, accompanying the respective revenue shift.
+This compares to $8 million in the year ago Q4 and $21 million sequentially from Q3.
+And in the bottom left, non-GAAP earnings per share was $0.59, down $0.26 from the prior-year fourth quarter and up $0.04 from Q3.
+The tax rate of 20% for Q4 decreased as a result of the lower than planned income, which causes planned discrete tax items to have an outside effect on the overall rate.
+And finally and maybe most importantly, we generated $149 million of free cash flow in the quarter and $448 million for the full year.
+This compares to $302 million in the year ago quarter by just $281 million for that full year.
+While in 2020, we generated a much more linear free cash flow result, with approximately $150 million in each of the last three successive quarters.
+Moving to Slide 7, which describes our banking segment results.
+Banking revenue decreased $149 million or 16% mainly driven by a 36% decline in ATM hardware.
+Operating income decreased $57 million or 40%, and operating margin rate declined by 440 basis points to 10.9%.
+About 60% of that decline was hardware-related and included lower volumes, a disadvantageous geography mix, resulting unabsorbed costs and a lower attached software sales.
+The remainder was from the shift to -- of $17 million of software to future period recurring revenue.
+Operating expenses were only down 3% and will need to go lower in '21.
+On a sequential basis, revenue was up 2%, and operating margin decreased by 180 basis points.
+For digital banking revenue, 2020 marked an inflection point as the full year increased 4% over 2019.
+Digital banking registered users increased 12% compared to the fourth quarter of 2019 and showed nice sequential growth over the last five quarters.
+Recurring revenue in this business increased 8% year over year and 3% sequentially.
+Moving to Slide 8, which shows our retail segment results.
+Retail revenue decreased $40 million or 7% against a very tough hardware comparison.
+That said, operating income was up $7 million or 17% versus Q4 2019.
+Sequentially, revenue was up 2%, and operating margin expanded 50 basis points.
+And platform lanes increased 40% compared to prior-year fourth quarter.
+Recurring revenue in this business increased 11% versus the fourth quarter in 2019 and increased 3% sequentially.
+Slide 9 shows our hospitality segment results.
+Hospitality revenue decreased $50 million or 22% driven primarily by lower hardware sales.
+Fourth-quarter operating income declined $8 million mainly due to the flow-through impact from lower revenue.
+As was the case in Q3, we were able to partially preserve profitability by reducing operating expenses by 15%.
+Aloha Essentials sites, which bundled software, services, hardware and payments into a single offering, grew 42% when compared to prior-year fourth quarter and grew 9% from this year's third quarter.
+While down 5% last year, it was up 6% in the third quarter.
+Turning to Slide 10.
+Software revenue decreased 9% due primarily to the shift from onetime recurring revenue, which represented approximately two-thirds of the decline.
+And finally, as I mentioned previously, hardware revenue was the most impacted in the quarter by the pandemic, declining 30%.
+ATM revenue declined 36%, while the combination of self-checkout and point of sales declined 23%.
+Software and services as a percentage of total company revenue increased to 71% from 64% in the prior quarter, with lower hardware sales exaggerating our improvement.
+Recurring revenues increased 6%, driven by our programmatic effort to shift our sales away from single sales events with perpetual licensing to predictable multiyear commitments with relatively high certainty of revenue generation.
+Recurring revenue as a percentage of total company revenue increased to 54% from 44% in Q4 of 2019, also benefiting from lower hardware sales.
+On Slide 11, you'll see the same revenue snapshot but for the full-year 2020 versus full-year 2019.
+The shift in recurring revenue had a $100 million impact to the full year or roughly 80% of the software decline.
+Service revenue continued to show resiliency with 2% year-over-year growth.
+Recurring revenue increased 5% year over year, living up to its title and validating our emphasis on it.
+We ended the year with 54% of our revenue as recurring.
+On Slide 12, we present free cash flow, net debt and adjusted EBITDA metrics.
+Free cash flow was $149 million in the quarter.
+Although a decline from the prior-year period, we ended the year with free cash flow of $448 million, up nearly 60% from the $281 million in the prior year.
+Also, during the fourth quarter, we made a $70 million discretionary contribution to the U.S. pension plan, which is expected to push our mandatory contributions out until 2023.
+This slide also shows our net debt to adjusted EBITDA metric with a net debt leverage ratio of 3.3 times.
+We ended the year with $338 million of cash, having paid down both our outstanding revolver and our trade receivable securitization facility and having retired 132,000 shares of preferred stock.
+We remain well within our debt covenants and ended the fourth quarter with a credit facility leverage of approximately 3.3 times, well under our debt covenant maximum of 4.6.
+Turning to Slide 13.
+Those cost actions and the related operational changes or product decisions resulted in approximately $200 million of restructuring charges in our fourth quarter.
+Approximately $150 million of those were non-cash charges, mainly related to excess inventory and software impairment charges related to strategic changes.
+The remaining $50 million were cash charges for severance and the resolution of several legacy items.
+We entered 2021 with an estimated $150 million of run rate cost savings.
+Approximately 40% of those savings are from operating costs, another 40% from SG&A and the remaining 20% from the corporate functions.
+And my last slide is Slide 14, which provides an outlook for Q1 2021.
+But for Q1, relative to the year ago Q1, so on a year-over-year basis, we expect revenue growth of 2 to 3%.
+On profitability, we expect adjusted EBITDA margins to expand by 250 basis points to 15%.
+But remember that we have had about $150 million of unavoidable payments in the first quarter related to benefits and compensation that occur in every Q1.
+First, we will continue to accelerate our NCR as-a-Service and 80, 60, 20 strategy.
+Turning to Slide 16.
+It will enhance our scale and cash flow generation while advancing our 80, 60, 20 targets by roughly two years.
+Additionally, the proposed transaction is expected to be accretive to earnings per share by 20 to 25% in the first full year.

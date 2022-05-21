@@ -1,0 +1,58 @@
+Going to Slide 2.
+Now moving to Slide 4, and a review of our first quarter results.
+Revenue was $727.5 million, a decrease of 10.7%.
+Organic revenue excluding $3.9 million of storm restoration services in the quarter declined 11.1%.
+As we deployed 1 gigabit wireline networks, wireless/wireline converged networks and wireless networks this quarter reflected an increase in demand from two of our top five customers.
+Gross margins were 14.8% of revenue, reflecting the continued impacts of the complexity of a large customer program.
+General and administrative expenses were 9.2% and all of these factors produced adjusted EBITDA of $44.1 million or 6.1% of revenue.
+And adjusted loss per share of $0.04 compared to earnings per share of $0.36 in the year ago quarter.
+Liquidity was strong at $477.4 million and operating cash flow was $41.5 million.
+Finally, during the quarter we issued $500 million in 4.5% senior notes due in April 2029, and resized and extended our credit facility through April of 2026.
+Now going to Slide 5.
+These wireline networks are generally designed to provision 1 gigabit network speeds to individual consumers and businesses, either directly or wirelessly using 5G technologies.
+We are providing program management planning, engineering and design, aerial and underground and wireless construction and fulfillment services for 1 gigabit deployments.
+Moving to Slide 6.
+During the quarter, organic revenue decreased 11.1%.
+Our top five customers combined produced 68.2% of revenue, decreasing 23% organically.
+All other customers increased 31.9% organically.
+AT&T was our largest customer at 21.4% of total revenue or $155.6 million.
+AT&T grew 0.9% organically.
+Revenue from Comcast was $131.1 million or 18% of revenue.
+Comcast was Dycom's second largest customer and grew organically 10.7%.
+Verizon was our third largest customer at 12.6% of revenue or $91.5 million.
+Lumen was our fourth largest customer at 485.8 million or 11.8% of revenue.
+And finally, revenue from Windstream was $32.1 million or 4.4% of revenue.
+In fact, the 31.9% organic growth rate with these customers is the highest growth rate in at least nine years.
+Of note, fiber construction revenue from electric utilities was $47 million in the quarter or 6.5% of total revenue.
+This activity increased organically 92.1% year-over-year.
+In fact, over the last several years, we have meaningfully increased the long-term value of our maintenance and operations business, a trend which we believe will parallel our deployment of 1 gigabit wireline direct and wireless/wireline converged networks, as those deployments dramatically increase the amount of outside plant network that must be extended and maintained.
+Despite this overall industry trend, we were recently notified by customer representing less than 5% of our revenue that it had decided to in-source a portion of the construction and maintenance services that are currently provided for them by us as well as a number of other suppliers.
+Now, going to Slide 7.
+Backlog at the end of the first quarter was $6.528 billion versus $6.81 billion at the end of the January 2021 quarter, decreasing approximately $282 million.
+Of this backlog, approximately $2.746 billion is expected to be completed in the next 12 months.
+headcount increased during the quarter to 14,331.
+Going to Slide 8.
+Contract revenues for Q1 were $727.5 million and organic revenue declined 11.1%.
+Adjusted EBITDA was $44.1 million or 6.1% of revenue.
+Gross margins were 14.8% in Q1 and decreased 169 basis points from Q1 '21.
+G&A expense increased 112 basis points, reflecting higher stock-based compensation and administrative and other costs.
+Non-GAAP adjusted net loss was $0.04 per share in Q1 '22, compared to net income of $0.36 per share in Q1 '21.
+Now going to Slide 9.
+Over the past four quarters, we have reduced notional net debt by $185.2 million.
+During Q1, we issued $500 million of 4.5% senior unsecured eight-year notes due April 2029.
+We repaid $105 million of revolver borrowings and $71.9 million of term loan borrowings, and we resized and extended our senior credit facility through April 2026.
+Cash and equivalents were $330.6 million at the end of Q1.
+$58.3 million is expected to be used to repay our convertible notes due September 2021.
+We ended the quarter with $500 million of senior unsecured notes, $350 million of term loan, no revolver borrowings, and $58.3 million principal amount of convertible notes.
+As of Q1, our liquidity was strong at $477.4 million, and we continue to maintain a strong balance sheet.
+Going to Slide 10.
+Operating cash flows have remained strong and totaled $41.5 million in the quarter.
+The combined DSOs of accounts receivable and net contract assets were at 128 days, an improvement of eight days sequentially from Q4 '21.
+Capital expenditures were $28.6 million during Q1 net of disposal proceeds, and gross capex was $31.6 million.
+Capital expenditures net of disposals for fiscal 2022 are expected to range from $105 to million to $125 million, a reduction of $40 million when the midpoint as compared to the midpoint of the prior outlook.
+Going to Slide 11.
+We expect the year-over-year gross margin pressure of approximately 200 basis points from the impact of a large customer program and from revenue declines for other large customers that are expected to have lower spending in the first half of this calendar year.
+We expect approximately $8.7 million of non-GAAP adjusted interest expense for the components listed as well as $0.7 million for the amortization of the debt discount on convertible notes for total interest expense of approximately $9.4 million during Q2.
+We expect the non-GAAP effective income tax rate of approximately 27% and diluted shares of $31.3 million.
+Moving to Slide 12.
+Telephone companies are deploying fiber to the home to enable 1 gigabit high speed connections, increasingly rural electric utilities are doing the same.

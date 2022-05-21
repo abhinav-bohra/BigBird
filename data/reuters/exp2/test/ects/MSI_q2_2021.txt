@@ -1,0 +1,37 @@
+Information about factors that could cause such differences can be found in today's earnings news release, in the comments made during this conference call, in the risk factors section of our 2020 Annual Report on Form 10-K and in our other reports and filings with the SEC.
+We grew revenue 22%, earnings per share of 49% and operating cash flow 86% versus the prior year.
+Additionally, we expanded operating margins by 220 basis points and ended the quarter with $11.2 billion of backlog, up 7% versus last year and a record for Q2.
+In Products and Systems Integration, revenue was up 24% and operating margins expanded 270 basis points driven by growth in our LMR and video security technologies.
+And in Software and Services, revenue was up 19%, and operating margins expanded by 210 basis points on growth in LMR services, video security and command center software.
+Our Q2 results included revenue of $2 billion, up 22%, including $47 million from acquisitions and $66 million from favorable FX.
+The GAAP operating earnings were $370 million, and operating margins were 18.8% of sales compared to 13.5% in the year ago quarter.
+Non-GAAP operating earnings of $482 million, up $123 million or 34% from the year ago quarter and non-GAAP operating margins of 24.4% of sales, up from 22.2% driven by higher sales and improved operating leverage in both segments, inclusive also of higher costs related to employee incentive compensation this year.
+GAAP earnings per share of $1.69 compared to $0.78 in the year ago quarter.
+Non-GAAP earnings per share of $2.07 compared to $1.39 last year, primarily due to higher sales and improved operating leverage in both segments.
+opex in Q2 was $477 million, up $51 million versus last year, primarily due to higher compensation related incentives and higher expenses related to acquisitions.
+Q2 operating cash flow was $388 million compared with $209 million in the prior year, and free cash flow was $326 million compared with $155 million in the prior year.
+Capital allocation for Q2 included $121 million in cash dividends, $102 million in share repurchases at an average price of $206.85 per share and $62 million of CapEx.
+Additionally, during the quarter, we issued $850 million of new long-term debt and redeemed $324 million of outstanding senior notes due in 2023.
+Subsequent to quarter end, we acquired Openpath, a leader in cloud-based access control solutions for $297 million, and we invested $50 million in equity securities of Evolve, whose technology powers our concealed weapons detection solution.
+Q2 Products and Systems Integration sales were $1.2 billion, up 24%, driven by strong growth in LMR and video security.
+Revenue from acquisitions in the quarter was $38 million.
+Operating earnings were $194 million or 16.2% of sales, up from 13.5% in the prior year on higher sales and improved operating leverage, inclusive of higher costs related to incentive compensation.
+Some notable Q2 wins and achievements in this segment include a $37 million P25 order for the Kentucky State Police, a $36 million P25 upgrade for a state in the US, a $30 million P25 order from MARTA in Atlanta, a $29 million P25 devices order for a large US state and local customer, and a $5 million video security order, our largest single fixed video order from a US federal customer to date.
+Q2 revenue was $773 million, up 19% from last year, driven by growth in LMR services, video security and command center software.
+Revenue from acquisitions in the quarter was $9 million.
+Operating earnings were $288 million or 37.2% of sales, up 210 basis points from last year, driven by higher sales, higher gross margins, improved operating leverage and also inclusive of higher compensation related incentives this year.
+Some notable Q2 wins in this segment include, an $18 million French MOI body-worn camera frame agreement, a $15 million license plate recognition software extension with US based customer, a $10 million P25 multiyear services extension for Ohio's statewide network, and a $10 million P25 maintenance renewal with the US federal customer.
+Additionally, we launched Command Central Suite, Public Safety's, first cloud-native 911 case-call to case closure solution.
+Looking at our regional results, North America Q2 revenue was $1.3 billion, up 20% on growth in LMR, video security and command center software.
+International Q2 revenue was $659 million, up 25%, also driven by LMR, video security and command center software.
+Ending backlog was a Q2 record of $11.2 billion, up $741 million compared to last year, driven by $660 million of growth in North America and $81 million of growth internationally.
+Sequentially, backlog was down $57 million, driven by revenue recognition on Airwave and ESN, partially offset with growth in LMR products.
+Software and Services backlog was up $257 million compared to last year, primarily driven by North America multiyear service contracts.
+And sequentially, backlog was down $130 million, driven again primarily by the revenue recognition for Airwave and ESN.
+Products backlog was up $484 million compared to last year and $73 million sequentially, driven primarily by LMR growth in both regions.
+We expect Q3 sales to be approximately up 10% with non-GAAP earnings per share between $2.09 and $2.14 per share.
+This assumes FX at current rates, a weighted average diluted share count of approximately 174 million shares and an effective tax rate of 23% to 24% a year.
+And for the full year, we now expect sales to be up between 9.5% and 10%, an increase from our prior guide of 8% to 9%, and we now expect full year non-GAAP earnings per share between $8.88 and $8.98 per share, up from our prior guidance of $8.70 to $8.80 per share.
+This increased outlook incorporates the ongoing supply chain constraints, primarily in LMR and assumes FX at current rates, a weighted average share count of approximately 173 million shares and an effective tax rate of approximately 22%.
+We achieved Q2 record sales, operating earnings and earnings per share, expanded operating margins, grew our video security technologies by 66% and achieved strong growth in LMR and command center software technologies as well.
+Openpath is disrupting the access control industry and extends our value proposition in the $15 billion video security market.

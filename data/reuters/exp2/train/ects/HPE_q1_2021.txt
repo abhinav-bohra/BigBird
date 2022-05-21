@@ -1,0 +1,71 @@
+Our total revenue of $6.8 billion was down 3% from the prior year.
+Importantly, our non-GAAP gross margin of 33.7% is up 30 basis points year over year and 300 basis points sequentially.
+Our non-GAAP operating profit of 11.3% is up 130 basis points year over year, and our non-GAAP earnings per share of $0.52 is up 4% year over year and significantly above the high end of our outlook.
+We generated a record Q1 free cash flow of $563 million, the highest achieved in the first fiscal quarter in the history of Hewlett Packard Enterprise.
+Based on the strong start to fiscal-year '21, we are raising our fiscal-year '21 non-GAAP earnings per share outlook to $1.70 to $1.88 and free cash flow to $1.1 billion to $1.4 billion.
+In our prioritized areas of growth, our Intelligent Edge business had an outstanding quarter, with revenue of $806 million, up 11% year over year.
+Finally, we introduced a new class of cloud-native and fully automated data center switching products specifically designed for the edge cloud data centers, which represents a $12 billion TAM expansion opportunity for Hewlett Packard Enterprise.
+In Q1, revenue was down 9% from the prior year.
+We remain very confident in this high-growth segment based on our backlog of our awarded business, which now exceeds well over $2 billion of exascale contracts and a robust pipeline of multimillion-dollar sized deals.
+We are on track to deliver the 8% to 12% annual growth rate communicated at our Security Analyst Meeting last fall.
+We recently introduced HP GreenLake Cloud Services for HPC to accelerate enterprise Main Street adoption or high-performance computing, targeting a $3 billion to $4 billion TAM.
+In Q1, we won two major HPC awards, one with the National Center of Atmospheric Research, a contract worth $35 million, to build a supercomputer for extreme weather research; and another that expands NASA's HP Akin Supercomputer.
+We also completed the installation of the Dammam 7 supercomputer for Saudi Aramco, which immediately became one of the top 10 supercomputers in the world.
+Finally, on February 20, you may have seen that HPC Spaceborne Computer 2 was launched into orbit for use on the International Space Station.
+In Compute, our operating margins of 11.5% increased 80 basis points year over year and 490 basis points quarter over quarter.
+Our revenue declined 2% from the prior year but was up low single digits sequentially when normalized for the backlog in Q4.
+In Storage, revenue was down 6% from the prior year, with operating margins of 19.7%, which is above the target profitability range we discussed at SAM.
+Our overall HPE All Flash Array portfolio grew 5%, driven by both HPE Primera and HP Nimble storage.
+Our annualized revenue run rate of $649 million was up 27% year over year.
+In Q1, we gained more than 70 new HP GreenLake cloud services logos.
+Our HP GreenLake Cloud services customer retention rates are above 95%, and the average customer usage of our cloud services currently running at 120% of original commitment, driven by customer expansion in their capacity utilization.
+We are excited about this long-term opportunity, and I'm very confident in our 30% to 40% CAGR target by fiscal-year '22.
+Q1 revenue stabilized with improved collections to deliver a return on equity of 16.5%.
+Antonio discussed the key highlights for this quarter on Slide 1.
+And now let me discuss our financial performance and KPIs, starting with Slide 2.
+We delivered Q1 revenues of $6.8 billion, down 3% from the prior-year period, but better than our typical historical sequential seasonality when normalizing for Q4 backlog.
+I am particularly proud of the fact that our non-GAAP gross margin returned to above pre-pandemic levels and was up 30 basis points from the prior-year period and up 300 basis points sequentially.
+Our non-GAAP operating margin was 11.3%, up 130 basis points from the prior year, which translates to an 11% year-over-year increase in operating profit.
+As a result of our strong execution, we ended the quarter with non-GAAP earnings per share of $0.52, which was up 4% from the prior year and significantly above the higher end of our outlook range.
+Q1 cash flow from operations was close to $1 billion, driven by better profitability and strong operational discipline, as well as working capital timing benefits.
+Q1 free cash flow was $563 million, which was up approximately $750 million from the prior year and a record level for any first HPE first quarter.
+Finally, we paid $155 million of dividends in the quarter and are declaring a Q2 dividend today of $0.12 per share payable in April 2021.
+Now let's turn to our segment highlights on Slide 3.
+In Intelligent Edge, we accelerated our momentum with rich software capabilities, delivering 11% year-over-year growth, our third consecutive quarter of sequential growth.
+Switching was up 5% year over year with double-digit growth in North America.
+And wireless LAN was up 11% year over year with double-digit growth in both North America and APJ.
+We are also seeing the significant operating profit potential of this business with operating margins in Q1 of 18.9%, up 680 basis points year over year as we drove greater productivity from past investments and operational leverage benefits kick in.
+Finally, I am pleased to say we recognized our first full quarter of revenue from the acquisition of Silver Peak, the premium growth SD-WAN leader, which contributed approximately 500 basis points to the Intelligent Edge top-line growth.
+In HPC and MCS, revenue declined 9% year over year, primarily due to the inherent lumpiness of the business, which is linked to the timing of deals and customer acceptance milestones.
+We remain very confident in the near-term and longer-term outlook for this business and are reaffirming our full-year and three-year revenue growth CAGR target of 8% to 12%, respectively, as highlighted at SAM.
+We have an extremely strong order book of over $2 billion worth of awarded exascale contracts with another $5-plus billion of market opportunity over the next three years.
+In Compute, revenue stabilized to a 2% year-over-year decline, but was up low single digits sequentially when normalizing for Q4 backlog, which attest of a strong order momentum in the quarter.
+We ended the quarter with an operating profit margin of 11.5%, up 80 basis points from prior-year period and at the high end of our long-term margin guidance for this segment provided at SAM.
+Within storage, revenue declined 6% year over year, driven by difficult prior-year compare, but with strong growth in software-defined offerings.
+We also saw notable strength in overall Nimble, up 31% year over year, and total all-flash arrays were up 5% year over year.
+The mix shift toward our more software-rich platforms helped drive storage operating profit margins to 19.7%, well above our long-term outlook for this segment presented at SAM last October.
+With respect to Pointnext operational services, including Nimble services, revenue stabilized and was flat year over year, driven by the increased focus of our BU segments on selling products and services as bundles, improved services intensity and are growing as-a-service business, which I remind you, involves service attach rates of 100%.
+Within HPE Financial Services, revenue stabilized and was slightly down 1% year over year.
+As expected, we are seeing sequential improvements in our bad debt loss ratios, ending this quarter at approximately 0.9%, which continues to be best-in-class within the industry.
+As a result, our non-GAAP operating margin was 9.8%, up 110 basis points on the prior year.
+And our return on equity is back to a pre-pandemic high teens level of 16.5%.
+Slide 4 highlights key metrics of our growing as-a-service business.
+Similar to last quarter, we are making great strides in our as-a-service offering this quarter with over 70 new GreenLake logos added in Q1.
+I am very pleased to report that our Q1 21 ARR came in at $649 million, representing 27% year-over-year reported growth.
+Total as-a-service orders were up 26% year over year, driven by very strong performance in Europe and Japan.
+Based on strong customer demand and recent wins, I am very happy with how this business is executing and progressing toward achieving its ARR growth targets of 30% to 40% CAGR from fiscal-year '20 to fiscal-year '23, which I am reiterating today.
+Slide 5 highlights our revenue and earnings per share performance to date, where you can clearly see the strong rebound from our Q2 trough.
+Turning to Slide 6.
+We delivered a non-GAAP gross margin rate of Q1 -- in Q1 of 33.7% of revenues, which was up 300 basis points sequentially and 30 basis points from the prior-year period.
+Moving to Slide 7.
+You can also see we have expanded non-GAAP operating profit margins, which is up 280 basis points sequentially and 130 basis points from the prior-year period.
+Turning to Slide 8, we generated record levels of first-quarter cash flows.
+Cash flow from operations was approximately $1 billion, and free cash flow was $563 million for the quarter, up approximately $750 million from the prior-year period.
+Now moving on to Slide 9.
+As of our January 31 quarter end, we had approximately $4.2 billion of cash on hand.
+Together with an undrawn revolving credit facility of $4.75 billion at our disposal, we currently have approximately $9 billion of liquidity.
+Now turning to outlook on Slide 10.
+We now expect to grow our fiscal-year '21 non-GAAP operating profit by over 20% and expect to deliver fiscal-year '21 non-GAAP diluted net earnings per share between $1.70 to $1.88, which is a $0.10 per share improvement on the midpoint of our prior earnings per share guidance of $1.60 to $1.78.
+This still represents double-digit year-over-year growth from the $6 billion trough of Q2 of fiscal-year '20.
+For Q2 '21, we expect GAAP diluted net earnings per share of $0.02 to $0.08 and non-GAAP diluted net earnings per share of $0.38 to $0.44.
+Additionally, given our record levels of cash flow this quarter and raised earnings outlook, I am very pleased to announce that we are also raising fiscal-year '21 free cash flow guidance from our SAM guidance of $900 million to $1.1 billion to a revised outlook of $1.1 billion to $1.4 billion, a $250 million increase at the midpoint.

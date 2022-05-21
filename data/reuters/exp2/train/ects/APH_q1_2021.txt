@@ -1,0 +1,56 @@
+The company closed the first quarter with sales of $2.377 billion and GAAP and adjusted diluted earnings per share of $0.53 and $0.52, respectively.
+Sales were up 28% in U.S. dollars, 25% local currencies and 23% organically compared to the first quarter of 2020.
+Sequentially, sales were down 2% in U.S. dollars, 3% in local currencies and 4% organically.
+Orders for the quarter were $2.734 billion, which was up 27% compared to the first quarter of 2020 and up 9% sequentially, resulting in a very strong book-to-bill ratio of 1.15:1.
+The interconnect business, which comprised 96% of sales, was up 28% in U.S. dollars and 25% in local currencies compared to the first quarter of last year.
+Our cable business, which comprised 4% of our sales, was up 17% in U.S. dollars and 18% in local currencies compared to the first quarter of last year's.
+Operating income was $465 million in the first quarter of 2021.
+Operating margin of 19.6% was down 100 basis points sequentially compared to the fourth quarter of 2020 adjusted operating margin and up a strong 260 basis points compared to the first quarter of 2020.
+From a segment standpoint, the interconnect segment -- in the interconnect segment, margins were 21.5% in the first quarter of 2021, which increased from 19.1% in the first quarter of 2020 and decreased 100 basis points sequentially.
+In the cable segment, margins were 8.8%, which increased from 7.6% in the first quarter of 2020 and decreased from 10.3% in the fourth quarter.
+The company's GAAP effective tax rate for the first quarter was 23.9%, which compared to 15.9% in the first quarter of 2020.
+On an adjusted basis, the effective tax rate was 24.5% in the first quarter of both 2021 and 2020.
+On a GAAP basis, diluted earnings per share increased by 33% to $0.53 compared to $0.40 in the prior year period.
+Adjusted diluted earnings per share increased by 49% to $0.52 from 35% -- $0.35 in the first quarter of 2020.
+Cash flow from operations was $321 million in the first quarter or 97% of GAAP net income.
+And net of capital spending, our free cash flow was $243 million or 74% of net income.
+From a working capital standpoint, inventory days, days sales outstanding and payable days were 85, 73 and 59 days, respectively, all within their normal ranges.
+During the quarter, the company repurchased 2.4 million shares of common stock for approximately $153 million.
+Total debt was $4.6 billion, and net debt was $2.3 billion.
+Total available liquidity at the end of the quarter was $4.1 billion, which included total cash and short-term investments on hand.
+First quarter 2021 EBITDA was $559 million, and our net leverage ratio was 1.0 times.
+On a pro forma basis, including the MTS acquisition and the anticipated divestiture of the test and simulation business, total available liquidity and net leverage at March 31, 2020 would be $3.2 billion and 1.4 times, respectively.
+These expenses, which we expect to total approximately $85 million or $0.12 per share, include costs related to the early extinguishment of debt, noncash purchase accounting-related expenses, external transaction expenses, severance and other costs.
+Our guidance does incorporate the expected results of the MTS Sensors business, which as previously announced, is expected to generate $350 million in sales and $0.05 in diluted earnings per share in the first 12 months after closing.
+Sales grew a very strong 28% in U.S. dollars and 25% in local currencies.
+And on an organic basis, sales increased by 23%.
+Craig mentioned, we booked record orders in the quarter of $2.734 billion, and that represented a very strong book-to-bill of 1.15:1.
+Despite continuing to face a range of operational challenges related to the ongoing pandemic as well as increased costs related to commodities and supply chain pressures, our operating margins were very healthy in the quarter, reaching 19.6%, which was a 260 basis point increase from last year's levels.
+Craig mentioned our adjusted diluted earnings per share grew a very robust 49% from prior year, which is again an excellent reflection of the Amphenol organization's strong execution.
+We generated operating and free cash flow of $321 million and $243 million in the first quarter, respectively, both clear reflections of the high quality of the company's earnings.
+Also, as previously announced, we had signed an agreement to sell the MTS test and simulation business to Illinois Tool Works for a sale price of $750 million.
+We expect the MTS Sensors business to add approximately $350 million of sales and $0.05 in adjusted diluted earnings per share in the first 12 months after closing.
+Based in Germany, with annual sales of approximately $25 million, Euromicron represents a great addition to our interconnect product offering for customers across the European communications market.
+And then in March, we completed the acquisition of Cabelcon from Corning Inc. Cabelcon, which also has sales of approximately $25 million, is a Denmark-based designer and manufacturer of high-technology connectors and interconnect assemblies, primarily for customers in the European broadband market.
+The military market represented 11% of our sales in the quarter.
+And as we had expected coming into the quarter, sales grew by 3% from prior year and were essentially flat organically with growth in naval, unmanned aerial vehicles, communications and vehicle ground systems, offset by declines or flat performance in other applications.
+Sequentially, our sales were modestly down by about 3%.
+The commercial aerospace market represented 2% of our sales in the quarter.
+And not surprisingly, and as expected, sales were down significantly, declining by 47% from prior year as the commercial aircraft market continued to experience unprecedented declines in demand for new aircraft due to the ongoing pandemic-related disruptions to the global travel industry.
+Sequentially, our sales were a bit better than expected, moderating by just 3% from the fourth quarter.
+The industrial market represented 24% of our sales in the quarter.
+Sales in industrial in the first quarter were better than expected, growing a very strong 33% in U.S. dollars and 33% organically.
+On a sequential basis, sales grew by a better-than-expected 6% versus the fourth quarter.
+The automotive market represented 22% of our sales in the quarter, and sales in this market were also much stronger than we expected, growing 52% in U.S. dollars and 44% organically, as our team was able to execute strongly in the face of a robust and broad recovery in the automotive market.
+Sequentially, our sales increased by 6% from the fourth quarter.
+The mobile devices market represented 12% of our sales in the quarter.
+Sales in this market increased by a better-than-expected 51% from prior year, with strength across all product types, including particularly in wearables and laptops.
+Sequentially, our sales declined by 35%, which was a bit better than our expectations coming into the quarter and is within the typical range of first quarter seasonality that we have seen traditionally in the mobile devices market.
+This market represented 6% of our sales in the quarter, and sales did grow from prior year by 4% in U.S. dollars and 1% organically, as strength from products sold to OEMs was offset in part by a moderation of our sales to network operators.
+We were encouraged, though, to realize a better-than-expected sequential growth of 19% in the mobile networks market in the quarter as mobile network operators increased their spending on next-generation networks.
+The information technology and data communications market represented 19% of our sales in the quarter.
+Sales in the quarter were stronger than expected, rising 25% in U.S. dollars and 24% organically from prior year, really on broad-based strength across networking, storage and server applications.
+While we had expect sales to decline coming out of the fourth quarter, we were pleased to realize actually a sequential growth of 6% as customers continue to increase their demand for our high-technology products, use service providers and in data centers around the world.
+Finally, the broadband market represented 4% of our sales in the quarter, and sales grew by a very strong 16% from prior year as broadband spending levels remained elevated.
+For the second quarter, we now expect sales in the range of $2.415 billion to $2.475 billion and adjusted diluted earnings per share in the range of $0.53 to $0.55.
+This would represent strong sales growth of 22% to 25% and adjusted diluted earnings per share growth of 33% to 38% compared to the second quarter of last year.

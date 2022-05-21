@@ -1,0 +1,56 @@
+A discussion of these risks and uncertainties is included in our annual report on Form 10-K and other SEC filings.
+Regarding our Q3 performance, our revenues were $4.29 billion, approximately $90 million above the top end of our guidance.
+Concerning adjusted EBIT margin, we delivered 7%, also higher than the top end of our guidance.
+Book-to-bill for the quarter was 1.13, underscoring the success of bringing the new DXC, which focuses on our customers and people to the market.
+This is the third straight quarter that we've delivered a 1.0 or better book-to-bill, and we also expect this trend to continue in Q4.
+We will achieve our goal of $550 million of cost savings this year.
+Our cost optimization program was responsible for our strong adjusted EBIT margin of 7% in Q3.
+We were able to expand margins despite a 200 basis point headwind from the sale of the U.S. state and local health and human services business.
+The 1.13 book-to-bill number that we delivered this quarter is consistent evidence that our plan is working.
+In Q3, 55% of our bookings were new work and 45% were renewals.
+Our ability to deliver a consistent book-to-bill number of over 1.0 in the first three quarters of FY '21 is clear evidence that our transformation journey is not only working but we can absolutely win in the IT services market.
+We are on track to complete the sale of this business and use the roughly $450 million of net proceeds to pay down debt, further strengthening our balance sheet.
+GAAP revenue was $4.29 billion and $88 million better than the top of our guidance range.
+Currency was a tailwind of $58 million sequentially and $118 million year over year.
+On an organic basis, revenue increased 1.7% sequentially.
+Organic revenue declined 10.5% year over year due to previously disclosed runoffs and terminations.
+Adjusted EBIT was $300 million.
+Our adjusted EBIT margin was 7%, a sequential improvement of 80 basis points despite an approximate 200 basis point headwind from the HHS sale.
+Non-GAAP income before taxes was $246 million.
+Non-GAAP diluted earnings per share was $0.84 due to a lower-than-expected tax rate of 10.2%.
+Using our guidance tax rate of 30%, non-GAAP earnings per share was $0.65.
+This was $0.10 higher than the top end of our guidance range.
+In Q3, bookings were $4.9 billion for a book-to-bill of 1.13.
+Like Mike mentioned earlier, we are encouraged to see three consecutive quarters with a book-to-bill greater than 1.0.
+GBS revenue was $1.92 billion or 45% of our total Q3 revenue.
+Organic revenues increased 2.2% sequentially, primarily reflecting the strength of our analytics and engineering business.
+Year over year, GBS revenue was down 7% on an organic basis.
+GBS segment profit was $273 million and profit margin was 14.2%.
+Margins improved 10 basis points sequentially despite a headwind of about 300 basis points from the HHS sale.
+GBS bookings for the quarter were $2.7 billion for a book-to-bill of 1.35.
+Revenue was $2.37 billion, up 1.3% sequentially and down 13.2% year over year on an organic basis.
+GIS segment profit was $88 million with a profit margin of 3.7%, a 210 basis points margin expansion over Q2.
+GIS bookings were $2.2 billion for a book-to-bill of 0.95.
+Now before I discuss the details of the enterprise technology stack on Slide 13, I wanted to point out that there is no better slide that drives home the positive impact of our transformation journey.
+IT outsourcing revenue was down 1.8% sequentially, an improvement as compared to Q2 where it was down 4.7%.
+ITO revenues declined 17.7% year over year due to the previously disclosed runoffs and terminations.
+Book-to-bill was 0.96 in the quarter.
+Cloud and security revenue was up 4.7% sequentially and down 1% year over year.
+Book-to-bill was 1.0 in the quarter.
+Moving up the stack, the applications layer posted 2.6% sequential revenue growth and was down 9.3% year over year.
+Analytics and engineering was up 4.6% on a sequential basis and flat compared to the prior year.
+Analytics and engineering book-to-bill was 1.2 in the quarter.
+The modern workplace and BPS businesses increased 2.6% sequentially and was down 12.6% compared to the prior year.
+Moving on to cash flows on Slide 14.
+Our cash flow from operations totaled an outflow of $187 million, and adjusted free cash flow for the quarter came in at negative $318 million.
+As discussed on our prior earnings call, we had cash disbursements of $332 million that impacted free cash flow related to the HHS sale.
+Our effort to normalize our supplier and partner payments is not expected to reoccur and had an approximate $400 million negative cash flow impact in the quarter and $500 million negative cash flow impact through the first three quarters of our fiscal year.
+If these two items had not occurred, our free cash flow would have been more than $700 million higher in the quarter.
+On Slide 15, we detail the efforts we have undertaken to strengthen our balance sheet.
+As we previously disclosed, we utilized $3.5 billion of net proceeds from our HHS sale to reduce debt.
+Cash at the end of the quarter was $3.9 billion.
+Total debt, including capitalized leases, was $6.2 billion for a net debt of $2.3 billion.
+We expect to make tax payments of approximately $900 million in Q4 related to our divestitures.
+As you can see, our net debt to EBITDA improved more than one full turn from 2.4 times at the end of September 2020 to 1.2 times at the end of December.
+Moving on to guidance on Slide 16.
+We are targeting Q4 revenues of $4.25 billion to $4.3 billion, adjusted EBIT margins of 7% to 7.4%, non-GAAP diluted earnings per share of $0.65 to $0.70, net interest expense of $60 million and an effective non-GAAP tax rate of about 28%.

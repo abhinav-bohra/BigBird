@@ -1,0 +1,79 @@
+So for the quarter, earnings -- net income came in at $104 million, $1.11 per share compared to $98.8 million or $1.06 per share last quarter.
+The -- for the full -- for the first six months of the year, this translates to an ROE of 13.2%, ROA of 115 basis points.
+Our NII came in at $198 million.
+Last quarter, it was $196 million.
+This quarter last year, it was $190 million.
+NIM contracted a tiny bit from 2.39%, down at 2.37% mostly because of that elevated level of liquidity that I just mentioned.
+Our cost of deposits dropped from 33 basis points to 25 basis points in the last quarter.
+DDA grew by $869 million.
+And by the way, DDA now stands at 31% of deposits for -- it was 25% just at the end of last year.
+So for those of you who have followed our story for some time, even as recently as a year or 1.5 years ago, we think of 30% as the profitability scale.
+I'm happy to report we're at 31%.
+And I think the bar just has been reset, and we think we can actually get -- improve the funding mix even beyond this 31% that we're at today.
+Provision for credit losses came in at a negative $27.5 million, and Leslie will get into the specifics of how that all evolved.
+Credit -- criticized classified assets dropped by $541 million.
+That's a 21% drop.
+They were $762 million last quarter, now they're down to $497 million.
+Our NPL ratio, however, went up a little bit from 1% of loans last quarter to 1.28%.
+If you exclude the guaranteed portion of SBA loans, that number is 1.07%.
+It's a large credit, $69 million.
+A $30 million reserve against this loan.
+Net charge-off ratio was 24 basis points compared to 26 basis points for the full year of 2020.
+We've announced a share buyback back in February, which is still outstanding by $37.7 million, still outstanding at that.
+And yesterday, the Board met and approved another $150 million on top of what was already left in the last authorization.
+CET1, one capital, is 13.5% holdco; 15.1% for the bank.
+Book value was $33.91 now.
+The other thing is this quarter -- last quarter, excluding PPP loans, our loan growth was negative $500 million, round number.
+First, overall average noninterest-bearing deposits grew by $673 million for the quarter or by $2.9 billion compared to the second quarter of 2020.
+On a period-end basis, noninterest-bearing DDA, as Raj said, grew by $869 million for the quarter while total deposits grew by $877 million.
+NIDDA has now increased 26% on a year-to-date basis.
+Most of the growth was driven by new logos coming into the organization, new treasury management relationships, which is showing up strongly in our fee income lines, which were up 31% in terms of service charges.
+Time deposits declined by $806 million.
+Money market and interest-bearing checking grew by a total of $815 million.
+While we did have a decline, excluding the PPP loan forgiveness by $56 million, in the quarter, it began to feel like a more normalized quarter.
+Residential growth was $494 million for the quarter, including both the residential and the EBO side.
+And I think most importantly for us, as an indicator, C&I loans were up by $186 million for the quarter, which is really, really a good sign for us.
+Also even better or just as good as the $186 million, what was nice is there was a good blend of new relationships into the bank as well as existing clients increasing credit facilities during the quarter.
+At one point, I looked at the pipeline for closing in June, and we had something like 18 deals and all 18 were in different industries.
+We had $225 million of CRE runoff in the multifamily business.
+This has been kind of a 5-year process of this reduction.
+$438 million of First Draw PPP loans were forgiven in Q2.
+At June 30, there was a total of $209 million of PPP loans outstanding under the First Draw program and $283 million outstanding.
+slide 17 in the supplemental deck also provide some data on this.
+On the commercial side, only $3 million of commercial loans are now in short-term deferral.
+As of June 30, $436 million of commercial loans remained on modified terms under the CARES Act.
+Although the total CARES Act modified loans in that portfolio declined from $343 million at March 31 to $225 million at June 30.
+We've seen -- particularly in Florida where about 76% of our hotel portfolio is, we've seen a pretty strong rebound in tourism in Florida.
+$218 million in commercial loans rolled off of deferral or modification this quarter.
+100% of these loans are either paid off or resumed regular payments.
+On the residential side, excluding the Ginnie Mae early buyout portfolio, $59 million of the loans were on short-term deferral or had been modified under a longer-term CARES Act repayment plan at June 30.
+Of $532 million in residential loans that were granted an initial payment deferral, $493 million or 93% have rolled off.
+Of those that have rolled off, 93% have either paid off or making regular payments.
+When we looked at larger clients in selected data that we see in the office portfolio, it's -- rent collections have run 98%, actually.
+Both in Florida and New York, it did do strong performance in multifamily, 96% in Florida, 91% in New York.
+Retail collections were 95% in Florida, 85% in New York, and we continue to see some improvement in the New York retail market.
+Occupancy averaging 75% for the second quarter of 2021, excluding one New York hotel that did not open until the end of the second quarter.
+So as Raj mentioned, NIM was down slightly this quarter to 2.37% from 2.39% in large part due to even stronger-than-anticipated headwinds from high levels of liquidity.
+The yield on loans this quarter increased to 3.59% from 3.58% last quarter.
+Recognition of fees on PPP loans that were forgiven added 11 basis points to that loan yield this quarter compared to six basis points last quarter.
+We have $9.8 million of deferred fees on PPP loans that remain to be recognized.
+$1.1 million of this relates to the First Draw program, and I would expect most of that to come into income in the third quarter.
+And $8.7 million relates to the Second Draw program, and I really wouldn't expect to see much of any of that in the third quarter.
+The yield on securities declined from 1.73% to 1.56%.
+Retrospective method accounting adjustments related to faster prepayments on mortgage-backed securities actually accounted for 10 basis points of that quarterly decline and the rest of the decline, obviously, just attributable to turnover of the portfolio in a lower rate environment.
+As Raj said, the cost of -- total cost of deposits declined by eight basis points quarter-over-quarter with the cost of interest-bearing deposits declining by 10 basis points.
+With respect to the FHLB advances, there's still $1.1 billion of cash flow hedges against FHLB advances that are scheduled to mature over the remainder of 2021 with a weighted average rate of 2.4%.
+And we estimate that if we also normalize the level of securities, we would have seen 14 basis points.
+So that impact on NIM of high levels of liquidity is somewhere between eight and 14 basis points depending on how you think about it.
+Overall, the provision for credit losses this quarter was a recovery of $27.5 million.
+slide s 10 through 12 of our deck provides some further details on the allowance for credit losses.
+The reserve declined from 95 basis points at March 31 to 77 basis points at June 30.
+Biggest drivers of that change, $19.4 million of the decrease related to the economic forecast.
+The reserve decreased by $17.6 million due to net charge-offs and to $16.2 million due to portfolio changes, that bucket includes things like the net decrease in loans; shift into portfolio segments with lower expected loss rates, such as residential; as well as the impact of just loans moving in and out of the portfolio; and improving borrower financial statement spreads.
+$12.8 million decrease in the amount of qualitative overlays that had related to some uncertainties around the COVID pandemic that we -- that seem to be resolving themselves and an increase of $20.7 million related to risk rating migration, most of that was the $27.2 million increase in the reserve related to the $169 million commercial relationship that Raj spoke about bringing that reserve up to $30 million.
+Total criticized and classified loans declined by $541 million; special mention, down by $282 million; and substandard accruing, down by $299 million; substandard non-accruing loans increased by $40 million, again, back to that one commercial loan that we've been talking about.
+We continue to see increases in deposit service charges and fees stemming from our treasury management solutions initiatives that we initiated in conjunction with BankUnited 2.0.
+With respect to the tax rate, I would expect it to remain around 26%.
+Consistent with the uncertain tax positions disclosure we made in our last 10-K, we have very recently entered into discussions with the state of Florida regarding several outstanding tax matters.
+And so as of last night, our deposit cost was at 20 basis points.
+That 5-year anniversary is literally around maybe I think this month.

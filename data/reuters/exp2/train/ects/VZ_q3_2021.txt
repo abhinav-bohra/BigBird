@@ -1,0 +1,62 @@
+Before we get started, I'd like to draw your attention to our Safe Harbor statement on Slide 2.
+As a reminder, we've entered the quiet period for the 3.45 gigahertz spectrum auction.
+In the third quarter, we reported earnings of $1.55 per share on a GAAP basis.
+Reported results include a net pre-tax gain on the sale of Verizon Media of $706 million and a net pre-tax charge of approximately $247 million, which includes a net charge of $144 million related to a mark-to-market adjustment for our pension liabilities and $103 million related to a severance charge for voluntary separations under our existing plans.
+Excluding the effect of these special items, adjusted earnings per share was $1.41 in the third quarter compared to $1.25 a year ago.
+We had a solid performance in the third quarter, growing total wireless service revenue by 3.9% year-over-year with earnings growth.
+We now expect total wireless service revenue growth of around 4%, which is on the high-end of our prior guidance.
+And adjusted earnings per share or $5.35 to $5.40, up from $5.25 to $5.35.
+On the commercial front, we've got great momentum in the 5G adoption with over 25% of our consumer phone base using a 5G capable device.
+For context, 12 months of the 4G launched, 10% of the devices were on 4G.
+Less than 12 months after 5G DSS launch, more than the double were on 5G devices, and it's growing at the rapid pace.
+In some or more established build outs, we're seeing more than 20% of usage of millimeter wave.
+And we are on track to have 5% to 10% of all traffic in the urban millimeter wave polygons by year end.
+And finally, we delivered significant value creation and strategy refinement with the sale of the Verizon Media Group in September depending TracFone acquisition and also the issuance of our third green bonds, which is a vital step toward our net-zero goal in 2035.
+EBITDA was up 3.3% year-over-year.
+And on an adjusted basis, earnings per share was up 12.8%.
+Consumer segment EBITDA increased by 2% driven by positive trends in customer acquisition, premium plan adoption, products and services and content as well as prepaid and reseller growth.
+We are on track to meet our fixed wireless access household coverage targets with an expected 15 million homes passed by the end of the year between 4G and 5G.
+To date, 5G Home is in 57 markets and the 4G LTE Home in over 200 markets across all 50 states.
+In the third quarter, consolidated total revenue was $32.9 billion, up 4.3% from prior year.
+Our results are inclusive of two months of Media revenue, which approximated $1.4 billion on a segment basis.
+Excluding Verizon Media, total revenue grew 5.5%.
+Our service and other revenue growth rate was 0.5% and 1.6% without Verizon Media.
+Equipment revenue growth was approximately 30% compared to the prior year, mainly due to the timing of iconic device launches and the continued pandemic recovery.
+Fios revenue was $3.2 billion, up 4.7% year-over-year, driven by continued growth in customers as well as our efforts to increase the value of each customer by encouraging them to step-up in speed test.
+Total wireless service revenue, which is the sum of consumer and business, was $17.1 billion, an increase of 3.9% over the prior year.
+Adjusted EBITDA in the third quarter was $12.3 billion, up 3.3% from prior year.
+For the quarter, adjusted earnings per share was $1.41, up year-over-year by 12.8%.
+For the quarter, we delivered 429,000 wireless retail postpaid phone net adds, up more than 50% from prior year and in line with 2019 levels.
+Phone churn for the quarter was 0.74%, well below pre-pandemic levels.
+Total broadband net adds, defined here as Fios, DSL and fixed wireless, were 129,000.
+Fios Internet net adds were 104,000 compared to 144,000 last year.
+Total revenue was $23.3 billion, up 7.3% year-over-year.
+Service and other revenue was $18.8 billion, an improvement of 2.5% versus prior year.
+Fios revenue was $2.9 billion, up 4.3% year-over-year, mainly driven by growth in our Internet base of approximately 400,000 or 6.2% over the past year and migration to higher speeds.
+Wireless service revenue was $14 billion, up 4% from the prior year.
+As a result of migrations and step-ups, over 30% of our account base is now on premium unlimited plans.
+For the quarter, EBITDA was $10.5 billion, up 2% year-over-year or more than $200 million, driven by a high quality service and other revenue gains coming from multiple growth vectors.
+Postpaid phone net adds were 267,000, above our Q3 performance in 2019 and 2020.
+Most importantly, we continue to be very pleased with the quality of customers we're adding with approximately 66% of new accounts taking a premium unlimited plan.
+And Q3 was another quarter in which we saw a strong acceleration in our 5G penetration, exiting the quarter with over 25% of our phone base now equipped with a 5G capable device, which is great progress in advance of our launch of 5G service on C-Band spectrum in the coming months.
+Fios Internet net adds were 98,000 for the quarter, up slightly from the prior quarter.
+Now let's move to Slide 11 to review the Business Group results.
+Total revenues for the Business segment was $7.7 billion.
+Wireless service revenue was $3.1 billion, up 3.6% year-over-year.
+Business segment EBITDA was $1.9 billion, down 2.4% from the same quarter last year, and Business segment EBITDA margin was 24.8% in the quarter.
+Phone gross add volumes were above pre-pandemic levels, up 11.4% year-over-year and up 3% versus the same quarter in 2019.
+Total postpaid net adds for the quarter were 276,000.
+Despite this, we delivered postpaid phone net adds of 162,000.
+Year-to-date cash flow from operating activities totaled $31.2 billion.
+Year-to-date capital spending totaled $13.9 billion as we continue to support traffic growth on our 4G LTE network, while expanding the reach and capacity of our 5G Ultra Wideband network.
+C-Band capex was more than $1 billion through the third quarter.
+And we have placed orders for approximately $2 billion of related equipment year-to-date, giving us confidence that we will be within the previously guided incremental capex range of $2 billion to $3 billion for the year as we accelerate our C-Band deployment.
+The net result of cash flow from operations and capital spending is $17.3 billion of free cash flow for the nine month period.
+Net unsecured debt at quarter end was $131.6 billion, a $5.2 billion decrease versus the prior quarter.
+In addition to our third green bond issuance, we extended over $4.6 billion of near-term debt into a new 2032 maturity as we continue to optimize borrowing costs and our debt profile.
+Our net unsecured debt to adjusted EBITDA ratio was approximately 2.7 times.
+Our cash balance at the end of the quarter was $9.9 billion, which included the proceeds associated with our sale of Verizon Media Group.
+Let's move on to Slide 14 for an update on guidance for the remainder of the year.
+Wireless service revenue growth is now expected to be around 4%, the high-end of the prior guidance.
+Adjusted earnings per share guidance is being increased to $5.35 to $5.40, up from the prior range of $5.25 to $5.35.
+Capex guidance is also unchanged, though I'd note that our assumption for our BAU spend of $17.5 billion to $18.5 billion is dependent upon no material changes in the current state of our supply chain.
