@@ -1021,6 +1021,9 @@ class LEDDecoderAttention(nn.Module):
 
         attn_output = self.out_proj(attn_output)
 
+        print("*"*100)
+        print("LEDDecoderAttention -attn_output.shape:",attn_output.shape)
+        print("*"*100)
         return attn_output, attn_weights_reshaped, past_key_value
 
 
