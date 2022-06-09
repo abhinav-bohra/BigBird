@@ -52,8 +52,7 @@ def train_model(args):
     devices, train_params = configure_training(args)
     with open(join(args.save_path, 'params.json'), 'w') as f:
         json.dump(train_params, f, indent=4)
-    print('Devices is:')
-    print(devices)
+    print('Devices is:', devices)
 
     # configure model
     model = MatchSum(args.candidate_num, args.encoder)
@@ -100,6 +99,7 @@ def test_model(args):
         print('Current model is {}'.format(cur_model))
 
         # load model
+        print("path:", join(args.save_path, cur_model))
         model = torch.load(join(args.save_path, cur_model))
     
         # configure testing
@@ -125,7 +125,7 @@ if __name__ == '__main__':
     parser.add_argument('--encoder', required=True,
                         help='the encoder for matchsum (bert/roberta)', type=str)
 
-    parser.add_argument('--batch_size', default=16,
+    parser.add_argument('--batch_size', default=4,
                         help='the training batch size', type=int)
     parser.add_argument('--accum_count', default=2,
                         help='number of updates steps to accumulate before performing a backward/update pass', type=int)
