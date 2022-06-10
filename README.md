@@ -4,3 +4,4 @@ Baselines for Long Text Summarization
   - LongFormer
   - SummaRuNNer
   - MatchSum
+  - PreSumm (BertSumExt)
