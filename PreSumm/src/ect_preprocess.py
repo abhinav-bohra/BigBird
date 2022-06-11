@@ -54,8 +54,8 @@ if __name__ == "__main__":
         if split=="val":
             split="valid"
         outfile = f"/content/Long-Text-Summarization/PreSumm/json_data/ect.{split}.json"
-        articles = os.listdir(path_articles)[:10]
-        summaries = os.listdir(path_summaries)[:10]
+        articles = os.listdir(path_articles)
+        summaries = os.listdir(path_summaries)
         print(split, len(articles), len(summaries))
         for article in tqdm(articles):
             data_point = {}
