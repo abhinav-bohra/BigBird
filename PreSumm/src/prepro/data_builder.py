@@ -273,6 +273,9 @@ class BertData():
 
 
 def format_to_bert(args):
+    if not os.path.isdir(args.save_path):
+        os.mkdir(args.save_path)
+
     if (args.dataset != ''):
         datasets = [args.dataset]
     else:
@@ -285,8 +288,8 @@ def format_to_bert(args):
             a_lst.append((corpus_type, json_f, args, pjoin(args.save_path, real_name.replace('json', 'bert.pt'))))
         print(a_lst)
         pool = Pool(args.n_cpus)
-        # for d in pool.imap(_format_to_bert, a_lst):
-        #     pass
+        for d in pool.imap(_format_to_bert, a_lst):
+            pass
 
         pool.close()
         pool.join()
