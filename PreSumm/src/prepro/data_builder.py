@@ -285,7 +285,7 @@ def format_to_bert(args):
         
         for json_f in glob.glob(f'/content/Long-Text-Summarization/PreSumm/json_data/ect*{corpus_type}.json'):
             real_name = json_f.split('/')[-1]
-            a_lst.append((corpus_type, json_f, args, pjoin(args.save_path, real_name.replace('json', 'bert.pt'))))
+            a_lst.append((corpus_type, json_f, args, pjoin(args.save_path, real_name.replace('json', '.pt'))))
         print(a_lst)
         pool = Pool(args.n_cpus)
         for d in pool.imap(_format_to_bert, a_lst):
@@ -308,7 +308,7 @@ def _format_to_bert(params):
     jobs = json.load(open(json_file))
     datasets = []
     for d in jobs:
-        source, tgt = d['src'], d['tgt']
+        source, tgt, article_id = d['src'], d['tgt'], d['article_id']
 
         sent_labels = greedy_selection(source[:args.max_src_nsents], tgt, 3)
         if (args.lower):
@@ -321,7 +321,7 @@ def _format_to_bert(params):
         if (b_data is None):
             continue
         src_subtoken_idxs, sent_labels, tgt_subtoken_idxs, segments_ids, cls_ids, src_txt, tgt_txt = b_data
-        b_data_dict = {"src": src_subtoken_idxs, "tgt": tgt_subtoken_idxs,
+        b_data_dict = {"article_id": article_id, "src": src_subtoken_idxs, "tgt": tgt_subtoken_idxs,
                        "src_sent_labels": sent_labels, "segs": segments_ids, 'clss': cls_ids,
                        'src_txt': src_txt, "tgt_txt": tgt_txt}
         datasets.append(b_data_dict)

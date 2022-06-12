@@ -30,17 +30,14 @@ class LowercaseProcessor(Processor):
 def preproces(s_):
     s = []
     for line in s_:
-        if line.startswith("Speaker ::") or line=="\n":
-            continue
-        else:
-            line = line.replace('\n',"").replace("  "," ")
-            tokens=[]
-            doc = nlp(line)
-            for i, sentence in enumerate(doc.sentences):
-                tokens.extend([token.text for token in sentence.tokens])
-            s.append(tokens)
+    
+      line = line.replace('\n',"").replace("  "," ")
+      tokens=[]
+      doc = nlp(line)
+      for i, sentence in enumerate(doc.sentences):
+          tokens.extend([token.text for token in sentence.tokens])
+      s.append(tokens)
     return s
-
 
 
 if __name__ == "__main__":
@@ -49,8 +46,9 @@ if __name__ == "__main__":
     data = []
 
     for split in splits:
-        path_articles = f"/content/Long-Text-Summarization/data/reuters/exp2/{split}/ects"
-        path_summaries = f"/content/Long-Text-Summarization/data/reuters/exp2/{split}/gt_summaries"
+        base_path = "/content/Long-Text-Summarization/data/reuters/final_exp2"
+        path_articles = f"{base_path}/{split}/ects"
+        path_summaries = f"{base_path}/{split}/gt_summaries"
         if split=="val":
             split="valid"
         outfile = f"/content/Long-Text-Summarization/PreSumm/json_data/ect.{split}.json"
@@ -65,6 +63,7 @@ if __name__ == "__main__":
             s = preproces(s_)
             data_point["src"] = a
             data_point["tgt"] = s
+            data_point["article_id"] = article
             data.append(data_point)
 
         with open(outfile, "w") as myfile:
