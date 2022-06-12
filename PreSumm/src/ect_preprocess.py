@@ -47,13 +47,14 @@ if __name__ == "__main__":
 
     for split in splits:
         base_path = "/content/Long-Text-Summarization/data/reuters/final_exp2"
+        base_path = "/content/Long-Text-Summarization/data/reuters/exp2"
         path_articles = f"{base_path}/{split}/ects"
         path_summaries = f"{base_path}/{split}/gt_summaries"
         if split=="val":
             split="valid"
         outfile = f"/content/Long-Text-Summarization/PreSumm/json_data/ect.{split}.json"
-        articles = os.listdir(path_articles)
-        summaries = os.listdir(path_summaries)
+        articles = os.listdir(path_articles)[:10]
+        summaries = os.listdir(path_summaries)[:10]
         print(split, len(articles), len(summaries))
         for article in tqdm(articles):
             data_point = {}
@@ -61,6 +62,12 @@ if __name__ == "__main__":
             a = preproces(a_)
             s_ = open(os.path.join(path_summaries, article), 'r').readlines()
             s = preproces(s_)
+            #skip empty files
+            if len(a_)==0 or len(s_)==0:
+              os.remove(os.path.join(path_articles, article))
+              os.remove(os.path.join(path_summaries, article))
+              print(f"Deleting {artilce} as it is empty")
+
             data_point["src"] = a
             data_point["tgt"] = s
             data_point["article_id"] = article

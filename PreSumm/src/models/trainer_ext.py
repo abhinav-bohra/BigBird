@@ -8,7 +8,7 @@ import distributed
 from models.reporter_ext import ReportMgr, Statistics
 from others.logging import logger
 from others.utils import test_rouge, rouge_results_to_str
-from tqdm import tqdm
+
 
 def _tally_parameters(model):
     n_params = sum([p.nelement() for p in model.parameters()])
@@ -227,12 +227,10 @@ class Trainer(object):
 
         can_path = '%s_step%d.candidate' % (self.args.result_path, step)
         gold_path = '%s_step%d.gold' % (self.args.result_path, step)
-        src_path = '%s_step%d.source' % (self.args.result_path, step)
         with open(can_path, 'w') as save_pred:
             with open(gold_path, 'w') as save_gold:
-<<<<<<< HEAD
                 with torch.no_grad():
-                    for batch in tqdm(test_iter):
+                    for batch in test_iter:
                         src = batch.src
                         labels = batch.src_sent_labels
                         segs = batch.segs
@@ -251,17 +249,7 @@ class Trainer(object):
                         else:
                             sent_scores, mask = self.model(src, segs, clss, mask, mask_cls)
                             
-                            try:
-                                loss = self.loss(sent_scores.squeeze(), labels.squeeze().float())
-                            except:
-                                print("sent_scores:", sent_scores)
-                                print("labels:",labels)
-                                print("src:", src)
-                                print("segs:",segs)
-                                print("clss:",clss)
-                                print("mask:",mask)
-                                print("tgt:",batch.tgt)                            
-
+                            loss = self.loss(sent_scores.squeeze(), labels.squeeze().float())
                             loss = (loss * mask.float()).sum()
                             batch_stats = Statistics(float(loss.cpu().data.numpy()), len(labels))
                             stats.update(batch_stats)
@@ -276,87 +264,28 @@ class Trainer(object):
                                 continue
                             for j in selected_ids[i][:len(batch.src_str[i])]:
                                 if (j >= len(batch.src_str[i])):
-=======
-                with open(src_path, 'w') as save_src:            
-                    with torch.no_grad():
-                        for batch in test_iter:
-                            src = batch.src
-                            labels = batch.src_sent_labels
-                            segs = batch.segs
-                            clss = batch.clss
-                            mask = batch.mask_src
-                            mask_cls = batch.mask_cls
-
-                            gold = []
-                            pred = []
-                            source = batch.src_txt
-
-                            if (cal_lead):
-                                selected_ids = [list(range(batch.clss.size(1)))] * batch.batch_size
-                            elif (cal_oracle):
-                                selected_ids = [[j for j in range(batch.clss.size(1)) if labels[i][j] == 1] for i in
-                                                range(batch.batch_size)]
-                            else:
-                                sent_scores, mask = self.model(src, segs, clss, mask, mask_cls)
-                                
-                                try:
-                                    loss = self.loss(sent_scores.squeeze(), labels.squeeze().float())
-                                except:
-                                    print("sent_scores:", sent_scores)
-                                    print("labels:",labels)
-                                    print("src:", src)
-                                    print("segs:",segs)
-                                    print("clss:",clss)
-                                    print("mask:",mask)
-                                    print("tgt:",batch.tgt)                            
-
-                                loss = (loss * mask.float()).sum()
-                                batch_stats = Statistics(float(loss.cpu().data.numpy()), len(labels))
-                                stats.update(batch_stats)
-
-                                sent_scores = sent_scores + mask.float()
-                                sent_scores = sent_scores.cpu().data.numpy()
-                                selected_ids = np.argsort(-sent_scores, 1)
-                            # selected_ids = np.sort(selected_ids,1)
-                            for i, idx in enumerate(selected_ids):
-                                _pred = []
-                                if (len(batch.src_str[i]) == 0):
->>>>>>> 146d2762be394f50136c2ff66af3d084c9521209
                                     continue
-                                for j in selected_ids[i][:len(batch.src_str[i])]:
-                                    if (j >= len(batch.src_str[i])):
-                                        continue
-                                    candidate = batch.src_str[i][j].strip()
-                                    if (self.args.block_trigram):
-                                        if (not _block_tri(candidate, _pred)):
-                                            _pred.append(candidate)
-                                    else:
+                                candidate = batch.src_str[i][j].strip()
+                                if (self.args.block_trigram):
+                                    if (not _block_tri(candidate, _pred)):
                                         _pred.append(candidate)
+                                else:
+                                    _pred.append(candidate)
 
-                                    if ((not cal_oracle) and (not self.args.recall_eval) and len(_pred) == 3):
-                                        break
+                                if ((not cal_oracle) and (not self.args.recall_eval) and len(_pred) == 3):
+                                    break
 
-                                _pred = '<q>'.join(_pred)
-                                if (self.args.recall_eval):
-                                    _pred = ' '.join(_pred.split()[:len(batch.tgt_str[i].split())])
+                            _pred = '<q>'.join(_pred)
+                            if (self.args.recall_eval):
+                                _pred = ' '.join(_pred.split()[:len(batch.tgt_str[i].split())])
 
-                                pred.append(_pred)
-                                gold.append(batch.tgt_str[i])
+                            pred.append(_pred)
+                            gold.append(batch.tgt_str[i])
 
-<<<<<<< HEAD
                         for i in range(len(gold)):
                             save_gold.write(gold[i].strip() + '\n')
                         for i in range(len(pred)):
                             save_pred.write(pred[i].strip() + '\n')
-                            
-=======
-                            for i in range(len(gold)):
-                                save_gold.write(gold[i].strip() + '\n')
-                            for i in range(len(pred)):
-                                save_pred.write(pred[i].strip() + '\n')
-                            for i in range(len(source)):
-                                save_pred.write(source[i].strip() + '\n')
->>>>>>> 146d2762be394f50136c2ff66af3d084c9521209
         if (step != -1 and self.args.report_rouge):
             rouges = test_rouge(self.args.temp_dir, can_path, gold_path)
             logger.info('Rouges at step %d \n%s' % (step, rouge_results_to_str(rouges)))
