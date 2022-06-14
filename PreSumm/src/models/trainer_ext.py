@@ -296,7 +296,9 @@ class Trainer(object):
                                       'len_summary_gold':len(batch.tgt_str[0].split('<q>')),
                                       'len_summary_pred':len(_pred.split('<q>')),
                                       'len_sent_scores':len(list(sent_scores[0]))
-                                      }                        
+                                      }    
+                                        
+                            print(f"Article {batch.article_id[0]} Done")                  
                             with open(f"../master_results/{batch.article_id[0][:-4]}.json", "w+") as result_file:
                               json.dump(result, result_file)
                             with open(f"../results/sent_scores/{batch.article_id[0][:-4]}.npy", 'wb') as f:
