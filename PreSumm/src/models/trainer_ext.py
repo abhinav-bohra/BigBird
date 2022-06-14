@@ -1,5 +1,5 @@
 import os
-
+import json
 import numpy as np
 import torch
 from tensorboardX import SummaryWriter
@@ -227,6 +227,7 @@ class Trainer(object):
 
         can_path = '%s_step%d.candidate' % (self.args.result_path, step)
         gold_path = '%s_step%d.gold' % (self.args.result_path, step)
+        master_results = []
         with open(can_path, 'w') as save_pred:
             with open(gold_path, 'w') as save_gold:
                 with torch.no_grad():
@@ -236,14 +237,16 @@ class Trainer(object):
                         segs = batch.segs
                         clss = batch.clss
                         mask = batch.mask_src
-                        mask_cls = batch.mask_cls
+                        mask_cls = batch.mask_cls                        
 
                         gold = []
                         pred = []
 
                         if (cal_lead):
+                            print("cal_lead")
                             selected_ids = [list(range(batch.clss.size(1)))] * batch.batch_size
                         elif (cal_oracle):
+                            print("cal_oracle")
                             selected_ids = [[j for j in range(batch.clss.size(1)) if labels[i][j] == 1] for i in
                                             range(batch.batch_size)]
                         else:
@@ -257,6 +260,7 @@ class Trainer(object):
                             sent_scores = sent_scores + mask.float()
                             sent_scores = sent_scores.cpu().data.numpy()
                             selected_ids = np.argsort(-sent_scores, 1)
+                        
                         # selected_ids = np.sort(selected_ids,1)
                         for i, idx in enumerate(selected_ids):
                             _pred = []
@@ -281,11 +285,30 @@ class Trainer(object):
 
                             pred.append(_pred)
                             gold.append(batch.tgt_str[i])
-
+                            
+                            result = {"article_id": batch.article_id[0],
+                                      "article": batch.src_str[0],
+                                      "summary_gold": batch.tgt_str[0],                                   
+                                      'summary_pred': _pred,
+                                      # 'sent_scores': list(sent_scores[0]),
+                                      # "selected_ids": list(selected_ids[0]),
+                                      'len_article':len(batch.src_str[0]),
+                                      'len_summary_gold':len(batch.tgt_str[0].split('<q>')),
+                                      'len_summary_pred':len(_pred.split('<q>')),
+                                      'len_sent_scores':len(list(sent_scores[0]))
+                                      }                        
+                            with open(f"../master_results/{batch.article_id[0][:-4]}.json", "w+") as result_file:
+                              json.dump(result, result_file)
+                            with open(f"../results/sent_scores/{batch.article_id[0][:-4]}.npy", 'wb') as f:
+                              np.save(f, np.array([sent_scores[0]]))
+                            with open(f"../results/selected_ids/{batch.article_id[0][:-4]}.npy", 'wb') as f:
+                              np.save(f, np.array([selected_ids[0]]))
+                            
                         for i in range(len(gold)):
                             save_gold.write(gold[i].strip() + '\n')
                         for i in range(len(pred)):
                             save_pred.write(pred[i].strip() + '\n')
+                          
         if (step != -1 and self.args.report_rouge):
             rouges = test_rouge(self.args.temp_dir, can_path, gold_path)
             logger.info('Rouges at step %d \n%s' % (step, rouge_results_to_str(rouges)))
