@@ -46,7 +46,7 @@ if __name__ == "__main__":
     data = []
 
     for split in splits:
-        base_path = "/content/Long-Text-Summarization/data/reuters/final_exp1"
+        base_path = "/content/Long-Text-Summarization/data/final/exp1"
         path_articles = f"{base_path}/{split}/ects"
         path_summaries = f"{base_path}/{split}/gt_summaries"
         if split=="val":
