@@ -46,8 +46,7 @@ if __name__ == "__main__":
     data = []
 
     for split in splits:
-        base_path = "/content/Long-Text-Summarization/data/reuters/final_exp2"
-        base_path = "/content/Long-Text-Summarization/data/reuters/exp2"
+        base_path = "/content/Long-Text-Summarization/data/reuters/final_exp1"
         path_articles = f"{base_path}/{split}/ects"
         path_summaries = f"{base_path}/{split}/gt_summaries"
         if split=="val":
@@ -66,7 +65,7 @@ if __name__ == "__main__":
             if len(a_)==0 or len(s_)==0:
               os.remove(os.path.join(path_articles, article))
               os.remove(os.path.join(path_summaries, article))
-              print(f"Deleting {artilce} as it is empty")
+              print(f"Deleting {article} as it is empty")
 
             data_point["src"] = a
             data_point["tgt"] = s
