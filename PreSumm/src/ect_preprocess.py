@@ -93,7 +93,7 @@ if __name__ == "__main__":
     splits = ["train", "test", "val"] 
     files= ["/content/Long-Text-Summarization/PreSumm/json_data/ect.train.json",
             "/content/Long-Text-Summarization/PreSumm/json_data/ect.valid.json",
-            "/content/Long-Text-Summarization/PreSumm/json_data/ect.text.json"]
+            "/content/Long-Text-Summarization/PreSumm/json_data/ect.test.json"]
 
     create_dataset(splits)
     merge_JsonFiles(files)
