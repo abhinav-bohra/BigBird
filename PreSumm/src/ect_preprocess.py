@@ -26,8 +26,7 @@ class LowercaseProcessor(Processor):
 
         return doc
 
-
-def preproces(s_):
+def preproces(s_, nlp):
     s = []
     for line in s_:    
       line = line.replace('\n',"").replace("  "," ")
@@ -38,8 +37,8 @@ def preproces(s_):
       s.append(tokens)
     return s
 
-def create_dataset(splits):    
-    nlp = stanza.Pipeline(lang='en', processors='tokenize,lowercase')
+def create_dataset(splits):  
+    nlp = stanza.Pipeline(lang='en', processors='tokenize,lowercase')  
     for split in splits:
         base_path = "/content/Long-Text-Summarization/data/final/exp1"
         path_articles = f"{base_path}/{split}/ects"
@@ -57,9 +56,9 @@ def create_dataset(splits):
         for article in tqdm(articles):
             data_point = {}
             a_ = open(os.path.join(path_articles, article), 'r').readlines()
-            a = preproces(a_)
+            a = preproces(a_, nlp)
             s_ = open(os.path.join(path_summaries, article), 'r').readlines()
-            s = preproces(s_)
+            s = preproces(s_, nlp)
             
             #skip empty files
             if len(a_)==0 or len(s_)==0:
@@ -74,7 +73,7 @@ def create_dataset(splits):
 
         with open(outfile, "w") as myfile:
             json.dump(data, myfile)
-            print(f"{split} has {len(data)} instances")
+            print(f"{split} has {len(data)} instances.")
         myfile.close()
         
 
@@ -86,6 +85,8 @@ def merge_JsonFiles(filename):
 
     with open("/content/Long-Text-Summarization/PreSumm/json_data/ect.all.json", 'w') as output_file:
         json.dump(result, output_file)
+        print(f"Combined Set has {len(result)} instances.")
+    output_file.close()
 
 
 if __name__ == "__main__":
