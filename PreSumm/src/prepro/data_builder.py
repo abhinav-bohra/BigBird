@@ -9,7 +9,7 @@ import re
 import subprocess
 from collections import Counter
 from os.path import join as pjoin
-
+import logging
 import torch
 from multiprocess import Pool
 
@@ -22,6 +22,7 @@ from prepro.utils import _get_word_ngrams
 
 import xml.etree.ElementTree as ET
 
+logging.getLogger("transformers.tokenization_utils_base").setLevel(logging.ERROR)
 nyt_remove_words = ["photo", "graph", "chart", "map", "table", "drawing"]
 
 
@@ -279,7 +280,7 @@ def format_to_bert(args):
     if (args.dataset != ''):
         datasets = [args.dataset]
     else:
-        datasets = ['train', 'valid', 'test']
+        datasets = ['train', 'valid', 'test','all']
     for corpus_type in datasets:
         a_lst = []
         

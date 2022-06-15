@@ -17,8 +17,7 @@ from pyrouge import Rouge155
 
 from transformers import BertTokenizer, RobertaTokenizer
 
-# MAX_LEN = 512
-MAX_LEN = 2048
+MAX_LEN = 512
 
 _ROUGE_PATH = '/content/pyrouge/rouge/tools/ROUGE-1.5.5'
 temp_path = './temp' # path to store some temporary files
@@ -134,7 +133,7 @@ def get_candidates(tokenizer, cls, sep_id, idx):
     
     data['candidate_id'] = []
     for summary in candidate_summary:
-        token_ids = tokenizer.encode(summary, add_special_tokens=False)[:(MAX_LEN - 1)]
+        token_ids = tokenizer.encode(summary, add_special_tokens=False, max_length=MAX_LEN)[:(MAX_LEN - 1)]
         token_ids += sep_id
         data['candidate_id'].append(token_ids)
     

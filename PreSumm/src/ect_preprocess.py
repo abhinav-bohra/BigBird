@@ -38,28 +38,29 @@ def preproces(s_):
       s.append(tokens)
     return s
 
-
-if __name__ == "__main__":
+def create_dataset(splits):    
     nlp = stanza.Pipeline(lang='en', processors='tokenize,lowercase')
-    splits = ["train", "test", "val"] 
-    data = []
-
     for split in splits:
         base_path = "/content/Long-Text-Summarization/data/final/exp1"
         path_articles = f"{base_path}/{split}/ects"
         path_summaries = f"{base_path}/{split}/gt_summaries"
+        
         if split=="val":
             split="valid"
+
         outfile = f"/content/Long-Text-Summarization/PreSumm/json_data/ect.{split}.json"
         articles = os.listdir(path_articles)
         summaries = os.listdir(path_summaries)
-        print(split, len(articles), len(summaries))
+        assert (len(articles)==len(summaries))
+
+        data = []
         for article in tqdm(articles):
             data_point = {}
             a_ = open(os.path.join(path_articles, article), 'r').readlines()
             a = preproces(a_)
             s_ = open(os.path.join(path_summaries, article), 'r').readlines()
             s = preproces(s_)
+            
             #skip empty files
             if len(a_)==0 or len(s_)==0:
               os.remove(os.path.join(path_articles, article))
@@ -73,5 +74,25 @@ if __name__ == "__main__":
 
         with open(outfile, "w") as myfile:
             json.dump(data, myfile)
-            print(f"{split} done")
+            print(f"{split} has {len(data)} instances")
         myfile.close()
+        
+
+def merge_JsonFiles(filename):
+    result = list()
+    for f1 in filename:
+        with open(f1, 'r') as infile:
+            result.extend(json.load(infile))
+
+    with open("/content/Long-Text-Summarization/PreSumm/json_data/ect.all.json", 'w') as output_file:
+        json.dump(result, output_file)
+
+
+if __name__ == "__main__":
+    splits = ["train", "test", "val"] 
+    files= ["/content/Long-Text-Summarization/PreSumm/json_data/ect.train.json",
+            "/content/Long-Text-Summarization/PreSumm/json_data/ect.valid.json",
+            "/content/Long-Text-Summarization/PreSumm/json_data/ect.text.json"]
+
+    create_dataset(splits)
+    merge_JsonFiles(files)
