@@ -143,7 +143,7 @@ def get_candidates(tokenizer, cls, sep_id, idx):
         text += sent.split()
     text = text[:MAX_LEN]
     text = ' '.join(text)
-    token_ids = tokenizer.encode(text, add_special_tokens=False)[:(MAX_LEN - 1)]
+    token_ids = tokenizer.encode(text, add_special_tokens=False, max_length=MAX_LEN)[:(MAX_LEN - 1)]
     token_ids += sep_id
     data['text_id'] = token_ids
     
@@ -153,7 +153,7 @@ def get_candidates(tokenizer, cls, sep_id, idx):
         summary += sent.split()
     summary = summary[:MAX_LEN]
     summary = ' '.join(summary)
-    token_ids = tokenizer.encode(summary, add_special_tokens=False)[:(MAX_LEN - 1)]
+    token_ids = tokenizer.encode(summary, add_special_tokens=False, max_length=MAX_LEN)[:(MAX_LEN - 1)]
     token_ids += sep_id
     data['summary_id'] = token_ids
     

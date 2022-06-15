@@ -7,9 +7,6 @@ def preproces(s_):
   return [line.replace('\n',"").replace("  "," ") for line in s_]
 
 splits = ["train", "test", "val"] 
-data = []
-indices = []
-
 for split in splits:
     base_path = "/content/Long-Text-Summarization/data/final/exp1"
     path_articles = f"{base_path}/{split}/ects"
@@ -22,6 +19,8 @@ for split in splits:
     summaries = os.listdir(path_summaries)
     print(split, len(articles), len(summaries))
     
+    data = []
+    indices = []
     missing_cnt=0
     for article in tqdm(articles):
         data_point = {}
