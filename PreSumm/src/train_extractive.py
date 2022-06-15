@@ -190,9 +190,12 @@ def test_ext(args, device_id, pt, step):
     model = ExtSummarizer(args, device, checkpoint)
     model.eval()
 
-    test_iter = data_loader.Dataloader(args, load_dataset(args, 'test', shuffle=False),
-                                       args.test_batch_size, device,
-                                       shuffle=False, is_test=True)
+    if args.infer_all:
+      #infer on all datapoints
+      test_iter = data_loader.Dataloader(args, load_dataset(args, 'all', shuffle=False),args.test_batch_size, device,shuffle=False, is_test=True)
+    else:
+      test_iter = data_loader.Dataloader(args, load_dataset(args, 'test', shuffle=False),args.test_batch_size, device,shuffle=False, is_test=True)
+      
     trainer = build_trainer(args, device_id, model, None)
     trainer.test(test_iter, step)
 

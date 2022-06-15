@@ -231,6 +231,7 @@ class Trainer(object):
         with open(can_path, 'w') as save_pred:
             with open(gold_path, 'w') as save_gold:
                 with torch.no_grad():
+                    cnt=0
                     for batch in test_iter:
                         src = batch.src
                         labels = batch.src_sent_labels
@@ -298,14 +299,15 @@ class Trainer(object):
                                       'len_sent_scores':len(list(sent_scores[0]))
                                       }    
                                         
-                            print(f"Article {batch.article_id[0]} Done")                  
                             with open(f"../master_results/{batch.article_id[0][:-4]}.json", "w+") as result_file:
                               json.dump(result, result_file)
                             with open(f"../results/sent_scores/{batch.article_id[0][:-4]}.npy", 'wb') as f:
                               np.save(f, np.array([sent_scores[0]]))
                             with open(f"../results/selected_ids/{batch.article_id[0][:-4]}.npy", 'wb') as f:
                               np.save(f, np.array([selected_ids[0]]))
-                            
+
+                        cnt=cnt+1     
+                        print(f"{cnt} Done {batch.article_id[0]}")
                         for i in range(len(gold)):
                             save_gold.write(gold[i].strip() + '\n')
                         for i in range(len(pred)):
