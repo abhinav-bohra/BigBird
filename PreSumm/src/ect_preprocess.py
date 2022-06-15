@@ -29,8 +29,7 @@ class LowercaseProcessor(Processor):
 
 def preproces(s_):
     s = []
-    for line in s_:
-    
+    for line in s_:    
       line = line.replace('\n',"").replace("  "," ")
       tokens=[]
       doc = nlp(line)

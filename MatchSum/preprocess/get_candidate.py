@@ -17,9 +17,10 @@ from pyrouge import Rouge155
 
 from transformers import BertTokenizer, RobertaTokenizer
 
-MAX_LEN = 512
+# MAX_LEN = 512
+MAX_LEN = 2048
 
-_ROUGE_PATH = '/path/to/RELEASE-1.5.5'
+_ROUGE_PATH = '/content/pyrouge/rouge/tools/ROUGE-1.5.5'
 temp_path = './temp' # path to store some temporary files
 
 original_data, sent_ids = [], []
@@ -90,9 +91,13 @@ def get_candidates(tokenizer, cls, sep_id, idx):
     # here is for CNN/DM: truncate each document into the 5 most important sentences (using BertExt), 
     # then select any 2 or 3 sentences to form a candidate summary, so there are C(5,2)+C(5,3)=20 candidate summaries.
     # if you want to process other datasets, you may need to adjust these numbers according to specific situation.
-    sent_id = sent_ids[idx]['sent_id'][:5]
-    indices = list(combinations(sent_id, 2))
-    indices += list(combinations(sent_id, 3))
+    #----------------------------------------------------
+    # sent_id = sent_ids[idx]['sent_id'][:5]
+    # indices = list(combinations(sent_id, 2))
+    # indices += list(combinations(sent_id, 3))
+    #----------------------------------------------------
+    sent_id = sent_ids[idx]['sent_id'][:10]
+    indices = list(combinations(sent_id, 8))
     if len(sent_id) < 2:
         indices = [sent_id]
     
@@ -173,8 +178,8 @@ def get_candidates_mp(args):
 
     # load original data and indices
     global original_data, sent_ids
-    original_data = load_jsonl(args.data_path)
-    sent_ids = load_jsonl(args.index_path)
+    original_data = load_jsonl(args.data_path) #list of dictionaries
+    sent_ids = load_jsonl(args.index_path)     #list of dictionaries
     n_files = len(original_data)
     assert len(sent_ids) == len(original_data)
     print('total {} documents'.format(n_files))
