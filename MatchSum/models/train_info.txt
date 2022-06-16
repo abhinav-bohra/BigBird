@@ -1,0 +1,3 @@
+top1_accuracy = 0.0, top6_accuracy = 0.5, top10_accuracy = 0.5, Error = 0, ROUGE = 0.10148419818009397
+Current step is: 2
+top1_accuracy = 0.0, top6_accuracy = 0.5, top10_accuracy = 0.5, Error = 0, ROUGE = 0.10148419818009397

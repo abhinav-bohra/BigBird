@@ -128,15 +128,15 @@ if __name__ == '__main__':
                         help='the training batch size', type=int)
     parser.add_argument('--accum_count', default=2,
                         help='number of updates steps to accumulate before performing a backward/update pass', type=int)
-    parser.add_argument('--candidate_num', default=45,
+    parser.add_argument('--candidate_num', default=5,
                         help='number of candidates summaries', type=int)
     parser.add_argument('--max_lr', default=2e-5,
                         help='max learning rate for warm up', type=float)
     parser.add_argument('--margin', default=0.01,
                         help='parameter for MarginRankingLoss', type=float)
-    parser.add_argument('--warmup_steps', default=1681,
+    parser.add_argument('--warmup_steps', default=10,
                         help='warm up steps for training', type=int)
-    parser.add_argument('--n_epochs', default=5,
+    parser.add_argument('--n_epochs', default=2,
                         help='total number of training epochs', type=int)
     parser.add_argument('--valid_steps', default=2,
                         help='number of update steps for validation and saving checkpoint', type=int)
