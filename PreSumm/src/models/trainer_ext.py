@@ -3,6 +3,7 @@ import json
 import numpy as np
 import torch
 from tensorboardX import SummaryWriter
+from tqdm import tqdm
 
 import distributed
 from models.reporter_ext import ReportMgr, Statistics
@@ -232,7 +233,7 @@ class Trainer(object):
             with open(gold_path, 'w') as save_gold:
                 with torch.no_grad():
                     cnt=0
-                    for batch in test_iter:
+                    for batch in tqdm(test_iter):
                         src = batch.src
                         labels = batch.src_sent_labels
                         segs = batch.segs
@@ -307,7 +308,7 @@ class Trainer(object):
                               np.save(f, np.array([selected_ids[0]]))
 
                         cnt=cnt+1     
-                        print(f"{cnt} Done {batch.article_id[0]}")
+                        # print(f"{cnt} Done {batch.article_id[0]}")
                         for i in range(len(gold)):
                             save_gold.write(gold[i].strip() + '\n')
                         for i in range(len(pred)):
