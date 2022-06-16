@@ -137,15 +137,35 @@ def get_candidates(tokenizer, cls, sep_id, idx):
         token_ids += sep_id
         data['candidate_id'].append(token_ids)
     
+
+    # # tokenize and get text_id
+    # text = [cls]
+    # for sent in data['text']:
+    #     text += sent.split()
+    # text = text[:MAX_LEN]
+    # text = ' '.join(text)
+    # token_ids = tokenizer.encode(text, add_special_tokens=False)[:(MAX_LEN - 1)]
+    # token_ids += sep_id
+    # data['text_id'] = token_ids
+
+    
+    #-----------------------------------------------------------------------------------
     # tokenize and get text_id
-    text = [cls]
+    text = []
     for sent in data['text']:
         text += sent.split()
-    text = text[:MAX_LEN]
-    text = ' '.join(text)
-    token_ids = tokenizer.encode(text, add_special_tokens=False, max_length=MAX_LEN)[:(MAX_LEN - 1)]
-    token_ids += sep_id
-    data['text_id'] = token_ids
+    
+    chunked_text = [text[i:i + MAX_LEN] for i in range(0, len(text), MAX_LEN)]
+    chunked_ids = []
+    for c_text in chunked_text: 
+        c_text = [cls] + c_text
+        c_text = ' '.join(c_text)
+        token_ids = tokenizer.encode(c_text, add_special_tokens=False, max_length=MAX_LEN)[:(MAX_LEN - 1)]
+        token_ids += sep_id
+        chunked_ids.append(token_ids)
+        
+    #-----------------------------------------------------------------------------------
+    data['text_id'] = chunked_ids
     
     # tokenize and get summary_id
     summary = [cls]
@@ -177,8 +197,8 @@ def get_candidates_mp(args):
 
     # load original data and indices
     global original_data, sent_ids
-    original_data = load_jsonl(args.data_path) #list of dictionaries
-    sent_ids = load_jsonl(args.index_path)     #list of dictionaries
+    original_data = load_jsonl(args.data_path)[:10] #list of dictionaries
+    sent_ids = load_jsonl(args.index_path)[:10]     #list of dictionaries
     n_files = len(original_data)
     assert len(sent_ids) == len(original_data)
     print('total {} documents'.format(n_files))

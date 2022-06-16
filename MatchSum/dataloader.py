@@ -1,17 +1,45 @@
 from time import time
 from datetime import timedelta
 
-from fastNLP.io.loader import JsonLoader
+from fastNLP.io.loader import Loader
 from fastNLP.io.data_bundle import DataBundle
 from fastNLP.io.pipe.pipe import Pipe
 from fastNLP.core.const import Const
+
+from fastNLP.io.file_reader import _read_json
+from fastNLP.core.dataset import DataSet
+from fastNLP.core.instance import Instance
+
+
+class JsonLoader(Loader):
+
+    def __init__(self, fields=None, dropna=False):
+        super(JsonLoader, self).__init__()
+        self.dropna = dropna
+        self.fields = None
+        self.fields_list = None
+        if fields:
+            self.fields = {}
+            for k, v in fields.items():
+                self.fields[k] = k if v is None else v
+            self.fields_list = list(self.fields.keys())
+
+    def _load(self, path):
+        ds = DataSet()
+        for idx, d in _read_json(path, fields=self.fields_list, dropna=self.dropna):
+            if self.fields:
+                ins = {self.fields[k]: v for k, v in d.items()}
+            else:
+                ins = d
+            ds.append(Instance(**ins))
+        return ds
 
 class MatchSumLoader(JsonLoader):
     
     def __init__(self, candidate_num, encoder, max_len=180):
         fields = {'text_id': 'text_id',
-             'candidate_id': 'candidate_id',
-               'summary_id': 'summary_id'
+                  'candidate_id': 'candidate_id',
+                  'summary_id': 'summary_id'
                  }
         super(MatchSumLoader, self).__init__(fields=fields)
         

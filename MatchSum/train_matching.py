@@ -36,6 +36,7 @@ def train_model(args):
     
     # check if the data_path and save_path exists
     data_paths = get_data_path(args.mode, args.encoder)
+    print("data_paths:", data_paths)
     for name in data_paths:
         assert exists(data_paths[name])
     if not exists(args.save_path):
@@ -116,7 +117,6 @@ if __name__ == '__main__':
     )
     parser.add_argument('--mode', required=True,
                         help='training or testing of MatchSum', type=str)
-
     parser.add_argument('--save_path', required=True,
                         help='root of the model', type=str)
     # example for gpus input: '0,1,2,3'
@@ -124,18 +124,17 @@ if __name__ == '__main__':
                         help='available gpus for training(separated by commas)', type=str)
     parser.add_argument('--encoder', required=True,
                         help='the encoder for matchsum (bert/roberta)', type=str)
-
-    parser.add_argument('--batch_size', default=4,
+    parser.add_argument('--batch_size', default=1,
                         help='the training batch size', type=int)
     parser.add_argument('--accum_count', default=2,
                         help='number of updates steps to accumulate before performing a backward/update pass', type=int)
-    parser.add_argument('--candidate_num', default=20,
+    parser.add_argument('--candidate_num', default=45,
                         help='number of candidates summaries', type=int)
     parser.add_argument('--max_lr', default=2e-5,
                         help='max learning rate for warm up', type=float)
     parser.add_argument('--margin', default=0.01,
                         help='parameter for MarginRankingLoss', type=float)
-    parser.add_argument('--warmup_steps', default=10000,
+    parser.add_argument('--warmup_steps', default=1681,
                         help='warm up steps for training', type=int)
     parser.add_argument('--n_epochs', default=5,
                         help='total number of training epochs', type=int)
