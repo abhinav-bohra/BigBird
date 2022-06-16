@@ -59,8 +59,8 @@ def train_model(args):
     model = MatchSum(args.candidate_num, args.encoder)
     optimizer = Adam(filter(lambda p: p.requires_grad, model.parameters()), lr=0)
     
-    callbacks = [MyCallback(args), 
-                 SaveModelCallback(save_dir=args.save_path, top=5)]
+    callbacks = [MyCallback(args)]
+                #  SaveModelCallback(save_dir=args.save_path, top=1)]
     
     criterion = MarginRankingLoss(args.margin)
     val_metric = [ValidMetric(save_path=args.save_path, data=read_jsonl(data_paths['val']))]
@@ -126,7 +126,7 @@ if __name__ == '__main__':
                         help='the encoder for matchsum (bert/roberta)', type=str)
     parser.add_argument('--batch_size', default=1,
                         help='the training batch size', type=int)
-    parser.add_argument('--accum_count', default=2,
+    parser.add_argument('--accum_count', default=10,
                         help='number of updates steps to accumulate before performing a backward/update pass', type=int)
     parser.add_argument('--candidate_num', default=5,
                         help='number of candidates summaries', type=int)
@@ -138,7 +138,7 @@ if __name__ == '__main__':
                         help='warm up steps for training', type=int)
     parser.add_argument('--n_epochs', default=2,
                         help='total number of training epochs', type=int)
-    parser.add_argument('--valid_steps', default=2,
+    parser.add_argument('--valid_steps', default=10,
                         help='number of update steps for validation and saving checkpoint', type=int)
 
     args = parser.parse_known_args()[0]

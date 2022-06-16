@@ -19,14 +19,16 @@ def get_data_path(mode, encoder):
     return paths
 
 def get_result_path(save_path, cur_model):
-    result_path = join(save_path, '../result')
+    model_name = save_path.split('/')[-1]
+    result_path = join(f'results/{model_name}')
+    
     if not exists(result_path):
         os.makedirs(result_path)
     model_path = join(result_path, cur_model)
     if not exists(model_path):
         os.makedirs(model_path)
-    dec_path = join(model_path, 'dec')
-    ref_path = join(model_path, 'ref')
+    dec_path = join(model_path, 'pred')
+    ref_path = join(model_path, 'gold')
     os.makedirs(dec_path)
     os.makedirs(ref_path)
     return dec_path, ref_path

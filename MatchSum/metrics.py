@@ -1,7 +1,7 @@
 import numpy as np
-
+import os
 import json
-from os.path import join
+from os.path import join, exists
 import torch
 import logging
 import tempfile
@@ -17,7 +17,7 @@ from rouge import Rouge
 from fastNLP.core.losses import LossBase
 from fastNLP.core.metrics import MetricBase
 
-_ROUGE_PATH = '/content/Long-Text-Summarization/MatchSum/ROUGE-1.5.5/'
+_ROUGE_PATH = '/content/pyrouge/rouge/tools/ROUGE-1.5.5'
 
 class MarginRankingLoss(LossBase):      
     
@@ -157,15 +157,32 @@ class MatchRougeMetric(MetricBase):
             for sent in self.data[i]['summary']:
                 ref.append(sent)
 
-            with open(join(self.dec_path, '{}.dec'.format(i)), 'w') as f:
+            # with open(join(self.dec_path, '{}.dec'.format(self.data[i]['article_id'][:-4])), 'w') as f:
+            #     for sent in dec:
+            #         print(sent, file=f)
+            # with open(join(self.ref_path, '{}.ref'.format(self.data[i]['article_id'][:-4])), 'w') as f:
+            #     for sent in ref:
+            #         print(sent, file=f)
+
+            # pred_path = self.dec_path[:-3]+'/pred'
+            # gold_path = self.ref_path[:-3]+'/gold'
+
+            # if not exists(pred_path):
+            #     os.makedirs(pred_path)
+         
+            # if not exists(gold_path):
+            #     os.makedirs(gold_path)
+         
+            with open(join(self.dec_path, self.data[i]['article_id']), 'w') as f:
                 for sent in dec:
                     print(sent, file=f)
-            with open(join(self.ref_path, '{}.ref'.format(i)), 'w') as f:
+            with open(join(self.ref_path, self.data[i]['article_id']), 'w') as f:
                 for sent in ref:
                     print(sent, file=f)
         
         print('Start evaluating ROUGE score !!!')
-        R_1, R_2, R_L = MatchRougeMetric.eval_rouge(self.dec_path, self.ref_path)
+        # R_1, R_2, R_L = MatchRougeMetric.eval_rouge(self.dec_path, self.ref_path)
+        R_1, R_2, R_L = 0,0,0
         eval_result = {'ROUGE-1': R_1, 'ROUGE-2': R_2, 'ROUGE-L':R_L}
 
         if reset == True:
