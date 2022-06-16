@@ -164,8 +164,8 @@ def get_candidates(tokenizer, cls, sep_id, idx):
         token_ids += sep_id
         chunked_ids.append(token_ids)
         
-    #-----------------------------------------------------------------------------------
     data['text_id'] = chunked_ids
+    #-----------------------------------------------------------------------------------
     
     # tokenize and get summary_id
     summary = [cls]
