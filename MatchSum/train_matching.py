@@ -136,7 +136,7 @@ if __name__ == '__main__':
                         help='parameter for MarginRankingLoss', type=float)
     parser.add_argument('--warmup_steps', default=1681,
                         help='warm up steps for training', type=int)
-    parser.add_argument('--n_epochs', default=2,
+    parser.add_argument('--n_epochs', default=5,
                         help='total number of training epochs', type=int)
     parser.add_argument('--valid_steps', default=1681,
                         help='number of update steps for validation and saving checkpoint', type=int)
