@@ -126,19 +126,19 @@ if __name__ == '__main__':
                         help='the encoder for matchsum (bert/roberta)', type=str)
     parser.add_argument('--batch_size', default=1,
                         help='the training batch size', type=int)
-    parser.add_argument('--accum_count', default=10,
+    parser.add_argument('--accum_count', default=2,
                         help='number of updates steps to accumulate before performing a backward/update pass', type=int)
-    parser.add_argument('--candidate_num', default=5,
+    parser.add_argument('--candidate_num', default=45,
                         help='number of candidates summaries', type=int)
     parser.add_argument('--max_lr', default=2e-5,
                         help='max learning rate for warm up', type=float)
     parser.add_argument('--margin', default=0.01,
                         help='parameter for MarginRankingLoss', type=float)
-    parser.add_argument('--warmup_steps', default=10,
+    parser.add_argument('--warmup_steps', default=106,
                         help='warm up steps for training', type=int)
     parser.add_argument('--n_epochs', default=2,
                         help='total number of training epochs', type=int)
-    parser.add_argument('--valid_steps', default=10,
+    parser.add_argument('--valid_steps', default=106,
                         help='number of update steps for validation and saving checkpoint', type=int)
 
     args = parser.parse_known_args()[0]
