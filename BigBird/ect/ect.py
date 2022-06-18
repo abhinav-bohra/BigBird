@@ -3,11 +3,11 @@ import os
 import tensorflow as tf
 import tensorflow_datasets.public_api as tfds
 
-_DOCUMENT = "article"
-_SUMMARY = "abstract"
+_DOCUMENT = "document"
+_SUMMARY = "summary"
 
 class EctConfig(tfds.core.BuilderConfig):
-  """BuilderConfig for Ect Dataset`."""
+  """BuilderConfig for Ect Dataset."""
 
   def __init__(self, *, filename=None, **kwargs):
     super(EctConfig, self).__init__(
@@ -18,7 +18,7 @@ class EctConfig(tfds.core.BuilderConfig):
 
 
 class Ect(tfds.core.GeneratorBasedBuilder):
-  """Ect Dataset`."""
+  """Ect Dataset."""
 
   BUILDER_CONFIGS = [ EctConfig(name="ect", description="ECT Dataset") ]
   def _info(self):
@@ -54,10 +54,10 @@ class Ect(tfds.core.GeneratorBasedBuilder):
     with tf.io.gfile.GFile(path) as f:
       for line in f:
         d = json.loads(line)
-        article = "\n".join(d["article_text"])
-        summary = "\n".join(d["abstract_text"])
+        article = "\n".join(d["document"])
+        summary = "\n".join(d["summary"])
         summary = summary.replace("<S>", "").replace("</S>", "")
-        yield d["article_id"], {
+        yield {
             _DOCUMENT: article,
             _SUMMARY: summary
         }

@@ -18,18 +18,20 @@ for split in splits:
   outfile = f"/content/Long-Text-Summarization/BigBird/ect/{split}.txt"
   articles = os.listdir(path_articles)
   summaries = os.listdir(path_summaries)
-  print(split, len(articles), len(summaries))
+  assert (len(articles) == len(summaries))
+  
   data = []
   for article in articles:
     data_point = {}
     a = open(os.path.join(path_articles, article), 'r').readlines()
     s = preprocessSummaries( open(os.path.join(path_summaries, article), 'r').readlines() )
-    data_point["article_id"] = article
-    data_point["article_text"] = a
-    data_point["abstract_text"] = s
+    # data_point["doc_id"] = article
+    data_point["document"] = a
+    data_point["summary"] = s
     data_str = json.dumps(data_point)
     data.append(data_str)
+    
   with open(outfile, mode='wt', encoding='utf-8') as myfile:
     myfile.write('\n'.join(data))
-    print(f"{split} done")
+    print(f"{split} done {len(data)}")
   myfile.close()
