@@ -54,10 +54,10 @@ class Ect(tfds.core.GeneratorBasedBuilder):
     with tf.io.gfile.GFile(path) as f:
       for line in f:
         d = json.loads(line)
-        article = "\n".join(d["document"])
-        summary = "\n".join(d["summary"])
-        summary = summary.replace("<S>", "").replace("</S>", "")
+        doc = "\n".join(d["document"])
+        summ = "\n".join(d["summary"])
+        summ = summ.replace("<S>", "").replace("</S>", "")
         yield {
-            _DOCUMENT: article,
-            _SUMMARY: summary
+            _DOCUMENT: doc,
+            _SUMMARY: summ
         }
