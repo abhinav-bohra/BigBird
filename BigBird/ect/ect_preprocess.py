@@ -12,8 +12,6 @@ def preprocessSummaries(s_):
     return s
 
 splits = ["train", "test", "val"] 
-data = []
-
 for split in splits:
   path_articles = f"/content/Long-Text-Summarization/data/final/exp1/{split}/ects" 
   path_summaries = f"/content/Long-Text-Summarization/data/final/exp1/{split}/gt_summaries"
@@ -21,6 +19,7 @@ for split in splits:
   articles = os.listdir(path_articles)
   summaries = os.listdir(path_summaries)
   print(split, len(articles), len(summaries))
+  data = []
   for article in articles:
     data_point = {}
     a = open(os.path.join(path_articles, article), 'r').readlines()

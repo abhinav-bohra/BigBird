@@ -1,0 +1,46 @@
+{
+  "configDescription": "ECT Dataset",
+  "configName": "ect",
+  "fileFormat": "tfrecord",
+  "moduleName": "ect",
+  "name": "ect",
+  "splits": [
+    {
+      "filepathTemplate": "{DATASET}-{SPLIT}.{FILEFORMAT}-{SHARD_X_OF_Y}",
+      "name": "train",
+      "numBytes": "30799313",
+      "shardLengths": [
+        "1681"
+      ]
+    },
+    {
+      "filepathTemplate": "{DATASET}-{SPLIT}.{FILEFORMAT}-{SHARD_X_OF_Y}",
+      "name": "validation",
+      "numBytes": "44160977",
+      "shardLengths": [
+        "2425"
+      ]
+    },
+    {
+      "filepathTemplate": "{DATASET}-{SPLIT}.{FILEFORMAT}-{SHARD_X_OF_Y}",
+      "name": "test",
+      "numBytes": "39725714",
+      "shardLengths": [
+        "2176"
+      ]
+    }
+  ],
+  "supervisedKeys": {
+    "tuple": {
+      "items": [
+        {
+          "featureKey": "article"
+        },
+        {
+          "featureKey": "abstract"
+        }
+      ]
+    }
+  },
+  "version": "1.1.1"
+}
