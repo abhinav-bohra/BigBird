@@ -15,9 +15,9 @@ splits = ["train", "test", "val"]
 data = []
 
 for split in splits:
-  path_articles = f"/content/BigBird/data/final/exp1/{split}/ects" 
-  path_summaries = f"/content/BigBird/data/final/exp1/{split}/gt_summaries"
-  outfile = f"/content/BigBird/BigBird/ect/{split}.txt"
+  path_articles = f"/content/Long-Text-Summarization/data/final/exp1/{split}/ects" 
+  path_summaries = f"/content/Long-Text-Summarization/data/final/exp1/{split}/gt_summaries"
+  outfile = f"/content/Long-Text-Summarization/BigBird/ect/{split}.txt"
   articles = os.listdir(path_articles)
   summaries = os.listdir(path_summaries)
   print(split, len(articles), len(summaries))
