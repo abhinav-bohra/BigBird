@@ -8,7 +8,7 @@
     {
       "filepathTemplate": "{DATASET}-{SPLIT}.{FILEFORMAT}-{SHARD_X_OF_Y}",
       "name": "train",
-      "numBytes": "30799313",
+      "numBytes": "30799307",
       "shardLengths": [
         "1681"
       ]
@@ -16,17 +16,17 @@
     {
       "filepathTemplate": "{DATASET}-{SPLIT}.{FILEFORMAT}-{SHARD_X_OF_Y}",
       "name": "validation",
-      "numBytes": "44160977",
+      "numBytes": "4435263",
       "shardLengths": [
-        "2425"
+        "249"
       ]
     },
     {
       "filepathTemplate": "{DATASET}-{SPLIT}.{FILEFORMAT}-{SHARD_X_OF_Y}",
       "name": "test",
-      "numBytes": "39725714",
+      "numBytes": "8926400",
       "shardLengths": [
-        "2176"
+        "495"
       ]
     }
   ],
@@ -34,10 +34,10 @@
     "tuple": {
       "items": [
         {
-          "featureKey": "article"
+          "featureKey": "document"
         },
         {
-          "featureKey": "abstract"
+          "featureKey": "summary"
         }
       ]
     }

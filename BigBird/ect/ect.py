@@ -57,7 +57,7 @@ class Ect(tfds.core.GeneratorBasedBuilder):
         doc = "\n".join(d["document"])
         summ = "\n".join(d["summary"])
         summ = summ.replace("<S>", "").replace("</S>", "")
-        yield {
+        yield d["doc_id"],{
             _DOCUMENT: doc,
             _SUMMARY: summ
         }

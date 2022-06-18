@@ -25,7 +25,7 @@ for split in splits:
     data_point = {}
     a = open(os.path.join(path_articles, article), 'r').readlines()
     s = preprocessSummaries( open(os.path.join(path_summaries, article), 'r').readlines() )
-    # data_point["doc_id"] = article
+    data_point["doc_id"] = article
     data_point["document"] = a
     data_point["summary"] = s
     data_str = json.dumps(data_point)
