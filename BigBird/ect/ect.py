@@ -20,6 +20,7 @@ class EctConfig(tfds.core.BuilderConfig):
 class Ect(tfds.core.GeneratorBasedBuilder):
   """Ect Dataset`."""
 
+  BUILDER_CONFIGS = [ EctConfig(name="ect", description="ECT Dataset") ]
   def _info(self):
     return tfds.core.DatasetInfo(
         builder=self,
@@ -32,7 +33,7 @@ class Ect(tfds.core.GeneratorBasedBuilder):
 
   def _split_generators(self, dl_manager):
     """Returns SplitGenerators."""
-    data_dir = "/content/BigBird/BigBird/ect"
+    data_dir = "/content/Long-Text-Summarization/BigBird/ect/"
     return [
         tfds.core.SplitGenerator(
             name=tfds.Split.TRAIN,
