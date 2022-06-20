@@ -35,12 +35,12 @@ FLAGS = flags.FLAGS
 ## Required parameters
 
 flags.DEFINE_string(
-    "data_dir", "tfds://scientific_papers/pubmed",
+    "data_dir", "/content/Long-Text-Summarization/BigBird/ect",
     "The input data dir. Should contain the TFRecord files. "
     "Can be TF Dataset with prefix tfds://")
 
 flags.DEFINE_string(
-    "output_dir", "/tmp/bigb",
+    "output_dir", "/content/Long-Text-Summarization/BigBird/models",
     "The output directory where the model checkpoints will be written.")
 
 ## Other parameters
@@ -70,7 +70,7 @@ flags.DEFINE_bool(
     "Whether to run training.")
 
 flags.DEFINE_bool(
-    "do_eval", False,
+    "do_eval", True,
     "Whether to run eval on the dev set.")
 
 flags.DEFINE_bool(
@@ -83,7 +83,7 @@ flags.DEFINE_integer(
     "Total batch size will be multiplied by number gpu/tpu cores available.")
 
 flags.DEFINE_integer(
-    "eval_batch_size", 1,
+    "eval_batch_size", 8,
     "Local batch size for eval. "
     "Total batch size will be multiplied by number gpu/tpu cores available.")
 
