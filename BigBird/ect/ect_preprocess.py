@@ -35,3 +35,14 @@ for split in splits:
     myfile.write('\n'.join(data))
     print(f"{split} done {len(data)}")
   myfile.close()
+
+  if split=="test":
+    test_files = {}
+    cnt=0
+    for art in articles:
+        cnt=cnt+1
+        test_files[cnt] = art
+
+    with open(f"/content/Long-Text-Summarization/BigBird/test_files.json", "w") as f:
+        json.dump(test_files, f)
+        print("Saving test file names")
