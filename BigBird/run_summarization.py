@@ -78,12 +78,12 @@ flags.DEFINE_bool(
     "Whether to export the model as TF SavedModel.")
 
 flags.DEFINE_integer(
-    "train_batch_size", 8,
+    "train_batch_size", 16,
     "Local batch size for training. "
     "Total batch size will be multiplied by number gpu/tpu cores available.")
 
 flags.DEFINE_integer(
-    "eval_batch_size", 8,
+    "eval_batch_size", 1,
     "Local batch size for eval. "
     "Total batch size will be multiplied by number gpu/tpu cores available.")
 
