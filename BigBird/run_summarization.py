@@ -50,13 +50,13 @@ flags.DEFINE_string(
     "Initial checkpoint (usually from a pre-trained BigBird model).")
 
 flags.DEFINE_integer(
-    "max_encoder_length", 128,
+    "max_encoder_length", 3072,
     "The maximum total input sequence length after SentencePiece tokenization. "
     "Sequences longer than this will be truncated, and sequences shorter "
     "than this will be padded.")
 
 flags.DEFINE_integer(
-    "max_decoder_length", 128,
+    "max_decoder_length", 256,
     "The maximum total input sequence length after SentencePiece tokenization. "
     "Sequences longer than this will be truncated, and sequences shorter "
     "than this will be padded.")
@@ -78,7 +78,7 @@ flags.DEFINE_bool(
     "Whether to export the model as TF SavedModel.")
 
 flags.DEFINE_integer(
-    "train_batch_size", 16,
+    "train_batch_size", 8,
     "Local batch size for training. "
     "Total batch size will be multiplied by number gpu/tpu cores available.")
 
@@ -96,19 +96,19 @@ flags.DEFINE_float(
     "The initial learning rate for Adam.")
 
 flags.DEFINE_integer(
-    "num_train_steps", 1000,
+    "num_train_steps", 211*5,
     "Total number of training steps to perform.")
 
 flags.DEFINE_integer(
-    "num_warmup_steps", 100,
+    "num_warmup_steps", 211,
     "Number of steps to perform linear warmup.")
 
 flags.DEFINE_integer(
-    "save_checkpoints_steps", 2000,
+    "save_checkpoints_steps", 211,
     "How often to save the model checkpoint.")
 
 flags.DEFINE_integer(
-    "max_eval_steps", 100,
+    "max_eval_steps", 211,
     "Maximum number of eval steps.")
 
 flags.DEFINE_bool(
