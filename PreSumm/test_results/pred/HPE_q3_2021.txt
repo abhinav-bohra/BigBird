@@ -1,0 +1,16 @@
+they standardized critical workloads on hpe synergy delivered through hpe greenlake , resulting in a reduced data center footprint and significant cost savings , including a monthly unit rate well below public cloud alternatives.
+and i 'm incredibly proud of the way hewlett packard enterprise continues to serve the needs of our global communities during such an unusual and evolving circumstances.
+we delivered a very impressive third quarter at hpe with strong orders growth , expanded margins , and record free cash flow.
+overall , i am pleased to see how our differentiated portfolio is resonating with the market and our edge - to - cloud strategy is driving improved momentum across our businesses.
+i am amazed by the resilience of our customers , partners , and team members.
+revenue in q3 was $ 6.9 billion , in line with our outlook and normal sequential seasonality.
+throughout this conference call , all revenue growth rates , unless noted otherwise , are presented on a year - over - year basis and adjusted to exclude the impact of currency.
+digital transformation is no longer a priority but a strategic imperative.
+we expect these trends to continue.
+now more than ever , there is a greater need for secure connectivity , faster insights from data , and a cloud experience everywhere.
+to help our customers transform their businesses and be future - ready today , we have been focused on doubling down in key areas that are resonating strongly in the market.
+i am particularly pleased that we were able to deliver these results while mitigating against industrywide supply constraints by taking proactive inventory measures working closely with our suppliers and deploy our best - in - class engineering capabilities to establish specific response plans.
+we had a record number of orders in both our intelligent edge business and high - performance compute and mission - critical solutions business.
+organizations across sectors , including retail , healthcare , financial services , and public sector , are turning to hpe greenlake.
+due to strong demand and execution , these growth businesses now make up nearly 25 % of our total company revenue.
+in june , we announced new ai ops , iot , and security features for our aruba edge services platform , or esp , designed to streamline network operations , maximize it efficiency , and more easily extend the network from the edge to the cloud.
