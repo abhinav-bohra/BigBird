@@ -35,7 +35,7 @@ class PacSumExtractor:
                 continue
 
             edge_scores = self._calculate_similarity_matrix(*inputs)
-            ids = self._select_tops(edge_scores, beta=self.beta, lambda1=self.lambda1, lambda2=self.lambda2)
+            ids = self._select_tops(abstract, edge_scores, beta=self.beta, lambda1=self.lambda1, lambda2=self.lambda2)
             summary = list(map(lambda x: article[x], ids))
             summaries.append(summary)
             references.append([abstract])
@@ -62,7 +62,8 @@ class PacSumExtractor:
 
         best_rouge = 0
         best_hparam = None
-        for i in range(len(summaries[0])):
+        print("%"*50)
+        for i in range(min(2, len(summaries[0]))):
             print("threshold :  "+str(hparam_list[i])+'\n')
             #print("non-lead ratio : "+str(ratios[i])+'\n')
             result = evaluate_rouge([summaries[k][i] for k in range(len(summaries))], references, remove_temp=True, rouge_args=[])
