@@ -1,0 +1,6 @@
+Together, we are building a global Vantage cloud data migration factory to enable joint customers to easily migrate to Teradata Vantage in the cloud.
+BNSF, one of the largest freight transportation companies in North America is migrating its Teradata data platform to Vantage on Azure Cloud as part of a long-term plan to have the majority of its analytic ecosystem in the cloud.
+We're investing to drive faster cloud execution to help our customers maximize the value of the data and get optimal results from the Teradata environment in the cloud.
+Additionally, we are seeing that once customers start in the cloud, they grow with Teradata.
+We are very excited about the strategic collaboration that will make it even easier for customers to get the most value from their enterprise analytics at scale in the cloud, helping us both accelerate growth.
+[Indecipherable], a leading tech equipment manufacturer based in [Indecipherable] as a new cloud customer, choosing Vantage on Azure as its cloud data and analytics platform.

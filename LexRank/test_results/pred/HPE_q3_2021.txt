@@ -1,0 +1,7 @@
+In Q3, we introduced unified compute operations as-a-Service through our HP GreenLake edge-to-cloud platform.
+HPE was the first to market four years ago in delivering and as-a-Service cloud experience on-premises in a colocation or at the edge with HPE GreenLake.
+We also continued to see an increasing number of customers accessing our high-performance computer solutions as-a-Service through HPE GreenLake.
+And just this week, we closed the acquisition of Zerto, an industry leader in cloud data management and protection, and run some way of data recovery services, which will be soon available as-a-Service through HPE GreenLake.
+Delivered through HPE GreenLake, their solution leverages our full edge-to-cloud portfolio, including HPE Aruba, HPE NonStop, HPE Primera, and HPE Synergy.
+With our HPE GreenLake Cloud Services for HPC, customers gained powerful specialized computing and AI capabilities with a sustainable cloud experience.
+We also introduced Project Aurora to secure the enterprise, embedded in our HPE GreenLake edge-to-cloud platform.

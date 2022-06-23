@@ -1,0 +1,5 @@
+In our international segment, second-quarter revenues increased 147% to $164 million or 137% on a constant-currency basis, primarily driven by the net impact from the acquisition of Bisnode and strong growth in both finance and risk and sales and marketing solutions.
+Second-quarter international adjusted EBITDA of $43 million increased $23 million or 113% versus second quarter of 2020, primarily due to the net impact of the Bisnode acquisition, as well as revenue growth across our international businesses, partially offset by higher data costs.
+Finance and risk revenues were $104 million, an increase of 92% or an increase of 85% on a constant-currency basis, primarily due to the Bisnode acquisition.
+Sales and marketing revenues were $60 million, an increase of 383% or an increase of 366% on a constant-currency basis, primarily attributable to the Bisnode acquisition.
+Excluding the impact of Bisnode, revenue grew 22% due to higher revenues from API offerings across our U.K. and Greater China markets and increased revenues from our Worldwide Network partners product royalties.

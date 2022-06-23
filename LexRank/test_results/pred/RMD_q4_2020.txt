@@ -1,0 +1,3 @@
+In our core market of sleep apnea, we launched, what we call, the ResMed MaskSelector into our US geography.
+So before I transition to details of our software-as-a-service business, I'd like to recap briefly why the SaaS business is integral to ResMed's long-term strategy to provide seamless transitions between hospital care and post-acute care or as we call it here at ResMed, out-of-hospital care because we don't think you have to go to hospital to get good care outside the hospital.
+This technology is important to our customers, to their patients, as well as to our internal SaaS business and our core sleep apnea business, driving both patient engagement and better outcomes, as well as revenue growth.

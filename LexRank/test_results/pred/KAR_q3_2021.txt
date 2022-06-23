@@ -1,0 +1,1 @@
+The average vehicle value sold on Carwave is higher than that sold on BacklotCars, and it also generates a higher revenue per vehicle sold and is profitable.

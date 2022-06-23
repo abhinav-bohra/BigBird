@@ -1,0 +1,4 @@
+Attivo, as part of SentinelOne, will help organizations reduce their attack surface not only at the device level but now at the human identity level, too.
+Attivo and SentinelOne are highly complementary solutions that will open up new customer and cross-sell opportunities, further addressing the needs of larger enterprises.
+Attivo is a premier and highly differentiated solution that will enable us to provide cybersecurity in one of the most critical and dynamic parts of enterprise security today, the identity parameter.
+Enterprises are increasingly selecting SentinelOne for our best-of-breed XDR. Over the past year, we significantly broadened our platform capabilities by introducing several mission-critical and highly differentiated innovations.
