@@ -6,3 +6,5 @@ Baselines for Long Text Summarization
   - MatchSum
   - PreSumm (BertSumExt)
   - PacSum
+  - DSDR
+  - LexRank
