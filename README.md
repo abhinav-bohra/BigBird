@@ -5,3 +5,4 @@ Baselines for Long Text Summarization
   - SummaRuNNer
   - MatchSum
   - PreSumm (BertSumExt)
+  - PacSum
