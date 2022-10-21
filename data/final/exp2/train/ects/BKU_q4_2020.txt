@@ -1,0 +1,93 @@
+There is still some uncertainty around it, but a hell of a lot less than this time 90 days ago.
+Quickly looking back to this quarter, I'm very happy with the results where we announced $0.89 per share or $85.7 million in earnings.
+That compares to $0.70 last quarter.
+And if you compare to the fourth quarter of 2019, which feels like a 100 years ago, it was $0.91.
+Sorry, NII was $193 million and change, which was $6 million more than our last quarter, about $8 million more than fourth quarter of 2019.
+PPNR was down by $10 million compared to the last quarter, but showed a little increase compared to the fourth quarter of a prior year.
+Total cost of deposits declined by 14 basis points.
+We were at 57 basis points last quarter.
+This quarter we ended up at 43 basis points.
+And if you look at our stock cost of funds at December 31, we were at 36 basis points.
+So in other words we're starting this quarter already at 36 basis points and working our way down from there.
+So that's sort -- the one side but also our average DDA -- non-interest DDA grew by $966 million, which is again very, very strong.
+You should always look at four quarter average or four quarter -- or last 12 month numbers to really get a feel for how the business is doing.
+Our non-interest DDA now stands by the way at over 25%.
+And I think a year ago we were at 18%.
+We are expecting this trend to continue into next year and for us to slowly work our way toward 30% DDA.
+I think for the first nine months of 2020 there was downward rating migration on $2.1 billion in loans.
+This quarter it was $169 million.
+In fact, we have a net recovery of a small number of $1.6 million.
+Also we had reported back in the summer, $3.6 billion in loans that were on deferral, if you remember.
+That number is now down to $207 million or about 1% of total loans.
+We do have $587 million in loans that were modified under the CARES Act.
+But nevertheless these modifications by the way are mostly IL modifications or 9 months to 12 months.
+NPLs ticked up a little bit to $244 million, which is about 1.02% of loans but excluding the government guarantee sort of SBA loans that are in this bucket if you take that out, it's about 80 basis points.
+The net charge-off rate was stable at 26 basis points for the year.
+NIM was 2.33% for the quarter, I think last quarter was 2.32%, so 1 basis point improvement.
+Total loans grew by $87 million and deposits grew $899 million total of which $219 million was non-interest DDA.
+Book value is now up at $32.05, which is higher than what it was at this time last year, it was $31.33.
+If you remember when we started we still had about $45 million left.
+Capital is -- CET1 is at 12.6% at holdco, it's 13.9% at the bank, and we, of course, declared our usual $0.23 per share dividend.
+Also we haven't lost sight of all the initiatives we had in 2.0.
+As Raj mentioned, total deposits grew by $899 million for the quarter and non-interest DDA grew by $219 million for the quarter.
+We allowed higher cost deposits to run off this quarter, which we continued to do for the last few quarters as time deposits declined by $1.1 billion for the quarter.
+So the total cost of funds plus cost of deposits declined to 43 basis points this quarter.
+On a spot basis, the APY on total deposits was 36 basis points at December 31, which was down from a spot of 49 basis points at September 30, when compared to last year at December 31 it was 142 basis points.
+The spot rate on interest bearing deposits was 48 basis points as of December 31 compared with 65 basis points at September 30 and 171 basis points a year ago.
+As we think about December 31, 2020, we had $1 billion of CDs in the book at an average rate of 1.61% that had not yet repriced since the last Fed cut in March of 2020.
+So in the first quarter of this year, we have a significant amount of that just under $800 million that will reprice in this quarter.
+So there's a very significant difference between what these will reprice at our current rates or running about 25 basis points.
+Switching to the loan side, as Raj mentioned in aggregate, total loans grew by $87 million in the fourth quarter and operating leases declined by $13 million.
+Just a little bit more detail on some of the segments, the residential portfolio grew by $408 million in the fourth quarter, of that $330 million was in the Ginnie Mae EBO segment.
+Total commitments grew by $90.5 million for the quarter and we ended the year at a little over $2.1 billion in mortgage warehouse commitments so the entire quarter and year was obviously very strong in the mortgage warehousing area.
+In the aggregate, commercial real estate loans declined by $89 million for the quarter, multi-family declined by $171 million of which $151 million was in the New York market.
+If we look at loans and operating leases in aggregated BFG, including both franchise and equipment, we're down this year by -- down for the quarter by $124 million, given the COVID impact on the BFG portfolio in particular especially the franchise.
+And in the franchise area, we expect to see that continue to run off probably in the 20% kind of range in 2021 as we continue to work through that.
+We're in the forgiveness stage of -- on 3,500 loans that we originally made in round one to PPP, that's going very smoothly.
+We probably have about 700 loans so far that have been forgiven and we expect that to continue in the first quarter of 2021.
+We're expecting maybe a 50% to 60% Second Draw request from clients that we had in the First Draw.
+So starting commercial, only $63 million of commercial loans were still under short term deferral at December 31.
+$575 million of commercial loans had been modified under the CARES Act.
+So taken together this was $638 million or approximately 4% of the total commercial portfolio as of December 31.
+Not unexpectedly the portfolio segment most impacted has been the CRE Hotel segment, where $343 million or 55% of the segment has been modified as of December 31.
+On the franchise side, 8% or $46 million of the franchise portfolio was on short-term deferral or had been modified as of December the 31 compared to $76 million or 12% that were on short-term deferrals as of September 30 and 74% that were granted initial 90-day payment deferrals.
+$48 million or 67% of our cruise line exposure has been modified under the CARES Act of December 31.
+Almost 80% of the total commercial deferrals and modifications and almost 60% of the total loans risk rated substandard or doubtful are from portfolio segments that we had initially identified as -- meeting of heightened monitoring due to potential impacts from the pandemic.
+On the residential side, excluding the Ginnie Mae early buyout portfolio, $144 million of loans are on short-term deferral, an additional $12 million had been modified under a longer-term CARES Act repayment plan at December 31.
+This totaled about 2% of the residential portfolio.
+Of the $525 million in residential loans that were granted at initial payment deferral, $144 million or 27% are still on deferral, while $381 million or 73% of those loans have now rolled off.
+Of those that have rolled off, $362 million or 95% are now making regular payments while only 5% or $19 million have not resumed a regular payment program.
+As Raj said most of these have taken the form of 9 to 12 months interest only deferrals.
+Depending upon the geography we're seeing 90% or so in the New York market, 97% in Florida.
+Multi-family collections are running 90% in New York and about 96% in Florida and for our larger retail loans we're seeing -- sort of low 90% rates in the retail space.
+We saw about a 46% average occupancy rate for the quarter.
+In December, we saw occupancy rates in some areas as high as the 60% range.
+So basically 90% of our stores are open at this point.
+They're not all operating in a 100% level, but this is the highest rate of openings that we have seen since the pandemic started.
+So with the exception of just California, at this point of 280 stores that we have 90% of them are open.
+Overall the provision for credit losses for the quarter was a net credit or recovery of $1.6 million compared to a provision of $29.2 million last quarter.
+That $1.6 million consisted of a $1.2 million provision related to funded loans and a recovery of $2.9 million related to unfunded commitments.
+The reserve, the ACL declined from 1.15% to 1.08% of loans this quarter primarily because of charge-off, which is exactly what we would expect to happen under CECL, less charge-offs are taken the reserve would come down.
+Slide 9 through 11 of the supplemental deck provides some details on changes in the reserve and the composition of the provision and the allowance.
+Charge-offs totaled $18.8 million for the quarter, which reduced the reserve.
+$13.8 million of this related to the writedown to market of some loans that we sold during the quarter or that were moved to held for sale right at quarter end and those were sold in January.
+A $34.1 million and all of the rest of the stuff that ran through the provision, the $34.1 million decrease in the reserve and provision related to the improvement in the economic forecast.
+Offsetting that was a $32.8 million increase related to increases in some specific reserves and that risk rating migration.
+We had an $11.4 million reduction in the amount of qualitative overlays.
+And then we also had an increase of $15.2 million related to more conservative modeling assumptions that we've made around behavior of certain residential borrowers that had been on payment deferral so all of that going in opposite directions kind of netted down to that provision of basically zero for the quarter.
+But our forecast is for national unemployment at about 6.7% for the first quarter of '21, remaining stable through 2021 and then trending down to 5.4% by the end of 2022.
+Real GDP growth reaching 4.1% in 2021 and 4.7% by the end of 2022 and S&P 500 Index remain relatively stable around 3,500 and stabilizing Fed funds rate staying at or near zero into 2023.
+The franchise finance portfolio continues to carry the highest reserve level at 6.6%, followed by CRE at 1.5% and C&I at 1.3%.
+As to risk rating migration on slides 23 through 26 in the deck, we have some detail around this not surprisingly as we continue to move through the cycle and get more detailed information about borrowers.
+Non-performing loans increased by about $44 million this quarter, the largest increases being in multi-family.
+The portfolio is now in a net unrealized gain position of $85.6 million and we expect no credit losses related to any of the securities in that portfolio.
+Consistent with the guidance we provided last quarter, the NIM increased by 1 basis point this quarter to 2.33%.
+The yield on earning assets declined by 12 basis points and this was -- there's still pressure on asset yields, but this was a much lower -- a smaller decline than we had experienced the quarter before.
+Cost of deposits declined by 14 basis points quarter-over-quarter.
+And as Tom pointed out, I'll remind you that almost $800 million of those time deposits are scheduled to mature and price down in Q1.
+We did adjust our variable compensation accruals by $6.6 million as operating results in the back half of the year.
+A $2.2 million accrual for some roll over vacation time that we made the decision to allow our employees due to the COVID pandemic and the difficulty people have had using their vacation time.
+I think there's about $11 million worth of unrecognized fees still remaining to flow through that will come through in the first and maybe some in the second quarter.
+Tax rate, we would expect to be around 25% excluding discrete items, if there's no change in the corporate tax rate.
+The other -- the one other thing that I will point out to you, we had about 3 million dividend equivalent rights outstanding that expire in the first quarter of 2021.
+And that'll add $0.02 to $0.03 per quarter to EPS.

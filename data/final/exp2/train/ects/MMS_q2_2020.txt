@@ -1,0 +1,41 @@
+Actual events and results may differ materially as a result of the risks we face, including those discussed in Exhibit 99.1 of our SEC filings.
+We anticipate that fiscal 2020 revenue will range between 3.15 to $3.25 billion and diluted earnings per share to range between $2.95 and $3.15 per share.
+Cash from operations is now expected to range between 250 and $300 million and free cash flow between 200 to $250 million.
+Revenue for the second quarter of fiscal 2020 totaled $818.1 million, which included the full ramp-up of the Census contract in the US federal services segment.
+Total company operating margin was 4.6% and diluted earnings per share were $0.43, reflecting two substantial impacts in the quarter.
+First, we had a pandemic-related writedown of approximately $24 million or $0.28 per share related to the decline in estimates for future period outcomes-based payments on welfare-to-work programs in the United Kingdom and Australia.
+Second, a change order for approximately $9 million or $0.11 per share was signed after quarter end in the US health and human services segment.
+Second-quarter revenue for the US health and human services segment increased 6.2% over the prior year and all growth was organic, resulting from new contracts and the expansion of existing work.
+Both revenue and the 15% operating margin were tempered largely by the change order previously discussed.
+Our current assumptions indicate economics for this segment will continue to experience minor disruption, and we expect an operating margin between 17% and 18% for the full year.
+Revenue for the second quarter of fiscal in the US federal services segment increased to $393.4 million.
+Excluding the citizen engagement centers' contracts, organic growth was 6.7%, driven by new work and growth on existing contracts.
+The operating margin for this segment in the second quarter of fiscal 2020 was 7.7%, which was tempered by unfavorable impacts from the COVID-19 pandemic on performance-based work and ongoing investments in business development.
+The Census contract is now approaching its peak level of operations and delivered approximately $140 million of revenue in the second quarter, yielding year-to-date revenue of approximately $210 million.
+As a result, our contract has expanded to support the new deadline and we now estimate that the Census contract will deliver between $430 and $450 million for the full year.
+This is an increase from our previously expected revenue of $360 million in fiscal 2020 from this contract.
+The US federal services segment is estimated to deliver a full-year operating margin between 8% and 9% resulting from a slightly greater mix of cost plus work from previously anticipated, as well as our continued investment in both business development and technical capability.
+Second-quarter revenue was $116.0 million and this segment had a loss of $26.7 million.
+This resulted in a pandemic related writedown of approximately $24 million or $0.28 per share related to a decline in estimates for future period outcomes-based payments on welfare-to-work programs in the United Kingdom and Australia.
+We finished the second quarter with cash and cash equivalents of approximately $126 million.
+Cash provided by operations was $22 million.
+Free cash flow was $13.4 million in the quarter.
+DSOs were 72 days.
+We are continuing to monitor collections closely and I would like to point out that one day of DSO is roughly $9 million receivables, which directly impacts estimated cash provided by operations and free cash flow.
+Our quarterly 10b5-1 Share Purchase Plan expired naturally in March when the cap embedded in the program was met.
+While the Act does not apply to MAXIMUS because we have more than 500 employees, we felt it provided a good benchmark for supporting and safeguarding our employees.
+For example, we leveraged our planned migration to Amazon Web Services or AWS to provision nearly 9000 secure agent desktops through the Amazon WorkSpaces as a service model thus far, in addition to approximately 7500 VPN connection users.
+This 24/7 coverage began with 50 agents and has grown 250 plus more than 40 nurses.
+Our most recent statistics show that we are responding to more than 16, 000, and 2000 emails per day.
+The contract launched with 260 call center agents, making outbound calls to patients to deliver test results from 47 emergency facilities across the US Today, a team of more than 2,000 agents now contacts 10,000 individuals per day and provides real-time geo-mapping of COVID-19 test results to the US Department of Health and Human Services.
+Within 10 days of this waiver, MAXIMUS sent more than 2 million letters to student loan holders and made system changes to support the waivers.
+Our call center representatives have managed to successfully connect more than 30,000 New Yorkers to critical COVID-19 testing resources and obtain more than 14,500 responses from healthcare workers through surveys.
+We'll hire and train an estimated 500 people under the supervision of the Indiana State Department of Health epidemiologists.
+As of May 1st, more than 30 million people in the United States filed claims triggered by the COVID-19 pandemic.
+This was done in less than a week to support the division of economic security and has rapidly scaled to 1800 agents.
+For the second quarter of fiscal-year 2020, signed awards were $729.8 million of the total contract value at March 31st.
+Further, at March 31st, there were another $215.8 million worth of contracts that had been awarded, not yet signed.
+Our total contract value pipeline at March 31st was $29.2 billion, compared to $30.6 billion reported in the first quarter of FY '20.
+Of our total pipeline of sales opportunities, 65.7% represents new work.
+As Rick mentioned, one of the most inspiring stories comes from our colleagues in the United Kingdom, where we're in the process of deploying nearly 1,000 volunteer doctors, nurses, and other clinicians to the NHS to provide vital support on the front line.
+This represents the true heart of MAXIMUS and our more than 35,000 employees around the world.

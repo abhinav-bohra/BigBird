@@ -1,0 +1,65 @@
+Q2 net sales of $191 million were down 4% from the prior quarter and were within our guidance range.
+Second quarter gross margin of 36.6% and adjusted earnings per share of $1.13 per share exceeded our guidance.
+The 23% increase in adjusted earnings per share from the prior quarter was due to the gross margin performance and our timely actions to manage operating expenses.
+We generated robust free cash flow of $39 million in the second quarter, and our balance sheet remains strong, enabling us to navigate the current macro environment, while also investing in our future growth.
+One market we typically don't highlight, but it is certainly a strength is aerospace and defense, where recent defense design wins drove sequential sales growth of more than 25%.
+Also, as highlighted, advanced mobility and advanced connectivity continue to comprise nearly 50% of total revenue.
+First, in the PES segment, we are well-positioned to take advantage of the 35% plus CAGR expected in this market over the next five years.
+As a general reference point, although our content opportunity per vehicle can vary based on vehicle type and power levels, our substrate content ranges from $5 in a 48-volt mild hybrid to around $40 in a full electric vehicle.
+However, as an example, Rogers' content opportunity in battery pressure pads for plug-in HEVs and EVs can be greater than $30 per vehicle.
+Although the near-term outlook for auto sales is challenging, only around 35% of vehicles manufactured today contain ADAS features.
+As these safety features increasingly become more standard in new vehicles, the market is expected to grow at an 18% CAGR over the next several years.
+5G content of high-frequency circuit materials varies based on OEM design and ranges from approximately $100 to $200 per base station for the combined antenna and power amp systems.
+Sales of 5G phones are expected to grow to around 15% of total units this year and then increase to roughly 30% of the market in 2021.
+Design changes incorporated in 5G handsets are creating greater content opportunity for Rogers' advanced materials in the range of 10% to 15% versus 4G phones.
+ACS net sales for the second quarter were $71 million, an increase of 10% sequentially.
+In ADAS, although there are near-term challenges, as discussed earlier, the medium to long-term growth projections for this market remain robust with a 5-year CAGR of 16%.
+PES net sales in the second quarter were $45 million, a decrease of 3% as compared to Q1.
+Q2 EMS net sales were $72 million, a sequential decrease of 14%, primarily due to the economic impact of COVID-19.
+Second quarter revenues, as previously noted, were $191.2 million, 4% lower than Q1, but within our guidance range of $190 million to $205 million.
+Our gross margin for the second quarter was 36.6%, an increase of 360 basis points compared to the Q1 margin and well above the top end of our guidance range of 32.5% to 33.5%.
+This tariff refund of $3.3 million, which we did not anticipate, more than offsets the $3 million for COVID-19-related expenses incurred in the second quarter.
+GAAP operating income for Q2 of $21.1 million included $3.9 million of accelerated amortization for certain intangible assets acquired in the DSP acquisition in 2017.
+Accelerated amortization for these intangibles will be $11.7 million in both Q3 and Q4.
+The incremental amortization of $27.4 million through December 31, 2020, will be excluded from our adjusted results, consistent with all amortization for intangible assets acquired in acquisitions.
+Adjusted operating income for Q2 2020 was $29.5 million or 15.4% of revenues, a meaningful increase from Q1 of $22.6 million and 11.3% of revenues.
+GAAP net income for the second quarter of $14.5 million is $1.2 million higher compared to Q1.
+The effective tax rate for the second quarter of 30.6% was significantly higher than the first quarter effective tax rate of 20.6% due primarily to an increase in the reserve for uncertain tax positions in the quarter, resulting from routine audits in foreign jurisdictions.
+GAAP earnings per share for the second quarter was $0.78 per fully diluted share at the top end of our guidance range of $0.58 to $0.78.
+On an adjusted basis, the company delivered earnings per share of $1.13 per fully diluted share in the second quarter, above the top end of our guidance range of $0.80 to $1 per share.
+Our Q2 revenues of $191.2 million decreased $7.6 million compared to the first quarter of 2020.
+As Bruce mentioned, EMS revenues decreased 14%, PES revenues decreased 3%, while ACS revenues increased 10% sequentially.
+Currency exchange rates unfavorably impacted second quarter revenues by $1.1 million compared to the first quarter.
+The sequential ACS revenue increase resulted primarily from a 28% increase in wireless infrastructure revenues and a 27% increase in aerospace and defense revenues.
+Revenues in our EMS segment decreased in Q2 compared to Q1 in all applications with a lone bright spot being EV/HEV battery pad applications, which grew 38%.
+We continue to be encouraged by our engagement in the development and design process and adoption of our materials into new design wins with battery makers for significant OEMs. Revenues for portable electronics, which comprise approximately 25% of the segment revenues, declined 7% in the quarter due to consumer demand softness for handheld devices, exacerbated by the coronavirus pandemic.
+Revenues for general industrial applications, covering many diverse markets, comprise over 45% of the segment revenues.
+These revenues declined 16% sequentially due to lower demand in areas such as oil and gas and general manufacturing and industrial applications.
+Vehicle electrification applications decreased 35% in Q2 due to soft consumer demand for and automaker shutdowns, as discussed earlier.
+The semiconductor substrate revenues for EV/HEV, which account for approximately 25% of the segment revenues, decreased 12% compared to the first quarter; and the laminated busbar revenues for EV/HEVs, which account for less than 10% of the segment revenues, decreased 65% sequentially.
+Revenues for power semiconductor substrates for general industrial applications, which comprise over 30% of the segment revenues, were up close to 6% compared to Q1.
+Our gross margin for the second quarter was $70 million or 36.6% of revenues.
+In the quarter, the company spent approximately $3 million associated with the coronavirus pandemic and accrued a benefit of $3.3 million for a refund of increased tariff costs in China.
+The second quarter progress resulted in a 400 basis point improvement in gross margin for PES in the second quarter.
+Over the past three quarters, through focus on operational execution, we have improved the PES gross margin by over 800 basis points.
+We are encouraged and confident we will capture an incremental 200 to 400 basis points of improvements in the business, subject, however, to increased volumes.
+As evidence of the improvement the company has made over the past year, in the second quarter of 2019, the company generated a gross margin of 35.3% on revenues of $243 million.
+In the second quarter of 2020, we generated a gross margin that is 130 basis points higher on $52 million less revenue.
+The improvement is equivalent to approximately 450 basis points of gross margin conversion on equivalent product mix.
+slide 16 details the changes to adjusted net income for Q2 of $21.1 million compared to adjusted net income for Q1 of $17.2 million.
+As discussed earlier, the adjusted operating income for Q2 of $29.5 million and 15.4% of revenues was meaningfully higher than Q1's adjusted operating income.
+Adjusted operating expenses for Q2 of $40.4 million or 21.2% of revenues were $2.7 million lower than Q1 operating expenses of $43.1 million.
+As previously mentioned, Rogers' effective tax rate for the second quarter increased to 30.6%, as a result of recording significantly higher reserves for uncertain tax positions accrued to address certain routine audit findings in foreign jurisdictions.
+We now expect our effective tax rate for 2020 will be 26% higher than our previously communicated expected tax rate of 24% to 25%.
+In the second quarter, the company generated strong free cash flow of $39.3 million and ended the second quarter with a cash position of $298.7 million.
+In the quarter, we generated $46.3 million from operating activities, including a $22.3 million reduction in working capital and repaid $50 million on our revolving credit facility.
+We ended the second quarter with a net cash position defined as cash and equivalent balances in excess of the amounts owed under our revolving credit facility of $75.7 million.
+In Q2, the company spent $7 million on capital expenditures.
+We spent $18.2 million year-to-date through June.
+We communicated a capex spending range of $40 million to $45 million for 2020 and expect to come in at the lower end of the range, while continuing to invest to fund growth opportunities in EV/HEV applications.
+We paid down an additional $125 million on our revolving credit facility on July 29.
+The paydown resulted in an outstanding balance on our revolver of $98 million.
+Therefore, revenues for Q3 are estimated to be in the range of $175 million to $190 million.
+As a result, we are guiding gross margin in the range of 35% to 36%.
+We guide GAAP Q3 earnings in the range of $0.19 to $0.39 per fully diluted share.
+On an adjusted basis, we guide fully diluted earnings in the range of $0.90 to $1.10 per share for the third quarter.

@@ -1,0 +1,36 @@
+From a balance sheet perspective, our combination of operating performance and sale of noncore assets allowed us to add over $0.5 billion to the balance sheet by the end of our third quarter.
+Our shareholders benefited significantly as well as our share price rose by over 100% for the year, greatly outstripping our public company and industry competitors.
+Since inception, we've averaged over 100 applicants for every internship position we've created, and these numbers continue to rise each year.
+Our efforts bore fruit in the fourth quarter with the release of the -- of three new powder bed printing systems, including our SLS 380 polymer-based system as well as our DMP Flex 200, and DMP 350 Dual metal-based printers, the latter of which is a dual-laser version of our top-selling single-laser system.
+By the end of 2021, with these acquisitions having closed, we exited with roughly $800 million in cash on our balance sheet for the future.
+This scale has a tremendous advantage, not only increasing our operating efficiencies, but also in providing critical ongoing customer application support as well as 24/7 service to our customers, no matter where they're located, over the life of their investments.
+We're proud to say that our installed base currently prints over 700,000 parts per day, which is more than the rest of the industry combined.
+With an open system architecture, a Titan printer has available to it hundreds of standard polymer formulations, allowing customers to not only select the ideal material for their application, but also realize potential cost savings of up to 75% versus traditional filament extrusion.
+So in summary, with our tremendous progress over the last 18 months, our continued strong momentum, our breadth of technology combined with our clear application leadership, and the benefits of scale as one of the largest pure-play additive manufacturing companies, we entered 2022 with a great deal of optimism.
+Specifically, we'd expect that over the next 18 months, we will refresh our entire lineup of metal and polymer hardware platforms while continuing to release record numbers of new materials and improvements to our software products offered through Oqton.
+In the coming years, we're confident that this focused approach and simple business model will result in consistent year over year double-digit organic growth with expanding gross margins, our goal of which is to exceed 50% over time.
+Revenue for 2021 was $615.6 million, an increase of 10.5% compared to the prior year.
+When adjusted for those divestitures, 2021 revenue increased 31.8% as compared to 2020, and versus pre-pandemic 2019, revenue increased 16.9%.
+Gross profit margin for 2021 was 42.8%, compared to 40.1% in the prior year.
+Non-GAAP gross profit margin was 43%, compared to 42.6% in the prior year.
+Operating expenses for 2021 on a GAAP basis decreased 13.3% to $296.8 million compared to the prior year.
+On a non-GAAP basis, operating expenses were $214.7 million, a 9.4% decrease from the prior year.
+We had GAAP earnings per share of $2.55 for 2021, compared to a GAAP loss per share of $1.27 in 2020.
+Our non-GAAP earnings per share for 2021 was $0.45, compared to non-GAAP loss per share of $0.11 in 2020.
+For the fourth quarter, we generated revenue of $150.9 million, a decrease of 12.6% compared to the fourth quarter of 2020.
+When adjusted for divestitures, we saw strong double-digit growth of 13.1% versus Q4 2020, a 10.4% increase over Q3 2021, and impressively, a 21.9% increase versus pre-pandemic Q4 2019.
+In the fourth quarter, we had GAAP loss per share of $0.05, compared to GAAP loss per share of $0.16 in the fourth quarter of 2020.
+Non-GAAP earnings per share was $0.09, flat to non-GAAP earnings per share of $0.09 in the fourth quarter of 2020.
+On a full year basis, adjusted for divestitures, revenue in 2021 for healthcare increased 40.1% and industrial increased by 24.4% as compared to 2020.
+Industrial revenue in the fourth quarter 2021 outpaced Q4 2020 by 22.2% and Q3 2021 by 12.4% after adjusting for divestitures.
+GAAP gross profit margin was 43.9% in the fourth quarter 2021, bringing the full year GAAP gross profit margin to 42.8%, as compared to 40.1% for the full year 2020.
+Non-GAAP gross profit margin in the fourth quarter was 44.1%, bringing the full year non-GAAP gross profit margin to 43%, compared to 42.6% for the full year 2020.
+GAAP operating expenses decreased 2.3% to $70.1 million in the fourth quarter of 2021 compared to the same period a year ago.
+On a non-GAAP basis, operating expenses were $54.3 million, a 6.4% decrease from the same period a year ago, driven primarily by lower SG&A expenses due to restructuring efforts and divestitures.
+GAAP operating expenses for the full year 2021 decreased 13.3% to $296.8 million compared to the prior year, primarily as a result of a goodwill impairment charge of $48.3 million and cost optimization charges of $20.1 million that both occurred in 2020.
+On a non-GAAP basis, operating expenses were $214.7 million in 2021, a 9.4% decrease from the prior year.
+Adjusted EBITDA, defined as non-GAAP operating profit plus depreciation, was $74.1 million for full year 2021 or 12% of revenue, compared to $28.7 million for full year 2020 or 5.2% of revenue.
+I will begin by noting that we issued a $460 million five-year convertible bond in the fourth quarter.
+The marketing of our bond met with a very healthy demand, and we were able to issue our bond at a 0% coupon, providing the company with a significant arsenal for investment with very low carrying costs.
+After completing this bond offering and combined with our previous activities of divesting noncore assets, making strategic organic investments and generating $48.1 million of cash from operations, we ended the year with $789.7 million of cash on hand, an increase of $705.3 million from the beginning of 2021.
+For full year 2022, we expect revenue to be within a range of $570 million and $630 million, non-GAAP gross margins to be between 40 and 44%, and non-GAAP operating expenses to be between 225 million and $250 million.

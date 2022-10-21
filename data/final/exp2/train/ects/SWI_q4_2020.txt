@@ -1,0 +1,39 @@
+We hit a significant milestone that many companies aspire to, achieving non-GAAP revenues of over $1 billion in 2020.
+We grew non-GAAP revenues by 9% year over year for the full-year 2020 and 6% year over year in Q4.
+We delivered an adjusted EBITDA margin of 48% for each of the full year and in Q4.
+Our non-GAAP subscription revenue grew by 22% for the full-year 2020, and our net retention rate was approximately 105% on a trailing 12-month basis.
+We sustained strong maintenance renewal rates north of 90% in 2020, and the fourth-quarter renewal rates held up well despite the cyberattacks on SolarWinds, which we announced on December 14.
+Additionally, our MSP business again delivered double-digit 15% growth in both the fourth quarter and the full year, surpassing $300 million in revenue in 2020.
+We ended the year with more than 25,000 MSP partners that service over 500,000 small, medium enterprise customers, reflecting our status as a leading provider of remote monitoring and management, security, data protection and business management solutions for MSPs around the world.
+In December, we announced the confidential submission of a Form 10 registration statement with the SEC for the potential spin-off of our MSP business.
+Additionally, after extensive investigation, we have not found SUNBURST in any of our more than 70 non-Orion products.
+One update that I believe is critical to share is that we previously disclosed that the number of customers that may have installed an affected version of the Orion software platform was fewer than 18,000.
+This is consistent with statements by National Security Advisor for Cyber and Emerging Technology, Anne Neuberger, that as of February 17, nine federal agencies and about 100 private sector companies were compromised.
+We finished near the high end of the range of our outlook for the fourth quarter for non-GAAP total revenue, ending the quarter with $265.5 million in revenue, representing year-over-year growth of approximately 6%.
+Non-GAAP maintenance revenue was $124.3 million in the fourth quarter, up 8% versus the prior year, driven by consistent maintenance renewal bookings and reflecting sequential acceleration in maintenance revenue growth since the second quarter, which was impacted the most by the pandemic.
+This growth was driven by solid customer retention as evidenced by maintenance renewal rates of over 90% in the fourth quarter.
+For the fourth quarter, non-GAAP license revenue was $34.5 million, which represents a decline of approximately 23% as compared to the fourth quarter of 2019.
+Total non-GAAP license and maintenance revenue was $158.8 million in the fourth quarter, down 1% versus the prior year.
+Total ARR reached approximately $960 million as of December 31, 2020, reflecting year-over-year growth of 14%, which includes approximately 2 percentage points of contribution from our SentryOne acquisition in the fourth quarter.
+Subscription ARR grew 17%, reaching $435 million at the end of the quarter.
+Fourth-quarter non-GAAP subscription revenue was $106.6 million, up 20% year over year, which was driven by 16% year-over-year growth in our MSP business, as well as solid performance in our core IT management subscription business.
+Our subscription net retention rate for the year was 105%.
+Total non-GAAP revenue for the year ended December 31, 2020, was $1.02 billion, which represents a major milestone as we broke the $1 billion mark in annual revenues threshold while delivering 9% growth over 2019 total revenue of $938.5 million.
+For the year ended December 31, 2020, non-GAAP subscription revenue was $399 million, which represents growth of 22% year over year.
+Non-GAAP license and maintenance revenue for the full year in 2020 increased 2% year over year to $622.7 million.
+Non-GAAP maintenance revenue grew at a rate of 7%, reaching over $478 million.
+This growth was driven by solid customer retention as evidenced by a maintenance renewal rate of 91.5% in 2020.
+We finished 2020 with 1,057 customers that have spent more than $100,000 with us in the last 12 months, which is an 18% improvement over year-end 2019.
+Fourth-quarter adjusted EBITDA was $127.1 million, representing an adjusted EBITDA margin of 48%, exceeding the high end of the outlook for the fourth quarter.
+And for the year ended December 31, 2020, adjusted EBITDA was $489.7 million representing an adjusted EBITDA margin of 48% for the full year as well.
+Unlevered free cash flow for the full year totaled $431 million, which reflects an adjusted EBITDA conversion rate of 88%.
+Net leverage at December 31 was 3.2 times our trailing 12 months adjusted EBITDA, despite the use of $142 million of cash on the acquisition of SentryOne in the fourth quarter.
+For the full year in 2020, we reduced our net leverage ratio from 3.9 times to 3.2 times, reflecting the power of our model to complete an acquisition the size of SentryOne and still delever significantly over the course of the year.
+With $370.5 million in cash at December 31, we are well-positioned from a financial standpoint to continue to invest in the future growth of our business.
+For the first quarter of 2021, we expect non -- total non-GAAP revenue to be in the range of $247 million to $252 million, representing year-over-year growth of negative 1% to positive 1%.
+Adjusted EBITDA for the first quarter is expected to be $98 million to $101 million, which implies an approximately 40% EBITDA margin.
+As it relates to 2020 and 2021 adjusted EBITDA, we expect our investments in security-related initiatives to be approximately $20 million to $25 million.
+Non-GAAP fully diluted earnings per share is projected to be $0.19 to $0.20 per share, assuming an estimated 318 million fully diluted shares outstanding.
+Our outlook for the first quarter assumes a non-GAAP tax rate of 22%, and we expect to pay approximately $17.2 million in cash taxes during the first quarter of 2021.
+dollar exchange rate of 1.34.
+Increasing the percentage of our recurring revenue has been a focus of ours over the past five years, and recurring revenue is now 86% of our total revenue.

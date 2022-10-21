@@ -1,0 +1,68 @@
+Regarding our Q2 performance, our revenues were $4.03 billion.
+Our organic revenue growth continued to show progress as we improved from minus 3.7% in Q1 to minus 2.4% in Q2.
+Also, I was very pleased to see that the GBS business segment grew for the second quarter in a row from positive 2% in Q1 to positive 3.4% in Q2.
+We also continue to improve the organic revenue of the GIS business segment from minus 9.1% in Q1 to minus 8% in Q2.
+Our adjusted EBIT margin was 8.6% and was driven by the operational work that we are doing to optimize our business.
+Book-to-bill for the quarter was 0.91, which came in below our goal of one due to the timing of a couple of deals.
+We continue to track to a book-to-bill over one year to date, and we expect to be back above 1.0 in Q3.
+Our non-GAAP earnings per share was $0.90 in the quarter, which is up $0.41, as compared to $0.64 a year ago.
+On a year-to-date basis, we have now produced roughly $100 million in cash.
+The last time we gave you our NPS score was during the Investor Day in June, and it was 18, almost within the industry best practice range of 20 to 30.
+Jim will detail out the financial results of all of these operational work that, simply put, this work is allowing us to improve margins from 8% in Q1 to 8.6% in Q2 and gives us the confidence to increase our margin and earnings per share guidance for FY '22.
+In Q2, 59% of our bookings were new work and 41% were renewals.
+The evidence is that Analytics and Engineering grew 17.3% in Q2, which is clearly helping us create growth in our GBS business segment.
+Now before I arrived and implemented the strategy, our revenues were roughly $80 million per year, split a third GBS and two-thirds GIS.
+The result is we have increased the total revenue on this account by 13%, and the mix between GBS and GIS is now split 50-50 as we are now providing them Analytics and Engineering services.
+Our organic revenue improved to a decline of 2.4% or a 130 basis point improvement from Q1.
+Our adjusted EBIT margin continues to improve as well, delivering 8.6% in Q2, up 60 basis points as compared to the first quarter.
+Year over year, our adjusted EBIT margins have expanded 240 basis points or 460 basis points, excluding the disposed businesses.
+Our book-to-bill for Q2 was 0.91, below our goal of one due to timing and remains over one year to date.
+Non-GAAP diluted earnings per share was $0.90, up $0.06 from Q1 and a healthy 41% increase as compared to the prior year.
+Our GBS segment continued its strong growth performance, posting its second quarter of positive organic revenue growth of 3.4%, an improvement from 2% in the first quarter.
+Our GBS margin was 15.9%, up 150 basis points compared to the first quarter and up 180 basis points compared to prior year.
+Our GIS segment organic revenue declined 8%, a full 110 basis point improvement compared to the first quarter and improved 380 basis points compared to the decline from prior year.
+GIS margins were 5.5%, an improvement of 390 basis points compared to prior year.
+Analytics and Engineering revenue was $520 million, up 17.3%.
+Analytics and Engineering book-to-bill was 0.95 and 1.13 year to date.
+The Applications layer was up 1.5%, book-to-bill was 0.94 and 1.13 year to date.
+BPS, our smallest layer of the enterprise technology stack, at $118 million of revenue, was down 13.7%.
+Book-to-bill was 0.69 and 0.91 year to date.
+Cloud and security revenue was $521 million, down 1.5%.
+Book-to-bill was at 0.8 in the quarter and 0.82 year to date.
+IT Outsourcing revenue was $1.05 billion, down 9.6%.
+ITO book-to-bill was 0.81 and 0.92 year to date.
+The two deals Mike mentioned earlier that slipped out of Q2 that were subsequently closed were in the ITO and Cloud and Security layers of our technology stack and would have boosted our GIS book-to-bill for the quarter to over 1.1.
+Lastly, Modern Workplace revenues were $581 million, down 10.9% as compared to prior year.
+This is an improvement from last quarter when Modern Workplace was down 19.7% year over year.
+Book-to-bill was 1.2 and 1.1 year to date.
+We reduced our debt from $12 billion to $5.1 billion.
+Net interest expense has been reduced from $83 million in the first quarter of FY '21 to $45 million this quarter.
+With the full benefit of our refinancing, we anticipate interest expense to be reduced to approximately $33 million in Q3.
+In the last year or so, we've significantly curtailed new capital lease originations from $1.1 billion in FY '20 and are on track to reduce originations to approximately $500 million this year.
+These efforts to better manage this form of financing allowed us to reduce our debt and ultimately our capital lease cash outflows from $245 million in Q1 FY '21 to $177 million this quarter.
+We expect further reductions in our quarterly cash outflows to around $150 million per quarter at the end of FY '22 and further below that level going forward.
+Our capital expenditures were reduced from $225 million in Q1 FY '21 to $159 million Q2 FY '22.
+Capex and capital lease originations as a percent of revenue were 10.2% for FY '20, 8% for FY '21 and now down to 5.3% for Q2 FY '22.
+Delivering 5.3% is a good step forward related to better managing our capital spend as it gets us in the peer range, albeit at the top end and is a proof point of our improved operational rigor.
+By extending maturities, we now have no bond maturities before FY '26, lowering maturity towers and reducing annual interest expense and cash outflows by about $50 million a year.
+Cash flow from operations totaled an inflow of $563 million.
+Free cash flow for the quarter was $404 million, up 33% compared to prior year and moves us to positive free cash flow for the first half of FY '22 of $100 million.
+Our third quarter has two discrete nonrecurring cash payments, including a $60 million payment associated with a legacy vendor that has a take-or-pay agreement and a $90 million payment associated with COVID relief legislation where we deferred certain tax payments and now have opted to accelerate the tax payments to utilize the tax deduction.
+The negative cash flow over the last three quarters was due in large part to absorbing a number of nonrecurring cash outflows of over $1.7 billion to put the business on a better trajectory, building our foundation.
+state and local health and human services business for sale; $114 million to end an AR securitization program; $88 million to end a value-destructive take-or-pay agreement; the $1.7 billion headwinds put into perspective; the $749 million trailing four quarters negative free cash flow.
+We remain on track to reduce restructuring in TSI from an average of $900 million per year over the last four years to $550 million in FY '22 and about $100 million in FY '24.
+The Investor Day chart called for 55% of our free cash flow to be used to pay debt and capital lease obligations.
+As a result of our progress, our cash outflows for debt and capital lease financing are now expected to be about 20% of our free cash flow.
+That leaves 80% of our expected free cash flow to invest in our business and/or repurchase our stock.
+We believe we will create more value by continuing to focus on driving the transformation journey across our business, improving the fundamentals and continuing to build organic growth up the stack, ultimately delivering 1% to 3% organic growth in FY '24.
+Related to our debt, we have a clear line of sight to achieving our targeted debt level of $5 billion near term as we have scheduled debt repayments via our capital lease financing and commercial paper.
+Our preference is to maintain approximately $2.5 billion of cash on hand to fund an appropriate level of working capital.
+When we have cash in excess of $2.5 billion, we will determine how best to deploy the cash as we do not expect to leave significant levels of excess cash, generating no meaningful returns on our balance sheet for an extended period of time.
+In Q2, we repurchased $83 million of our common stock, bringing the FY '22 year-to-date repurchases to $150 million or 3.9 million shares.
+Our share repurchases are a disciplined approach to capital allocation and are expected to be self-funding using a rather simple formulaic approach of deploying cash in excess of $2.5 billion when we are at our target debt level of approximately $5 billion.
+We expect revenue between $4.08 billion and $4.13 billion.
+If exchange rates were at the same level as when we gave guidance last quarter, our third quarter revenue guidance range would be $90 million higher.
+Organic revenue decline improved to down 1% to down 2.5%; adjusted EBIT margin of 8.6% to 8.9%.
+Non-GAAP diluted earnings per share is expected to be in the range of $0.88 to $0.93 per share.
+dollar, our revenues are expected to be negatively impacted by approximately $200 million, which has been reflected in our revised guidance range of $16.4 billion to $16.6 billion; reaffirming organic revenue growth at down 1% to down 2%; increasing adjusted EBIT to a range of 8.5% to 8.9%; increasing non-GAAP diluted earnings per share to $3.52 to $3.72 per share; and reaffirming free cash flow guidance of $500 million.
+This also gives us confidence that we will achieve our FY '24 guidance of 1% to 3% growth.

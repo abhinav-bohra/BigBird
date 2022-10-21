@@ -1,0 +1,57 @@
+Total revenues grew 60.9% with organic growth of 7.6%.
+As a result of the surge in the Delta variant, NIC's COVID-19-related revenues from TourHealth and pandemic unemployment initiatives were significantly above plan at $43.3 million.
+NIC's core revenues grew 5% in the quarter.
+Recurring revenues comprised over 80% of our quarterly revenues for the first time and were led by 183% growth in subscription revenues.
+Excluding NIC revenues, subscription revenue growth was robust at 23.9%, reflecting our accelerating shift to the cloud.
+We have now achieved greater than 20% subscription revenue growth in 55 of the last 63 quarters.
+Software licenses and services revenues grew 13.9% or 2% excluding NIC.
+As a result, our non-GAAP operating margin declined 330 basis points to 25.3%.
+Excluding NIC's COVID initiative revenues and related costs, our non-GAAP operating margin was 26.8%.
+Bookings reached a record high in the third quarter at approximately $601 million, more than double last year's third quarter.
+Excluding NIC, bookings grew 51.9%, with the biggest contributor being the $63 million renewal of our fixed fee e-filing arrangement with the state of Illinois.
+We signed agreements with the Virginia Department of Housing and Community Development valued at approximately $24 million to provide a digital and call center solution for tenant, landlord and third-party filing of rent relief program claims.
+Our largest software deal in the quarter also came from NIC with $6.1 million SaaS contract with the West Virginia Division of Motor Vehicles for digital titling.
+In addition to the SaaS fees, the agreement will generate estimated transaction revenue of more than $3 million per year.
+The deals have a combined value of approximately $19 million.
+Also for our iasWorld Property Tax and Appraisal solution, we signed SaaS arrangements with the regional municipality of Wood Buffalo in Alberta, Canada, valued at approximately $3.1 million.
+Franklin County, Ohio, valued at approximately $3.5 million and Summit County, Ohio, which also includes our Data & Insights Solutions, valued at approximately $2.9 million.
+Other major SaaS deals included a $4.5 million contract with Arlington Heights, Illinois for our ERP civic services and payment solutions and a $3.4 million contract with Bayer County, Texas for our Odyssey, SoftCode and Supervision Justice solutions.
+Our largest perpetual license contract for the quarter was a $5.4 million contract to provide our MicroPact and entellitrak solution to manage COVID vaccination at stations for the U.S. Department of Justice.
+We also signed a $2.5 million on-premises license contract with the Commonwealth of the Northern Mariana islands for our Munis ERP and Enterprise Asset Management, ExecuTime and Socrata solutions.
+VendEngine is one of the fastest-growing technology companies in North America, operating in more than 230 counties and 32 states.
+VendEngine and Arx have combined ARR of approximately $17.5 million and their additions further strengthen Tyler's Justice and Public Safety suites.
+GAAP revenues for the quarter were $459.9 million, up 60.9%.
+Non-GAAP revenues were $460.6 million, up 61.1%.
+On an organic basis, GAAP and non-GAAP revenues grew 7.6% and 7.5%, respectively.
+Software license revenues rose 13.7%.
+Subscription revenues rose 183.3%.
+Excluding the contribution from NIC, subscription revenues were still very strong, growing 23.9%.
+We added 144 new subscription-based arrangements and converted 67 existing on-premises clients, representing approximately $84 million in total contract value.
+In Q3 of last year, we added 114 new subscription-based arrangements and had 46 on-premises conversions, representing approximately $56 million in total contract value.
+Subscription contract value comprised approximately 74% of total new software contract value signed this quarter compared to 47% in Q3 of last year, reflecting our ongoing shift to a cloud-first approach to sales.
+The value weighted average term of new SaaS contracts this quarter was 3.4 years compared to 4.3 years last year.
+Transaction-based revenues, which include NIC portal, payment processing and e-filing revenues and are included in subscriptions, were $171.2 million, up more than sixfold from last year.
+E-filing revenues reached a new high of $17.4 million, up 15%.
+Excluding NIC, Tyler's transaction-based revenues grew 24.3%.
+For the third quarter, our annualized non-GAAP total recurring revenue, or ARR, was approximately $1.5 billion, up 79.2%.
+Non-GAAP ARR for SaaS software arrangements for Q3 was approximately $330 million, up 24.7%.
+Transaction-based ARR was approximately $685 million, up 639%.
+And non-GAAP maintenance ARR was flat at approximately $471 million.
+Our backlog at the end of the quarter was $1.77 billion, up 14.3%.
+Because the vast majority of NIC's revenues are transaction-based, their backlog at quarter end was only $27 million.
+Excluding the addition of NIC, Tyler's backlog grew 12.6%.
+As Lynn noted, our bookings in the quarter were very robust at $601 million, up 105.7% and includes the transaction-based revenues of NIC.
+On an organic basis, bookings were strong at approximately $444 million, up 51.9% fueled by the renewal of the State of Illinois fixed e-filling filing arrangement of approximately $63 million and the addition of the two Delaware appraisal deals totaling $19 million.
+For the trailing 12 months, bookings were approximately $1.6 billion, up 31.3%.
+And on an organic basis, were approximately $1.4 billion, up 10.8%.
+Our software subscription bookings in the third quarter added $19 million in new annual recurring revenue.
+Cash from operations and free cash flow were both record highs for the third quarter at $205.4 million and $192.8 million, respectively.
+During the quarter, we repaid the outstanding balance of $65 million on our revolver and paid down $57.5 million on our term loans for a total debt reduction of $122.5 million.
+We ended the quarter with total outstanding debt of $1.428 billion and cash and investments of $348.4 million, and net leverage of approximately 2.3 times trailing pro forma EBITDA.
+We expect 2021 total GAAP revenues will be between $1.577 billion and $1.597 billion, and non-GAAP total revenues will be between $1.580 billion and $1.6 billion.
+We expect total revenues will include approximately $72 million of COVID-related revenues from NIC's TourHealth and pandemic unemployment services that are expected to wind down in the first half of 2022.
+We expect 2021 GAAP diluted earnings per share will be between $3.55 and $3.63 and may vary significantly due to the impact of stock incentive awards on the GAAP effective tax rate.
+We expect 2021 non-GAAP diluted earnings per share will be between $6.94 and $7.02.
+We have a current pipeline of more than 40 qualified sell-through opportunities with NIC's state enterprise market across multiple Tyler solutions and have identified Tyler sales opportunities leveraging NIC State Enterprise contracts, to speed up the time from award to contract.
+We expect that the $350 billion of aid to state and local governments and $167 billion of aid to schools under the American Rescue Plan Act will provide a significant measure of relief to budget pressures faced by many of our clients and prospects and potentially provide a tailwind over the next two to three years.
+I'd also like to express our deep appreciation to Matt for his tremendous leadership of our IT and hosting organization over the last 11 years and wish him the best in his retirement.

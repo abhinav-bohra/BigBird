@@ -1,0 +1,34 @@
+It jumped in Q2 to above 70.
+In Q2, our ARR growth accelerated to 127% year over year, and our revenue was up 121%.
+In Q2, we added the highest number of customers with ARR over $1 million compared to prior quarters.
+Our net retention rate was the highest it's ever been at 129%.
+These tiers enable us to bring our technology to a diverse set of buyer types and organizations, from medium-sized businesses all the way to the world's largest Fortune 500 enterprises.
+We also offer more than 10 modules that extend our platform value to more enterprise needs, from IoT discovery and security to cloud and container workload protection.
+A human-powered 1-10-60 benchmark is a legacy model.
+The chief information security officer of a Fortune 500 oil company captured it well saying, "SentinelOne's Storyline technology fundamentally changes EDR. Instead of people having to manually assemble data points, the technology assembles stories for us and even makes decisions in real time.
+This is a first, and we're already seeing demand for auto-deploy, which helped secure $1 million customer win in Q2, where we replaced legacy AV in one of our other major next-gen competitors.
+ARR of nearly $200 million and growing 127% is nothing short of astounding.
+Looking back, it took over three years to reach $100 million in ARR and just three quarters to nearly reach the next $100 million.
+Over 5,400 customers use our Singularity XDR platform.
+That's over 2,000 more than last year.
+When I think about how we're doing in the market, three things capture it most effectively: one, our 97% gross retention rate, which means our customers are happy and staying with us; two, we don't compete with our channel partners.
+We enable and embrace the channel; and three, we win more than 70% of POCs against the competition.
+We grew customers with ARR over $100,000 by 140% versus last year.
+In the past year, we've more than tripled the number of customers with ARR over $1 million.
+Our net retention rate was 129%, a new record for our company, fantastic execution from our sales and go-to-market teams.
+Just looking at our modules that cover IoT, cloud, and data, these grew more than six times year over year in Q2 and represent over 10% of the quarter's new business.
+Feedback has been positive, and we've issued over 2,000 accreditations to date.
+We achieved record revenue of $46 million, increasing 121%.
+Fueled by new customers and existing customer expansion, we delivered ARR of $198 million in the quarter, accelerating 127% year over year.
+Even after backing out the $10 million in acquired ARR from Scalyr, our organic growth was still well into the triple digits.
+Our non-GAAP gross margin in Q2 was 62% and expanded 900 basis points, a healthy pickup from last quarter.
+Our non-GAAP operating margin was negative 98%, an improvement over negative 101% in the year-ago quarter, even as we prepared for our IPO.
+In Q3, we expect revenue of $49 million to $50 million, reflecting growth of 102% at the midpoint.
+For the full year, we expect revenue of $188 million to $190 million or 103% growth at the midpoint.
+We expect Q3 non-GAAP gross margin to be between 58% to 59% and full-year gross margin of 58% to 60%.
+Most importantly, this remains well above 53% we reported in the first fiscal quarter this year and at or above 58% we delivered in fiscal 2021.
+Finally, for operating margins, we expect negative 96% to 99% in Q3.
+Our full-year operating margin guidance is for negative 99% to 104%.
+This is an improvement upon our fiscal year 2021 operating margin of negative 107%.
+We ended Q2 with total basic shares outstanding of 265 million.
+If the stock price remains at current levels, it will unlock up to approximately 40 million outstanding shares as of July 31, 2021, excluding vested equity awards.

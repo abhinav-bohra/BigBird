@@ -1,0 +1,70 @@
+As we look to 2022, we expect mid-single-digit revenue growth before Kyndryl and currency and $10 billion to $10.5 billion of free cash flow for the year.
+We now have more than 3,800 hybrid cloud platform clients, which is up 1,000 clients from this time last year.
+IBM Consulting continues to help drive platform adoption, with about 700 Red Hat engagements for the year.
+As we move toward that, we had more than 50% revenue growth this year in partnerships with AWS, Azure, and Salesforce.
+And today, we have nearly 3,000 active engagements.
+This is the first quantum chip that breaks the 100-cubic barrier and represents a key milestone on our path toward building a 1,000-cubit processor in 2023.
+We made five acquisitions in the fourth quarter and a total of 15 acquisitions in 2021.
+We delivered $16.7 billion in revenue, 58% operating gross margin, operating pre-tax income of $3.5 billion, and operating earnings per share of $3.35 for continuing operations.
+We had solid revenue performance, up nearly 9%.
+This quarter, our revenue growth includes about 3.5 points from the new relationship.
+Excluding this, IBM's revenue was up 5%.
+In the fourth quarter, Software was up 10%, and Consulting was up 16%.
+These are our two growth vectors and together represent over 70% of our annual revenue.
+Infrastructure, more of a value vector, tends to follow product cycles and was up 2%.
+The Software and Infrastructure growth each include nearly 5 points from the new Kyndryl relationship while there is no contribution to Consulting's growth.
+For every dollar of hybrid platform revenue, IBM and our ecosystem partners can generate $3 to $5 of software, $6 to $8 of services, and $1 to $2 of infrastructure revenue.
+This drives IBM's hybrid cloud revenue, which is up 19% for the year.
+Post-separation, revenue from our full-stack cloud capabilities from Infrastructure up through Consulting now represents $20 billion of revenue or 35% of our total.
+Our operating gross profit was up 3%, and the $3.5 billion of operating pre-tax profit was up over 100%.
+First, the year-to-year pre-tax profit reflects $1.5 billion charge to SG&A last year for structural actions to simplify and optimize our operating model and improve our go-forward position.
+Throughout the year, we have been aggressively hiring, with about 60% of our hires in Consulting.
+We're ramping investment in our ecosystem, and we acquired 15 companies in 2021 to provide skills and technologies aligned to our strategy, including capabilities to help win client architecture decisions.
+Regarding tax, our fourth-quarter operating tax rate was 14%.
+This was up significantly from last year but roughly 2 to 3 points lower than what we estimated in October due to a number of factors, including the actual product and geographic mix of our income in the quarter.
+Our full-year consolidated cash from operations was $12.8 billion, and free cash flow was $6.5 billion.
+These are all-in consolidated results and include 10 months of Kyndryl and the cash paid for the 2020 structural actions and spin charges.
+IBM's stand-alone or baseline free cash flow for the year was $7.9 billion, which is aligned to our go-forward business.
+In terms of uses of cash for the year, we invested over $3 billion in acquisitions.
+We continue to delever, with debt down nearly $10 billion for the year and over $21 billion since closing the Red Hat acquisition.
+And we returned nearly $6 billion to shareholders in the form of dividends.
+This results in a year-end cash position of $7.6 billion, including marketable securities and debt of just under $52 billion.
+In aggregate, our worldwide tax-qualified plans are funded at 107%, with the U.S. at 112%.
+Our hybrid cloud revenue in software is up 25% for the year to more than $8.5 billion.
+And subscription and support renewal rates continue to grow again this quarter, contributing to a $700 million increase in the software deferred income balance over the last year.
+Hybrid platform and solutions revenue was up 9%.
+Red Hat revenue, all in, was up 21%.
+Automation delivered strong revenue growth, up 15%.
+Data and AI revenue grew 3%.
+Security revenue declined modestly in the quarter driven by lower performance in data security, while revenue grew 5% for the year.
+Putting this all together, our annual recurring revenue, or ARR, is now over $13 billion, which is up 8% this quarter.
+Revenue was up 14%.
+First, all of the growth in transaction processing came from the new Kyndryl commercial relationship, which contributed more than 16 points of growth.
+Second, I'll remind you that we're wrapping on a very weak performance in the fourth quarter of last year, which was down 26%.
+We expanded pre-tax margin by 12 points, including nearly 10 points of improvement from last year's structural actions.
+Revenue grew 16% with acceleration across all three revenue categories.
+Complementing this strong revenue performance, our book-to-bill was 1.2.
+Consulting's hybrid cloud revenue grew 34% in the quarter.
+For the year, cloud revenue is up 32% to $8 billion.
+The Red Hat-related signings more than doubled this year and are now over $4 billion since inception.
+This quarter, we added over 150 client engagements, bringing the total since inception to over 1,000.
+Our Consulting's growth was led by business transformation, which was up 20%.
+In technology consulting, revenue was up 19%.
+Finally, application operations revenue grew 8%.
+Our pre-tax income margin expanded about 8 points, including just over 9 points from last year's structural actions.
+Revenue was up 2%.
+The Kyndryl commercial relationship contributed about 5 points of growth, which is higher than we expected in October.
+Hybrid infrastructure and infrastructure support revenue were up 2% and 1%, respectively, with pretty consistent contribution from the new Kyndryl relationship.
+IBM Z revenue performance, now inclusive of both hardware and operating system, is down 4% this quarter.
+And then in distributed infrastructure, revenue was up 7% driven by pervasive strength across our storage portfolio.
+The pre-tax margin was up over 9 points but essentially flat, normalizing for last year's structural action.
+We have a higher-growth, higher-value business mix, with over 70% of our revenue in software and services and a significant recurring revenue base dominated by software.
+On top of that, in 2022, the new commercial relationship with Kyndryl will contribute an additional 3 points of growth spread across the first three quarters.
+At current spot rates, currency is roughly a 2-point headwind to reported revenue growth for the year and 3 points in the first quarter.
+For free cash flow, we expect to generate $10 billion to $10.5 billion in 2022.
+Now in 2022, despite the fact we still have nearly $0.5 billion of impact from the charges, we're focusing on a traditional free cash flow definition.
+The $10 billion to $10.5 billion reflects a year-to-year improvement driven by lower payments for the structural actions, a modest tailwind from cash taxes, working capital improvements, and profit growth resulting from our higher growth and higher value business mix.
+In 2022, we expect growth at the low end of the mid-single-digit model and then another 5 to 6 points of revenue growth from our external sales to Kyndryl.
+On top of that, we're planning for about 2 to 3 points from the external sales to Kyndryl in 2022.
+These segment revenue and margin dynamics will yield about a 4-point year-to-year improvement in IBM's pre-tax operating margin for the full year and 2 to 3 points in the first quarter.
+Bringing this all together, we expect mid-single-digit revenue growth before Kyndryl and currency and $10 billion to $10.5 billion of free cash flow for the year, both in line with our midterm model.

@@ -1,0 +1,70 @@
+And as most of you know, we've historically held our calls at 9 AM on Friday, but there is a calendar conflict this quarter and we moved our call to accommodate that.
+But going forward, we do expect to move our call back to Friday's at 9 AM Central.
+And then in January, we are attending the Raymond James Deer Valley Summit in person on January 3 through 5 and Citi's Apps Economy Conference virtually on January 6.
+From our founding over 50 years ago, TDS believes that being a good corporate citizen is fundamental to our long-term success.
+These responsible practices, which make up the S in ESG are what we call our 3 Cs; customer, culture and community.
+Before turning the call over, I want to remind everyone that due to the FCC's anti-collusion rules related to the ongoing Auction 1-10, we will not be responding to any questions related to spectrum auctions.
+As you can see, we've raised $3.4 billion since the beginning of 2020 at an average cost of 4.9% and redeemed six separate bond series comprising $1.6 billion in debt with a weighted average cost of 7%.
+Finally, before turning the call over to LT, I want to point out that our income tax rate for the quarter was 29%.
+We're offering commercial millimeter wave fixed wireless access speeds of up to 300 megabits per second and to date we're seeing many customers experiencing speeds that far exceed that.
+We recently received a net promoter score 40, which is an amazing loyalty score.
+Postpaid handset gross additions increased by 3,000 year-over-year, largely due to higher switching activity in combination with our strong promotional activity.
+We saw connected device gross additions declined 26,000 year-over-year.
+Total smartphone connections increased by 8,000 during the quarter and by 65,000 over the course of the past 12 months.
+We saw prepaid gross additions improved by 9,000 year-over-year.
+Postpaid handset churn depicted by the blue bars was 0.95% up from 0.88% a year ago.
+Total postpaid churn combining handsets and connected devices was 1.15% for the third quarter of 2021 higher than a year ago as we've also seen churn increase on connected devices due to certain business and government customers disconnecting devices that were activated during the peak periods of the pandemic in 2020.
+Total operating revenues for the third quarter were $1.016 billion, a decrease of $11 million or 1% year-over-year.
+Retail service revenues increased by $25 million to $699 million.
+Inbound roaming revenue was $30 million, that was a decrease of $12 million year-over-year driven by a decrease in data volume and rates.
+Other service revenues were $59 million flat year-over-year.
+Finally, equipment sales revenues decreased by $24 million year-over-year due to a decrease in average revenue per unit, in large part as a result of an increase in promotional activity as well as a decrease in overall sales volume.
+As a result of the combined impact of these factors [Indecipherable] equipment increased $19 million year-over-year from $5 million in 2020 to $24 million in 2021, this change in [Phonetic] loss of equipment was the primary driver of our decline in profitability year-over-year.
+Now a few more comments about postpaid revenue shown on Slide 12, the average revenue per user or connection was $48.12 for the third quarter up $1.02 or approximately 2% year-over-year.
+On a per account basis, average revenue grew by $2.72 or 2% year-over-year.
+Third quarter tower rental revenues increased by 6% year-over-year.
+As shown at the bottom of the slide, adjusted operating income was $213 million, a decrease of 8% year-over-year.
+As I commented earlier, total operating revenues were $1.016 billion, a 1% decrease year-over-year.
+Total cash expenses were $803 million, an increase of $8 million or 1% year-over-year.
+Total system operations expense increased 1% year-over-year.
+Excluding roaming expense, system operations expense increased by 7% due to higher circuit costs, cell site rent and maintenance expense.
+Roaming expense decreased $8 million or 17% year-over-year driven by lower data rates and lower voice usage.
+Cost of equipment sold decreased $5 million or 2% year-over-year due to a significant decline in Connected Device sales, partially offset by slightly higher average cost per unit sold as a result of the mix shifting more heavily toward smartphone sales.
+Selling general and administrative expenses increased $11 million or 3% year-over-year, driven primarily by an increase in bad debts expense and cost associated with supporting enterprise projects and billing system upgrades.
+Adjusted EBITDA for the quarter was $262 million, a decrease of $20 million or 7% year-over-year.
+First, we have narrowed our guidance for service revenues to range of $3.075 billion to $3.125 billion, maintaining the midpoint.
+For adjusted operating income and adjusted EBITDA, we are maintaining our guidance ranges of $850 million to $950 million and $1.025 billion to $1.125 billion respectively.
+For capital expenditures, we are decreasing our guidance range to $700 million to $800 million as we are moving certainly equipment and project spend into 2022, this shift did not impact our 2021 build plan and as LT mentioned our multi-year 5G and network modernization program remains on track.
+TDS Telecom grew its footprint 6% from a year ago, now serving $1.4 million service addresses across its market.
+In addition, we are now capable of delivering 2 gig Internet speeds in our Spokane, Washington and Meridian, Idaho market and going forward, we will launch 2 gig product in all of our new fiber expansion market.
+2 gig provides an exceptional customer experience, doubling our previous maximum speed offering and helping to further differentiate us from the cable competition.
+Also in the quarter, we completed fiber to the home construction in our Southern Wisconsin cluster where we are seeing total broadband penetration of 38% in the fully launched cluster.
+In total, during the quarter, we added 20,000 fiber service addresses surpassing 40% of our wireline service addresses, a key milestone for us.
+From a financial perspective, overall, we grew our topline 2% while planned investment spending on new market launches resulted in lower adjusted EBITDA as expected.
+Moving to Slide 19, total residential connections increased 3% due to broadband growth in new and existing markets, partially offset by a decrease in voice connection.
+Total telecom broadband residential connections grew 7% in the quarter as we continue to fortify our network with fiber and expand into new market.
+Overall, higher value product mix and price increases drove a 4% increase in average residential revenue per connection.
+Our focus on fast reliable service has generated a 13% increase in total residential broadband revenue.
+We are offering 1 gig broadband speeds to 57% of our total footprint, including both our fiber and DOCSIS 3.1 market.
+The 1 gig product along with our 2 gig product in certain expansion markets are important tool that will allow us to defend and to win new customers.
+In areas where we offer 1 gig service, we are now seeing 20% of our new customers taking the superior product.
+A majority of TDS Telecom's residential customers take advantage of bundling options as 63% of customers subscribed to more than one service which helps to keep our churn well.
+Residential video connections were nearly flat, wireline growth of 6% driven by our expansion market nearly offset losses in the cable market.
+For example, we are experiencing a 38% video attachment rate to every broadband connection in our wireline market where we offer IPTV services.
+The rollout of this product currently cover 61% of our total operations including cable.
+As a result of this strategy, 40% of our wireline service addresses are now served by fiber, which is up from 34% a year ago.
+This is driving revenue growth while also expanding the total wireline footprint 8% to 891,000 service addresses.
+In total, these communities add more than 270,000 additional service addresses to our existing fiber deployment plan.
+Through the third quarter, we have 358,000 total fiber service addresses and are working to build out the footprint in these announced market growing to 929,000 service addresses over the next several years.
+Year-to-date, we completed construction of 51,000 fiber addresses, adding 20,000 service addresses in the quarter.
+For example in Meridian, Idaho, we experienced a temporary delay on more than 35,000 service addresses and just recently have restarted construction.
+On Slide 25, total revenues increased 2% year-over-year to $252 million driven by the strong growth in residential revenue, which increased 6% in total.
+Incumbent wireline markets also showed solid residential growth of 3% due to increases in broadband connections as well as increases from within the broadband product mix, partially offset by a 4% decrease in residential voice connection.
+Cable residential revenue grew 6%, also due to increases in broadband connections as well as the product mix.
+Commercial revenues decreased 6% in the quarter, primarily driven by lower CLEC connections, partially offset by a 5% increase in broadband connection, wholesale revenues decreased 5% due to certain state USF support timing.
+Total revenues increased 2% from the prior year as growth from our fiber expansions that increases in broadband subscribers exceeded the declines we experienced in our legacy business.
+Cash expenses increased 3% due to both supporting our current growth as well as spending related to future expansion into new market, which is not yet reflected in our revenue.
+As a result, adjusted EBITDA decreased 2% to $77 million as expected.
+Capital expenditures were down 1% to $91 million as increased investment in fiber to finance were offset by decreased cent on core operation and on Slide 27, we provided our updated 2021 guidance.
+We expect revenues to be between $990 million and $1 billion, $20 million and adjusted EBITDA to be between $295 million and $315 million.
+With the construction delays and build challenges I mentioned earlier, we are lowering our expectations for capital expenditures to be between $400 million and $450 million.

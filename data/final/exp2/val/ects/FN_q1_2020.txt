@@ -1,0 +1,30 @@
+Revenue in the first quarter was $399 million, a slight decrease from the record fourth quarter as expected with a 6% increase from a year ago.
+Non-GAAP net income was $0.86 per share, exceeding the high end of guidance as gross margins improved to 12% in the quarter.
+Optical communications revenue of $302 million was up about $2 million from the fourth quarter and represented 76% of total revenue.
+Within optical communications, telecom revenue of $230 million increased 7% from the fourth quarter and represented 76% of optical revenue.
+Datacom revenue was $73 million in the quarter, an expected decrease from Q4, of 15%.
+Datacom represented 24% of optical communications revenue.
+By technology, silicon photonics based optical communications revenue decreased from the fourth quarter to $77 million and represented 25% of optical communications revenue.
+Revenue from QSFP28 and QSFP56 transceivers was $45 million, down slightly from fourth quarter.
+By data rate, 100-gig programs continued to represent nearly half of optical communications' revenue at $147 million.
+And products rated at speeds of 400 gig and above were up strongly from the fourth quarter of $38 million or 13% of optical communications revenue.
+Revenue moderated sequentially as expected to $97 million from $105 million in Q4.
+As anticipated, revenue from industrial lasers declined from the fourth quarter and was $41 million compared to $53 million in Q4.
+Automotive and sensor revenue were both stable at $24 million and $3.5 million, respectively.
+Finally, revenue generated from other nonoptical applications grew 15% sequentially to $28 million, mainly from Fabrinet West.
+Total revenue in the first quarter of fiscal year 2020 was $399.3 million and above the upper end of our guidance range.
+Non-GAAP net income was $0.86 per share and was also above our guidance range even after a foreign exchange headwind of $1.9 million and the mark-to-market loss on interest rate swap contracts of $1.7 million.
+These losses accounted for approximately $0.09 per share.
+We were pleased to see non-GAAP gross margin in the first quarter improve to 12%, a 20-basis-point increase from the fourth quarter as efficiency more than offset the impact of merit increases.
+Non-GAAP operating expense was $11.6 million in the first quarter.
+As a result, non-GAAP operating income was $36.2 million and non-GAAP operating margin was 9.1%, flat with the fourth quarter.
+Taxes in the quarter were $2.2 million, and our normalized effective tax rate was less than 5%.
+We expect our effective tax rate to be 5% to 6% for the full year.
+Non-GAAP net income was above our guidance range at $32.2 million in the first quarter or $0.86 per diluted share as I indicated earlier.
+On a GAAP basis, which includes share-based compensation expenses and amortizations of debt issuing costs, net income for the first quarter was $25.9 million or $0.69 per diluted share, also above the high end of our guidance.
+At the end of the first quarter, cash, restricted cash and investments were $436.4 million compared to $444.7 million at the end of the fourth quarter.
+Operating cash flow in the quarter was $2.6 million and with capex of $6.3 million, free cash flow was an outflow of $3.7 million in the first quarter.
+As such, $62.2 million remain in our share repurchase program and we will continue to evaluate market condition to opportunistically repurchase shares when possible.
+As Seamus described, we expect a strong second quarter and anticipate that revenue will be between $408 million and $416 million.
+From a margin perspective, we are optimistic that we will see efficiency continue to drive incremental improvements in non-GAAP gross margin within our target range of 12% to 12.5%.
+From an earnings per share perspective, we anticipate non-GAAP net income per share in the second quarter to be in the range of $0.91 to $0.94 and GAAP net income per share of $0.74 to $0.77 based on approximately $37.7 million fully diluted shares outstanding.

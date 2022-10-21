@@ -1,0 +1,33 @@
+Q4 total revenue increased 7% year-over-year, with non-GAAP earnings per share up over 8%.
+We finished fiscal 2021 with $11.8 billion in total revenue and non-GAAP earnings per share of $7.20 a share.
+We also continue to see momentum with key communication service providers, such as NTT DOCOMO and Telia increasing their focus on VMware solutions, as well as new and expanded contracts with additional Tier 1 communication service providers globally.
+The group will bring together approximately 2,000 professionals across a variety of industries with expertise in hybrid cloud and cloud migrations, cloud-native and application modernization, as well as security.
+In FY '21, VMware was recognized by top industry analyst firms as a leader in 13 key reports across cloud management, networking, hyperconverged infrastructure and end-user computing.
+From a broader corporate perspective, I'm personally pleased to highlight that we recently unveiled our 2030 agenda, which encapsulates how we will drive ESG goals into every aspect of our business.
+Our 2030 agenda is integrated into the business and is focused on three business outcomes; trust, equity, and sustainability.
+In Q4, the combination of subscription, SaaS, and license revenue grew 8% year-over-year to $1.721 billion.
+We saw large enterprise demand strength throughout the quarter, which allowed us to close a record 35 deals over $10 million.
+Subscription and SaaS revenue increased 27% year-over-year for the quarter, with strong growth in our VMware Cloud Provider Program, end-user computing, Carbon Black, and VMware Cloud on AWS offerings.
+As of the end of Q4, ARR for subscription and SaaS was $2.9 billion, an increase of 27% year-over-year.
+License revenue for the quarter declined 2% year-over-year to $1.014 billion.
+Non-GAAP operating income increased 8% year-over-year in Q4 to $1.133 billion, primarily driven by better-than-expected revenue growth.
+Non-GAAP operating margin for the quarter was 34.4%, with non-GAAP earnings per share of $2.21 on a share count of 423 million diluted shares.
+We ended the quarter with $10.3 billion in unearned revenue and $4.7 billion in cash, cash equivalents, and short-term investments.
+Cash flow from operations for fiscal 2021 was $4.4 billion, which was well ahead of our expectations.
+Q4 cash flow from operations was $1.324 billion and free cash flow was $1.242 billion.
+For Q4, RPO was $11.3 billion, up 10% on a year-over-year basis and current RPO was $6.2 billion, up 12% year-over-year.
+Total backlog was $93 million, substantially all of which consist of orders received on the last day of the quarter that were not shipped that day and orders held due to our export control process.
+License backlog at quarter-end was $23 million.
+Core SDDC product bookings increased 12% year-over-year in Q4, highlighted by strength in our vRealize management offerings, which are now available both on a perpetual and SaaS basis.
+EUC's ACV SaaS growth rate was 30% year-over-year in Q4, driven primarily by Horizon and our initiatives related to anywhere workspace.
+Our Tanzu portfolio exceeded expectations and had a strong attach rate in eight of the top 10 VMware deals in Q4.
+In Q4, we repurchased 2.7 million shares in the open market at an average price of $140 per share.
+At the end of Q4, we've utilized over $1.4 billion from our current repurchase authorization of $2.5 billion.
+We expect total revenue of approximately $12.700 billion or a growth rate of 8%, which is consistent with the early outlook provided on our last call.
+We expect to generate approximately $6.300 billion from the combination of subscription of SaaS and license revenue or an increase of 12% with approximately 55% of this amount from subscription in SaaS.
+We expect non-GAAP operating margin of 28% with non-GAAP earnings per share of $6.68 under diluted share count of 422 million shares.
+As I mentioned earlier, we had very strong cash flow from operations in Q4 due to a number of initiatives that resulted in exceeding our cash flow guidance by over $650 million.
+Taking that into account for FY 2022, we currently expect cash flow from operations of $3.8 billion and free cash flow of $3.42 billion.
+For Q1, we expect total revenue of approximately $2.910 billion or a growth rate of 6%.
+We expect approximately $1.320 billion from combined subscription and SaaS and license revenue in Q1, an increase of 7% year-over-year, with over 55% of this amount from subscription and SaaS.
+We expect non-GAAP operating margin of 27.5% for Q1, with non-GAAP earnings per share of $1.49 on a diluted share count of 422 million shares.

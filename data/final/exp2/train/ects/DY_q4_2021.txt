@@ -1,0 +1,46 @@
+As we review our results, please note that in our comments today and in the accompanying slides, we reference a certain non-GAAP measures, specifically in accordance with our 52/53 week calendar.
+Revenue was $750.7 million, an increase of 1.8%.
+Organic revenue excluding $5.7 million of storm restoration services in the quarter declined 6.2%.
+As we deployed 1 gigabit wireline networks, wireless/wireline converged networks and wireless networks, this quarter reflected an increase in demand from one of our top five customers.
+Adjusted gross margins were 14.3% of revenue, reflecting the continued impacts of the complexity of a large customer program.
+Adjusted general and administrative expenses were 8.5%, and all of these factors produced adjusted EBITDA of $45.7 million or 6.1% of revenue, an adjusted diluted loss per share of $0.07, compared to a loss of $0.23 in the year ago quarter.
+Liquidity was strong as cash and availability under our credit facility was $570.5 million.
+Finally, during the quarter, we repurchased 1.32 million shares of our common stock for $100 million, representing just over 4.15% of common stock outstanding.
+Even after the substantial repurchase, notional net debt only increased by $14.6 million during the quarter.
+In sum, over the last four quarters, we have reduced notional net debt by over $275 million, increased availability under our credit facility by a similar amount and meaningfully reduced shares outstanding.
+As our most recent share repurchase authorization has been exhausted, our Board has newly authorized $150 million in share repurchases.
+These wireline networks are generally designed to provision 1 gigabit network speeds to individual consumers and businesses, either directly or wirelessly using 5G technologies.
+We are providing program management, planning, engineering and design, aerial, underground and wireless construction, and fulfillment services for 1 gigabit deployments.
+During the quarter, we experienced increased demand from one of our top five customers, organic revenue decreased 6.2%.
+Our top five customers combined produced 69.4% of revenue, decreasing 15.5% organically, while all other customers increased 25.3% organically.
+Comcast was our largest customer at 18.8% of total revenue or $140.9 million.
+Comcast grew 28.8% organically.
+Revenue from AT&T was $126.2 million or 16.8% of revenue.
+Verizon was our third largest customer at 15.7% of revenue or $117.8 million.
+Lumen was our fourth largest customer at $100.5 million or 13.4% of revenue.
+And finally revenue from Windstream was $36 million or 4.8% of revenue.
+Of note, fiber construction revenue from electrical utilities was $44.1 million in the quarter or 5.9% of total revenue.
+This activity increased organically 125% year-over-year.
+In fact, over the last several years, we have meaningfully increased the long-term value of our maintenance and operations business, a trend which we believe will parallel our deployment of 1 gigabit wireline direct and wireless/wireline converged networks as those deployments dramatically increase the amount of outside plant network that must be extended and maintained.
+Backlog at the end of the fourth quarter was $6.81 billion versus $5.412 billion at the end of the October 2020 quarter, increasing approximately $1.4 billion.
+Of this backlog, approximately $2.787 billion is expected to be completed in the next 12 months.
+Headcount increased during the quarter to 14,276.
+Contract revenues for Q4 were $750.7 million and organic revenue declined 6.2%.
+Q4 '21 included an additional week of operations due to the company's 52/53 week fiscal year.
+Adjusted EBITDA was $45.7 million or 6.1% of revenue compared to $44.5 million or 6% of revenue in Q4 '20.
+Non-GAAP adjusted gross margins were at 14.3% in Q4 and increased 10 basis points from Q4 '20.
+Gross margins were within our range of expectations for the quarter, but approximately 80 basis points below the midpoint of our expectations.
+This variance reflected approximately 100 basis points of pressure from a large customer program offset in part by approximately 20 basis points of improved performance for several other customers.
+G&A expense increased 25 basis points, reflecting higher performance-based compensation offset in part by lower administrative costs, compared to Q4 '20.
+The Q4 '21 non-GAAP effective income tax rate was 30%, including incremental tax benefits related to recent tax filings.
+For planning purposes for fiscal 2022, we estimate the non-GAAP effective income tax rate will be approximately 27%.
+Non-GAAP adjusted net loss was $0.07 per share in Q4 '21, compared to a net loss of $0.23 per share in Q4 '20.
+During Q4, we repurchased 1,324,381 shares of our common stock at an average price per share of $75.51 in the open market for $100 million.
+Our Board of Directors has approved a new authorization of $150 million for share repurchases through August 2022.
+Over the past four quarters, we have reduced notional net debt by $276.4 million.
+We ended the quarter with $11.8 million of cash and equivalents, $105 million of revolver borrowings, $421.9 million of term loans and $58.3 million principal amount of convertible notes outstanding.
+As of Q4, our liquidity was strong at $570.5 million, cash flows from operations were robust at $102.4 million, bringing our year-to-date operating cash flow to $381.8 million from strong conversion of earnings to cash and prudent working capital management.
+The combined DSOs of accounts receivable and net contract assets was at 136 days, reflecting the impact of a large customer program.
+Capital expenditures were $20.4 million during Q4 net of disposal proceeds, and gross capex was $21.9 million.
+Looking ahead to fiscal year 2022, we expect net capex to range from $150 million to $160 million.
+Telephone companies are deploying fiber-to-the-home to enable 1 gigabit high speed connections, increasingly, rural electric utilities are doing the same.

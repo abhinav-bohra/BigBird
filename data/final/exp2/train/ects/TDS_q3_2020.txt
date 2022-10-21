@@ -1,0 +1,72 @@
+In terms of our upcoming IR schedule, slide three, we will be virtually attending the Raymond James SMID Cap Company Showcase virtually on November 12 and 13, and we are attending the UBS Global TMT Conference virtually on December 8.
+Before turning the call over, I do want to remind everyone that due to the FCC's anti-collusion rules related to the RDOF auction and Auction 107, we will not be responding to any questions related to FCC auction.
+As you can see on slide four, at September 30, TDS continued to have a strong financial position, including $2.2 billion in immediately available funding sources, consisting of cash and cash equivalents, available credit facilities, undrawn term loans and undrawn portions of our EIP securitization facility.
+In the quarter, U.S. Cellular took advantage of favorable market conditions and issued $500 million of 6.25% retail senior notes due in 2069.
+In October, U.S. Cellular upsized its EIP securitization agreement from $200 million to $300 million.
+We also maintained significant expense discipline and drove adjusted EBITDA to increase 10% year-over-year.
+We're really pleased that the new iPhone 12 series of devices support our network requirements.
+That includes full support 5G 600 megahertz spectrum that we're currently deploying as well as millimeter wave in the future.
+In addition, with respect to our participation in the FCC's Keep Americans Connected Pledge, 70% of customers that participated in the pledge paid on a partial payment or entered into payment arrangements.
+On the 5G front, working with Qualcomm Technologies and Ericsson, we completed an extended-range 5G millimeter wave data session over a distance of more than five kilometers with speeds ranging from 100 megabits per second near the edge to 1.8 gigabits per second closer to the cell site, and this is a world record.
+By year-end, we're going to deploy 5G to cell sites that handle about 50% of our overall traffic.
+Total smartphone connections increased by 3,000 during the quarter and by 45,000 over the course of the past 12 months.
+That helps to drive more service revenue given that smartphone ARPU is about $21 higher than feature phone ARPU.
+As mentioned, we saw connected device gross additions increase by 27,000 year-over-year.
+During Q3, we saw an average year-over-year decline in store traffic of 25%, related to the impacts of COVID, as well as some heavier activity in the prior year when we had service plan pricing changes and the iPhone launch.
+Postpaid handset churn, depicted by the blue bars, was 0.88%, down from 1.09% a year ago.
+This was due primarily to lower switching activity as customer shopping behaviors were altered due to the COVID-19 pandemic, and we also saw more customers upgrading their devices with us, resulting in a 4% increase in upgrade transactions year-over-year.
+The FCC's Keep Americans Connected Pledge ended on June 30, and 70% of the customers that were on the pledge at June 30 are current or remain on payment arrangements.
+Total postpaid churn, combining handsets and connected devices, was 1.06% for the third quarter of 2020, also lower than a year ago.
+Total operating revenues for the third quarter were $1.027 billion, a slight decrease year-over-year.
+Retail service revenues increased by $11 million to $674 million.
+Inbound roaming revenue was $42 million.
+That was a decrease of $12 million year-over-year, driven by lower data rates and to a lesser extent, a decrease in data volume.
+Other service revenues were $59 million, an increase of $2 million year-over-year due to an increase in tower rental revenues and miscellaneous/other service revenues, partially offset by a prior year tower rental revenues accounting adjustment that increased tower rental revenues in the prior year.
+Finally, equipment sales revenues decreased by $5 million year-over-year due to a decrease in new smartphone unit sales and lower accessory sales.
+The average revenue per user or connection was $47.10 for the third quarter, up $0.94 or approximately 2% year-over-year.
+On a per-account basis, average revenue grew by $3.40 or 3% year-over-year.
+As shown at the bottom of the slide, adjusted operating income was $232 million, an increase of $24 million or 12% year-over-year.
+As I commented earlier, total operating revenues were $1.027 billion, a slight decrease year-over-year.
+Total cash expenses were $795 million, decreasing $28 million or 3% year-over-year.
+Excluding roaming expense, system operations expense increased by 1%, mainly driven by higher cell site rent expense.
+Note that total system usage grew by 54% year-over-year.
+Roaming expense increased $2 million or 5% year-over-year due to a 69% increase in off-net data usage, partially offset by lower rates.
+Cost of equipment sold decreased $9 million or 4% year-over-year due primarily to a reduction in the number of new smartphone unit sales and a decrease in accessory sales.
+Selling, general and administrative expenses decreased $23 million or 6% year-over-year, driven by a decrease in bad debt expense.
+Bad debt expense decreased $22 million due primarily to lower write-offs driven by fewer nonpaid customers and lower EIP sales in 2020 versus 2019.
+Adjusted EBITDA for the quarter was $282 million, a $26 million or 10% increase year-over-year due to the improvement in adjusted operating income as well as an increase in equity and earnings of unconsolidated entities, partially offset by a decrease in interest income.
+First, we have narrowed our guidance for service revenues to a range of $3.025 billion to $3.075 billion, maintaining the midpoint.
+Adjusted operating income is now expected to be between $800 million and $875 million.
+Adjusted EBITDA is now expected to be between $975 million and $1.05 billion.
+We are maintaining our guidance for capital expenditures at the $850 million to $950 million range as we work to meet our deployment goals for the year.
+We grew both revenue and adjusted EBITDA, up 7% and 8%, respectively, and we made significant progress on advancing our strategic and our operational priority.
+Consolidated revenues increased 7% from the prior year.
+Through September, our entry into new markets has produced $15 million of revenue and is expected to contribute over $20 million for the year.
+Cash expenses increased 4%, about half of which is from the acquisition.
+Revenue increases exceeded growth in expense, driving an 8% increase in adjusted EBITDA to $78 million.
+Capital expenditures increased to $92 million as we continued to increase our investment in our fiber deployment and success-based spend.
+Broadband residential connections grew 8% in the quarter as we continued to fortify our network with fiber and expand into new markets.
+From a broadband speed perspective, we are offering up to one gig broadband speeds in our fiber market, and 12% of our wireline customers are taking this product where were offered.
+Across our wireline residential base, including our out-of-territory markets, 38% of broadband customers are taking 100 megabit speeds or greater compared to 31% a year ago.
+This is helping to drive a 5% increase in average residential revenue per connection in the quarter.
+Wireline residential video connections grew 9%.
+And at the same time, we expanded our IPTV markets to 53 up from 34 a year ago.
+Approximately 40% of our broadband customers in our IPTV markets take video, which for us is a profitable product.
+Our IPTV services in total cover about 39% of our wireline footprint today.
+As a result of this strategy over the last several years, 280,000 or 34% of our wireline service addresses are now served by fiber, which is up from 29% a year ago.
+This is driving revenue growth while also expanding the total wireline footprint 5% to 823,000 service addresses.
+Our current fiber plans include roughly 320,000 service addresses that will be built over a multiyear period.
+And year-to-date, we have completed construction of 40,000 fiber addresses in addition to the 40,000 addresses we turned up in 2019 related to this program.
+Total revenues increased 2% to $173 million, largely driven by the strong growth in residential revenues, which increased 8% due to growth from video and broadband connections as well as growth from within the broadband product mix, partially offset by a 2% decrease in residential voice connection.
+Consumer (sic) commercial revenues decreased 8% to $38 million in the quarter, primarily driven by lower CLEC connections.
+Wholesale revenues increased slightly to $45 million due to certain state USF support timing.
+In total, wireline adjusted EBITDA increased 3% to $53 million.
+Total cable connections grew 12% to 377,000, which included 31,000 from the acquisition and a 9% organic increase in total broadband connections.
+On an organic basis, broadband penetration continued to increase, up 200 basis points to 46%.
+On slide 22, total cable revenues increased 19% to $74 million, driven in part by the acquisition.
+Without the acquisition, cable revenues grew 10%, driven by growth in broadband connections for both residential and commercial customers.
+Our focus on broadband connection growth and fast reliable service has generated a 29% increase in total residential broadband revenue, including organic growth of $5 million or 20%.
+Also driving the revenue change is an 8% increase in average residential revenue per connection, driven by higher-value product mix and price increases.
+Cable cash expenses increased 18% due primarily to costs related to the acquisition or 8% excluding acquisition due to increased employee expense.
+As a result, cable adjusted EBITDA increased 20% to $25 million in the quarter.
+We are maintaining our revenue and capital expenditure guidance and are increasing our expectations for adjusted EBITDA by increasing the midpoint and narrowing the range to $305 million to $325 million.

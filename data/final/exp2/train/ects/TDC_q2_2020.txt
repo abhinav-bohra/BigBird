@@ -1,0 +1,21 @@
+One early access customer leveraged Vantage and IoT sensor data stored in AWS three to perform predictive maintenance on more than 650,000 pieces of equipment, keeping the fleet running, drives more consistent and predictable operations for them and increasing customer satisfaction.
+In a great showing of the demand for Teradata expertise, we saw more than 14,000 people take advantage of that learning opportunities.
+Further, we reimagined all of our events into 100% virtual experiences, and our teams collaborated remotely with hundreds of customers and prospective customers explaining how companies can leverage Teradata to get the insights they need.
+Based on our unmatched capabilities to scale and the flexibility in our pay-for-what-you-use consumption model, the customer has an extensive set of use cases, including expanding its 360-degree view of its 11 million B2C customers, improving the customer journey and defining use customer segments based on advanced analytics.
+The firm utilizes Teradata to drive its loyalty rewards program and $9 out of every $10 of revenue flows through applications run on Vantage.
+We generated $52 million in incremental ARR this quarter, $39 million in constant currency.
+This resulted in $358 million in recurring revenue, growing 6% reported and 8% in constant currency and was well above our guidance range.
+Consulting revenue declined 26%, 24% in constant currency.
+Recurring revenue gross margins were 69.8%, up 230 basis points sequentially but down 120 basis points year-over-year as the mix of recurring revenue that includes hardware and lower-margin cloud revenue created a near-term headwind.
+Over time, we expect recurring revenue gross margins to expand as we see less mix headwinds and expect to see significant gross margin expansion in our cloud offering over the next 18 to 24 months.
+Consulting revenue gross margin was 15.9% as improved utilization and better price realization helped drive significant movement versus last year.
+Total gross margins came in at 58.9%, up 620 basis points year-over-year.
+Total operating expenses were up 2% year-over-year.
+The primary driver of this increase was amortization from capitalized sales compensation as required under ASC 606.
+Additionally, we also converted a portion of our annual performance cash-based incentive comp to share-based performance grants that potentially helps non-GAAP operating margin and earnings per share in 2020 between 50 and 100 basis points and $0.05 to $0.10 of EPS, which we believe will have no significant share dilution impact in 2021 when the final annual performance incentive achievement is determined.
+As we mentioned last quarter, we had roughly $30 million in collections that slipped from Q1 but were collected in April.
+And this, combined with the overall strong quarter, resulted in free cash flow for the quarter of $115 million, bringing free cash flow for the first half to $130 million.
+Our financial position remains very strong and we ended the quarter with $494 million in cash.
+As a reminder, less than 12% of our revenue comes from industries hardest hit by the economic changes brought on by COVID-19.
+For Q3, we expect recurring revenue in the range of $359 million to $361 million and non-GAAP earnings per share between the range of $0.28 and $0.31.
+In addition, we continue to expect our full year tax rate to be approximately 23% and a full year share count of approximately 111 million shares.

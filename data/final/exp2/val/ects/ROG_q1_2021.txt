@@ -1,0 +1,38 @@
+First quarter net sales increased 9% to $229 million and exceeded the top end of our guidance.
+Gross margin improved to 39% as a result of our strong operational performance.
+EPS also exceeded the high end of our guidance, and we reported earnings of $1.66 per share on a GAAP basis and record adjusted earnings of $1.92 per share.
+EV/HEV and ADAS sales increased at double-digit rates sequentially and grew more than 30% compared to Q1 of 2020.
+It's important to note that full electric vehicles are expected to be the fastest-growing segment of this market with a CAGR of over 40%.
+For example, our ceramic substrate content opportunity in a full EV ranges from around $25 to $40 compared to a content opportunity of approximately $5 in a 48-volt mild hybrid.
+Our content can be greater than $30 per vehicle and rises meaningfully as the battery size increases.
+The renewable energy market is expected to grow at a 10% CAGR over the next five years, which we anticipate will continue to drive robust demand for our power semiconductor substrates.
+These products form the core of our solutions for the EV/HEV market, which has now increased to more than 11% of total sales.
+Ram has over 30 years of corporate finance experience and has held senior finance leadership positions at Rogers, where he has had responsibility for financial operations, financial planning and analysis, business transformation and treasury.
+We delivered gross margin that was 70 basis points higher than Q4 through increased volumes and operating efficiency, despite a less favorable product mix and significantly higher commodity and freight costs.
+In our GAAP results, we recognized $1.5 million in restructuring costs related to the footprint optimization activities communicated in our third quarter 2020 call and $1.3 million for the loss resulting from the fire at our UTIS facility, net of expected insurance proceeds.
+Our effective tax rate for Q1 was 25.2%.
+Our Q1 revenues of $229.3 million increased by $18.6 million compared to the fourth quarter, reflecting broad strength across our product markets.
+AES revenues increased 10% to $131.9 million, while EMS revenues grew 6% to $91.8 million.
+Currency exchange rates favorably impacted first quarter revenues by approximately 1.5% compared to Q4.
+Within RF Solutions, the Aerospace and Defense business accounted for 19% of the business segment revenues and grew 15% sequentially.
+The ADAS business accounted for 18% of the revenues and grew 12%, and wireless infrastructure accounted for 17% of the revenues and grew 26%.
+Clean energy, which is comprised of the renewable energy revenues in both the power semiconductor and the power interconnect business as well as the variable frequency drive business in the power semiconductor business, accounted for 16% of the business and grew 15% sequentially.
+EV/HEV application revenues accounted for 12% of the segment revenues and increased 2% sequentially as order timing tempered the Q1 increase in ceramic substrate revenues.
+EMS revenues grew sequentially primarily due to significant increases in nearly all applications, highlighted by a 41% increase in EV/HEV applications which accounted for 11% of the segment revenues and a 23% increase in general industrial applications, which accounted for 44% of the segment revenues.
+As expected, revenues for the portable electronics, which accounted for 22% of the segment revenues, experienced a 31% sequential seasonal decline off a very strong second half of 2020.
+Our gross margin for the first quarter was $89.5 million or 39% of revenues, 70 basis points higher than Q4.
+Although our gross margin percentage increased by 70 basis points sequentially, the significant increase in copper cost meaningfully dampened our gross margin percentage in the quarter.
+Also on slide 11, we detail the changes to adjusted net income for Q1 of $36 million compared to adjusted net income for Q4 of $29.7 million.
+The adjusted operating income for Q1 of $43.5 million and 19% of revenues was 60 basis points higher than Q4.
+Adjusted operating expenses for Q1 of $46 million or 20.1% of revenues were 20 basis points higher than Q4 expenses.
+Other income expense was $1.2 million favorable compared to Q4.
+As discussed earlier, Rogers' effective tax rate for the first quarter was 25.2%, higher than our forecasted rate of 22% to 23%.
+We now expect our effective tax rate for 2021 will be 23% to 24% due to the geographic mix of pre-tax income.
+The first -- in the first quarter, the company generated strong free cash flow of $33 million and ended the quarter with a cash position of $199.1 million.
+In the quarter, we generated $36.5 million from operating activities, net of an increase of $10.8 million in working capital and repaid $21 million on our credit facility.
+We ended the first quarter with an outstanding balance on our credit facility of $4 million and a net cash position of $195.1 million.
+In Q1, the company spent $3.6 million on capital expenditures.
+Despite the low level of expenditures in the first quarter, we continue to guide capital expenditures of $70 million to $80 million in 2021, with over 50% of the expenditures to capture the accelerating advanced mobility market opportunities in both AES and EMS business segments.
+Based on the strong outlook, we are guiding our second quarter revenues to be in the range of $230 million to $240 million.
+We guide our gross margins to be in the range of 38.5% to 39.5%, consistent with our first quarter.
+We are guiding GAAP Q2 earnings in the range of $1.58 to $1.73 per fully diluted share, and we guide fully diluted adjusted earnings in the range of $1.80 to $1.95 per share for the second quarter.

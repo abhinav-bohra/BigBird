@@ -1,0 +1,43 @@
+With 176% year-over-year growth and public cloud ARR during the first quarter, customer engagement and acceptance continues to grow and become more evident.
+Sirius XM, the leading audio entertainment company in North America, with more than 150 million listeners is migrating to Vantage on AWS as it modernizes its data and analytics ecosystem.
+This customer is running over 7 million analytical queries and upwards of 20 million total queries per day to support 80 business applications critical to running its operations.
+Within our senior leadership ranks, in the last two quarters, 60% of our appointments were diverse, including 40% female.
+Public cloud ARR grew sequentially by over 18 million, ending the quarter at 124 million as reported or 176% growth year-over-year.
+We exceeded our outlook of 165% growth year-over-year, due to continued natural momentum of our Vantage multi-cloud platform.
+We are very pleased by the value our customers see for Vantage in the cloud, which gives us confidence to reaffirm our outlook for fiscal 2021 public cloud ARR year-over-year growth to be at least 100%.
+Total ARR increased to 1.404 billion at March 31, 2021 from 1.254 billion at March 31, 2020.
+Total ARR grew 12% year-over-year as reported.
+On a sequential basis total ARR was down 1% as reported and flat in constant currency given very strong FX headwinds.
+Turning to revenue, we had strong performance in all revenue categories, which increased total revenue to 491 million as reported from 434 million, an increase of 13% year-over-year, and 10% in constant currency.
+Recurring revenue as reported increased to 372 million from 311 million, a 20% increase year-over-year, and a 17% increase in constant currency.
+These few significant transactions resulted in approximately 24 million of 2021 recurring revenue recognized in the first quarter, rather than ratably across each of the four quarters of 2021.
+And importantly, these few transactions are not included and did not impact the 176% year-over-year growth and public cloud ARR we reported this quarter.
+Turning to perpetual and consulting revenue, perpetual revenue of 23 million as reported showed flat growth year-over-year, but was ahead of the outlook comments we provided at the beginning of the year.
+Consulting revenue as reported decreased to 96 million from 100 million a 4% decrease year-over-year.
+As we noted in our outlook comments last quarter, we anticipated consulting revenue to decline by 15% year-over-year in the first quarter of 2021, and to gradually improve throughout fiscal 2021.
+Turning to gross profit, Q1 gross margin was 64.2%, approximately 10 percentage points greater than last year's period and approximately 5 percentage points greater than last quarter.
+We generated 315 million in gross profit dollars, which is 80 million higher than the same period last year, and 24 million better than last quarter, despite our total revenues been unchanged sequentially.
+Turning to operating expenses, total operating expenses were down 1% year-over-year and 11% sequentially.
+Turning to earnings per share, earnings per share of $0.69 significantly exceeded our outlook range of $0.38 to $0.40 provided last quarter, by $0.30 when using the midpoint.
+To provide some context are the main drivers of this $0.30 differential, approximately $0.16 is attributable to the few transactions where recurring revenue was recognized on an annual basis in the first quarter instead of on a quarterly basis throughout full-year 2021.
+The remaining $0.14 was driven by the following and will impact full-year 2021 EPS.
+Free cash flow in the quarter was 105 million, well ahead of the pace needed to achieve the annual free cash flow outlook of at least 259 we provided at the beginning of the year.
+As an update to cash payments related to our Q3 2020 cost actions, we previously expected to make total cash payments of approximately 42 million during fiscal 2021 and that 27 million was to be paid in the first quarter of fiscal 2021.
+We now expect total cash payments in fiscal 2021 of 36 million.
+We paid 18 million during the first quarter of fiscal 2021, and the remaining 18 million is expected to be paid during the remainder of fiscal 2021.
+About 14 million of the remaining 18 million is expected to be paid in the second quarter.
+Turning to stock buyback, we bought back 2.6 million shares at an average price of $32.94 or 85 million in total, as we take advantage of our strong balance sheet to buy back stock and offset dilution for shares issued this year.
+Probably cloud ARR is expected to grow at least 100% year-over-year from 106 million at December 31, 2020.
+Total ARR is anticipated to grow in the mid-to-high single-digit percentage range year-over-year from the restated balance of 1.425 billion at December 31, 2020.
+Total recurring revenue is expected to grow in the mid-to-high single-digit percentage range year-over-year from the restated balance of 1.309 billion for the year ending December 31, 2020.
+Total revenue is anticipated to grow in the low-single-digit percentage range year-over-year from the 1.836 billion for the year ended December 31, 2020.
+Non-GAAP earnings per diluted share are expected to be in the range of $1.61 to $1.67, which at the new midpoint of $1.64 is a $0.10 increase from the midpoint of the range previously provided.
+As I mentioned in my comments regarding first quarter 2021 results, $0.14 is flowing through to the full-year, but is offset by $0.06 of higher tax rate and weighted average diluted shares outstanding.
+We are raising our full year earnings per share outlook further by $0.02 at the midpoint.
+Free cash flow for the year is expected to be in the range of 275 million to 300 million, which is an increase from the prior outlook of at least 250 million.
+We expect to continue to be opportunistic in share buybacks and have approximately 352 million of share repurchase authorization at March 31, 2021.
+We anticipate Q2 gross margins to be up approximately 40 basis points to 50 basis points from the comparable quarter in the prior year, and Q2 operating margins to be up approximately 250 basis points from the comparable quarter in the prior year.
+We now expect the full-year tax rate to be approximately 24% to 25%.
+Given the rise in our stock price, and its impact in calculating fully diluted weighted average shares outstanding for earnings per share purposes, we now assume about 114 million fully diluted weighted average shares outstanding for both the full-year and the second quarter.
+With that, the outlook for the second quarter for 2021 is as follows: Public cloud ARR is expected to grow at least 155% year-over-year or in the range of 15 million to 20 million sequentially.
+Non-GAAP earnings per diluted share to be in the range of $0.47 to $0.49.
