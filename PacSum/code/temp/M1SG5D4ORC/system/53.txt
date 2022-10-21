@@ -1,6 +1,0 @@
-Some of our year-to-date highlights include total ARR growth of 7% versus the prior year, which is in line with our 2021 full year outlook range of mid- to high single-digit growth.
-The airline's Teradata platform provides virtually every department access to analytics and reporting capability and supports thousands of users for many business initiatives, including revenue management, network planning, technical operations, cargo and marketing.
-Customers are recognizing that Teradata with our connected multi-cloud data platform for enterprise analytics is the best solution to overcome these challenges, and they are increasingly migrating to the cloud with Teradata Vantage.
-However, given the timing we experienced in Q3, we believe it is prudent to lower our cloud ARR growth outlook from 100% year-over-year to approximately 90% year-over-year.
-Earnings per share of $1.86 against our previous full year outlook range of $1.92 to $1.96 and year-to-date free cash flow of $347 million compared to our full year outlook of at least $400 million.
-Importantly, our recurring revenue as a percentage of total revenue increased approximately five percentage points versus last year and is now approaching 80%.
