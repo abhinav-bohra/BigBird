@@ -284,7 +284,7 @@ def format_to_bert(args):
     for corpus_type in datasets:
         a_lst = []
         
-        for json_f in glob.glob(f'/content/Long-Text-Summarization/PreSumm/json_data/ect*{corpus_type}.json'):
+        for json_f in glob.glob(f'/content/Long-Text-Summarization/PreSumm/json_data/exp2/ect*{corpus_type}.json'):
             real_name = json_f.split('/')[-1]
             a_lst.append((corpus_type, json_f, args, pjoin(args.save_path, real_name.replace('json', 'pt'))))
         print(a_lst)

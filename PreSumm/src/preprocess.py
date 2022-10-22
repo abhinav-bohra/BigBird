@@ -69,5 +69,6 @@ if __name__ == '__main__':
 
 
     args = parser.parse_args()
+    print(args)
     init_logger(args.log_file)
     eval('data_builder.'+args.mode + '(args)')

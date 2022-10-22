@@ -41,6 +41,7 @@ def preproces(s_, nlp):
 def create_dataset(splits, exps):  
     nlp = stanza.Pipeline(lang='en', processors='tokenize,lowercase')  
     for exp in exps:
+        print(f"\n### {exp} ###\n")
         for split in splits:
             base_path = f"/content/Long-Text-Summarization/data/final/{exp}"
             path_articles = f"{base_path}/{split}/ects"
