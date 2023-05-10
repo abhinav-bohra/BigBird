@@ -1,7 +1,7 @@
 # Long Text Summarization
 
 * ECTSum: A New Benchmark Dataset For Bullet Point Summarization of Long Earnings Call Transcripts  
-* The repsitory contains code and dataset to the EMNLP'2021 long paper. 
+* The repsitory contains baseline codes for the EMNLP'2022 long paper. 
 * Link: [https://aclanthology.org/2022.emnlp-main.748/](https://aclanthology.org/2022.emnlp-main.748/)
 
 ## Citation
@@ -25,7 +25,7 @@ If you use the code in your paper, please kindly star this repo and cite our pap
 }
 '''
 
-Baselines for Long Text Summarization
+## Baselines for Long Text Summarization
   - BigBird
   - LongFormer
   - SummaRuNNer
